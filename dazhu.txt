@@ -476,6 +476,7 @@ ali	鱥
 alj	究
 alj	犰
 alj	勼
+alj	鰰
 alk	疏
 alk	疎
 alk	鯍
@@ -492,7 +493,6 @@ alq	魧
 alr	爢
 als	狋
 alt	鮅
-alu	鰰
 alv	蛋
 alw	魰
 am_	麻
@@ -1601,9 +1601,9 @@ cg_	弓
 cgc	诧
 cgf	畉
 cgh	谊
+cgj	谉
 cgn	鴫
 cgs	矤
-cgu	谉
 cgw	畹
 chd	谶
 chf	诊
@@ -2143,6 +2143,7 @@ djn	碘
 djo	肇
 djp	碡
 djq	綮
+djs	砷
 dju	両
 dju	晵
 dju	碙
@@ -2434,7 +2435,6 @@ duo	覭
 dur	碳
 dur	磤
 dur	礘
-dus	砷
 dus	冚
 dus	磃
 dut	甔
@@ -2967,6 +2967,8 @@ ejo	覧
 ejq	塐
 ejr	兇
 ejr	堭
+ejs	坤
+ejs	眒
 eju	堈
 eju	堾
 eju	睶
@@ -3327,9 +3329,7 @@ eup	魓
 euq	塌
 euq	眽
 eur	曹
-eus	坤
 eus	圸
-eus	眒
 eut	坂
 eut	墁
 eut	眅
@@ -3903,6 +3903,8 @@ fjq	膆
 fjq	縤
 fjq	脿
 fjr	続
+fjs	紳
+fjs	胂
 fju	綱
 fju	糌
 fjw	鬯
@@ -4355,9 +4357,7 @@ fum	膗
 fup	卓
 fup	縪
 fuq	脈
-fus	紳
 fus	籼
-fus	胂
 fut	縵
 fut	粄
 fut	絏
@@ -4679,6 +4679,7 @@ gjn	髥
 gjo	実
 gjq	额
 gjr	徨
+gjs	审
 gjt	寝
 gjt	寢
 gju	鬊
@@ -4871,7 +4872,6 @@ gum	忁
 gum	鸔
 gun	寷
 guo	得
-gus	审
 gus	島
 gus	鷈
 gut	鬘
@@ -5334,6 +5334,7 @@ hji	儥
 hjj	傲
 hjj	邈
 hjj	儌
+hjj	敒
 hjk	倜
 hjk	佶
 hjk	侗
@@ -5353,6 +5354,7 @@ hjq	俵
 hjq	傃
 hjr	貌
 hjr	偟
+hjs	伸
 hjs	仕
 hju	偆
 hju	偺
@@ -5685,7 +5687,6 @@ huh	豱
 hui	價
 hui	傆
 hui	豲
-huj	敒
 huk	偳
 huk	貒
 huk	儶
@@ -5700,7 +5701,6 @@ huq	傝
 hur	旧
 hur	儑
 hur	児
-hus	伸
 hus	仙
 hus	仚
 hus	傂
@@ -6347,6 +6347,8 @@ ijp	歗
 ijq	諘
 ijr	読
 ijr	諻
+ijs	氠
+ijs	訷
 iju	賰
 iju	踳
 ijy	蹖
@@ -6788,8 +6790,6 @@ ius	訕
 ius	赸
 ius	氙
 ius	虩
-ius	氠
-ius	訷
 ius	謕
 ius	蹏
 iut	販
@@ -6969,6 +6969,7 @@ jab	箘
 jad	簂
 jae	癿
 jae	魗
+jaf	畅
 jaf	笏
 jag	戕
 jag	鷔
@@ -6992,6 +6993,7 @@ jao	壽
 jao	的
 jao	箇
 jao	摮
+jao	畃
 jaq	状
 jaq	狀
 jaq	緜
@@ -7286,6 +7288,7 @@ jiw	筜
 jiz	笲
 jja	鿺
 jjc	迫
+jjc	迧
 jjd	册
 jjd	笧
 jje	皨
@@ -7594,6 +7597,7 @@ jry	廹
 jry	笌
 jrz	筭
 js_	士
+js_	申
 jsa	笮
 jsc	簹
 jsg	笟
@@ -7621,6 +7625,7 @@ jtw	篦
 ju_	竹
 jub	皑
 jud	笪
+juf	暢
 jui	篂
 juj	簻
 juk	篅
@@ -7734,6 +7739,7 @@ jyl	憃
 jyl	箂
 jym	条
 jym	牀
+jyn	朄
 jyn	箣
 jyn	籅
 jyp	簌
@@ -8078,6 +8084,7 @@ kjp	噑
 kjq	嗉
 kjq	噄
 kjr	喤
+kjs	呻
 kjt	囓
 kju	喒
 kjv	啧
@@ -8400,7 +8407,6 @@ kun	剿
 kup	噘
 kup	嗶
 kuq	哌
-kus	呻
 kus	嗁
 kut	嘬
 kuu	唱
@@ -8848,6 +8854,7 @@ ljo	禱
 ljo	懤
 ljq	愫
 ljr	惶
+ljs	神
 lkb	悒
 lkd	愕
 lke	惱
@@ -9207,7 +9214,6 @@ luq	裹
 luq	禢
 lur	旭
 lur	旮
-lus	神
 lus	峦
 lus	禠
 lut	慢
@@ -9647,6 +9653,7 @@ mgi	洷
 mgi	濵
 mgi	濽
 mgi	瀽
+mgj	渖
 mgj	澓
 mgl	淀
 mgl	淙
@@ -9666,7 +9673,6 @@ mgt	滱
 mgt	漃
 mgt	濅
 mgu	潜
-mgu	渖
 mgu	溩
 mgu	滵
 mgu	潪
@@ -11027,6 +11033,7 @@ njn	痶
 njn	饐
 njr	餭
 njr	騜
+njt	痩
 nju	临
 njw	乖
 njw	鉴
@@ -11407,7 +11414,6 @@ nut	飯
 nut	馒
 nut	饅
 nut	甑
-nut	痩
 nuu	曾
 nuu	驔
 nuw	馄
@@ -11918,6 +11924,8 @@ ojq	攥
 ojq	撷
 ojq	拠
 ojr	揘
+ojs	抻
+ojt	捜
 oju	揝
 oju	掆
 ojw	擷
@@ -12299,12 +12307,10 @@ oup	撅
 oup	擨
 ouq	挀
 ouq	搨
-ous	抻
 ous	搋
 out	拽
 out	扳
 out	撮
-out	捜
 out	摱
 ouu	撢
 ouw	扼
@@ -13191,6 +13197,7 @@ qjq	缬
 qjq	轚
 qjr	凰
 qjr	艎
+qjs	绅
 qjt	罊
 qjv	绩
 qjv	蟿
@@ -13560,7 +13567,6 @@ qup	襅
 quq	褟
 qur	亯
 qur	衵
-qus	绅
 qus	舢
 qus	褫
 qus	軕
@@ -14026,6 +14032,7 @@ rjp	瑇
 rjr	煌
 rjr	瑝
 rjr	瓙
+rjs	珅
 rju	焵
 rju	瑃
 rjy	爍
@@ -14425,7 +14432,6 @@ rur	煑
 rur	燳
 rur	韅
 rus	灿
-rus	珅
 rus	斱
 rut	熳
 rut	炍
@@ -15343,7 +15349,6 @@ uaa	鹖
 uae	魇
 uae	乢
 uaf	易
-uaf	畅
 uaf	旸
 uaf	岉
 uaf	昒
@@ -15368,7 +15373,6 @@ uan	黡
 uao	崮
 uao	旳
 uao	崓
-uao	畃
 uap	歇
 uaq	厌
 uaq	毼
@@ -15694,7 +15698,6 @@ ujc	過
 ujc	迪
 ujc	迺
 ujc	辿
-ujc	迧
 uje	岗
 ujf	晴
 ujf	崝
@@ -15999,7 +16002,6 @@ ury	厊
 ury	廸
 ury	廼
 us_	山
-us_	申
 usa	昨
 usa	嶬
 usa	巇
@@ -16066,7 +16068,6 @@ uue	壓
 uue	崖
 uue	魘
 uue	崕
-uuf	暢
 uuf	晹
 uuf	崵
 uuf	暘
@@ -16223,7 +16224,6 @@ uym	栗
 uym	杲
 uyn	嶼
 uyn	暕
-uyn	朄
 uyq	颗
 uyq	褁
 uyr	嵀
@@ -17281,6 +17281,7 @@ wgi	銍
 wgi	鑌
 wgi	鑚
 wgi	鑳
+wgj	婶
 wgk	鎋
 wgl	疑
 wgl	鏦
@@ -17301,7 +17302,6 @@ wgp	鈄
 wgp	鑏
 wgq	嬝
 wgs	鉃
-wgu	婶
 wgu	鎢
 wgu	鏥
 wgu	鐟
@@ -17490,6 +17490,8 @@ wjq	婊
 wjq	嫊
 wjr	鍠
 wjr	媓
+wjs	妽
+wjs	鉮
 wju	鋼
 wju	媋
 wjw	鉳
@@ -17985,8 +17987,6 @@ wuq	鎉
 wur	旨
 wur	鈤
 wus	奾
-wus	妽
-wus	鉮
 wut	嫚
 wut	鈑
 wut	鏝
@@ -19300,6 +19300,7 @@ yjr	楻
 yjr	樦
 yjr	橷
 yjr	爂
+yjs	柛
 yjt	麨
 yju	椿
 yju	棡
@@ -19381,6 +19382,7 @@ yli	槓
 yli	杫
 yli	樆
 yli	檅
+ylj	榊
 ylj	朹
 ylk	梳
 yll	檩
@@ -19398,7 +19400,6 @@ ylr	毁
 yls	标
 yls	柰
 ylt	柲
-ylu	榊
 ylw	隸
 ylx	杺
 ylx	桏
@@ -19716,7 +19717,6 @@ yur	東
 yur	杳
 yur	樮
 yus	杣
-yus	柛
 yus	榹
 yut	板
 yut	栧
@@ -23503,6 +23503,7 @@ zzz	葊
 全ajjd	𬵞
 全ajjf	𩷭
 全ajjh	𥥏
+全ajji	𤟸
 全ajji	𭸌
 全ajjj	㡝
 全ajjj	𱮛
@@ -23601,6 +23602,7 @@ zzz	葊
 全ajse	𘲍
 全ajsk	𘮶
 全ajsk	𡆮
+全ajsq	𤝚
 全ajte	𘨺
 全ajto	𘆁
 全ajtr	𤊝
@@ -24002,6 +24004,7 @@ zzz	葊
 全aljk	𩹕
 全aljq	犰
 全aljq	𮄏
+全aljs	鰰
 全aljv	𩵍
 全aljx	究
 全alkk	𠮸
@@ -24097,7 +24100,6 @@ zzz	葊
 全alui	𩻏
 全alur	𣆁
 全alur	𰩘
-全alus	鰰
 全alus	𡶕
 全aluw	𰩚
 全aluy	𥧵
@@ -25803,7 +25805,6 @@ zzz	葊
 全aujc	𢅗
 全aujc	𩼣
 全auji	獂
-全auji	𤟸
 全aujn	𤣖
 全aujw	𫚆
 全auka	𭘮
@@ -25881,7 +25882,6 @@ zzz	葊
 全ausn	岛
 全ausp	𱮥
 全ausq	𤜬
-全ausq	𤝚
 全autp	㹭
 全autp	𢂝
 全autw	𭺨
@@ -28250,6 +28250,8 @@ zzz	葊
 全bjqr	𥠢
 全bjrw	䅣
 全bjsf	𨤄
+全bjsg	𰏳
+全bjsh	𥞁
 全bjty	𢇽
 全bjub	𨝟
 全bjur	𥠔
@@ -29495,6 +29497,7 @@ zzz	葊
 全bujj	𱄐
 全bujl	𮩨
 全bujo	䭰
+全bujs	𩡃
 全buke	𥠄
 全buki	𩡞
 全bukl	稦
@@ -29550,12 +29553,10 @@ zzz	葊
 全buru	𢋂
 全busb	岊
 全busg	𢇢
-全busg	𰏳
 全bush	㟀
 全bush	秈
 全bush	𢊀
 全bush	𢊐
-全bush	𥞁
 全bush	𥠱
 全bush	𩡚
 全busj	馥
@@ -29582,7 +29583,6 @@ zzz	葊
 全buur	䅛
 全buur	𨤁
 全buur	𮠰
-全buus	𩡃
 全buuu	𢉵
 全buuu	𩡝
 全buva	𩡗
@@ -30571,6 +30571,7 @@ zzz	葊
 全cghq	谊
 全cghs	𘯻
 全cgji	𫍶
+全cgjs	谉
 全cglp	𫍾
 全cgls	𫟡
 全cgna	𪃍
@@ -30583,7 +30584,6 @@ zzz	葊
 全cgps	𬣟
 全cgsg	矤
 全cgtc	诧
-全cgus	谉
 全cgvi	𬤯
 全cgvv	𰶋
 全cgvw	畹
@@ -32952,6 +32952,7 @@ zzz	葊
 全dgjk	磍
 全dgjk	觡
 全dgjk	𧣷
+全dgjs	𰧊
 全dgjw	𥗳
 全dgjy	觻
 全dgka	𧥄
@@ -33102,7 +33103,6 @@ zzz	葊
 全dguq	𮗯
 全dgus	䃖
 全dgus	䚦
-全dgus	𰧊
 全dgut	𧤿
 全dgut	𮗭
 全dguw	䚠
@@ -33714,6 +33714,7 @@ zzz	葊
 全djdn	𠠫
 全djdo	䚕
 全djdo	𗟰
+全djdo	𣌽
 全djdo	𧢮
 全djdp	𮁏
 全djdq	𣰿
@@ -33968,11 +33969,13 @@ zzz	葊
 全djrh	𤉰
 全djru	𥗁
 全djrw	𱴜
+全djss	砷
 全djsx	𪿺
 全djtd	𗍹
 全djte	𘥥
 全djte	𘩑
 全djtn	𘚣
+全djtp	𬻍
 全djtq	𠙡
 全djtw	𗀏
 全djtw	𗍸
@@ -35289,6 +35292,7 @@ zzz	葊
 全drjf	𢒴
 全drji	𡕢
 全drji	𢼈
+全drjs	𥙍
 全drkk	𠶳
 全drkk	𱴁
 全drkr	𥘱
@@ -35331,7 +35335,6 @@ zzz	葊
 全druh	𥙏
 全drup	𫅃
 全drur	𫼏
-全drus	𥙍
 全drus	𭖊
 全druy	𥚌
 全drvt	𪞔
@@ -35621,7 +35624,6 @@ zzz	葊
 全dudn	磑
 全dudn	𭄓
 全dudo	碍
-全dudo	𣌽
 全dudr	礘
 全dudr	𥓣
 全dudr	𭴾
@@ -35780,12 +35782,10 @@ zzz	葊
 全dusd	𡴲
 全dush	磃
 全dusj	㪽
-全duss	砷
 全duss	𡶪
 全duss	𥐢
 全dusx	𥔈
 全dutg	𡘓
-全dutp	𬻍
 全duty	𰦥
 全duua	⻲
 全duua	亀
@@ -36059,10 +36059,12 @@ zzz	葊
 全dvjo	𗹌
 全dvjo	𘈮
 全dvjo	𘈰
+全dvjo	𣨃
 全dvjo	𣨞
 全dvjo	𣩗
 全dvjq	𦁘
 全dvjr	𣨆
+全dvjs	𭮇
 全dvjt	𗸽
 全dvjt	𘈱
 全dvjw	𗹂
@@ -36276,11 +36278,9 @@ zzz	葊
 全dvul	𱥓
 全dvum	𣩑
 全dvun	㱯
-全dvuo	𣨃
 全dvur	𣩯
 全dvus	𣧈
 全dvus	𭀽
-全dvus	𭮇
 全dvut	𣩡
 全dvuu	𭮠
 全dvuw	𥔌
@@ -38186,6 +38186,7 @@ zzz	葊
 全ehjc	𡐌
 全ehjg	𩲳
 全ehjr	𲌰
+全ehjs	𥆓
 全ehjt	𡊠
 全ehky	堢
 全ehlg	𰥱
@@ -38242,7 +38243,6 @@ zzz	葊
 全ehtl	𰑲
 全ehtq	𰊘
 全ehur	𥆩
-全ehus	𥆓
 全ehus	𱖙
 全ehvg	堠
 全ehvg	睺
@@ -38764,8 +38764,11 @@ zzz	葊
 全ejrr	𮰪
 全ejrw	堭
 全ejry	𡑕
+全ejsg	䰠
 全ejsh	𡒞
 全ejsj	𥇴
+全ejsm	眒
+全ejst	坤
 全ejsw	𩕩
 全ejti	𱷻
 全ejty	𥄞
@@ -40488,14 +40491,11 @@ zzz	葊
 全eury	𩳹
 全eusa	𭏣
 全eusa	𱗑
-全eusg	䰠
 全eusg	𩲀
 全eusg	𩲈
 全eush	𡏚
 全eush	𥉘
 全eusi	𡴷
-全eusm	眒
-全eust	坤
 全eust	圸
 全eutj	𡐯
 全eutk	𧰀
@@ -41159,6 +41159,7 @@ zzz	葊
 全fagg	𪨜
 全fagi	膣
 全fagi	𦄔
+全fagj	𰎀
 全fagm	𫵧
 全fagn	𠛾
 全fagn	𱈟
@@ -41166,7 +41167,6 @@ zzz	葊
 全fago	𫵛
 全fagp	斟
 全fags	𥾮
-全fagu	𰎀
 全faha	𠧴
 全faha	𮌍
 全fahe	𡌓
@@ -44003,7 +44003,9 @@ zzz	葊
 全fjru	𦇃
 全fjrw	䊗
 全fjrw	𪱦
+全fjss	紳
 全fjss	𥾘
+全fjsy	胂
 全fjsy	𠧲
 全fjsy	𦟃
 全fjsy	𬚯
@@ -46081,9 +46083,7 @@ zzz	葊
 全fusj	𠧣
 全fusj	𣂣
 全fusm	籼
-全fuss	紳
 全fuss	𮈁
-全fusy	胂
 全fusy	𦘹
 全futp	絏
 全futp	𥹞
@@ -48117,6 +48117,7 @@ zzz	葊
 全gjcc	𨑠
 全gjcf	𬨝
 全gjci	𨒬
+全gjcl	𱐳
 全gjcq	𡨗
 全gjcs	𨒔
 全gjct	𡩐
@@ -48274,6 +48275,7 @@ zzz	葊
 全gjrr	𩮷
 全gjrw	徨
 全gjrx	𫳨
+全gjsb	审
 全gjsn	𲍚
 全gjsp	𪧞
 全gjtf	𡪘
@@ -49432,7 +49434,6 @@ zzz	葊
 全gubt	鬘
 全gubt	𰐷
 全gucl	𡧚
-全gucl	𱐳
 全guda	𢓳
 全gude	𭏢
 全gude	𰐸
@@ -49542,7 +49543,6 @@ zzz	葊
 全gurg	𧗲
 全gurh	𡨶
 全gurs	𥎭
-全gusb	审
 全gusb	𩫺
 全gusb	𭓞
 全gusc	𫳳
@@ -50486,6 +50486,7 @@ zzz	葊
 全hdja	𪛗
 全hdjd	𧱖
 全hdjd	𧳔
+全hdjd	𱎮
 全hdje	侢
 全hdje	𗁑
 全hdje	𘈺
@@ -50604,7 +50605,6 @@ zzz	葊
 全hdud	𠈗
 全hdud	𣍋
 全hdud	𧱂
-全hdud	𱎮
 全hdue	便
 全hdue	便
 全hdue	𱢷
@@ -51677,10 +51677,12 @@ zzz	葊
 全hjii	孜
 全hjij	𢼓
 全hjir	𰁦
+全hjit	𫣰
 全hjiw	𠌔
 全hjjc	𮟅
 全hjjf	𠉏
 全hjjh	𦚘
+全hjji	敒
 全hjjj	𧴂
 全hjjo	𠑥
 全hjka	𩸔
@@ -51688,6 +51690,7 @@ zzz	葊
 全hjkg	儓
 全hjkg	𠑃
 全hjki	𠎇
+全hjki	𰁷
 全hjkk	佶
 全hjkk	佫
 全hjkk	貉
@@ -51742,10 +51745,12 @@ zzz	葊
 全hjrl	𭝶
 全hjrw	偟
 全hjsr	仕
+全hjsr	伸
 全hjsr	𘰖
 全hjsr	🩡
 全hjty	𠈧
 全hjty	𧱊
+全hjty	𭆪
 全hjty	𰁥
 全hjur	偆
 全hjur	𬁣
@@ -53219,13 +53224,11 @@ zzz	葊
 全huip	𠏩
 全huis	𣌡
 全huis	𬾰
-全huit	𫣰
 全huiu	𠎣
 全huiv	僊
 全huiw	𧴞
 全hujb	𥣃
 全hujc	𠏀
-全huji	敒
 全huji	䝠
 全huji	傆
 全huji	豲
@@ -53237,7 +53240,6 @@ zzz	葊
 全hukg	𬿭
 全huki	𠋋
 全huki	𠑒
-全huki	𰁷
 全hukj	𫤖
 全hukl	偉
 全huln	𠎼
@@ -53287,14 +53289,12 @@ zzz	葊
 全husi	𱙵
 全husp	𠐀
 全husr	仙
-全husr	伸
 全husr	仚
 全husr	𘰿
 全hutj	𱎵
 全hutp	𠈐
 全hutp	𫲥
 全huty	仮
-全huty	𭆪
 全hutz	𫢰
 全huue	𬿕
 全huuh	𪝐
@@ -54720,6 +54720,7 @@ zzz	葊
 全idjo	𘌊
 全idjo	𪺙
 全idjr	𤾗
+全idjs	𠒗
 全idjw	𘌃
 全idjw	𘌎
 全idjw	𘌕
@@ -54941,7 +54942,6 @@ zzz	葊
 全idur	𣅱
 全idur	𣆤
 全idur	𣆥
-全idus	𠒗
 全idus	𡷀
 全iduu	𩘤
 全iduu	𮛉
@@ -55900,6 +55900,7 @@ zzz	葊
 全ihji	𰕊
 全ihjk	嗠
 全ihjs	𨀋
+全ihjs	𨁬
 全ihjy	䛅
 全ihjz	𧿵
 全ihli	𨀣
@@ -55997,7 +55998,6 @@ zzz	葊
 全ihty	𱊾
 全ihul	𲄁
 全ihur	𱬹
-全ihus	𨁬
 全ihut	𡘨
 全ihvg	䞀
 全ihvg	𧩨
@@ -56146,13 +56146,13 @@ zzz	葊
 全iigc	𫍃
 全iigf	𮛪
 全iigj	𫍌
+全iigj	𱚨
 全iign	䴍
 全iign	鸎
 全iign	𪃰
 全iign	𪄤
 全iigs	誒
 全iigs	𬦑
-全iigu	𱚨
 全iigw	𭒱
 全iigy	踊
 全iigy	誦
@@ -56767,6 +56767,8 @@ zzz	葊
 全ijrw	䬖
 全ijrw	諻
 全ijrw	𡙙
+全ijsq	氠
+全ijsy	訷
 全ijsz	𧺑
 全ijtf	𰿒
 全ijty	𧦘
@@ -59054,11 +59056,9 @@ zzz	葊
 全iusl	𭗎
 全iusp	𧪥
 全iusq	氙
-全iusq	氠
 全iusx	𪨤
 全iusx	𬦝
 全iusy	訕
-全iusy	訷
 全iusy	𮚺
 全iusz	赸
 全iusz	䟖
@@ -59990,6 +59990,7 @@ zzz	葊
 全jafl	牎
 全jafm	𥮗
 全jafn	𥬼
+全jafs	畅
 全jafs	笏
 全jafs	𰠐
 全jafs	𰤓
@@ -60114,6 +60115,7 @@ zzz	葊
 全jamw	𩕰
 全janb	𥴕
 全jane	笉
+全jane	𣌨
 全jane	𬐄
 全jane	𭽇
 全jane	𱭙
@@ -60123,6 +60125,7 @@ zzz	葊
 全janw	𗺄
 全janw	𥱽
 全jaod	的
+全jaod	畃
 全jaod	𥫩
 全jaog	箇
 全jaoh	笖
@@ -60139,6 +60142,7 @@ zzz	葊
 全jaqp	狀
 全jaqp	状
 全jaqp	狀
+全jaqs	𭸁
 全jaqu	𥬇
 全jarh	𤆙
 全jarh	𥭳
@@ -60198,6 +60202,7 @@ zzz	葊
 全jbbf	𤖑
 全jbbh	𥠼
 全jbbk	𤖣
+全jbbs	𤰷
 全jbbu	笆
 全jbda	𮆘
 全jbdn	𡕃
@@ -60427,6 +60432,7 @@ zzz	葊
 全jddd	𰄒
 全jddd	𰙂
 全jddd	𱘡
+全jdde	𠦱
 全jdde	𡔸
 全jdde	𭿲
 全jddf	𬐐
@@ -60701,6 +60707,7 @@ zzz	葊
 全jdrb	𤽅
 全jdre	売
 全jdre	𥫹
+全jdre	𭻄
 全jdrg	𩌊
 全jdrg	𩌥
 全jdrh	㷤
@@ -60759,6 +60766,7 @@ zzz	葊
 全jdye	𪕸
 全jdyj	𥮛
 全jdyj	𪍠
+全jdyj	𭧁
 全jdyk	𣫎
 全jdym	榖
 全jdym	𥬸
@@ -61427,11 +61435,13 @@ zzz	葊
 全jgng	𪃟
 全jgnp	𩿄
 全jgnp	𬷃
+全jgns	𮬱
 全jgnu	䉆
 全jgoc	𬕀
 全jgor	𥯂
 全jgpd	䇡
 全jgps	𣁮
+全jgps	𣁱
 全jgps	𫁵
 全jgqq	𥶧
 全jgro	𮵶
@@ -61721,6 +61731,7 @@ zzz	葊
 全jhsi	𘯣
 全jhsi	𰋎
 全jhsk	𘠻
+全jhss	𮙜
 全jhsu	𥫘
 全jhsu	𫁾
 全jhti	𥵎
@@ -61779,6 +61790,7 @@ zzz	葊
 全jibw	𤾽
 全jicl	勣
 全jicl	𤽘
+全jics	𮣻
 全jict	𮵵
 全jicu	𥮲
 全jida	𬌈
@@ -61996,6 +62008,7 @@ zzz	葊
 全jjbu	𥬝
 全jjcb	迫
 全jjcr	𤖍
+全jjcs	迧
 全jjct	𤗌
 全jjda	𮮄
 全jjda	𱋄
@@ -62140,6 +62153,7 @@ zzz	葊
 全jjjr	𥶬
 全jjjs	壵
 全jjjs	𤽸
+全jjjs	𬏍
 全jjjt	𬕉
 全jjju	𥴒
 全jjjv	䗬
@@ -62244,6 +62258,9 @@ zzz	葊
 全jjsl	𱋧
 全jjsp	壯
 全jjsp	壮
+全jjss	𤱓
+全jjss	𤰶
+全jjsu	𥬐
 全jjtn	𱋑
 全jjtw	𥭯
 全jjty	𮮃
@@ -62679,6 +62696,7 @@ zzz	葊
 全jmih	𥰛
 全jmik	箈
 全jmis	𥰁
+全jmis	𨾡
 全jmit	𬕍
 全jmiu	𥯄
 全jmiz	𥮓
@@ -62857,6 +62875,7 @@ zzz	葊
 全jndk	𱻳
 全jndl	𥴺
 全jndn	簦
+全jndn	𤳘
 全jndn	𤾢
 全jndn	𮋣
 全jndo	𠕤
@@ -63169,6 +63188,7 @@ zzz	葊
 全jnzc	䈂
 全jnzc	𢍆
 全jnzc	𬚑
+全jnzc	𭦘
 全jnzd	𦔒
 全jnzg	䎯
 全jnzi	𦓷
@@ -63198,6 +63218,7 @@ zzz	葊
 全jocf	寿
 全jocf	寿
 全jocn	𫂅
+全jocs	𡬤
 全joda	𥮁
 全jodf	笇
 全jodi	𘯠
@@ -63369,6 +63390,7 @@ zzz	葊
 全jpps	毐
 全jpps	𥫲
 全jpqp	㸝
+全jpqs	𣢘
 全jpqu	䇜
 全jprh	𭽔
 全jpro	𧡠
@@ -63626,8 +63648,10 @@ zzz	葊
 全jrys	𫸑
 全jryu	笌
 全jrzc	筭
+全js__	申
 全js__	士
 全js__	⼠
+全js__	🈸
 全js__	🩨
 全jsaa	笮
 全jsai	𥱑
@@ -63822,6 +63846,7 @@ zzz	葊
 全jtyp	𠬧
 全jtyp	𤕭
 全jtyr	𦋌
+全jtys	叟
 全jtzo	𭽓
 全jtzz	䈂
 全ju__	竹
@@ -63832,6 +63857,7 @@ zzz	葊
 全ju__	𥫗
 全juaa	㿣
 全juaa	䈓
+全juaf	𣈱
 全juaf	𥮬
 全juaf	𭽛
 全jual	𢡕
@@ -63852,6 +63878,8 @@ zzz	葊
 全jucl	𱷰
 全juda	𥭢
 全juda	𥲭
+全jude	𡒮
+全judf	暢
 全judf	𤾉
 全judf	𥯕
 全judi	笪
@@ -63885,6 +63913,7 @@ zzz	葊
 全juhs	𭽒
 全juht	𣋨
 全juid	𫂁
+全juid	𰣐
 全juii	𮆣
 全juij	䉦
 全juik	𥰻
@@ -63942,7 +63971,6 @@ zzz	葊
 全jush	𥰽
 全jusk	𡴳
 全jusk	𡶓
-全jusu	𥬐
 全jusu	𰩭
 全juth	𬕫
 全jutp	䇩
@@ -64253,6 +64281,7 @@ zzz	葊
 全jwyb	𩑻
 全jwyf	𩑚
 全jwyj	𥶄
+全jwys	𲊫
 全jwzn	𬕸
 全jwzy	𥴘
 全jwzy	𱾦
@@ -64269,6 +64298,7 @@ zzz	葊
 全jxef	邦
 全jxeg	𮫠
 全jxej	䉄
+全jxes	𬩸
 全jxfd	籠
 全jxfd	籠
 全jxfd	𪚖
@@ -64376,6 +64406,7 @@ zzz	葊
 全jyaa	𥴈
 全jyag	㦼
 全jyal	𥵅
+全jyan	朄
 全jyan	𤗛
 全jyan	𬸥
 全jyap	𤽰
@@ -64433,6 +64464,7 @@ zzz	葊
 全jyjo	𥴇
 全jyjo	𦦾
 全jyjp	𥯻
+全jyjs	𮅧
 全jyjt	𢿸
 全jykc	𮅦
 全jyki	籟
@@ -64488,10 +64520,10 @@ zzz	葊
 全jyud	𮅤
 全jyud	𰪈
 全jyum	𥶮
+全jyur	𣌾
 全jyur	𤗗
 全jyur	𬌃
 全jyur	𰪀
-全jyus	𮅧
 全jyut	𥯈
 全jyux	𥱛
 全jyuy	䉓
@@ -65742,6 +65774,7 @@ zzz	葊
 全khjo	𠺭
 全khjo	𫬦
 全khjs	𠱊
+全khjs	𭈁
 全khkj	𭍍
 全khkk	𫪞
 全khkl	𠸱
@@ -65845,7 +65878,6 @@ zzz	葊
 全khur	𣆊
 全khur	𫩥
 全khus	𭇔
-全khus	𭈁
 全khuv	𪢋
 全khuy	𱓹
 全khvb	贵
@@ -66273,6 +66305,7 @@ zzz	葊
 全kjry	𱓆
 全kjrz	𡀜
 全kjsf	𡅌
+全kjsk	呻
 全kjsu	𡅉
 全kjta	𫬧
 全kjti	㗛
@@ -68025,7 +68058,6 @@ zzz	葊
 全kurw	𫪇
 全kusc	𭗼
 全kush	嗁
-全kusk	呻
 全kusk	𠮿
 全kutf	𠶲
 全kutj	𡂅
@@ -70397,6 +70429,7 @@ zzz	葊
 全ljdn	𘀩
 全ljdo	𗭇
 全ljds	𢝇
+全ljds	𥔻
 全ljds	𮀘
 全ljdt	𗭍
 全ljdw	𗭆
@@ -70420,6 +70453,7 @@ zzz	葊
 全ljfy	情
 全ljfy	𦚾
 全ljgb	㤏
+全ljgn	𬷫
 全ljgv	𢥕
 全ljha	𗭎
 全ljhh	脔
@@ -70459,6 +70493,7 @@ zzz	葊
 全ljix	𢖻
 全ljix	𢗡
 全ljjc	𨔉
+全ljjc	𨕫
 全ljjd	䄗
 全ljjd	𮁧
 全ljjg	𪅆
@@ -70519,6 +70554,7 @@ zzz	葊
 全ljnb	𢙩
 全ljnb	𫀇
 全ljnb	𫺏
+全ljnb	𱵐
 全ljnc	𪬢
 全ljne	𗭊
 全ljne	𗭒
@@ -70575,10 +70611,14 @@ zzz	葊
 全ljsf	𢥣
 全ljsp	𪞸
 全ljsp	𪞼
+全ljss	神
+全ljss	神
+全ljsx	𢘊
 全ljti	𢞖
 全ljua	𫻅
 全ljur	𢝣
 全ljur	𬓉
+全ljvc	䗝
 全ljvc	𧏅
 全ljvd	𗭝
 全ljve	𗭣
@@ -72251,7 +72291,6 @@ zzz	葊
 全ludr	𢙙
 全ludr	𥜏
 全ludr	𱫹
-全luds	𥔻
 全ludv	𭕐
 全ludw	禵
 全ludy	𭞒
@@ -72282,7 +72321,6 @@ zzz	葊
 全lugk	𢡦
 全lugl	𢠄
 全lugl	𥛢
-全lugn	𬷫
 全lugs	禍
 全lugs	禍
 全lugs	𥎼
@@ -72320,7 +72358,6 @@ zzz	葊
 全luix	𣥶
 全luiy	𣕏
 全lujc	𢣄
-全lujc	𨕫
 全lujc	𨘌
 全luji	㚆
 全luji	㥳
@@ -72352,7 +72389,6 @@ zzz	葊
 全lumj	𢤮
 全lumk	𢥘
 全lums	𢚭
-全lunb	𱵐
 全lune	𱵏
 全lunf	𰒟
 全luoe	𭟑
@@ -72399,10 +72435,7 @@ zzz	葊
 全lusj	𡴴
 全lusj	𬓁
 全lusr	峦
-全luss	神
-全luss	神
 全lusw	𡵡
-全lusx	𢘊
 全luto	𢚕
 全luto	𫀍
 全lutp	𢘽
@@ -72422,7 +72455,6 @@ zzz	葊
 全luur	𥚕
 全luuw	𢠎
 全luuz	𬓀
-全luvc	䗝
 全luvt	𢢇
 全luvt	𬓙
 全luvu	𩡑
@@ -74161,6 +74193,7 @@ zzz	葊
 全mgji	𤄴
 全mgjk	𱧠
 全mgjl	瀗
+全mgjs	渖
 全mgjt	𰝠
 全mgkd	𤂥
 全mgkg	𤁰
@@ -74226,7 +74259,6 @@ zzz	葊
 全mgul	㵓
 全mgun	𪷆
 全mguo	𬈫
-全mgus	渖
 全mgus	溩
 全mgus	𰜬
 全mgva	𱨾
@@ -75016,6 +75048,7 @@ zzz	葊
 全mjsf	𤄒
 全mjsh	䖓
 全mjsm	𬈏
+全mjss	𣳑
 全mjsu	㶕
 全mjtf	𭳜
 全mjtt	𤃕
@@ -76488,6 +76521,7 @@ zzz	葊
 全msjm	灁
 全msjq	𱂷
 全msjs	沂
+全msjs	𣃵
 全msjs	𪵮
 全msju	𢦲
 全msjw	𩔣
@@ -76625,7 +76659,6 @@ zzz	葊
 全msur	澛
 全msur	𣃧
 全msus	峾
-全msus	𣃵
 全msuw	㫏
 全msvc	𣃹
 全msvc	𤁝
@@ -77026,7 +77059,6 @@ zzz	葊
 全musj	𮲘
 全musq	𰝲
 全muss	汕
-全muss	𣳑
 全musx	𣸒
 全musx	𪶱
 全mutj	𪷁
@@ -80743,6 +80775,7 @@ zzz	葊
 全nijk	𠚅
 全nijn	𭁪
 全nijn	𮪖
+全nijs	𱰦
 全nijt	𗔅
 全nijw	𗔝
 全nikk	冶
@@ -80877,7 +80910,6 @@ zzz	葊
 全niua	𩤔
 全niua	𬲼
 全nius	𱛈
-全nius	𱰦
 全niut	𪠫
 全niut	𰁛
 全nivc	𣱉
@@ -81061,6 +81093,7 @@ zzz	葊
 全njfy	𩜎
 全njgb	疼
 全njgb	𩢦
+全njgg	𠗩
 全njgv	𤻥
 全njha	𩣁
 全njha	𬸡
@@ -81213,6 +81246,7 @@ zzz	葊
 全njnx	𲆚
 全njny	𣛙
 全njnz	𤸞
+全njod	𤶉
 全njog	𠜦
 全njos	㧛
 全njos	𤷰
@@ -81241,6 +81275,8 @@ zzz	葊
 全njsd	𡔛
 全njsh	𪐢
 全njtw	𗑜
+全njtx	𤼞
+全njty	痩
 全njud	𰀢
 全njur	临
 全njur	䮞
@@ -83643,7 +83679,6 @@ zzz	葊
 全nufy	朚
 全nugb	㾶
 全nugb	瘑
-全nugg	𠗩
 全nugl	𩞉
 全nugl	𬳐
 全nugm	䮩
@@ -83701,7 +83736,6 @@ zzz	葊
 全nunp	𩦒
 全nunr	𩦈
 全nunt	𗆆
-全nuod	𤶉
 全nuog	𩛶
 全nupa	𢧐
 全nupa	𫛴
@@ -83750,10 +83784,8 @@ zzz	葊
 全nusw	𡵍
 全nuth	𪾗
 全nutp	𤵺
-全nutx	𤼞
 全nuty	飯
 全nuty	饭
-全nuty	痩
 全nuty	㽹
 全nuty	飯
 全nuty	𲋴
@@ -85544,6 +85576,7 @@ zzz	葊
 全ogjk	搳
 全ogjl	攇
 全ogjn	𢵷
+全ogjs	𭡜
 全ogjw	𢹷
 全ogkj	𰓻
 全ogkk	𢯙
@@ -85574,11 +85607,11 @@ zzz	葊
 全ogoj	𢵅
 全ogoq	𮖖
 全ogpd	拧
+全ogpj	𭡮
 全ogpl	𰔹
 全ogpr	𫼼
 全ogps	抖
 全ogps	𧠕
-全ogpu	𭡮
 全ogqj	抭
 全ogri	𢺔
 全ogrt	𢯱
@@ -85598,7 +85631,6 @@ zzz	葊
 全oguo	𪮦
 全ogus	搗
 全ogus	摀
-全ogus	𭡜
 全ogve	㩙
 全ogvg	㩃
 全ogvi	攓
@@ -86063,10 +86095,12 @@ zzz	葊
 全ojrw	𢹻
 全ojsg	𮞖
 全ojsm	𫽢
+全ojss	抻
 全ojss	𢩿
 全ojti	𢲑
 全ojti	𭡻
 全ojtr	𢷩
+全ojty	捜
 全ojua	𢶩
 全ojua	𰼚
 全ojud	𢴈
@@ -87605,12 +87639,10 @@ zzz	葊
 全oush	搋
 全ousp	擨
 全ousp	𢫳
-全ouss	抻
 全ouss	𢩳
 全outp	拽
 全outw	鋬
 全outy	扳
-全outy	捜
 全outz	𢱼
 全ouua	擫
 全ouua	𱠹
@@ -88838,6 +88870,7 @@ zzz	葊
 全pjsi	𨆕
 全pjsj	遖
 全pjsj	𫜰
+全pjsj	𬬹
 全pjsl	𢆥
 全pjsn	𥀇
 全pjso	𭅥
@@ -89689,7 +89722,6 @@ zzz	葊
 全pusg	鶾
 全pusi	𬢺
 全pusj	斮
-全pusj	𬬹
 全pusj	𲇯
 全pusk	乾
 全pusl	𩏑
@@ -91626,8 +91658,13 @@ zzz	葊
 全qjrw	𬗬
 全qjrx	𰺟
 全qjry	檕
+全qjsc	𨋙
 全qjsf	𧟉
+全qjsg	𱅹
+全qjsi	𫋵
 全qjsm	𬡦
+全qjsm	𰚒
+全qjss	绅
 全qjsu	𫌙
 全qjte	𗚦
 全qjti	𧜕
@@ -93462,17 +93499,12 @@ zzz	葊
 全qurw	𨌂
 全qusc	軕
 全qusc	𡸸
-全qusc	𨋙
-全qusg	𱅹
 全qush	褫
 全qush	𱲡
-全qusi	𫋵
 全qusj	𠘳
 全qusl	𢥦
 全qusm	𦏧
-全qusm	𰚒
 全quso	舢
-全quss	绅
 全qusy	𦎫
 全qutp	𧙟
 全qutp	𨋯
@@ -94544,6 +94576,7 @@ zzz	葊
 全rdjl	𢝦
 全rdjl	𪹄
 全rdjq	𠙧
+全rdjr	𤩚
 全rdjr	𩋹
 全rdjt	𩋸
 全rdjy	𭶇
@@ -94655,7 +94688,6 @@ zzz	葊
 全rduk	焐
 全rduk	珸
 全rdun	熐
-全rdur	𤩚
 全rdur	𤩮
 全rduw	𤥕
 全rduw	𩊛
@@ -95016,6 +95048,7 @@ zzz	葊
 全rgjl	𩍹
 全rgjl	𪺅
 全rgjl	𪼭
+全rgjs	㻘
 全rgkk	熍
 全rgle	𤪓
 全rgll	𩌦
@@ -95068,7 +95101,6 @@ zzz	葊
 全rgug	𭺎
 全rguh	熓
 全rguo	𬋂
-全rgus	㻘
 全rgut	𤑧
 全rguw	瑦
 全rgvg	𩍎
@@ -95679,8 +95711,10 @@ zzz	葊
 全rjrw	煌
 全rjrw	瑝
 全rjrw	𭹞
+全rjsg	𩉼
 全rjsm	𬊯
 全rjsu	𤓃
+全rjsw	珅
 全rjsy	𱫦
 全rjtc	𪘯
 全rjty	𤆳
@@ -97413,10 +97447,8 @@ zzz	葊
 全rusc	𤍴
 全rusc	𮴭
 全ruse	𡴸
-全rusg	𩉼
 全rush	灿
 全rusj	斱
-全rusw	珅
 全rusw	𬍑
 全ruta	𬌘
 全ruto	𤥟
@@ -99318,6 +99350,7 @@ zzz	葊
 全sjrw	鳇
 全sjrw	𫘩
 全sjrw	𲈮
+全sjsm	𨴁
 全sjsx	㸤
 全sjur	䦮
 全sjur	䲠
@@ -100392,7 +100425,6 @@ zzz	葊
 全surv	鲁
 全sury	𮤛
 全susm	閊
-全susm	𨴁
 全sutf	𨷒
 全suty	𱇖
 全sutz	𨵒
@@ -102868,7 +102900,6 @@ zzz	葊
 全uafq	𰭤
 全uafr	𬊙
 全uafr	𬊛
-全uafs	畅
 全uafs	易
 全uafs	旸
 全uafs	岉
@@ -102956,7 +102987,6 @@ zzz	葊
 全uams	𡻥
 全uane	昀
 全uane	𠪨
-全uane	𣌨
 全uang	鹘
 全uanh	黡
 全uani	𡷃
@@ -102965,7 +102995,6 @@ zzz	葊
 全uanx	𨞬
 全uaoa	𰎢
 全uaod	旳
-全uaod	畃
 全uaod	𭖀
 全uaod	𭨘
 全uaog	崮
@@ -102981,7 +103010,6 @@ zzz	葊
 全uapt	𭦿
 全uaqc	厌
 全uaqr	𣅤
-全uaqs	𭸁
 全uare	𣅏
 全uarg	𱉃
 全uarh	𱢃
@@ -103068,7 +103096,6 @@ zzz	葊
 全ubbr	𠫌
 全ubbs	岜
 全ubbs	𡵟
-全ubbs	𤰷
 全ubbt	㽁
 全ubbt	𣀥
 全ubbt	𪙪
@@ -103356,7 +103383,6 @@ zzz	葊
 全uddd	𡾏
 全uddd	𢇑
 全uddd	𢇕
-全udde	𠦱
 全udde	𣉓
 全uddg	𪃨
 全uddh	𡺪
@@ -103669,7 +103695,6 @@ zzz	葊
 全udre	𣅟
 全udre	𩨥
 全udre	𭖉
-全udre	𭻄
 全udrh	㶾
 全udrh	𥁻
 全udrj	𢽠
@@ -103764,7 +103789,6 @@ zzz	葊
 全udyc	𩩯
 全udyj	𡸞
 全udyj	𨖠
-全udyj	𭧁
 全udym	𡶲
 全udym	𲌎
 全udyr	昩
@@ -103838,6 +103862,8 @@ zzz	葊
 全uejj	嵕
 全uejo	𭨕
 全uejr	㟅
+全uejs	𡸼
+全uejs	𬀾
 全uekd	𡹪
 全uekj	𭗤
 全uekk	暿
@@ -103924,8 +103950,6 @@ zzz	葊
 全ueur	𣉿
 全ueur	𤓑
 全ueur	𱜅
-全ueus	𡸼
-全ueus	𬀾
 全uevr	𭧾
 全uexe	鄄
 全ueyc	𠨱
@@ -104194,7 +104218,6 @@ zzz	葊
 全ugnr	𭧘
 全ugns	嶋
 全ugns	嶌
-全ugns	𮬱
 全ugnw	𠪍
 全ugnx	𪀹
 全ugny	𩿬
@@ -104209,7 +104232,6 @@ zzz	葊
 全ugpq	𡺏
 全ugpq	𭭍
 全ugps	㞳
-全ugps	𣁱
 全ugps	𣂄
 全ugps	𪰍
 全ugqj	𫶛
@@ -104459,7 +104481,6 @@ zzz	葊
 全uhsr	曱
 全uhsr	甴
 全uhsr	𧰮
-全uhss	𮙜
 全uhta	𩨧
 全uhta	𫨎
 全uhtp	𭺽
@@ -104511,7 +104532,6 @@ zzz	葊
 全uicg	𣆰
 全uicl	𡺕
 全uicr	𰖎
-全uics	𮣻
 全uics	𱛏
 全uict	𱰳
 全uicz	𡻼
@@ -104758,7 +104778,6 @@ zzz	葊
 全ujcl	𱛚
 全ujcr	𨑨
 全ujcs	辿
-全ujcs	迧
 全ujct	𭧞
 全ujcx	迺
 全ujcx	𨒿
@@ -104941,6 +104960,7 @@ zzz	葊
 全ujrw	𪩅
 全ujsj	𣈈
 全ujsl	𫑑
+全ujsr	𰕼
 全ujsy	𣉚
 全ujti	𣉧
 全ujur	暙
@@ -105462,7 +105482,6 @@ zzz	葊
 全umir	㫿
 全umis	崔
 全umis	𡹐
-全umis	𨾡
 全umjc	暹
 全umjc	𨔯
 全umjc	𭗝
@@ -105598,7 +105617,6 @@ zzz	葊
 全undi	𣉉
 全undi	𬀲
 全undn	嶝
-全undn	𤳘
 全undr	旫
 全unds	屶
 全undw	𗶿
@@ -105767,7 +105785,6 @@ zzz	葊
 全unzc	𡸫
 全unzc	𢆟
 全unzc	𪠆
-全unzc	𭦘
 全unzc	𢆟
 全uoae	𠨼
 全uoae	𫵶
@@ -105776,7 +105793,6 @@ zzz	葊
 全uoco	𱡼
 全uocr	时
 全uocr	𬁟
-全uocs	𡬤
 全uodf	𪨨
 全uodn	𱢓
 全uodo	𧟲
@@ -105981,7 +105997,6 @@ zzz	葊
 全upqg	歄
 全upqr	欥
 全upqs	㰞
-全upqs	𣢘
 全uprh	炭
 全uprh	𤉕
 全uprh	𩨿
@@ -106310,11 +106325,9 @@ zzz	葊
 全urzc	𡷟
 全urzc	𩩖
 全urzc	𭦄
-全us__	申
 全us__	山
 全us__	⼭
 全us__	𘮝
-全us__	🈸
 全usaa	昨
 全usaa	厏
 全usaa	岝
@@ -106576,7 +106589,6 @@ zzz	葊
 全utyc	反
 全utyn	𬁘
 全utys	𫵴
-全utys	叟
 全utyx	𪠧
 全utyy	𰆹
 全utzc	昇
@@ -106595,7 +106607,6 @@ zzz	葊
 全uuaf	晹
 全uuaf	䯜
 全uuaf	𡸑
-全uuaf	𣈱
 全uuaf	𫶁
 全uuaj	𨗞
 全uuaj	𫝝
@@ -106627,10 +106638,8 @@ zzz	葊
 全uudd	𡺖
 全uudd	𡾷
 全uudd	𰖦
-全uude	𡒮
 全uude	𭏏
 全uude	𭦵
-全uudf	暢
 全uudf	崵
 全uudf	暘
 全uudh	𡹾
@@ -106724,7 +106733,6 @@ zzz	葊
 全uuhv	𢁃
 全uuid	𪠊
 全uuid	𭧌
-全uuid	𰣐
 全uuif	𩙀
 全uuij	𧠂
 全uuij	𭗥
@@ -106834,11 +106842,8 @@ zzz	葊
 全uusj	㫀
 全uusl	𡽓
 全uusr	旵
-全uusr	𰕼
 全uuss	岀
 全uuss	屾
-全uuss	𤱓
-全uuss	𤰶
 全uuta	𡻍
 全uutj	𮞡
 全uuty	岅
@@ -106885,7 +106890,6 @@ zzz	葊
 全uuur	𬁬
 全uuus	曟
 全uuus	𡷈
-全uuus	𬏍
 全uuuu	𣊫
 全uuuu	𣊭
 全uuuu	𣋎
@@ -107240,7 +107244,6 @@ zzz	葊
 全uwyr	暊
 全uwys	崸
 全uwys	𡺋
-全uwys	𲊫
 全uwyy	頔
 全uwzn	𡽎
 全uwzn	𭗌
@@ -107268,7 +107271,6 @@ zzz	葊
 全uxej	𡻴
 全uxep	𨚰
 全uxes	邖
-全uxes	𬩸
 全uxex	𨚹
 全uxey	邮
 全uxfd	巃
@@ -107371,7 +107373,6 @@ zzz	葊
 全uyaa	嶘
 全uyak	𭪹
 全uyan	暕
-全uyan	朄
 全uyan	𫛽
 全uyar	㕐
 全uybt	𪳿
@@ -107476,7 +107477,6 @@ zzz	葊
 全uyur	崠
 全uyur	崬
 全uyur	𣇿
-全uyur	𣌾
 全uyur	𰖍
 全uyus	𡷻
 全uyus	𡷼
@@ -108918,6 +108918,7 @@ zzz	葊
 全vhjc	𨑣
 全vhjk	匣
 全vhjk	𪟰
+全vhjs	𦕽
 全vhkh	𮧰
 全vhli	蠄
 全vhli	𦕫
@@ -108980,7 +108981,6 @@ zzz	葊
 全vhtq	𧎤
 全vhtt	𘑨
 全vhty	叏
-全vhus	𦕽
 全vhva	𤟶
 全vhvg	䗔
 全vhvg	𬥽
@@ -109335,6 +109335,8 @@ zzz	葊
 全vjqs	螦
 全vjrh	𤒥
 全vjrw	蝗
+全vjsc	𧊋
+全vjse	䎶
 全vjta	𗰔
 全vjtc	𪘻
 全vjte	𗰥
@@ -110744,9 +110746,7 @@ zzz	葊
 全vurx	𰻲
 全vury	𡯙
 全vury	𡯟
-全vusc	𧊋
 全vusc	𬟴
-全vuse	䎶
 全vuse	𦔺
 全vush	㔸
 全vush	螔
@@ -112188,6 +112188,7 @@ zzz	葊
 全wejp	𰅵
 全wejq	𡣵
 全wejs	舏
+全wejs	𫒨
 全weju	𦘘
 全wejw	𨯿
 全wejw	𨰹
@@ -112263,7 +112264,6 @@ zzz	葊
 全weur	鏪
 全weur	𤾳
 全weur	書
-全weus	𫒨
 全weuw	𦧶
 全wevc	𪦓
 全wevr	㜯
@@ -112518,6 +112518,7 @@ zzz	葊
 全wgjk	𫒴
 全wgjl	𨯶
 全wgjo	𮢖
+全wgjs	婶
 全wgkr	𨰔
 全wgkt	𫱜
 全wgku	𡡧
@@ -112580,7 +112581,6 @@ zzz	葊
 全wguj	鎢
 全wgul	𰽋
 全wgun	𡠄
-全wgus	婶
 全wgvi	鑳
 全wgvi	𡤐
 全wgvi	𮣫
@@ -113234,6 +113234,8 @@ zzz	葊
 全wjrw	鍠
 全wjrw	媓
 全wjsf	𨰓
+全wjsj	鉮
+全wjsn	妽
 全wjsu	𨰝
 全wjsu	𪦴
 全wjtf	𨨳
@@ -114905,11 +114907,9 @@ zzz	葊
 全wush	𨪾
 全wusj	㞪
 全wusj	䤱
-全wusj	鉮
 全wusj	𡴺
 全wusj	𨥉
 全wusn	奾
-全wusn	妽
 全wuta	𡟶
 全wuti	𡞼
 全wutj	𨨌
@@ -117057,6 +117057,8 @@ zzz	葊
 全xjrw	隍
 全xjrw	𤚝
 全xjrw	𨉤
+全xjse	𨸬
+全xjss	𨈮
 全xjui	𢎉
 全xjul	𤚓
 全xjuq	𭯡
@@ -117338,6 +117340,7 @@ zzz	葊
 全xljc	轨
 全xlje	𨸒
 全xljk	𮥅
+全xljs	䨩
 全xlkb	𩇑
 全xlli	𨺗
 全xllx	𨼚
@@ -117389,7 +117392,6 @@ zzz	葊
 全xlud	𤙫
 全xlui	𤚒
 全xlur	𪺬
-全xlus	䨩
 全xlve	𤛄
 全xlve	𨻕
 全xlwb	𨹀
@@ -118699,7 +118701,6 @@ zzz	葊
 全xurr	竸
 全xurs	𮸳
 全xusc	𫐅
-全xuse	𨸬
 全xush	𨻆
 全xush	𨽯
 全xusj	𩃟
@@ -118707,7 +118708,6 @@ zzz	葊
 全xusk	𮸱
 全xusn	𡵣
 全xusp	𩐮
-全xuss	𨈮
 全xuta	𥪄
 全xute	𡋴
 全xutj	𲊧
@@ -119349,6 +119349,7 @@ zzz	葊
 全yanf	𢒞
 全yanf	𬮔
 全yang	鶫
+全yanj	𣍃
 全yank	𣑌
 全yank	𫌫
 全yanm	㭤
@@ -119356,7 +119357,6 @@ zzz	葊
 全yanq	𣑟
 全yans	㼑
 全yant	㪝
-全yanu	𣍃
 全yanw	𣙢
 全yany	𣞰
 全yaod	杓
@@ -119914,6 +119914,7 @@ zzz	葊
 全yeei	𦦵
 全yeei	𪋤
 全yeej	斆
+全yeej	𦦠
 全yeej	𬃈
 全yeek	嚳
 全yeek	𠿟
@@ -119965,7 +119966,6 @@ zzz	葊
 全yeet	欔
 全yeet	𣡠
 全yeeu	嶨
-全yeeu	𦦠
 全yeev	蠜
 全yeev	𦤲
 全yeev	𬠰
@@ -120333,6 +120333,7 @@ zzz	葊
 全ygjk	㮫
 全ygjk	楁
 全ygjl	櫶
+全ygjs	𰗵
 全ygkj	𬃀
 全ygkk	椥
 全ygku	𪳲
@@ -120384,7 +120385,6 @@ zzz	葊
 全ygun	𣙣
 全yguo	𣘱
 全ygus	槝
-全ygus	𰗵
 全yguy	𱣯
 全ygve	𰘷
 全ygvg	𪳶
@@ -121113,6 +121113,7 @@ zzz	葊
 全yjsk	麧
 全yjsk	𪍶
 全yjsl	䴾
+全yjsm	柛
 全yjsn	𪴧
 全yjsu	𣠰
 全yjtc	𪌂
@@ -121460,8 +121461,9 @@ zzz	葊
 全ylji	樆
 全yljj	𭫉
 全yljl	𪲌
-全yljm	朹
 全yljm	㰚
+全yljm	朹
+全yljs	榊
 全ylkf	𣙛
 全ylkh	𣠐
 全ylkh	𫲯
@@ -121525,7 +121527,6 @@ zzz	葊
 全yltp	柲
 全ylty	𫩀
 全ylur	𣑢
-全ylus	榊
 全ylvb	𱣚
 全ylvq	橠
 全ylvq	𭫲
@@ -122585,7 +122586,6 @@ zzz	葊
 全yurw	㭿
 全yush	榹
 全yusm	杣
-全yusm	柛
 全yuso	𱼿
 全yusx	𣖅
 全yutj	𭬜
@@ -125637,10 +125637,12 @@ zzz	葊
 全zjre	𦯜
 全zjrr	蔸
 全zjrw	葟
+全zjsc	𱽖
 全zjtc	𧂉
 全zjtu	䔤
 全zjty	𦬣
 全zjuc	𫇸
+全zjuf	𦿄
 全zjur	萶
 全zjuv	𧕷
 全zjvc	𧊮
@@ -127494,7 +127496,6 @@ zzz	葊
 全zusa	葃
 全zusc	𬜡
 全zusc	𬞀
-全zusc	𱽖
 全zusg	𰏢
 全zusk	𰂅
 全zusr	𫉧
@@ -127502,7 +127503,6 @@ zzz	葊
 全zutk	𧄳
 全zutp	䒶
 全zuua	𮑤
-全zuuf	𦿄
 全zuuh	𫈢
 全zuul	𦾛
 全zuup	蕈
