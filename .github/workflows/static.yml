@@ -28,7 +28,7 @@ jobs:
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
-          bash deploy/deploy.sh
+          bash deploy/deploy_hao.sh && cat docs/hao/smyh.base.dict.yaml | assets/gen_dazhu.sh > dazhu.txt && cat docs/hao/smyh.full.dict.yaml | assets/gen_dazhu_addfull.sh >>dazhu.txt
 
       - name: Release
         uses: softprops/action-gh-release@v2

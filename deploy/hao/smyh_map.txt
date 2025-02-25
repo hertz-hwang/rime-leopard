@@ -69,9 +69,9 @@ Gi	至
 Pd	丁
 Tf	缶
 Di	一
-Xc	叀
-Xc	車
-Xc	{專上}
+Qc	叀
+Qc	車
+Qc	{專上}
 An	鸟
 An	{鸟上}
 Ms	水
@@ -257,7 +257,7 @@ Eq	{曹上}
 Dr	兀
 Ux	襾
 Ux	西
-Vb	貝
+Ib	貝
 Zc	卄
 Zc	卝
 Zc	艹
@@ -296,7 +296,7 @@ Jo	𡗗
 Nb	八
 Nd	{介下}
 Vx	夕
-Cy	言
+Iy	言
 Vc	虫
 Bh	禾
 Ix	小
@@ -313,7 +313,7 @@ Ta	{囟框}
 Tj	{向框}
 Lr	亦
 Qi	衤
-Ds	丆
+Ts	丆
 Sh	{虍上}
 Sh	虎
 Fy	月

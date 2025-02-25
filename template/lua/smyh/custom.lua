@@ -166,7 +166,7 @@ function custom.export_smart()
         ---打開備份文件
         local userdir = rime_api.get_user_data_dir()
         local dbname = db:fetch("\x01/db_name")
-        local file, err = io.open(string.format("%s/%s.userdb.txt", userdir, dbname), "w")
+        local file, err = io.open(string.format("%s/%s.userdb.bak", userdir, dbname), "w")
         if not file then
             return err
         end
@@ -196,7 +196,7 @@ function custom.import_smart()
         ---打開備份文件
         local userdir = rime_api.get_user_data_dir()
         local dbname = db:fetch("\x01/db_name")
-        local file, err = io.open(string.format("%s/%s.userdb.txt", userdir, dbname), "r")
+        local file, err = io.open(string.format("%s/%s.userdb.bak", userdir, dbname), "r")
         if not file then
             return err
         end
