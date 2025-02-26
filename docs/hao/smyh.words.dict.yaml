@@ -1,0 +1,28 @@
+# rime dictionary: 豹碼·全碼詞語
+# encoding: utf-8
+
+---
+name: "smyh.words"
+version: beta
+sort: original
+import_tables:
+  - smyh.full
+columns:
+  - text
+  - code
+  - weight
+  - other
+encoder:
+  exclude_patterns:
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 20]
+      formula: "AaBaCaZa"
+...
+
+# 自動編碼詞組
+吉旦饼
+吉旦餅

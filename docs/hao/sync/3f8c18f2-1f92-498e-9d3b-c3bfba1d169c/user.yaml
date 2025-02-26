@@ -1,0 +1,9 @@
+var:
+  last_build_time: 1740559564
+  option:
+    charset.all: true
+    embeded_cands: true
+    full.word: true
+  previously_selected_schema: smyh
+  schema_access_time:
+    smyh: 1740559564

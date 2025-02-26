@@ -256,6 +256,9 @@ embeded_cands:
 # 标点
 punctuator:
   import_preset: symbols
+  symbols:
+    __append:
+      '/tab': '	' #制表符
 
 key_binder:
   bindings:

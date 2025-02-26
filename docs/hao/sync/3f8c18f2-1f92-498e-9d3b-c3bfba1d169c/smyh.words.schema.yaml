@@ -1,0 +1,18 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: smyh.words
+  name: 豹碼·全碼官宇詞庫
+  description: |
+    辅助方案，不能打字。
+
+speller:
+  alphabet: "qwertyuiopasdfghjklzxcvbnm"
+  initials: "qwertyuiopasdfghjklzxcvbnm"
+  algebra:
+    - xform/([a-z])11$/$1$1$1/
+
+translator:
+  dictionary: smyh.words
+  enable_user_dict: false

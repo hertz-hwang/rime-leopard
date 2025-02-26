@@ -1,7 +1,8 @@
 /.DS_Store
 /.vscode
 /deploy/generator
-/deploy/into
-/deploy/star
-/docs/
+/docs/assets
+/docs/hao/build
+/docs/hao/smyh.smart.userdb
+/docs/hao/smyh.smart.txt.bak
 /schema/
