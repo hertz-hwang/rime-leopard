@@ -3,6 +3,7 @@
 /deploy/generator
 /docs/assets
 /docs/hao/build
+/docs/hao/installation.yaml
 /docs/hao/user.yaml
 /docs/hao/sync
 /docs/hao/smyh.smart.userdb

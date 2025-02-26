@@ -27777,3 +27777,4 @@
 𬸪	(3米田鸟,TpFmCtOn,fán,CJK-E)
 𬹼	(齿{全字头}{乔字底},DcHrNd,xiè,CJK-E)
 𬺈	(齿大可,DcIdEk,yǐ,CJK-E)
+𬺓	(齿木木疋,DcYmYmEs,chǔ,CJK-E)

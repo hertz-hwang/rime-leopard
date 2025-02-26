@@ -4,7 +4,7 @@ cd "$(dirname $0)"
 WD="$(pwd)"
 DOC="../docs"
 REF_NAME="${REF_NAME:-v$(date +%Y%m%d%H%M)}"
-mkdir -p "${DOC}"/assets
+#mkdir -p "${DOC}"/assets
 
 gen_schema() {
     NAME="$1"
@@ -21,7 +21,7 @@ gen_schema() {
     cp ../template/lua/smyh/*.lua "${SCHEMA}/lua/smyh"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${SCHEMA}/opencc"
     sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
-    sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
+    #sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
     # 使用 deploy/wafel 覆蓋默認值
     if [ -d "${NAME}" ]; then
         cp -r "${NAME}"/*.txt /tmp/"${NAME}"

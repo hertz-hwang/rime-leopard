@@ -3,7 +3,7 @@
 
 schema:
   schema_id: smyh
-  name: 豹碼
+  name: 豹碼·hao
   version: beta
   author:
     - 宇浩输入法
@@ -290,4 +290,4 @@ recognizer:
     grave: "^`$"
 
 menu:
-  page_size: 3
+  page_size: 5

@@ -38,7 +38,8 @@ for line in sys.stdin.readlines():
     # │食   Qd│戶   Qh│户   Qh│
     mappings[key].append(comp + " "*(7-len(comp)*2-len(code)) + code)
 
-for row in ["QWERT", "YUIOP", "ASDFG", "HJKL", "ZXCVB", "NM"]:
+#for row in ["QWERT", "YUIOP", "ASDFG", "HJKL", "ZXCVB", "NM"]:
+for row in ["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"]:
     # suppose that every table has 10 rows, then filter the empty ones
     for i in range(0, 10):
         line = []
