@@ -1,5 +1,5 @@
 Aa	乍
-Ae	5
+Ae	{折类}
 Ae	䶹
 Ag	{尧字头}
 Ag	戈
@@ -48,7 +48,8 @@ Dd	{尔字头}
 Dd	{负字头}
 Dh	戶
 Dh	户
-Di	1
+Di	{横类}
+Dj	見
 Dn	{凸无横}
 Dn	乃
 Ds	石
@@ -89,6 +90,8 @@ Fs	{横两撇}
 Fs	{眉字框}
 Fs	尸
 Fs	彡
+Fs	糸
+Fs	糹
 Fx	象
 Fy	{丽下角}
 Fy	{夜下角}
@@ -121,9 +124,11 @@ Hq	且
 Hr	{全字头}
 Hr	人
 Hr	亻
-Hs	2
+Hs	{竖类}
 Hs	{豕省}
 Hs	豕
+Hs	食
+Hs	飠
 Ia	爪
 Ia	爫
 Ib	㡀
@@ -181,15 +186,13 @@ Kc	巜
 Kc	川
 Ke	而
 Kg	各
-Ki	6
-Dj	見
+Ki	乙
 Kj	见
 Kk	{乐二}
 Kk	{卬字旁}
 Kk	口
 Kl	{鹵字底}
 Ld	斗
-Sd	鬥
 Lf	非
 Lg	工
 Li	{延字心无撇}
@@ -208,6 +211,8 @@ Lw	文
 Lx	{恭字底}
 Lx	心
 Lx	忄
+Ly	{斲字旁}
+Ly	{亞无一}
 Mc	{发二}
 Mc	{屯无横}
 Mc	屮
@@ -249,15 +254,13 @@ Nl	侖
 Nm	馬
 Np	皮
 Nq	千
-Hs	食
-Hs	飠
 Ns	饣
 Nu	毋
 Nu	毌
 Nw	亡
 Nw	亾
 Oc	寸
-Od	4
+Od	{捺、点类}
 Og	古
 Oi	{赢字框}
 On	{鸟省}
@@ -271,7 +274,6 @@ Os	扌
 Os	龵
 Ov	予
 Oy	业
-Oy	𠁁
 Pd	丁
 Pg	{即字旁}
 Pg	艮
@@ -303,8 +305,6 @@ Qm	毛
 Qo	舟
 Qs	{带字头}
 Qs	卅
-Fs	糸
-Fs	糹
 Qs	纟
 Qx	习
 Qy	页
@@ -331,6 +331,7 @@ Ry	廴
 Ry	牙
 Sc	{凬字心}
 Sc	辰
+Sd	鬥
 Sd	{歺变}
 Sd	歹
 Sd	歺
@@ -340,6 +341,7 @@ Sh	虎
 Sj	{丘无横}
 Sj	斤
 Sm	马
+Sm	門
 Ss	{尚头}
 Ss	尚
 Ss	龸
@@ -357,9 +359,8 @@ Tf	{卸字旁}
 Tf	缶
 Ti	㠯
 Tl	耒
-Sm	門
 Tm	门
-Tp	3
+Tp	{撇类}
 Ts	束
 Tw	瓦
 Ty	{经右角}
@@ -416,6 +417,7 @@ Wj	{金字底}
 Wj	㔾
 Wj	卩
 Wj	彐
+Wj	{仺字底}
 Wj	彑
 Wj	金
 Wn	女

@@ -6,10 +6,9 @@
 
 import sys
 
-# {"Q": ["食Qd", "户Qh", ...], "W": [...]}
 mappings: dict[str, list[str]] = {}
 
-space = " " * 7
+space = " " * 13
 banner = "│"
 
 def get_row_data(key: str, line: int, cols: int) -> str:
@@ -18,7 +17,7 @@ def get_row_data(key: str, line: int, cols: int) -> str:
     '''
     if line == 0:
         # head line
-        return "="*8 + " "*3 + key + " "*3 + "="*8
+        return "="*17 + " "*3 + key + " "*3 + "="*17
     offset, limit = (line-1)*cols, cols
     comps = mappings[key]
     if offset + limit <= len(comps):
@@ -35,8 +34,7 @@ for line in sys.stdin.readlines():
     comp = comp.strip("{}")
     if not mappings.get(key):
         mappings[key] = []
-    # │食   Qd│戶   Qh│户   Qh│
-    mappings[key].append(comp + " "*(7-len(comp)*2-len(code)) + code)
+    mappings[key].append(comp + " "*(13-len(comp)*2-len(code)) + code)
 
 #for row in ["QWERT", "YUIOP", "ASDFG", "HJKL", "ZXCVB", "NM"]:
 for row in ["QWERTYUIOP", "ASDFGHJKL", "ZXCVBNM"]:
