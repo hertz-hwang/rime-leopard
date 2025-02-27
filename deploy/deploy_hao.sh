@@ -20,7 +20,15 @@ gen_schema() {
     cp ../template/default.*.yaml ../template/smyh.*.yaml ../template/smyh.*.txt "${SCHEMA}"
     cp ../template/lua/smyh/*.lua "${SCHEMA}/lua/smyh"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${SCHEMA}/opencc"
-    sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
+    if [[ "$OSTYPE" == "darwin"* ]]; then
+        # macOS
+        sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
+        sed -i "" "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
+    else
+        # Linux 和其他系统
+        sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
+        sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
+    fi
     #sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
     # 使用 deploy/wafel 覆蓋默認值
     if [ -d "${NAME}" ]; then

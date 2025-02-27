@@ -506,7 +506,7 @@
 驶	sk1
 年	sl1
 马	sm1
-兵	sn1
+列	sn1
 掌	so1
 每	sp1
 鲸	sq1
