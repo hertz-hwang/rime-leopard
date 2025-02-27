@@ -182,14 +182,14 @@ Kc	川
 Ke	而
 Kg	各
 Ki	6
-Kj	見
+Dj	見
 Kj	见
 Kk	{乐二}
 Kk	{卬字旁}
 Kk	口
 Kl	{鹵字底}
 Ld	斗
-Ld	鬥
+Sd	鬥
 Lf	非
 Lg	工
 Li	{延字心无撇}
@@ -249,8 +249,8 @@ Nl	侖
 Nm	馬
 Np	皮
 Nq	千
-Ns	食
-Ns	飠
+Hs	食
+Hs	飠
 Ns	饣
 Nu	毋
 Nu	毌
@@ -356,7 +356,7 @@ Tf	{卸字旁}
 Tf	缶
 Ti	㠯
 Tl	耒
-Tm	門
+Sm	門
 Tm	门
 Tp	3
 Ts	束
