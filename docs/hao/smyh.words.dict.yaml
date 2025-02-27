@@ -3,7 +3,7 @@
 
 ---
 name: "smyh.words"
-version: v202502271107
+version: v202502271208
 sort: original
 import_tables:
   - smyh.full

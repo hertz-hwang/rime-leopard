@@ -3,7 +3,7 @@
 
 ---
 name: "smyh.full"
-version: v202502271107
+version: v202502271208
 sort: original
 columns:
   - text
@@ -2642,8 +2642,8 @@ columns:
 訵	dbsy
 謻	dbvv
 諉	dbwn
-齿	dc11
 齒	dc11
+齿	dc11
 齵	dcar
 礧	dccc
 讄	dccc
@@ -6584,8 +6584,8 @@ columns:
 矮	gbwn
 㣦	gbwn
 䰀	gbwn
-彳	gc11
 亍	gc11
+彳	gc11
 䴁	gcag
 寓	gcar
 宆	gcgg
@@ -6691,8 +6691,8 @@ columns:
 賔	gfvb
 鬚	gfwy
 肎	gfyg
-龟	gg11
 宀	gg11
+龟	gg11
 冖	gg11
 短	ggds
 鬢	ggdv
@@ -10208,8 +10208,8 @@ columns:
 皠	jumi
 篳	jupp
 篪	jush
-版	juty
 皈	juty
+版	juty
 簟	juup
 䈳	juwv
 箟	juww
@@ -10441,8 +10441,8 @@ columns:
 啰	kbvx
 唩	kbwn
 唒	kbyk
-川	kc11
 巜	kc11
+川	kc11
 巛	kc11
 喁	kcar
 嗋	kccf
@@ -13519,8 +13519,8 @@ columns:
 隻	mtyi
 澖	mtym
 汉	mtys
-戊	mu11
 戉	mu11
+戊	mu11
 厳	muaa
 湹	mual
 渴	muan
@@ -19211,8 +19211,8 @@ columns:
 𬶍	sgwb
 䯃	sgwn
 𩽾	sgwn
-虎	sh11
 虍	sh11
+虎	sh11
 㪥	shap
 䍱	shbh
 𬳿	shbh
@@ -24338,8 +24338,8 @@ columns:
 豙	xhsl
 䇂	xhsl
 顡	xhwy
-弋	xi11
 之	xi11
+弋	xi11
 䧅	xicg
 䨑	xicg
 轪	xidc
@@ -24802,8 +24802,8 @@ columns:
 犡	xuza
 雨	xv11
 辄	xvae
-费	xvbf
 費	xvbf
+费	xvbf
 賌	xvbh
 貣	xvbi
 㸽	xvbn
