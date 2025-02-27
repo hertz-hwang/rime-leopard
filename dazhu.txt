@@ -2242,6 +2242,7 @@ dhr	硂
 dhs	丅
 dhs	亇
 dhw	訛
+di_	天
 di_	一
 dia	誇
 dia	戩
@@ -6616,6 +6617,7 @@ iet	圶
 iet	坕
 iet	躩
 iew	踋
+if_	能
 if_	風
 ifa	乿
 ifa	踸

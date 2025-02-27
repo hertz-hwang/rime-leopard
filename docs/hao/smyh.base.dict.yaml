@@ -3,7 +3,7 @@
 
 ---
 name: "smyh.base"
-version: v202502271450
+version: beta
 sort: original
 import_tables:
 columns:
@@ -2257,11 +2257,12 @@ columns:
 丅	dhs	5
 亇	dhs	0
 訛	dhw	20
+天	di1	356560	di1
 一	di1	100	d1
 誇	dia	470
 戩	dia	10
 硽	dia	0
-天	did	356560
+天	did	100	di1
 覙	did	1
 戻	did	0
 齮	die	8
@@ -6631,6 +6632,7 @@ columns:
 坕	iet	0
 躩	iet	0
 踋	iew	0
+能	if1	310279	if1
 風	if1	12357
 乿	ifa	0
 踸	ifa	0
@@ -6664,7 +6666,7 @@ columns:
 踧	ift	1
 麚	ift	0
 螚	ifv	0
-能	ifw	310279
+能	ifw	100	if1
 跜	ifw	0
 肖	ify	7084
 跀	ify	0
