@@ -302,8 +302,8 @@ Qm	毛
 Qo	舟
 Qs	{带字头}
 Qs	卅
-Qs	糸
-Qs	糹
+Fs	糸
+Fs	糹
 Qs	纟
 Qx	习
 Qy	页

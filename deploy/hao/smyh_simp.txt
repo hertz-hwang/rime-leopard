@@ -333,7 +333,7 @@
 必	lt1
 神	lu1
 快	lv1
-些	lw1
+#些	lw1
 心	lx1
 杂	ly1
 懂	lz1
