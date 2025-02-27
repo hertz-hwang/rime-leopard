@@ -22061,6 +22061,7 @@ ahde全	堊
 ahdg全	鵶
 ahdh全	亞
 ahdh全	卍
+ahdi全	𠀄
 ahdj全	䢝
 ahdl全	惡
 ahdo全	琧
@@ -22943,6 +22944,7 @@ bapj全	改
 baps全	䄾
 baqy全	䣭
 bare全	䅋
+basb全	𠀧
 basy全	廯
 batf全	醄
 baur全	穭
@@ -23939,6 +23941,7 @@ cguh全	谉
 cgvw全	畹
 cgxc全	诨
 chbh全	畭
+chdi全	𠀓
 chfs全	诊
 chfs全	畛
 chhd全	谶
@@ -24245,6 +24248,7 @@ dadr全	硗
 dads全	礳
 daec全	齓
 daei全	丂
+daei全	𠀁
 daej全	詾
 daem全	䁈
 daem全	䁉
@@ -24263,6 +24267,7 @@ dagn全	鳾
 dags全	䂝
 dahh全	䃁
 dahh全	䛩
+dahh全	𠀬
 dahl全	䜑
 dahm全	盏
 dahr全	㐁
@@ -24281,6 +24286,7 @@ dakk全	啔
 dakk全	硘
 dalf全	䃺
 dalg全	硿
+dams全	𠀯
 dand全	刬
 daod全	夨
 daod全	訋
@@ -24293,6 +24299,7 @@ darw全	誑
 datd全	䪣
 datf全	䛬
 datj全	䜡
+datp全	𠀅
 daur全	詢
 daur全	晵
 dava全	譀
@@ -24439,6 +24446,7 @@ deet全	詿
 defy全	諝
 degs全	磈
 degy全	謉
+dehr全	𠀔
 dehs全	磺
 deic全	䂶
 deih全	磕
@@ -24460,6 +24468,7 @@ deks全	砢
 deky全	訶
 denj全	碐
 deoc全	詩
+deod全	𠀋
 depa全	䛥
 depf全	誵
 derh全	硳
@@ -24492,6 +24501,7 @@ dfdx全	酈
 dffa全	變
 dffa全	㡩
 dffc全	彎
+dffd全	𠀝
 dffe全	矕
 dfff全	彨
 dffg全	鸞
@@ -24500,6 +24510,7 @@ dffh全	臠
 dffh全	㝈
 dffi全	奱
 dffj全	逦
+dffj全	𠀨
 dffk全	㘘
 dffl全	戀
 dffl全	㪻
@@ -24536,6 +24547,7 @@ dfkk全	砧
 dfkk全	扂
 dfkk全	詀
 dfkl全	磠
+dfkp全	𠀿
 dflx全	忑
 dfmj全	誳
 dfmy全	詸
@@ -24700,7 +24712,9 @@ dhrw全	硂
 dhsd全	亇
 dhsi全	丅
 dhtj全	䛘
+dhud全	𠀥
 dhvg全	亙
+dhvk全	𠀀
 dhwb全	訛
 dhym全	䛙
 di__全	一
@@ -24729,6 +24743,7 @@ digy全	硧
 dihh全	硤
 dihh全	䛟
 dihh全	䶝
+diho全	𠀚
 diia全	戩
 diif全	碜
 diif全	磣
@@ -24796,6 +24811,7 @@ djci全	辷
 djcn全	辸
 djcy全	這
 djdj全	皕
+djdj全	𠀙
 djdk全	硐
 djdk全	詷
 djdy全	礫
@@ -24819,6 +24835,7 @@ djhx全	邴
 djid全	奂
 djid全	詇
 djip全	䜂
+djjk全	𠀸
 djjl全	譿
 djkk全	詰
 djkk全	扃
@@ -24840,6 +24857,7 @@ djnr全	烉
 djnu全	碙
 djpm全	碡
 djqi全	諘
+djre全	𠀑
 djrw全	諻
 djtp全	碑
 djtp全	諀
@@ -24872,12 +24890,14 @@ dkhl全	䛱
 dkhs全	訲
 dkid全	碝
 dkih全	戹
+dkii全	𠀂
 dkin全	剚
 dkis全	乭
 dkiv全	事
 dkix全	砾
 dkjs全	砚
 dkkc全	詶
+dkkc全	𠀦
 dkkh全	启
 dklc全	勁
 dklg全	巠
@@ -24896,6 +24916,7 @@ dkre全	詋
 dkte全	碯
 dkvb全	磒
 dkve全	諿
+dkyc全	𠀷
 dlad全	䃪
 dlad全	譠
 dlap全	政
@@ -24934,12 +24955,14 @@ dlwb全	龇
 dlwb全	齜
 dlwb全	䂣
 dlwb全	訿
+dlwb全	𠀢
 dlws全	砇
 dlwy全	頙
 dlxy全	悥
 dlxy全	訫
 dmae全	誠
 dmci全	屯
+dmdi全	𠀏
 dmdk全	碱
 dmdk全	䶢
 dmdk全	諴
@@ -25154,9 +25177,11 @@ dqgs全	碻
 dqgy全	謞
 dqha全	礅
 dqha全	譈
+dqhd全	𠀣
 dqhi全	諄
 dqhs全	譹
 dqih全	扆
+dqin全	𠀺
 dqix全	諒
 dqix全	䃄
 dqjc全	䃛
@@ -25176,6 +25201,9 @@ dqrh全	䃲
 dqrs全	䃑
 dqys全	硕
 drct全	磂
+drdi全	𠀜
+drdp全	𠀩
+drdr全	𠀘
 drdw全	卼
 dreh全	尶
 drei全	兀
@@ -25404,6 +25432,7 @@ dvaj全	砸
 dvbd全	負
 dvbd全	负
 dvcc全	䶚
+dvei全	𠀼
 dvey全	誀
 dvfs全	硥
 dvhr全	訣
@@ -25467,6 +25496,7 @@ dwmi全	雏
 dwmn全	䃗
 dwms全	碌
 dwnp全	皱
+dwod全	𠀕
 dwpq全	䃢
 dwqj全	覹
 dwsy全	話
@@ -25520,6 +25550,7 @@ dxns全	㸴
 dxoc全	謝
 dxpf全	䜏
 dxre全	詵
+dxre全	𠀡
 dxrf全	䃻
 dxrs全	磤
 dxrv全	讚
@@ -27018,6 +27049,7 @@ fdmo全	㞗
 fdmo全	脙
 fdne全	䌤
 fdno全	䌳
+fdod全	𠀪
 fdoe全	䶶
 fdou全	縉
 fdps全	紆
@@ -27026,6 +27058,7 @@ fdru全	䊰
 fdtf全	䌛
 fdth全	䋼
 fdtj全	邎
+fdtp全	𠀫
 fdud全	膽
 fdud全	絙
 fdur全	㫖
@@ -29051,6 +29084,7 @@ haag全	餞
 haag全	俴
 haar全	作
 haas全	飵
+hadi全	𠀈
 hadk全	飼
 hadk全	伺
 hadr全	侥
@@ -29671,6 +29705,7 @@ hndq全	刞
 hndr全	介
 hnds全	䬢
 hner全	仁
+hner全	𠀉
 hnfn全	偂
 hnfy全	佾
 hngd全	僜
@@ -30587,6 +30622,7 @@ ihqu全	跙
 ihqz全	趄
 ihrw全	跧
 ihrz全	龪
+ihsd全	𠀊
 ihwj全	跄
 ihxe全	郛
 iiap全	䠥
@@ -30597,6 +30633,7 @@ iict全	畚
 iidd全	㚐
 iidd全	夶
 iidi全	蹊
+iidi全	𠀤
 iidx全	尖
 iiee全	䠑
 iiek全	踦
@@ -31317,6 +31354,7 @@ jdgs全	䉉
 jdgx全	䉏
 jdgy全	䇶
 jdik全	凹
+jdik全	𠀃
 jdis全	㚅
 jdiv全	筝
 jdjh全	䇤
@@ -31858,6 +31896,7 @@ jndu全	䇖
 jndy全	䛚
 jnek全	冄
 jnek全	冃
+jnek全	𠀇
 jnem全	䈍
 jneu全	竺
 jnfn全	箭
@@ -32492,6 +32531,7 @@ kgzi全	唥
 khae全	吼
 khao全	嗰
 khbh全	唋
+khdi全	𠀐
 khdz全	哶
 khek全	哬
 khet全	㘴
@@ -34757,6 +34797,7 @@ mjci全	進
 mjcl全	㔘
 mjcp全	避
 mjdb全	滟
+mjdf全	𠀴
 mjdi全	湰
 mjdk全	洞
 mjds全	湱
@@ -35747,6 +35788,7 @@ naeb全	屰
 naee全	亏
 naee全	亐
 naeh全	䵝
+naei全	𠀮
 naem全	䁿
 nafe全	塑
 nafj全	遡
@@ -35871,6 +35913,7 @@ nd__全	刂
 ndab全	䒊
 ndae全	兮
 ndae全	㽲
+ndae全	𠀒
 ndag全	饯
 ndah全	㿽
 ndaj全	师
@@ -36163,6 +36206,7 @@ njcq全	迁
 njdi全	㾎
 njdk全	痌
 njdk全	駧
+njdk全	𠀹
 njds全	騞
 njdy全	䛓
 njek全	騆
@@ -36170,6 +36214,7 @@ njet全	㾆
 njgb全	疼
 njgy全	驝
 njhm全	监
+njhr全	𠀛
 njid全	駚
 njip全	㿁
 njkj全	览
@@ -36476,6 +36521,7 @@ nrrw全	㒬
 nrrw全	尩
 nrsb全	疫
 nrsb全	癹
+nrua全	𠀻
 nrum全	鼋
 nrum全	黿
 nrur全	䵭
@@ -37815,6 +37861,7 @@ oxvb全	㩌
 oxwn全	接
 oxzi全	㩕
 oy__全	业
+oy__全	𠁁
 oydo全	攑
 oydo全	㩮
 oyed全	攪
@@ -37879,6 +37926,7 @@ pacn全	戴
 padr全	铙
 paej全	钆
 paen全	世
+paen全	𠀍
 paet全	钮
 paet全	㘽
 paet全	㦳
@@ -37889,6 +37937,7 @@ pagb全	钧
 pagi全	臷
 pagk全	觌
 pagn全	䳒
+pahx全	𠁀
 paid全	铟
 pais全	钩
 pajc全	迣
@@ -37999,6 +38048,7 @@ peet全	街
 peet全	䦆
 peet全	𫓯
 pehj全	𨱑
+pein全	𠀠
 pekj全	钶
 pekk全	𬭳
 pelj全	钌
@@ -38103,6 +38153,7 @@ pjaj全	锦
 pjbj全	铂
 pjcg全	退
 pjcs全	辻
+pjdf全	𠀵
 pjdk全	铜
 pjdk全	衕
 pjei全	钢
@@ -38119,6 +38170,7 @@ pjrw全	锽
 pjsa全	献
 pjsj全	遖
 pjsy全	南
+pjto全	𠀽
 pjvo全	锵
 pjxe全	䦁
 pkaj全	铞
@@ -38250,6 +38302,7 @@ pnxf全	锑
 pnyj全	锸
 pnym全	㭟
 pnzj全	锤
+podn全	𠀖
 podr全	锻
 pofy全	衚
 pogj全	钴
@@ -38340,6 +38393,7 @@ ptod全	犮
 ptog全	䳊
 ptoh全	盋
 ptos全	铎
+ptpn全	𠀗
 ptps全	才
 pttn全	镧
 ptur全	锏
@@ -38407,6 +38461,7 @@ pvnd全	铡
 pvtt全	镊
 pvvk全	钜
 pvvk全	衐
+pvvx全	𠀲
 pvym全	镍
 pwbs全	㔫
 pwet全	堲
@@ -39851,6 +39906,7 @@ rhjw全	玾
 rhmb全	盃
 rhnd全	玠
 rhnd全	炌
+rhni全	𠀾
 rhod全	琢
 rhqg全	靻
 rhqw全	珇
@@ -39925,6 +39981,7 @@ ritf全	瑶
 ritf全	熎
 ritp全	炒
 ritp全	䩖
+ritp全	𠀰
 riua全	㷈
 riuw全	珿
 rivb全	瑣
@@ -40103,6 +40160,7 @@ rncp全	𬊤
 rndh全	灱
 rndh全	灲
 rndw全	㺫
+rnei全	𠀱
 rnet全	爅
 rnfn全	㷙
 rnfn全	瑐
@@ -40399,6 +40457,7 @@ rtes全	㻄
 rtfc全	璠
 rtfc全	燔
 rtfw全	珤
+rtgf全	𠀶
 rthm全	烅
 rtik全	燆
 rtik全	鞽
@@ -40421,6 +40480,7 @@ rtnp全	烀
 rtoa全	珴
 rtod全	靫
 rtov全	瑵
+rtsb全	𠁃
 rtsw全	㻋
 rtta全	瑡
 rttj全	㷟
@@ -40433,6 +40493,7 @@ ruaf全	㻛
 ruaf全	焬
 ruan全	鞨
 ruan全	㷎
+ruao全	𠁅
 rubl全	爏
 rubl全	瓑
 rubt全	熳
@@ -40479,6 +40540,7 @@ rumj全	㼇
 rumk全	䪎
 rumk全	瓗
 runr全	燳
+rupd全	𠁂
 rupm全	爆
 rupp全	熚
 rupp全	㻫
@@ -41298,6 +41360,7 @@ sshh全	虤
 sshj全	䖐
 ssjd全	歽
 ssjj全	斦
+ssjj全	𠀞
 sski全	䦍
 sskk全	啠
 ssmm全	闁
@@ -41589,6 +41652,7 @@ tety全	圣
 tevr全	熈
 tewy全	頚
 tf__全	缶
+tfae全	𠀭
 tfak全	䎤
 tfbs全	釋
 tfcc全	勫
@@ -41764,6 +41828,7 @@ tpqf全	欫
 tpqf全	缼
 tpqs全	欶
 tpqy全	欢
+tpsp全	𠀆
 tpsw全	瓧
 tptp全	闭
 tpty全	叐
@@ -43303,7 +43368,9 @@ vdfb全	虾
 vdfc全	䘎
 vdfk全	兪
 vdgx全	蠏
+vdhs全	𠀌
 vdid全	䶮
+vdij全	𠀎
 vdjb全	蛨
 vdjc全	蜆
 vdjc全	䢣
@@ -44638,6 +44705,7 @@ wgzo全	鑧
 whag全	䤦
 whck全	㐥
 whcl全	鋤
+whdf全	𠀳
 whdy全	㜃
 whfa全	戮
 whfc全	勠
@@ -47628,6 +47696,7 @@ yslw全	榩
 yslx全	惁
 ysmm全	杩
 ysmm全	椚
+ysmm全	𠀟
 ysnb全	梹
 ysnd全	栵
 ysnh全	欓
@@ -49429,6 +49498,7 @@ zydn全	藇
 zyee全	蓕
 zyem全	葙
 zyet全	荰
+zyfb全	𠁄
 zygr全	萙
 zyhh全	萊
 zyhr全	萸

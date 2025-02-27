@@ -369,6 +369,7 @@ columns:
 鵶	ahdg
 亞	ahdh
 卍	ahdh
+𠀄	ahdi
 䢝	ahdj
 惡	ahdl
 琧	ahdo
@@ -1251,6 +1252,7 @@ columns:
 䄾	baps
 䣭	baqy
 䅋	bare
+𠀧	basb
 廯	basy
 醄	batf
 穭	baur
@@ -2247,6 +2249,7 @@ columns:
 畹	cgvw
 诨	cgxc
 畭	chbh
+𠀓	chdi
 诊	chfs
 畛	chfs
 谶	chhd
@@ -2553,6 +2556,7 @@ columns:
 礳	dads
 齓	daec
 丂	daei
+𠀁	daei
 詾	daej
 䁈	daem
 䁉	daem
@@ -2571,6 +2575,7 @@ columns:
 䂝	dags
 䃁	dahh
 䛩	dahh
+𠀬	dahh
 䜑	dahl
 盏	dahm
 㐁	dahr
@@ -2589,6 +2594,7 @@ columns:
 硘	dakk
 䃺	dalf
 硿	dalg
+𠀯	dams
 刬	dand
 夨	daod
 訋	daod
@@ -2601,6 +2607,7 @@ columns:
 䪣	datd
 䛬	datf
 䜡	datj
+𠀅	datp
 詢	daur
 晵	daur
 譀	dava
@@ -2747,6 +2754,7 @@ columns:
 諝	defy
 磈	degs
 謉	degy
+𠀔	dehr
 磺	dehs
 䂶	deic
 磕	deih
@@ -2768,6 +2776,7 @@ columns:
 訶	deky
 碐	denj
 詩	deoc
+𠀋	deod
 䛥	depa
 誵	depf
 硳	derh
@@ -2800,6 +2809,7 @@ columns:
 變	dffa
 㡩	dffa
 彎	dffc
+𠀝	dffd
 矕	dffe
 彨	dfff
 鸞	dffg
@@ -2808,6 +2818,7 @@ columns:
 㝈	dffh
 奱	dffi
 逦	dffj
+𠀨	dffj
 㘘	dffk
 戀	dffl
 㪻	dffl
@@ -2844,6 +2855,7 @@ columns:
 扂	dfkk
 詀	dfkk
 磠	dfkl
+𠀿	dfkp
 忑	dflx
 誳	dfmj
 詸	dfmy
@@ -3008,7 +3020,9 @@ columns:
 亇	dhsd
 丅	dhsi
 䛘	dhtj
+𠀥	dhud
 亙	dhvg
+𠀀	dhvk
 訛	dhwb
 䛙	dhym
 一	di11
@@ -3037,6 +3051,7 @@ columns:
 硤	dihh
 䛟	dihh
 䶝	dihh
+𠀚	diho
 戩	diia
 碜	diif
 磣	diif
@@ -3104,6 +3119,7 @@ columns:
 辸	djcn
 這	djcy
 皕	djdj
+𠀙	djdj
 硐	djdk
 詷	djdk
 礫	djdy
@@ -3127,6 +3143,7 @@ columns:
 奂	djid
 詇	djid
 䜂	djip
+𠀸	djjk
 譿	djjl
 詰	djkk
 扃	djkk
@@ -3148,6 +3165,7 @@ columns:
 碙	djnu
 碡	djpm
 諘	djqi
+𠀑	djre
 諻	djrw
 碑	djtp
 諀	djtp
@@ -3180,12 +3198,14 @@ columns:
 訲	dkhs
 碝	dkid
 戹	dkih
+𠀂	dkii
 剚	dkin
 乭	dkis
 事	dkiv
 砾	dkix
 砚	dkjs
 詶	dkkc
+𠀦	dkkc
 启	dkkh
 勁	dklc
 巠	dklg
@@ -3204,6 +3224,7 @@ columns:
 碯	dkte
 磒	dkvb
 諿	dkve
+𠀷	dkyc
 䃪	dlad
 譠	dlad
 政	dlap
@@ -3242,12 +3263,14 @@ columns:
 齜	dlwb
 䂣	dlwb
 訿	dlwb
+𠀢	dlwb
 砇	dlws
 頙	dlwy
 悥	dlxy
 訫	dlxy
 誠	dmae
 屯	dmci
+𠀏	dmdi
 碱	dmdk
 䶢	dmdk
 諴	dmdk
@@ -3462,9 +3485,11 @@ columns:
 謞	dqgy
 礅	dqha
 譈	dqha
+𠀣	dqhd
 諄	dqhi
 譹	dqhs
 扆	dqih
+𠀺	dqin
 諒	dqix
 䃄	dqix
 䃛	dqjc
@@ -3484,6 +3509,9 @@ columns:
 䃑	dqrs
 硕	dqys
 磂	drct
+𠀜	drdi
+𠀩	drdp
+𠀘	drdr
 卼	drdw
 尶	dreh
 兀	drei
@@ -3712,6 +3740,7 @@ columns:
 負	dvbd
 负	dvbd
 䶚	dvcc
+𠀼	dvei
 誀	dvey
 硥	dvfs
 訣	dvhr
@@ -3775,6 +3804,7 @@ columns:
 䃗	dwmn
 碌	dwms
 皱	dwnp
+𠀕	dwod
 䃢	dwpq
 覹	dwqj
 話	dwsy
@@ -3828,6 +3858,7 @@ columns:
 謝	dxoc
 䜏	dxpf
 詵	dxre
+𠀡	dxre
 䃻	dxrf
 磤	dxrs
 讚	dxrv
@@ -5326,6 +5357,7 @@ columns:
 脙	fdmo
 䌤	fdne
 䌳	fdno
+𠀪	fdod
 䶶	fdoe
 縉	fdou
 紆	fdps
@@ -5334,6 +5366,7 @@ columns:
 䌛	fdtf
 䋼	fdth
 邎	fdtj
+𠀫	fdtp
 膽	fdud
 絙	fdud
 㫖	fdur
@@ -7359,6 +7392,7 @@ columns:
 俴	haag
 作	haar
 飵	haas
+𠀈	hadi
 飼	hadk
 伺	hadk
 侥	hadr
@@ -7979,6 +8013,7 @@ columns:
 介	hndr
 䬢	hnds
 仁	hner
+𠀉	hner
 偂	hnfn
 佾	hnfy
 僜	hngd
@@ -8895,6 +8930,7 @@ columns:
 趄	ihqz
 跧	ihrw
 龪	ihrz
+𠀊	ihsd
 跄	ihwj
 郛	ihxe
 䠥	iiap
@@ -8905,6 +8941,7 @@ columns:
 㚐	iidd
 夶	iidd
 蹊	iidi
+𠀤	iidi
 尖	iidx
 䠑	iiee
 踦	iiek
@@ -9625,6 +9662,7 @@ columns:
 䉏	jdgx
 䇶	jdgy
 凹	jdik
+𠀃	jdik
 㚅	jdis
 筝	jdiv
 䇤	jdjh
@@ -10166,6 +10204,7 @@ columns:
 䛚	jndy
 冄	jnek
 冃	jnek
+𠀇	jnek
 䈍	jnem
 竺	jneu
 箭	jnfn
@@ -10800,6 +10839,7 @@ columns:
 吼	khae
 嗰	khao
 唋	khbh
+𠀐	khdi
 哶	khdz
 哬	khek
 㘴	khet
@@ -13065,6 +13105,7 @@ columns:
 㔘	mjcl
 避	mjcp
 滟	mjdb
+𠀴	mjdf
 湰	mjdi
 洞	mjdk
 湱	mjds
@@ -14055,6 +14096,7 @@ columns:
 亏	naee
 亐	naee
 䵝	naeh
+𠀮	naei
 䁿	naem
 塑	nafe
 遡	nafj
@@ -14179,6 +14221,7 @@ columns:
 䒊	ndab
 兮	ndae
 㽲	ndae
+𠀒	ndae
 饯	ndag
 㿽	ndah
 师	ndaj
@@ -14471,6 +14514,7 @@ columns:
 㾎	njdi
 痌	njdk
 駧	njdk
+𠀹	njdk
 騞	njds
 䛓	njdy
 騆	njek
@@ -14478,6 +14522,7 @@ columns:
 疼	njgb
 驝	njgy
 监	njhm
+𠀛	njhr
 駚	njid
 㿁	njip
 览	njkj
@@ -14784,6 +14829,7 @@ columns:
 尩	nrrw
 疫	nrsb
 癹	nrsb
+𠀻	nrua
 鼋	nrum
 黿	nrum
 䵭	nrur
@@ -16123,6 +16169,7 @@ columns:
 接	oxwn
 㩕	oxzi
 业	oy11
+𠁁	oy11
 攑	oydo
 㩮	oydo
 攪	oyed
@@ -16187,6 +16234,7 @@ columns:
 铙	padr
 钆	paej
 世	paen
+𠀍	paen
 钮	paet
 㘽	paet
 㦳	paet
@@ -16197,6 +16245,7 @@ columns:
 臷	pagi
 觌	pagk
 䳒	pagn
+𠁀	pahx
 铟	paid
 钩	pais
 迣	pajc
@@ -16307,6 +16356,7 @@ columns:
 䦆	peet
 𫓯	peet
 𨱑	pehj
+𠀠	pein
 钶	pekj
 𬭳	pekk
 钌	pelj
@@ -16411,6 +16461,7 @@ columns:
 铂	pjbj
 退	pjcg
 辻	pjcs
+𠀵	pjdf
 铜	pjdk
 衕	pjdk
 钢	pjei
@@ -16427,6 +16478,7 @@ columns:
 献	pjsa
 遖	pjsj
 南	pjsy
+𠀽	pjto
 锵	pjvo
 䦁	pjxe
 铞	pkaj
@@ -16558,6 +16610,7 @@ columns:
 锸	pnyj
 㭟	pnym
 锤	pnzj
+𠀖	podn
 锻	podr
 衚	pofy
 钴	pogj
@@ -16648,6 +16701,7 @@ columns:
 䳊	ptog
 盋	ptoh
 铎	ptos
+𠀗	ptpn
 才	ptps
 镧	pttn
 锏	ptur
@@ -16715,6 +16769,7 @@ columns:
 镊	pvtt
 钜	pvvk
 衐	pvvk
+𠀲	pvvx
 镍	pvym
 㔫	pwbs
 堲	pwet
@@ -18159,6 +18214,7 @@ columns:
 盃	rhmb
 玠	rhnd
 炌	rhnd
+𠀾	rhni
 琢	rhod
 靻	rhqg
 珇	rhqw
@@ -18233,6 +18289,7 @@ columns:
 熎	ritf
 炒	ritp
 䩖	ritp
+𠀰	ritp
 㷈	riua
 珿	riuw
 瑣	rivb
@@ -18411,6 +18468,7 @@ columns:
 灱	rndh
 灲	rndh
 㺫	rndw
+𠀱	rnei
 爅	rnet
 㷙	rnfn
 瑐	rnfn
@@ -18707,6 +18765,7 @@ columns:
 璠	rtfc
 燔	rtfc
 珤	rtfw
+𠀶	rtgf
 烅	rthm
 燆	rtik
 鞽	rtik
@@ -18729,6 +18788,7 @@ columns:
 珴	rtoa
 靫	rtod
 瑵	rtov
+𠁃	rtsb
 㻋	rtsw
 瑡	rtta
 㷟	rttj
@@ -18741,6 +18801,7 @@ columns:
 焬	ruaf
 鞨	ruan
 㷎	ruan
+𠁅	ruao
 爏	rubl
 瓑	rubl
 熳	rubt
@@ -18787,6 +18848,7 @@ columns:
 䪎	rumk
 瓗	rumk
 燳	runr
+𠁂	rupd
 爆	rupm
 熚	rupp
 㻫	rupp
@@ -19606,6 +19668,7 @@ columns:
 䖐	sshj
 歽	ssjd
 斦	ssjj
+𠀞	ssjj
 䦍	sski
 啠	sskk
 闁	ssmm
@@ -19897,6 +19960,7 @@ columns:
 熈	tevr
 頚	tewy
 缶	tf11
+𠀭	tfae
 䎤	tfak
 釋	tfbs
 勫	tfcc
@@ -20072,6 +20136,7 @@ columns:
 缼	tpqf
 欶	tpqs
 欢	tpqy
+𠀆	tpsp
 瓧	tpsw
 闭	tptp
 叐	tpty
@@ -21611,7 +21676,9 @@ columns:
 䘎	vdfc
 兪	vdfk
 蠏	vdgx
+𠀌	vdhs
 䶮	vdid
+𠀎	vdij
 蛨	vdjb
 蜆	vdjc
 䢣	vdjc
@@ -22946,6 +23013,7 @@ columns:
 䤦	whag
 㐥	whck
 鋤	whcl
+𠀳	whdf
 㜃	whdy
 戮	whfa
 勠	whfc
@@ -25936,6 +26004,7 @@ columns:
 惁	yslx
 杩	ysmm
 椚	ysmm
+𠀟	ysmm
 梹	ysnb
 栵	ysnd
 欓	ysnh
@@ -27737,6 +27806,7 @@ columns:
 蓕	zyee
 葙	zyem
 荰	zyet
+𠁄	zyfb
 萙	zygr
 萊	zyhh
 萸	zyhr

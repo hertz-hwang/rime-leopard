@@ -271,6 +271,7 @@ Os	扌
 Os	龵
 Ov	予
 Oy	业
+Oy	𠁁
 Pd	丁
 Pg	{即字旁}
 Pg	艮
