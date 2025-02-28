@@ -112,8 +112,10 @@ Gg	宀
 Gg	龟
 Gi	至
 Gn	鳥
+Gn	{鳥省}
 Gs	矢
 Gu	烏
+Gu	{烏省}
 Gy	{甬字底}
 Gy	用
 Hi	子

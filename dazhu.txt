@@ -21723,6 +21723,7 @@ nu;	总是
 全aaax	窄
 全aaax	鄒
 全aaee	乜
+全aaee	𠃏
 全aaet	狃
 全aaeu	峱
 全aaev	䰲
@@ -21915,6 +21916,13 @@ nu;	总是
 全ae__	乚
 全ae__	䶹
 全ae__	乛
+全ae__	𠃉
+全ae__	𠃊
+全ae__	𠃋
+全ae__	𠃌
+全ae__	𠃍
+全ae__	𠃑
+全ae__	𠄌
 全aeaq	㺇
 全aecv	䱌
 全aecx	䆠
@@ -21998,6 +22006,7 @@ nu;	总是
 全afog	䱟
 全afol	怱
 全afpq	䱼
+全afse	𠃓
 全afsk	勿
 全afsm	縻
 全afsp	㣊
@@ -22061,6 +22070,7 @@ nu;	总是
 全ahdh	卍
 全ahdi	𠀄
 全ahee	𠁴
+全ahgy	𠃰
 全ahha	䱔
 全ahhd	㡨
 全ahhd	㺤
@@ -22089,6 +22099,7 @@ nu;	总是
 全ahrk	勽
 全ahrv	魜
 全ahse	鯾
+全ahse	𠄍
 全ahsk	圂
 全ahsx	䆥
 全ahtf	猻
@@ -22346,6 +22357,7 @@ nu;	总是
 全amjk	函
 全amjk	雟
 全amjk	窋
+全amjk	𠃨
 全amjw	顄
 全amna	㘤
 全amqo	猟
@@ -22523,6 +22535,7 @@ nu;	总是
 全arda	鮳
 全ardi	狉
 全ardi	魾
+全aree	𠃔
 全arek	𠁤
 全aret	免
 全argg	窕
@@ -22767,6 +22780,7 @@ nu;	总是
 全avvb	圚
 全avvk	鮔
 全avvx	㡅
+全avwe	𠃥
 全avwv	鮇
 全avxk	匇
 全avxx	穸
@@ -22915,6 +22929,7 @@ nu;	总是
 全babh	稛
 全babh	㢝
 全badk	䣳
+全baej	𠃚
 全bafm	醾
 全bafs	醿
 全bagg	㡲
@@ -23011,6 +23026,7 @@ nu;	总是
 全bdjh	䅐
 全bdkc	稫
 全bdkg	䴉
+全bdki	𠃯
 全bdkj	還
 全bdko	鹮
 全bdkq	睘
@@ -23155,6 +23171,7 @@ nu;	总是
 全bhih	季
 全bhih	秄
 全bhjg	庘
+全bhki	𠃷
 全bhma	黐
 全bhmc	䵗
 全bhmd	譍
@@ -23663,6 +23680,7 @@ nu;	总是
 全bvvb	䅪
 全bvvk	䣰
 全bvvk	秬
+全bvvk	𠃬
 全bvvw	廮
 全bvvx	移
 全bvvx	㢁
@@ -24736,6 +24754,7 @@ nu;	总是
 全diek	碕
 全diek	䛴
 全diek	𬺈
+全difa	𠃴
 全difs	碸
 全dify	諷
 全dify	硝
@@ -24874,6 +24893,7 @@ nu;	总是
 全djvb	謮
 全djym	䛶
 全djzk	譗
+全dkae	𠃞
 全dkap	啟
 全dkbb	扈
 全dkcc	㽬
@@ -25111,6 +25131,7 @@ nu;	总是
 全docj	䙸
 全docy	討
 全dodd	久
+全dodf	𠂪
 全dodr	碫
 全dods	䂖
 全doet	垩
@@ -25159,6 +25180,7 @@ nu;	总是
 全dphm	盂
 全dpjc	迂
 全dpjs	諵
+全dpki	𠃗
 全dpkj	謹
 全dpkr	讌
 全dplj	䜔
@@ -25699,7 +25721,9 @@ nu;	总是
 全eaaa	䁭
 全eaaq	堗
 全eaaq	鼵
+全eaeq	𠃪
 全eaet	圠
+全eaeu	𠃸
 全eafs	场
 全eafs	䀛
 全eafs	圽
@@ -26124,6 +26148,7 @@ nu;	总是
 全ejcl	辽
 全ejcq	䢗
 全ejcy	迆
+全ejdh	𠂳
 全ejdi	垇
 全ejdj	覧
 全ejdk	垌
@@ -27164,6 +27189,7 @@ nu;	总是
 全ffdf	胩
 全ffes	㽰
 全ffff	朤
+全ffff	𠃧
 全fffm	䐖
 全fffs	胪
 全fffy	綳
@@ -27588,6 +27614,7 @@ nu;	总是
 全flww	頿
 全flxj	㤂
 全fm__	米
+全fm__	𠂭
 全fmae	絾
 全fmdk	緘
 全fmdn	䐪
@@ -27890,6 +27917,7 @@ nu;	总是
 全fs__	彡
 全fs__	糸
 全fs__	糹
+全fs__	𠃜
 全fsch	臚
 全fsch	纑
 全fscs	屒
@@ -28034,6 +28062,7 @@ nu;	总是
 全fums	䋲
 全fupa	㦸
 全fupa	㪕
+全fupa	𠃵
 全fupe	䋸
 全fupe	腯
 全fupg	鵫
@@ -28087,6 +28116,7 @@ nu;	总是
 全fvlj	遴
 全fvlk	粼
 全fvlk	粦
+全fvlk	𠄈
 全fvln	㔂
 全fvls	斴
 全fvlt	甐
@@ -28389,6 +28419,7 @@ nu;	总是
 全gdtc	㓃
 全gdtn	寡
 全gdtp	寕
+全gdtp	𠂶
 全gdua	戭
 全gdua	㪦
 全gdud	宣
@@ -29245,6 +29276,7 @@ nu;	总是
 全hdil	您
 全hdil	㒎
 全hdis	丄
+全hdis	𠃎
 全hdiv	鿇
 全hdix	你
 全hdjb	佰
@@ -29441,12 +29473,14 @@ nu;	总是
 全hhen	剉
 全hhet	坐
 全hhfs	飻
+全hhha	𠃀
 全hhhe	䁞
 全hhhe	侳
 全hhhe	睂
 全hhhh	𠁠
 全hhhh	𠁭
 全hhhh	𠁮
+全hhhh	𠂹
 全hhhi	孨
 全hhhp	傘
 全hhhq	俎
@@ -30454,6 +30488,7 @@ nu;	总是
 全idpg	鶢
 全idps	趶
 全idpt	爰
+全idra	𠄂
 全idrh	盡
 全idrh	䀆
 全idrt	躞
@@ -30596,6 +30631,7 @@ nu;	总是
 全ignb	䳤
 全ignd	䲪
 全igns	䲼
+全igoa	𠃿
 全igpk	䠖
 全igpk	趦
 全igpq	欸
@@ -30603,6 +30639,7 @@ nu;	总是
 全igpt	爱
 全igrt	䬒
 全igss	矣
+全igta	𠃶
 全igti	䠉
 全igts	辤
 全igtw	㼧
@@ -30617,8 +30654,11 @@ nu;	总是
 全igwn	氨
 全igxn	牵
 全igys	甬
+全ihaa	𠄉
 全ihae	乳
 全ihak	㐠
+全ihak	𠄇
+全ihap	𠄀
 全ihaq	䟮
 全ihbh	䞮
 全ihbh	䟻
@@ -30767,6 +30807,7 @@ nu;	总是
 全ijvb	蹟
 全ijvb	䟄
 全ikae	乨
+全ikae	𠃭
 全ikcd	夼
 全ikcq	氚
 全ikcy	䟁
@@ -30911,6 +30952,7 @@ nu;	总是
 全invb	躀
 全invj	躨
 全inzc	跰
+全ioae	𠃹
 全ioca	寽
 全iocd	夺
 全iodd	太
@@ -31372,6 +31414,7 @@ nu;	总是
 全jdaq	䈆
 全jdbb	艳
 全jdbf	牖
+全jddn	𠃢
 全jdds	籪
 全jddy	樂
 全jdfi	籭
@@ -31414,6 +31457,7 @@ nu;	总是
 全jdzc	笄
 全jeag	筠
 全jecu	䇫
+全jeea	𠃾
 全jeec	羀
 全jeed	䍞
 全jeei	网
@@ -31765,6 +31809,7 @@ nu;	总是
 全jjkr	篼
 全jjlk	䇨
 全jjma	皦
+全jjnb	𠂴
 全jjnn	䈀
 全jjoc	筹
 全jjon	鿺
@@ -32438,6 +32483,7 @@ nu;	总是
 全kdji	唤
 全kdji	喚
 全kdjk	哯
+全kdkc	𠃤
 全kdkd	𠂩
 全kdki	呝
 全kdlr	嘕
@@ -32507,6 +32553,7 @@ nu;	总是
 全kfkk	呫
 全kfmj	啒
 全kfmk	咪
+全kfms	𠃮
 全kfna	啿
 全kfnb	唭
 全kfnd	剈
@@ -32639,6 +32686,7 @@ nu;	总是
 全kite	㗂
 全kitf	嗂
 全kitp	吵
+全kitp	𠃣
 全kitr	噅
 全kitw	㼲
 全kiua	唵
@@ -32647,12 +32695,14 @@ nu;	总是
 全kivb	嗩
 全kivk	㖀
 全kiwn	哸
+全kixi	𠃝
 全kixk	乐
 全kixn	哞
 全kiyj	㗖
 全kiym	啋
 全kizk	唗
 全kj__	见
+全kjae	𠃡
 全kjao	啲
 全kjao	嚋
 全kjbk	㕷
@@ -32718,6 +32768,7 @@ nu;	总是
 全kkhl	患
 全kkhp	𠁸
 全kkhs	串
+全kkii	𠃐
 全kkjh	㖞
 全kkkb	嗈
 全kkkc	㖄
@@ -32821,6 +32872,7 @@ nu;	总是
 全knpq	㰨
 全knqk	吀
 全knuw	嘦
+全knvi	𠃺
 全knwr	嗛
 全knxf	㖒
 全knyj	喢
@@ -33251,6 +33303,7 @@ nu;	总是
 全ladk	祠
 全laed	㪲
 全laed	㪳
+全laeg	𠃖
 全laej	恟
 全laes	礼
 全laet	忸
@@ -33376,6 +33429,7 @@ nu;	总是
 全ldji	㪱
 全ldji	愌
 全ldjs	視
+全ldjs	𠄆
 全ldjw	斍
 全ldjx	悓
 全ldkc	福
@@ -33653,6 +33707,7 @@ nu;	总是
 全lkrw	䄇
 全lkrw	悜
 全lkte	惱
+全lktk	𠃳
 全lkvb	愪
 全lkvj	慶
 全lkvr	廌
@@ -33674,6 +33729,7 @@ nu;	总是
 全llii	步
 全llii	歨
 全llis	祉
+全lljj	𠃙
 全llkk	悋
 全lllf	繠
 全llli	歮
@@ -33726,6 +33782,7 @@ nu;	总是
 全lnau	憎
 全lnby	禉
 全lnby	㥢
+全lnby	𠄁
 全lncp	惮
 全lncp	禅
 全lndd	禌
@@ -34042,6 +34099,7 @@ nu;	总是
 全lush	㥴
 全luty	㤆
 全luua	懨
+全luuk	𠄋
 全luup	憛
 全luup	禫
 全luwg	愰
@@ -34102,6 +34160,7 @@ nu;	总是
 全lwbi	此
 全lwca	歶
 全lwdg	觜
+全lwdn	𠂱
 全lwds	砦
 全lwdy	訾
 全lwed	㦎
@@ -34261,6 +34320,7 @@ nu;	总是
 全madr	浇
 全mady	渹
 全maee	漥
+全maei	𠃲
 全maej	洶
 全maem	㴭
 全maet	沑
@@ -35480,6 +35540,7 @@ nu;	总是
 全mudi	泹
 全mudi	淏
 全mudk	洉
+全mudk	𠄄
 全mudo	淂
 全mudo	璗
 全mudr	燙
@@ -35987,6 +36048,7 @@ nu;	总是
 全ndjh	病
 全ndji	痪
 全ndji	瘓
+全ndjj	𠃇
 全ndkc	䮠
 全ndkl	痙
 全ndli	症
@@ -36039,6 +36101,7 @@ nu;	总是
 全nemw	盲
 全nenj	䮚
 全neoc	痔
+全neos	𠂵
 全nepa	㾙
 全nepa	䮎
 全neru	㸙
@@ -36064,6 +36127,7 @@ nu;	总是
 全nfjm	馺
 全nfkk	點
 全nfkk	痁
+全nfmq	𠂲
 全nfna	瘎
 全nfna	黮
 全nfnb	騏
@@ -36234,6 +36298,7 @@ nu;	总是
 全niua	黤
 全nivm	䮇
 全nivv	㿐
+全niwa	𠃽
 全niwc	勜
 全niwg	鶲
 全niwn	馁
@@ -36332,6 +36397,7 @@ nu;	总是
 全nkpw	瘻
 全nkpy	㿋
 全nkpy	䵲
+全nkqi	𠂻
 全nkra	敚
 全nkra	敓
 全nkre	兑
@@ -36490,6 +36556,7 @@ nu;	总是
 全np__	皮
 全npae	疶
 全npai	黩
+全npak	𠃻
 全npar	驖
 全npay	䮜
 全npcp	癉
@@ -36743,6 +36810,7 @@ nu;	总是
 全nvvk	駏
 全nvvn	馔
 全nvvv	䯀
+全nvvv	𠂼
 全nvvw	瘿
 全nvvw	癭
 全nvvx	黟
@@ -37010,6 +37078,7 @@ nu;	总是
 全odcl	拗
 全oddd	㩡
 全odei	扙
+全odfd	𠂫
 全odfi	攦
 全odfy	掮
 全odgl	㩂
@@ -37032,6 +37101,7 @@ nu;	总是
 全odkn	㨽
 全odmc	扽
 全odmo	捄
+全odmr	𠃈
 全odms	揼
 全odnc	㩅
 全odne	擟
@@ -37638,6 +37708,7 @@ nu;	总是
 全oslx	摅
 全oslx	悊
 全osms	捫
+全osna	𠄅
 全osnb	捠
 全osnd	挒
 全osnh	攩
@@ -37983,6 +38054,8 @@ nu;	总是
 全paej	钆
 全paen	世
 全paen	𠀍
+全paen	𠃟
+全paes	𠃒
 全paet	钮
 全paet	㘽
 全paet	㦳
@@ -38153,6 +38226,7 @@ nu;	总是
 全pgfj	𫓧
 全pgfs	索
 全pgha	㪍
+全pgha	𠃱
 全pghc	勃
 全pghg	鵓
 全pghi	孛
@@ -38503,6 +38577,7 @@ nu;	总是
 全purn	昔
 全pusj	斮
 全puty	钣
+全puuk	𠄊
 全puup	镡
 全puur	锠
 全puww	锟
@@ -39836,6 +39911,7 @@ nu;	总是
 全reih	熆
 全reis	珐
 全rejd	爦
+全reje	𠃕
 全rejh	爁
 全rejh	璼
 全rejl	耇
@@ -41076,6 +41152,7 @@ nu;	总是
 全sgwn	𩽾
 全sh__	虍
 全sh__	虎
+全shae	𠃫
 全shag	閥
 全shap	㪥
 全shbh	䍱
@@ -41666,6 +41743,7 @@ nu;	总是
 全taec	㔡
 全taei	囟
 全tael	恖
+全taep	𠂺
 全taew	顖
 全taew	䪿
 全tafa	粤
@@ -41697,8 +41775,10 @@ nu;	总是
 全tckk	耞
 全tcls	勅
 全tcly	劝
+全tcqi	𠂽
 全tcqp	乇
 全tctp	甶
+全tctq	𠃁
 全tddh	耭
 全tdeg	䰤
 全tdgn	鶇
@@ -41724,6 +41804,7 @@ nu;	总是
 全teih	阖
 全teis	丢
 全tejj	䎫
+全tepa	𠃼
 全tety	圣
 全tevr	熈
 全tewy	頚
@@ -41766,6 +41847,7 @@ nu;	总是
 全thdy	䘓
 全thgk	䘔
 全thhe	䦷
+全thhp	𠂿
 全thij	䘒
 全thil	耔
 全thjm	闸
@@ -41802,6 +41884,7 @@ nu;	总是
 全tikw	䎗
 全tind	乔
 全tisp	么
+全tisy	𠂷
 全titp	耖
 全titp	𠂚
 全tiua	阉
@@ -41921,6 +42004,7 @@ nu;	总是
 全tpxe	䢴
 全tpyg	谸
 全tqbg	耲
+全tqez	𠂸
 全tqjp	凢
 全tqml	耗
 全tqmw	瓱
@@ -41956,9 +42040,12 @@ nu;	总是
 全ttps	阜
 全ttpv	䘀
 全ttpw	顊
+全ttrb	𠂾
+全ttrd	𠃂
 全ttta	敠
 全ttta	敪
 全tttc	㯩
+全tttf	𠃆
 全tttg	鵽
 全ttth	叠
 全tttj	逫
@@ -42042,6 +42129,7 @@ nu;	总是
 全tzlr	䍎
 全tzmt	耯
 全tznb	䍈
+全tzos	𠂯
 全tzpm	罐
 全tzur	阍
 全tzyl	耘
@@ -42060,6 +42148,7 @@ nu;	总是
 全uaeg	䯆
 全uaer	电
 全uaes	乢
+全uaey	𠃦
 全uafa	敡
 全uafg	鶍
 全uafj	逷
@@ -42103,6 +42192,7 @@ nu;	总是
 全uaxm	靥
 全uaxs	岤
 全ubav	髑
+全ubbc	𠂬
 全ubbd	磿
 全ubbh	厤
 全ubbl	歷
@@ -42144,6 +42234,7 @@ nu;	总是
 全ubru	曙
 全ubtx	鄤
 全ubty	曼
+全ubvb	𠃅
 全ubwe	巍
 全ubwm	嵻
 全ubwn	崣
@@ -42169,6 +42260,7 @@ nu;	总是
 全ucym	髁
 全udaa	㦹
 全udaa	敭
+全udaa	𠂰
 全udad	屿
 全udae	甹
 全udaf	昜
@@ -42194,6 +42286,7 @@ nu;	总是
 全udgn	鴠
 全udgx	嶰
 全udgy	崅
+全udha	𠂮
 全udhr	昈
 全udic	𠂋
 全udid	昊
@@ -42207,6 +42300,7 @@ nu;	总是
 全udjs	峴
 全udkc	劶
 全udke	垕
+全udki	𠃘
 全udkj	逅
 全udkk	后
 全udkx	郈
@@ -42239,6 +42333,7 @@ nu;	总是
 全uduw	峞
 全udvj	厦
 全udvj	巎
+全udwb	𠃃
 全udwj	卮
 全udwl	㫸
 全udwl	崨
@@ -42873,6 +42968,7 @@ nu;	总是
 全uqpd	㠤
 全uqsj	嶄
 全uqsj	嶃
+全uquq	𠃄
 全uquz	巐
 全uqyy	𬱖
 全ur__	曰
@@ -43642,6 +43738,7 @@ nu;	总是
 全vhdz	䖹
 全vhfs	聄
 全vhfs	䝩
+全vhfs	𠃩
 全vhgn	鴂
 全vhhd	䘋
 全vhhf	䗛
@@ -44844,6 +44941,7 @@ nu;	总是
 全whrw	姾
 全whse	㛹
 全whsj	彖
+全whsj	𠃛
 全whtj	姙
 全whtj	銋
 全whvc	䗍
@@ -45258,6 +45356,7 @@ nu;	总是
 全wogj	鈷
 全wogn	姑
 全wons	鸹
+全wood	𠃠
 全wopg	娘
 全wopg	鋃
 全wopx	鎯
@@ -47881,6 +47980,7 @@ nu;	总是
 全yudg	鸉
 全yudi	查
 全yudi	柦
+全yudk	𠄃
 全yudn	栃
 全yudn	皶
 全yudo	棏
@@ -77408,6 +77508,106 @@ nu;	总是
 ({撇类}儿{横类}厶,TpReDiIs,shèn,CJK-B)	𠂧
 ({撇类}{扁字心},TpYc,,CJK-B)	𠂨
 ({卬字旁}{横类}{乐二}{横类},KkDiKkDi,,CJK-B)	𠂩
+(乃{捺、点类}{横类}卜,DnOdDiFb,,CJK-B)	𠂪
+({捺、点类}{横类}卜乃,OdDiFbDn,,CJK-B)	𠂫
+({反字框}巴,UcBb,,CJK-B)	𠂬
+({鬯字头无凵},Fm,,CJK-B)	𠂭
+({反字框}{横类}{竖类}{折类},UcDiHsAe,,CJK-B)	𠂮
+({撇类}艹{举字底},TpZcOs,,CJK-B)	𠂯
+({反字框}{横类}{折类}巾,UcDiAeAj,,CJK-B)	𠂰
+(止匕乃,LiWbDn,,CJK-B)	𠂱
+(千米,NqFm,,CJK-B)	𠂲
+(乂凵幺{竖类},EiJkDyHs,,CJK-B)	𠂳
+(丰冂䒑,JfJkNb,,CJK-B)	𠂴
+({乔字底}土{举字底},NdEtOs,,CJK-B)	𠂵
+({烏省}{横类}{撇类},GuDiTp,,CJK-B)	𠂶
+({撇类}大{南字心},TpIdSy,,CJK-B)	𠂷
+({撇类}{风省}土艹,TpQjEtZc,huáng,CJK-B)	𠂸
+(亻人人人,HrHrHrHr,,CJK-B)	𠂹
+({撇类}囗乂廿,TpAkEiPn,,CJK-B)	𠂺
+(千口{衣省},NqKkQi,,CJK-B)	𠂻
+({乔字底}匚匚{叚右角},NdVkVkVk,,CJK-B)	𠂼
+({撇类}田{畏字底},TpCtQi,,CJK-B)	𠂽
+({撇类}㠯不,TpTiRb,,CJK-B)	𠂾
+({撇类}人人{于无横},TpHrHrPs,,CJK-B)	𠂿
+(亻人人{折类},HrHrHrAe,,CJK-B)	𠃀
+({撇类}田{撇类}{衣省},TpCtTpQi,,CJK-B)	𠃁
+({撇类}㠯不{横类},TpTiRbDi,,CJK-B)	𠃂
+({反字框}{横类}㔾甫,UcDiWjBf,,CJK-B)	𠃃
+({反字框}{旅下角}{反字框}{旅下角},UcQiUcQi,,CJK-B)	𠃄
+(厂罒貝,UcBsVb,,CJK-B)	𠃅
+({撇类}㠯{撇类}米,TpTiTpFm,,CJK-B)	𠃆
+(千{横类}白白,NqDiJbJb,,CJK-B)	𠃇
+({段字旁无横}{横类}屮儿,OsDiMcRe,,CJK-B)	𠃈
+({折类},Ae,,CJK-B)	𠃉
+({折类},Ae,yǐn,CJK-B)	𠃊
+({折类},Ae,,CJK-B)	𠃋
+({折类},Ae,gǔn,CJK-B)	𠃌
+({折类},Ae,,CJK-B)	𠃍
+({竖类}{横类},HsDi,,CJK-B)	𠃎
+({折类}{折类},AeAe,,CJK-B)	𠃏
+(乙乙,KiKi,,CJK-B)	𠃐
+({折类},Ae,,CJK-B)	𠃑
+(十{折类},PsAe,,CJK-B)	𠃒
+({折类}{横两撇},AeFs,,CJK-B)	𠃓
+({折类}{见字底},AeRe,,CJK-B)	𠃔
+(儿丩,ReEj,,CJK-B)	𠃕
+(工{折类},LgAe,jiū,CJK-B)	𠃖
+({横类}{于无横}乙,DiPsKi,,CJK-B)	𠃗
+({反字框}{横类}乙,UcDiKi,,CJK-B)	𠃘
+(九九,LjLj,,CJK-B)	𠃙
+(己{折类},BjAe,,CJK-B)	𠃚
+({仺字底}{竖类},WjHs,,CJK-B)	𠃛
+({眉字框},Fs,,CJK-B)	𠃜
+(乙小,KiIx,,CJK-B)	𠃝
+({横类}巛{折类},DiKcAe,,CJK-B)	𠃞
+(廿{折类},PnAe,,CJK-B)	𠃟
+(彐{捺、点类}{捺、点类},WjOdOd,,CJK-B)	𠃠
+(乙丬{折类},KiJpAe,,CJK-B)	𠃡
+(冂{横类}{横类}{乔字底},JkDiDiNd,,CJK-B)	𠃢
+(乙{少三}{撇类},KiIxTp,,CJK-B)	𠃣
+({乐二}{横类}{荒字底},KkDiKc,,CJK-B)	𠃤
+({折类}未,AeVw,,CJK-B)	𠃥
+(由{折类},UyAe,,CJK-B)	𠃦
+(飞飞,FfFf,,CJK-B)	𠃧
+({折类}屮凵,AeMcJk,,CJK-B)	𠃨
+(尢人彡,VyHrFs,,CJK-B)	𠃩
+(曲{折类},EqAe,,CJK-B)	𠃪
+({凬字心}{竖类}{折类},ScHsAe,shēn,CJK-B)	𠃫
+(己{叚右角}匚,BjVkVk,,CJK-B)	𠃬
+(爪口{折类},IaKkAe,,CJK-B)	𠃭
+(乙尸水,KiFsMs,,CJK-B)	𠃮
+(禾乃乙,BhDnKi,,CJK-B)	𠃯
+({折类}人用,AeHrGy,,CJK-B)	𠃰
+(十冖子{折类},PsGgHiAe,,CJK-B)	𠃱
+(隹{折类},MiAe,,CJK-B)	𠃲
+(九口{撇类}口,LjKkTpKk,,CJK-B)	𠃳
+({横类}厶月{折类},DiIsFyAe,,CJK-B)	𠃴
+({卢字头}日十{折类},FbUrPsAe,,CJK-B)	𠃵
+(爫冖又{折类},IaGgTyAe,,CJK-B)	𠃶
+(禾子乙,BhHiKi,,CJK-B)	𠃷
+(壴{折类},EuAe,,CJK-B)	𠃸
+(爫古{折类},IaOgAe,,CJK-B)	𠃹
+(乙䒑自,KiNbVi,jiù,CJK-B)	𠃺
+(二欠三乙,NePqAsKi,,CJK-B)	𠃻
+({撇类}乂廿{折类},TpEiPnAe,,CJK-B)	𠃼
+(八厶羽{折类},NbIsWvAe,,CJK-B)	𠃽
+(冂乂乂{折类},JkEiEiAe,,CJK-B)	𠃾
+(爫宀寸{折类},IaGgOcAe,,CJK-B)	𠃿
+(爫子{折类}{于无横},IaHiAePs,,CJK-B)	𠄀
+(九丷酉,LjNbBy,,CJK-B)	𠄁
+(爫幺灬{折类},IaDyRhAe,,CJK-B)	𠄂
+(木日{横类}乙,YmUrDiKi,,CJK-B)	𠄃
+(水日{横类}乙,MsUrDiKi,,CJK-B)	𠄄
+(业羊八{折类},OySyNbAe,yè,CJK-B)	𠄅
+(九{横类}白斤,LjDiJbSj,,CJK-B)	𠄆
+(爫子{折类}口,IaHiAeKk,,CJK-B)	𠄇
+(米夕{年字底}乙,FmVxLkKi,,CJK-B)	𠄈
+(爫子{折类}里,IaHiAeAl,dòng,CJK-B)	𠄉
+(十日日乙,PsUrUrKi,,CJK-B)	𠄊
+(工日日乙,LgUrUrKi,,CJK-B)	𠄋
+({折类},Ae,jué_zhuì,CJK-B)	𠄌
+({折类}{竖类},AeHs,jié,CJK-B)	𠄍
 (亠田心,LwCtLx,xí,CJK-B)	𠅤
 (了凵,ElJk,ǒu,CJK-B)	𠙶
 (口{寿字头}阝,KkJfXe,bāng,CJK-B)	𠳐
