@@ -21704,6 +21704,7 @@ og;	找到
 ro;	支持
 ll;	心情
 nu;	总是
+cg;	遇到
 全aa__	乍
 全aaaa	芻
 全aaaa	䲜
