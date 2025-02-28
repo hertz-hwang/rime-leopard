@@ -302,14 +302,11 @@ columns:
 鮲	aha	0
 狳	ahb	20
 鮽	ahb	0
-堊	ahe	76
 鯾	ahe	1
 猻	ahf	0
 猴	ahg	4059
 帿	ahg	0
 鯸	ahg	0
-鵶	ahg	0
-亞	ahh	5633
 猛	ahh	100	ah1
 卍	ahh	14
 鯭	ahh	0
@@ -318,10 +315,8 @@ columns:
 狎	ahj	86
 魻	ahj	0
 鱁	ahj	0
-惡	ahl	1988
 慁	ahl	0
 魪	ahn	0
-琧	aho	0
 鮒	aho	0
 狙	ahq	832
 囚	ahr	1592
@@ -329,7 +324,6 @@ columns:
 勽	ahr	0
 魜	ahr	0
 圂	ahs	0
-蝁	ahv	0
 猞	ahw	37
 囮	ahw	1
 魤	ahw	0
@@ -2411,18 +2405,22 @@ columns:
 戽	dld	8
 詃	dld	0
 譠	dld	0
+堊	dle	76
 扉	dlf	529
 誹	dlf	25
 靕	dlf	0
 訌	dlg	10
 矼	dlg	0
 鴊	dlg	0
+鵶	dlg	0
 謐	dlh	91
 誣	dlh	35
 正	dli	100	dl1
 砋	dli	0
 訨	dli	0
 訅	dlj	0
+惡	dll	1988
+琧	dlo	0
 訙	dlo	0
 碎	dlp	11237
 砕	dlp	0
@@ -2431,6 +2429,7 @@ columns:
 焉	dlr	1942
 硛	dlr	0
 碽	dlv	0
+蝁	dlv	0
 龇	dlw	231
 齜	dlw	5
 砇	dlw	0
@@ -2439,6 +2438,7 @@ columns:
 鄢	dlx	131
 悥	dlx	0
 訫	dlx	0
+亞	dly	5633
 求	dm1	42515	dm1
 救	dma	22619
 誠	dma	1473
