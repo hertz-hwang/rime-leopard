@@ -4,8 +4,8 @@
 #
 # Usage:
 #   cat docs/hao/smyh.base.dict.yaml | assets/gen_dazhu.sh >dazhu.txt
-cat docs/hao/smyh.base.dict.yaml | \
-    sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
+cat docs/hao/smyh.words.dict.yaml | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
     sed 's/{TAB}/\t/g' | \
@@ -15,8 +15,19 @@ cat docs/hao/smyh.base.dict.yaml | \
     sed "s/3/'/g" \
     >dazhu.txt
 
+cat docs/hao/smyh.base.dict.yaml | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
+    sed 's/\t/{TAB}/g' | \
+    grep '.*{TAB}.*' | \
+    sed 's/{TAB}/\t/g' | \
+    awk '{print $2 "\t" $1}' | \
+    sed 's/1/_/g' | \
+    sed 's/2/;/g' | \
+    sed "s/3/'/g" \
+    >>dazhu.txt
+
 cat docs/hao/smyh.full.dict.yaml | \
-    sed 's/^\(.*\)\t\(.*\)/\1\t全\2/g' | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
     sed 's/{TAB}/\t/g' | \

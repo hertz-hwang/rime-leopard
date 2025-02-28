@@ -46,6 +46,7 @@ gen_schema() {
     cat /tmp/char.txt >>"${SCHEMA}/smyh.base.dict.yaml"
     grep -v '#' /tmp/"${NAME}"/smyh_quick.txt >>"${SCHEMA}/smyh.base.dict.yaml"
     cat /tmp/fullcode.txt >>"${SCHEMA}/smyh.full.dict.yaml"
+    cat /tmp/${NAME}/smyh.smart.txt >>"${SCHEMA}/smyh.smart.txt"
     cat /tmp/div.txt >"${SCHEMA}/opencc/smyh_div.txt"
     
     # 打包
