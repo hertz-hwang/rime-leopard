@@ -41,6 +41,8 @@ cat docs/hao/opencc/smyh_div.txt | \
     sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
     >>dazhu.txt
 
+cp ./dazhu.txt ./docs/hao/
+
 #sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
 #    sed 's/\t/{TAB}/g' | \
 #    grep '.*{TAB}.*' | \

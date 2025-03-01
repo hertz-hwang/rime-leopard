@@ -252,7 +252,7 @@ Nd	刂
 Ne	二
 Nh	黑
 Nl	仑
-Nl	侖
+Fl	侖
 Nm	馬
 Np	皮
 Nq	千
@@ -459,7 +459,7 @@ Yj	臼
 Ym	{木框}
 Ym	木
 Ym	朩
-Yw	韋
+Jw	韋
 Yw	韦
 Zc	丌
 Zc	廾
