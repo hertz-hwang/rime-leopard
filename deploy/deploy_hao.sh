@@ -2,7 +2,7 @@
 
 cd "$(dirname $0)"
 WD="$(pwd)"
-DOC="../docs"
+DOC="../schemas"
 REF_NAME="${REF_NAME:-v$(date +%Y%m%d%H%M)}"
 #mkdir -p "${DOC}"/assets
 

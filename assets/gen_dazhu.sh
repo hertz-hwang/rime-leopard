@@ -3,8 +3,8 @@
 # 生成大竹碼表
 #
 # Usage:
-#   cat docs/hao/smyh.base.dict.yaml | assets/gen_dazhu.sh >dazhu.txt
-cat docs/hao/smyh.words.dict.yaml | \
+#   cat schemas/hao/smyh.base.dict.yaml | assets/gen_dazhu.sh >dazhu.txt
+cat schemas/hao/smyh.words.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
@@ -13,9 +13,9 @@ cat docs/hao/smyh.words.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >dazhu.txt
+    >schemas/hao/dazhu.txt
 
-cat docs/hao/smyh.base.dict.yaml | \
+cat schemas/hao/smyh.base.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
@@ -24,9 +24,9 @@ cat docs/hao/smyh.base.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>dazhu.txt
+    >>schemas/hao/dazhu.txt
 
-cat docs/hao/smyh.full.dict.yaml | \
+cat schemas/hao/smyh.full.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
@@ -35,13 +35,19 @@ cat docs/hao/smyh.full.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>dazhu.txt
+    >>schemas/hao/dazhu.txt
 
-cat docs/hao/opencc/smyh_div.txt | \
+cat schemas/hao/smyh.symbols.dict.yaml | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
+    sed 's/\t/{TAB}/g' | \
+    grep '.*{TAB}.*' | \
+    sed 's/{TAB}/\t/g' | \
+    awk '{print "/" $2 "\t" $1}' \
+    >>schemas/hao/dazhu.txt
+
+cat schemas/hao/opencc/smyh_div.txt | \
     sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-    >>dazhu.txt
-
-cp ./dazhu.txt ./docs/hao/
+    >>schemas/hao/dazhu.txt
 
 #sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
 #    sed 's/\t/{TAB}/g' | \

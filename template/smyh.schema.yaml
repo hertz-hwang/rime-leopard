@@ -105,9 +105,9 @@ speller:
 
 # 重复上次上屏
 history:
-  input: '`'
+  input: 'z'
   size: 1
-  initial_quality: 1
+  initial_quality: -1
 
 # 部件拆分提示
 division.lv1:

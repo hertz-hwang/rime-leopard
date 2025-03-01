@@ -2,10 +2,9 @@
 /.vscode
 /deploy/generator
 /docs/assets
-/docs/hao/build
-/docs/hao/installation.yaml
-/docs/hao/user.yaml
-/docs/hao/sync
-/docs/hao/smyh.smart.userdb
-/docs/hao/smyh.smart.userdb.bak
-/schema/
+/schemas/hao/build
+/schemas/hao/installation.yaml
+/schemas/hao/user.yaml
+/schemas/hao/sync
+/schemas/hao/smyh.smart.userdb
+/schemas/hao/smyh.smart.userdb.bak

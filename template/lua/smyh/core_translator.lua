@@ -160,7 +160,7 @@ local function handle_delayed(env, ctx, code_segs, remain, seg, input)
         local chars = core.query_first_cand_list(env, core.base_mem, full_segs)
         local words = core.word_trie:query(full_segs, chars, 10)
         for _, word in ipairs(words) do
-            table.insert(full_entries, { text = word, comment = "🐆" })
+            table.insert(full_entries, { text = word, comment = "✦" })
         end
     end
 
