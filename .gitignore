@@ -1,4 +1,4 @@
-/.DS_Store
+.DS_Store
 /.vscode
 /deploy/generator
 /docs/assets
@@ -8,3 +8,4 @@
 /schemas/hao/sync
 /schemas/hao/smyh.smart.userdb
 /schemas/hao/smyh.smart.userdb.bak
+/schemas/hao/squirrel.yaml
