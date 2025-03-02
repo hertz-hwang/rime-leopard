@@ -386,7 +386,7 @@ Ux	卌
 Ux	西
 Ux	覀
 Uy	由
-Sb	貝
+Rb	貝
 Vb	贝
 Vc	{贵字头}
 Vc	虫

@@ -489,7 +489,7 @@
 摇	oi1
 南	pj1
 航	qs1
-靶	rb1
+#靶	rb1
 玛	rs1
 殊	st1
 么	ti1
