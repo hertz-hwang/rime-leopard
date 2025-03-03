@@ -3,7 +3,7 @@
 
 patch:
   schema_list:
-    - schema: smyh
+    - schema: hao
   switcher/save_options:
     - embeded_cands
     - full.word

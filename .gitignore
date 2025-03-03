@@ -1,11 +1,11 @@
 .DS_Store
-/.vscode
+.vscode
 /deploy/generator
 /docs/assets
 /schemas/hao/build
+/schemas/hao/dazhu.txt
 /schemas/hao/installation.yaml
 /schemas/hao/user.yaml
 /schemas/hao/sync
-/schemas/hao/smyh.smart.userdb
-/schemas/hao/smyh.smart.userdb.bak
-/schemas/hao/squirrel.yaml
+/schemas/hao/hao.smart.userdb
+/schemas/hao/hao.smart.userdb.bak

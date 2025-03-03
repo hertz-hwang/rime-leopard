@@ -1,0 +1,336 @@
+# Squirrel settings
+# encoding: utf-8
+# CC-BY-4.0
+
+# 要比共享目錄同名文件版本號更大方可生效
+config_version: '2023-09-01'
+
+# options: last | default | _custom_
+# last: the last used latin keyboard layout
+# default: US (ABC) keyboard layout
+# _custom_: keyboard layout of your choice, e.g. 'com.apple.keylayout.USExtended' or simply 'USExtended'
+keyboard_layout: default
+
+# for veteran chord-typist
+chord_duration: 0.1  # seconds
+
+# options: always | never | appropriate
+show_notifications_when: appropriate
+
+style:
+  #alpha: 0.0001
+  inline_preedit: true    # 在文本框顯示輸入串
+  inline_candidate: false # 在文本框顯示首選項
+  translucency: true      # 透明度總開關
+
+  # 淺色主题
+  color_scheme: hertz-leopard-light #purity_of_form_custom #hertz-leopard-light
+  # 深色主题
+  color_scheme_dark: hertz-leopard-dark #purity_of_form_custom #hertz-leopard-dark
+
+  # #候选字体
+  font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  font_point: 20 #主字体字号
+  # #滤镜内容字体
+  comment_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  comment_font_point: 12 # 滤镜内容字号
+  # #候选前编号标志字体
+  label_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  label_font_point: 18 #候选前编号标志字号
+
+  corner_radius: 8
+  hilited_corner_radius: 4
+  line_spacing: 5
+  hilite_spacing: 8
+  spacing: 12
+  candidate_list_layout: stacked # stacked    | linear
+  text_orientation: horizontal   # horizontal | vertical
+
+preset_color_schemes:
+  native:
+    name: 系統配色
+
+  hertz-leopard-light:
+    name: "赫兹定制·leopard·light"
+    # #候选字体
+    #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    font_point: 16 #主字体字号
+    # #滤镜内容字体
+    #comment_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    comment_font_point: 14 # 滤镜内容字号
+    # #候选前编号标志字体
+    #label_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    label_font_point: 16 #候选前编号标志字号
+    candidate_list_layout: stacked
+    candidate_format: '%c %@ '
+    text_orientation: horizontal
+    inline_preedit: false
+    inline_candidate: false
+    translucency: true
+    mutual_exclusive: true
+    show_paging: true
+    corner_radius: 8.0
+    hilited_corner_radius: 6.0
+    border_height: -1
+    border_width: -1
+    spacing: 15
+    line_spacing: 8
+    alpha: 1
+    base_offset: 1
+    shadow_size: 2.0
+    color_space: display_p3
+    text_color: 0xf2747474
+    back_color: 0xdaf4f4f4
+    label_color: 0xff5a5a5a
+    comment_text_color: 0xff494949
+    border_color: 0xdaf4f4f4
+    shadow_color: 0xf2747474
+    candidate_text_color: 0xff000000
+    candidate_back_color: 0xdaf4f4f4
+    candidate_border_color: 0x00494949
+    candidate_shadow_color: 0xf2747474
+    hilited_comment_text_color: 0xfff7f7f7
+    hilited_candidate_text_color: 0xffffffff
+    hilited_candidate_back_color: 0xfff67339   # 0xee83b942
+    hilited_candidate_border_color: 0x00ffffff
+    hilited_candidate_shadow_color: 0xf2747474
+    hilited_candidate_label_color: 0xffffffff
+    hilited_text_color: 0xff262626
+    hilited_back_color: 0x1a000000
+    hilited_border_color: 0x00ffffff
+    hilited_shadow_color: 0xf2747474
+    hilited_label_color: 0xffffffff
+    preedit_back_color: 0x1a000000
+
+  hertz-leopard-dark:
+    name: "赫兹定制·leopard·dark"
+    # #候选字体
+    #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    font_point: 18 #主字体字号
+    # #滤镜内容字体
+    #comment_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    comment_font_point: 14 # 滤镜内容字号
+    # #候选前编号标志字体
+    #label_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    label_font_point: 16 #候选前编号标志字号
+    candidate_list_layout: stacked
+    candidate_format: '%c %@ '
+    text_orientation: horizontal
+    inline_preedit: false
+    inline_candidate: false
+    translucency: true
+    mutual_exclusive: true
+    show_paging: true
+    corner_radius: 8.0
+    hilited_corner_radius: 0.0
+    border_height: -1
+    border_width: -1
+    spacing: 15
+    line_spacing: 8
+    alpha: 1
+    base_offset: 1
+    shadow_size: 3.0
+    color_space: display_p3
+    text_color: 0xffb8a9a1
+    back_color: 0xda000000
+    label_color: 0xffb8a9a1
+    comment_text_color: 0xffb8a9a1
+    border_color: 0x00000000
+    shadow_color: 0xf2bae5eb
+    candidate_text_color: 0xffb8a9a1
+    candidate_back_color: 0xda000000
+    candidate_border_color: 0x00000000
+    candidate_shadow_color: 0x00bae5eb
+    hilited_comment_text_color: 0xfff7f7f7
+    hilited_candidate_text_color: 0xfff7f7f7
+    hilited_candidate_back_color: 0xda000000
+    hilited_candidate_border_color: 0x00000000
+    hilited_candidate_shadow_color: 0x00bae5eb
+    hilited_candidate_label_color: 0xfff7f7f7
+    hilited_text_color: 0xff000000
+    hilited_back_color: 0xaabae5eb
+    hilited_border_color: 0x00000000
+    hilited_shadow_color: 0x00bae5eb
+    hilited_label_color: 0xff8C7F77
+    preedit_back_color: 0xaabae5eb
+
+  hertz-Q:
+    name: "赫兹定制·Q改"
+    author: Bennett S. Owen
+    back_color: 0xe3f6fd
+    border_color: 0xc5c8cc
+    candidate_back_color: 0xe3f6fd
+    candidate_text_color: 0x736b55
+    comment_text_color: 0x9377b9
+    hilited_back_color: 0x736b55
+    hilited_candidate_back_color: 0x736b55
+    hilited_candidate_text_color: 0xd5e8ee
+    hilited_comment_text_color: 0xd5e8ee
+    hilited_candidate_label_color: 0x000000
+    hilited_mark_color: 0xffffff
+    hilited_text_color: 0xd5e8ee
+    key_symbol_color: 0x339977
+    label_color: 0x919183
+    preedit_back_color: 0xe3f6fd
+    preview_back_color: 0x6b55d073
+    preview_text_color: 0xd5e8ee
+    text_color: 0x808070
+    border_height: 0
+    border_width: 8
+    candidate_format: '%c %@ '
+    corner_radius: 5
+    hilited_corner_radius: 5
+    candidate_list_layout: linear
+    text_orientation: horizontal
+    inline_preedit: false
+    translucency: true
+    mutual_exclusive: false
+    line_spacing: 4.0
+    alpha: 100
+    shadow_size: 1.0
+    #color_space: display_p3
+
+  # https://gist.github.com/zsakvo/fff6e4859265d5d629439d5ccb553f8a
+  wechat:
+    name: '微信' # 配色取自微信键盘
+    author: zsakvo
+    back_color: 0xFFFFFF
+    border_height: 0
+    border_width: 8
+    candidate_format: '%c %@ '
+    comment_text_color: 0x999999
+    corner_radius: 5
+    hilited_corner_radius: 5
+    font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    #font_point: 16
+    hilited_candidate_back_color: 0x75B100
+    hilited_candidate_text_color: 0xFFFFFF
+    #candidate_list_layout: linear
+    inline_preedit: true
+    #label_font_point: 12
+    text_color: 0x424242
+
+  # https://gist.github.com/shlroland/78b3af88b993116c6f3e14b30cfefac0#file-yaml
+  wechat_dark:
+    name: '微信·暗' # 配色取自微信键盘
+    author: shlroland
+    back_color: 0x151515
+    border_color: 0x151515
+    border_height: 0
+    border_width: 8
+    candidate_format: '%c %@ '
+    comment_text_color: 0xAEAEAE
+    corner_radius: 5
+    hilited_corner_radius: 5
+    font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    #font_point: 16
+    hilited_candidate_back_color: 0x75B100
+    hilited_candidate_text_color: 0xFFFFFF
+    #candidate_list_layout: linear
+    inline_preedit: true
+    #label_font_point: 12
+    label_color: 0x777777
+    text_color: 0xBBBBBB
+
+  purity_of_form_custom:
+    name: "純粹的形式／Purity of Form Custom"
+    author: 雨過之後、佛振
+    # 如果将字体设置为 PingFangSC-Regular
+    # 会让 🈶🈚️🉑🈲🉐 这几个 Emoji 失去彩色效果，留空反而可以显示。。。
+    #font_face: ""                   # 字体及大小
+    font_point: 18
+    #label_font_face: "Helvetica"    # 序号字体及大小
+    label_font_point: 12
+    #comment_font_face: "Helvetica"  # 注字体及大小
+    comment_font_point: 16
+    # candidate_list_layout: stacked        # 候选项排列方向 stacked(默认) | linear
+    # text_orientation: horizontal          # 文字排列方向 horizontal(默认) | vertical
+    inline_preedit: true                    # 键入码（拼音）是否显示在键入位置 true | false
+    inline_candidate: false                 # 候选项（词句）是否显示在键入位置 true | false
+    translucency: false                     # 磨砂： true | false
+    mutual_exclusive: false                 # 色不叠加： true | false
+    border_height: 0                        # 外边框 高
+    border_width: 0                         # 外边框 宽
+    corner_radius: 10                       # 外边框 圆角半径
+    hilited_corner_radius: 0                # 选中框 圆角半径
+    surrounding_extra_expansion: 0          # 候选项背景相对大小？
+    shadow_size: 0                          # 阴影大小
+    line_spacing: 5                         # 行间距
+    base_offset: 0                          # 字基高
+    alpha: 1                                # 透明度，0~1
+    spacing: 10                             # 拼音与候选项之间的距离 （inline_preedit: false）
+    color_space: srgb                       # 色彩空间： srgb | display_p3
+    back_color: 0x545554                    # 底色
+    hilited_candidate_back_color: 0xE3E3E3  # 选中底色
+    label_color: 0xBBBBBB                   # 序号颜色
+    hilited_candidate_label_color: 0x4C4C4C # 选中序号颜色
+    candidate_text_color: 0xEEEEEE          # 文字颜色
+    hilited_candidate_text_color: 0x000000  # 选中文字颜色
+    comment_text_color: 0x808080            # 注颜色
+    hilited_comment_text_color: 0x808080    # 选中注颜色
+    text_color: 0x808080                    # 拼音颜色 （inline_preedit: false）
+    hilited_text_color: 0xEEEEEE            # 选中拼音颜色 （inline_preedit: false）
+    # candidate_back_color:                 # 候选项底色
+    # preedit_back_color:                   # 拼音底色 （inline_preedit: false）
+    # hilited_back_color:                   # 选中拼音底色 （inline_preedit: false）
+    # border_color:                         # 外边框颜色
+
+
+
+app_options:
+  com.apple.Spotlight:
+    ascii_mode: true
+  com.alfredapp.Alfred:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred-2:
+    ascii_mode: true
+  com.blacktree.Quicksilver:
+    ascii_mode: true
+  com.apple.Terminal:
+    ascii_mode: true
+    no_inline: true
+  com.googlecode.iterm2:
+    ascii_mode: true
+    no_inline: true
+  org.vim.MacVim:
+    ascii_mode: true  # 初始爲西文模式
+    no_inline: true   # 不使用行內編輯
+    vim_mode: true    # 退出VIM插入模式自動切換輸入法狀態
+  com.apple.dt.Xcode:
+    ascii_mode: true
+  com.barebones.textwrangler:
+    ascii_mode: true
+  com.macromates.TextMate.preview:
+    ascii_mode: true
+  com.github.atom:
+    ascii_mode: true
+  com.microsoft.VSCode:
+    ascii_mode: true
+  com.sublimetext.2:
+    ascii_mode: true
+  org.gnu.Aquamacs:
+    ascii_mode: true
+  org.gnu.Emacs:
+    ascii_mode: true
+  co.zeit.hyper:
+    ascii_mode: true
+  com.google.Chrome:
+    # 規避 https://github.com/rime/squirrel/issues/435
+    inline: true
+  ru.keepcoder.Telegram:
+    # 規避 https://github.com/rime/squirrel/issues/475
+    inline: true
+  dev.warp.Warp-Stable:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred:
+    ascii_mode: true
+  com.runningwithcrayons.Alfred-Preferences:
+    ascii_mode: true
+  com.raycast.macos:
+    ascii_mode: true
+  com.todesktop.230313mzl4w4u92:
+    ascii_mode: true
+  com.microsoft.VSCode:
+    ascii_mode: true
+  com.mitchellh.ghostty:
+    ascii_mode: true

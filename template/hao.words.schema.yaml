@@ -1,0 +1,18 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: hao.words
+  name: 豹碼·詞庫
+  description: |
+    辅助方案，不能打字。
+
+speller:
+  alphabet: "qwertyuiopasdfghjklzxcvbnm"
+  initials: "qwertyuiopasdfghjklzxcvbnm"
+  algebra:
+    - xform/([a-z])11$/$1$1$1/
+
+translator:
+  dictionary: hao.words
+  enable_user_dict: false

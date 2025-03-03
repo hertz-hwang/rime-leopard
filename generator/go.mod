@@ -1,3 +1,3 @@
-module smyh_gen
+module hao_gen
 
 go 1.23

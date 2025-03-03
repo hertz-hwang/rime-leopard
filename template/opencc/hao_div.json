@@ -1,0 +1,19 @@
+{
+  "name": "hao division tips",
+  "segmentation": {
+    "type": "mmseg",
+    "dict": {
+      "type": "text",
+      "file": "hao_div.txt"
+    }
+  },
+  "conversion_chain": [{
+    "dict": {
+      "type": "group",
+      "dicts": [{
+        "type": "text",
+        "file": "hao_div.txt"
+      }]
+    }
+  }]
+}

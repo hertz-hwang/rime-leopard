@@ -5,7 +5,7 @@ import (
 	"sort"
 	"strings"
 
-	"smyh_gen/types"
+	"hao_gen/types"
 )
 
 const fallBackFreq = 100

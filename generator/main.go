@@ -8,15 +8,15 @@ import (
 	"sort"
 	"strings"
 
-	"smyh_gen/tools"
-	"smyh_gen/utils"
+	"hao_gen/tools"
+	"hao_gen/utils"
 )
 
 type Args struct {
 	Quiet  bool   `flag:"q" usage:"" default:"false"`
-	Div    string `flag:"d" usage:"smyh_div.txt"  default:"../table/smyh_div.txt"`
-	Simp   string `flag:"s" usage:"smyh_simp.txt" default:"../table/smyh_simp.txt"`
-	Map    string `flag:"m" usage:"smyh_map.txt"  default:"../table/smyh_map.txt"`
+	Div    string `flag:"d" usage:"hao_div.txt"  default:"../table/hao_div.txt"`
+	Simp   string `flag:"s" usage:"hao_simp.txt" default:"../table/hao_simp.txt"`
+	Map    string `flag:"m" usage:"hao_map.txt"  default:"../table/hao_map.txt"`
 	Freq   string `flag:"f" usage:"freq.txt"      default:"../table/freq.txt"`
 	White  string `flag:"w" usage:"whitelist.txt" default:"../table/cjkext_whitelist.txt"`
 	Char   string `flag:"c" usage:"char.txt"     default:"/tmp/char.txt"`

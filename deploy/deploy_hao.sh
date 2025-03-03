@@ -2,9 +2,10 @@
 
 cd "$(dirname $0)"
 WD="$(pwd)"
-DOC="../schemas"
+SCHEMAS="../schemas"
 REF_NAME="${REF_NAME:-v$(date +%Y%m%d%H%M)}"
-#mkdir -p "${DOC}"/assets
+rm -rf "${SCHEMAS}"
+#mkdir -p "${SCHEMAS}"/assets
 
 gen_schema() {
     NAME="$1"
@@ -12,69 +13,42 @@ gen_schema() {
     if [ -z "${NAME}" ]; then
         return 1
     fi
-    SCHEMA="${DOC}/${NAME}"
-    # /tmp/wafel, ../docs/wafel
-    mkdir -p /tmp/"${NAME}" "${SCHEMA}/lua/smyh" "${SCHEMA}/opencc"
-    # 默認 wafel 數據
+    HAO="${SCHEMAS}/${NAME}"
+    mkdir -p /tmp/"${NAME}" "${HAO}/lua/hao" "${HAO}/opencc"
     cp ../table/*.txt /tmp/"${NAME}"
-    cp ../template/default.*.yaml ../template/smyh.*.yaml ../template/smyh.*.txt "${SCHEMA}"
-    cp ../template/lua/smyh/*.lua "${SCHEMA}/lua/smyh"
-    cp ../template/opencc/*.json ../template/opencc/*.txt "${SCHEMA}/opencc"
+    cp ../template/default.*.yaml ../template/hao.*.yaml ../template/hao.*.txt "${HAO}"
+    cp ../template/squirrel.yaml "${HAO}"
+    cp ../template/lua/hao/*.lua "${HAO}/lua/hao"
+    cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc"
     if [[ "$OSTYPE" == "darwin"* ]]; then
         # macOS
-        sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
-        #sed -i "" "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
+        sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
+        #sed -i "" "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
     else
         # Linux 和其他系统
-        sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${SCHEMA}"/smyh.{custom,schema}.yaml
-        #sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
+        sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
+        #sed -i "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
     fi
-    #sed -i "s/version: beta/version: ${REF_NAME}/g" "${SCHEMA}"/*.dict.yaml "${SCHEMA}"/smyh.schema.yaml
-    # 使用 deploy/wafel 覆蓋默認值
+    #sed -i "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
+    # 使用 deploy/hao 覆蓋默認值
     if [ -d "${NAME}" ]; then
         cp -r "${NAME}"/*.txt /tmp/"${NAME}"
     fi
-    cat /tmp/"${NAME}"/smyh_map.txt | python ../assets/gen_mappings_table.py >"${SCHEMA}"/smyh.mappings_table.txt
+    cat /tmp/"${NAME}"/hao_map.txt | python ../assets/gen_mappings_table.py >"${HAO}"/hao.mappings_table.txt
     # 生成簡化字碼表
     ./generator -q \
-        -d /tmp/"${NAME}"/smyh_div.txt \
-        -s /tmp/"${NAME}"/smyh_simp.txt \
-        -m /tmp/"${NAME}"/smyh_map.txt \
+        -d /tmp/"${NAME}"/hao_div.txt \
+        -s /tmp/"${NAME}"/hao_simp.txt \
+        -m /tmp/"${NAME}"/hao_map.txt \
         -f /tmp/"${NAME}"/freq.txt \
         -w /tmp/"${NAME}"/cjkext_whitelist.txt \
         || exit 1
-    cat /tmp/char.txt >>"${SCHEMA}/smyh.base.dict.yaml"
-    grep -v '#' /tmp/"${NAME}"/smyh_quick.txt >>"${SCHEMA}/smyh.base.dict.yaml"
-    cat /tmp/fullcode.txt >>"${SCHEMA}/smyh.full.dict.yaml"
-    cat /tmp/${NAME}/smyh.smart.txt >>"${SCHEMA}/smyh.smart.txt"
-    cat /tmp/div.txt >"${SCHEMA}/opencc/smyh_div.txt"
-    
-    # 打包
-#    cd "${SCHEMA}"
-#    zip -rq "../assets/${NAME}-${REF_NAME}.zip" "./" || return 1
-    # cd "../assets" && ln -fs "${NAME}-${REF_NAME}.zip" "${NAME}-latest.zip"
-#    cd "${WD}"
-    # echo "<li> ${DESC} <a href=\"./assets/${NAME}-${TIME}.zip\"> ${NAME}-latest.zip </a></li>" >>"${DOC}"/index.html
-    # 清理
-#    rm /tmp/{char,fullcode,div}.txt
-#    rm -rf "${SCHEMA}"
-#    rm -rf /tmp/"${NAME}"
+    cat /tmp/char.txt >>"${HAO}/hao.base.dict.yaml"
+    grep -v '#' /tmp/"${NAME}"/hao_quick.txt >>"${HAO}/hao.base.dict.yaml"
+    cat /tmp/fullcode.txt >>"${HAO}/hao.full.dict.yaml"
+    cat /tmp/${NAME}/hao.smart.txt >>"${HAO}/hao.smart.txt"
+    cat /tmp/div.txt >"${HAO}/opencc/hao_div.txt"
 }
-
-# echo >"${DOC}"/index.html
-# echo "<!DOCTYPE html><html>" \
-#     "<head><meta charset=\"utf-8\" /><title>雞蛋餅·下載</title></head>" \
-#     "<body><p>可用的方案列表:</p><ul>" \
-#     >>"${DOC}"/index.html
-
-# 打包 Into 方案
-#gen_schema into 半音托版 || exit 1
-# 打包標準 Wafel 方案
-# gen_schema wafel 純亂序版 || exit 1
-# 打包 Star 方案
-# gen_schema star 星陳版 || exit 1
 
 # 打包 hao 方案
 gen_schema hao 半音托版 || exit 1
-
-# echo "</ul></body></html>" >>"${DOC}/index.html"

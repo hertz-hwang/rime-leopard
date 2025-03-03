@@ -1,0 +1,15 @@
+# rime dictionary: 豹碼·單字
+# encoding: utf-8
+
+---
+name: "hao.base"
+version: beta
+sort: original
+import_tables:
+columns:
+  - text
+  - code
+  - weight
+
+...
+

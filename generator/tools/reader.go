@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"smyh_gen/types"
+	"hao_gen/types"
 )
 
 func ReadDivisionTable(filepath string) (table map[string][]*types.Division, err error) {
