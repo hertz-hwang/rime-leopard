@@ -255,11 +255,11 @@ local function convert_text_to_image(os_name)
     local cmds = {}
     local copy_cmd = "wl-copy -o <%s"
     if os_name == WafelCore.os_types.mac then
-        copy_cmd = "impbcopy %s"
+        copy_cmd = "/Users/bennett/bin/impbcopy %s"
     end
 
     -- 渲染到 png 文件中
-    table.insert(cmds, string.format("pango-view --dpi=256 -qo %s %s", filename_png, filename_txt))
+    table.insert(cmds, string.format("/opt/homebrew/bin/pango-view --dpi=256 -qo %s %s", filename_png, filename_txt))
     -- 拷貝圖像内容到剪貼板
     table.insert(cmds, string.format(copy_cmd, filename_png))
     -- 删文件

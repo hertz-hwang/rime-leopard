@@ -5,7 +5,7 @@
 # Usage:
 #   cat schemas/hao/smyh.base.dict.yaml | assets/gen_dazhu.sh >dazhu.txt
 cat schemas/hao/smyh.words.dict.yaml | \
-    sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2⇥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
     sed 's/{TAB}/\t/g' | \
@@ -27,7 +27,7 @@ cat schemas/hao/smyh.base.dict.yaml | \
     >>schemas/hao/dazhu.txt
 
 cat schemas/hao/smyh.full.dict.yaml | \
-    sed 's/^\(.*\)\t\(.*\)/\1\t\2⌥/g' | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2⇥/g' | \
     sed 's/\t/{TAB}/g' | \
     grep '.*{TAB}.*' | \
     sed 's/{TAB}/\t/g' | \
