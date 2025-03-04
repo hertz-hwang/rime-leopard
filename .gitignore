@@ -7,5 +7,6 @@
 /schemas/hao/installation.yaml
 /schemas/hao/user.yaml
 /schemas/hao/sync
+/schemas/hao/hao.smart
 /schemas/hao/hao.smart.userdb
 /schemas/hao/hao.smart.userdb.bak
