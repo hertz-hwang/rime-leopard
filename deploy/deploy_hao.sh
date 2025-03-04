@@ -21,15 +21,16 @@ gen_schema() {
     cp ../template/squirrel.yaml "${HAO}"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc"
-    if [[ "$OSTYPE" == "darwin"* ]]; then
-        # macOS
-        sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
-        #sed -i "" "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
-    else
-        # Linux 和其他系统
-        sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
-        #sed -i "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
-    fi
+    cp ../template/leopard.*.yaml "${HAO}"
+    #if [[ "$OSTYPE" == "darwin"* ]]; then
+    #    # macOS
+    #    sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
+    #    #sed -i "" "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
+    #else
+    #    # Linux 和其他系统
+    #    sed -i "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
+    #    #sed -i "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
+    #fi
     #sed -i "s/version: beta/version: ${REF_NAME}/g" "${HAO}"/*.dict.yaml "${HAO}"/hao.schema.yaml
     # 使用 deploy/hao 覆蓋默認值
     if [ -d "${NAME}" ]; then
