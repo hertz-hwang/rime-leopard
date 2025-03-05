@@ -7,6 +7,7 @@ REF_NAME="${REF_NAME:-v$(date +%Y%m%d%H%M)}"
 rm -rf "${SCHEMAS}"
 trap 'rm -rf "$TMPDIR"' EXIT
 TMPDIR=$(mktemp -d) || exit 1
+mkdir -p "${SCHEMAS}/releases"
 
 gen_schema() {
     NAME="$1"
@@ -53,7 +54,12 @@ gen_schema() {
     cat /"${TMPDIR}"/fullcode.txt >>"${HAO}/hao.full.dict.yaml"
     cat /"${TMPDIR}"/${NAME}/hao.smart.txt >>"${HAO}/hao.smart.txt"
     cat /"${TMPDIR}"/div.txt >"${HAO}/opencc/hao_div.txt"
+
+    # 打包发布
+    pushd "${SCHEMAS}"
+        tar -cf - "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || return 1
+    popd
 }
 
 # 打包 hao 方案
-gen_schema hao 半音托版 || exit 1
+gen_schema hao || exit 1
