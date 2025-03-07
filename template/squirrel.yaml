@@ -24,7 +24,7 @@ style:
   translucency: true      # 透明度總開關
 
   # 淺色主题
-  color_scheme: hertz-leopard-light #purity_of_form_custom #hertz-leopard-light
+  color_scheme: hertz-leopard-light-alpha #purity_of_form_custom #hertz-leopard-light
   # 深色主题
   color_scheme_dark: hertz-leopard-dark #purity_of_form_custom #hertz-leopard-dark
 
@@ -76,6 +76,58 @@ preset_color_schemes:
     spacing: 15
     line_spacing: 8
     alpha: 1
+    base_offset: 1
+    shadow_size: 2.0
+    color_space: display_p3
+    text_color: 0xf2747474
+    back_color: 0xdaf4f4f4
+    label_color: 0xff5a5a5a
+    comment_text_color: 0xff494949
+    border_color: 0xdaf4f4f4
+    shadow_color: 0xf2747474
+    candidate_text_color: 0xff000000
+    candidate_back_color: 0xdaf4f4f4
+    candidate_border_color: 0x00494949
+    candidate_shadow_color: 0xf2747474
+    hilited_comment_text_color: 0xfff7f7f7
+    hilited_candidate_text_color: 0xffffffff
+    hilited_candidate_back_color: 0xfff67339   # 0xee83b942
+    hilited_candidate_border_color: 0x00ffffff
+    hilited_candidate_shadow_color: 0xf2747474
+    hilited_candidate_label_color: 0xffffffff
+    hilited_text_color: 0xff262626
+    hilited_back_color: 0x1a000000
+    hilited_border_color: 0x00ffffff
+    hilited_shadow_color: 0xf2747474
+    hilited_label_color: 0xffffffff
+    preedit_back_color: 0x1a000000
+
+  hertz-leopard-light-alpha:
+    name: "赫兹定制·leopard·light"
+    # #候选字体
+    #font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    font_point: 16 #主字体字号
+    # #滤镜内容字体
+    #comment_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    comment_font_point: 14 # 滤镜内容字号
+    # #候选前编号标志字体
+    #label_font_face: "Segoe UI Emoji, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+    label_font_point: 16 #候选前编号标志字号
+    candidate_list_layout: stacked
+    candidate_format: '%c %@ '
+    text_orientation: horizontal
+    inline_preedit: true
+    inline_candidate: false
+    translucency: true
+    mutual_exclusive: true
+    show_paging: true
+    corner_radius: 8.0
+    hilited_corner_radius: 6.0
+    border_height: -1
+    border_width: -1
+    spacing: 15
+    line_spacing: 8
+    alpha: 0.0001
     base_offset: 1
     shadow_size: 2.0
     color_space: display_p3

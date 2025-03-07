@@ -14,7 +14,7 @@ schema:
     - hao.pinyin
     # 基础碼表
     - hao.base
-    # 全碼官宇词库
+    # 全碼官好词库
     - hao.words
     # 符號碼表
     - hao.symbols
@@ -201,7 +201,7 @@ hao:
       expr: return require("hao.custom").freq_filter()
   macros:
     help:
-      - { type: tip, name: ❖配置中心 }
+      - { type: tip, name: ❖好碼配置 }
       - { type: switch, name: single_char, states: [ □智能, ■純單 ] }
       - { type: radio, names: [ full.word, full.char, full.off ], states: [ ☑☑字詞, ☐☑全單, ☐☐三碼 ] }
       - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
@@ -241,7 +241,7 @@ hao:
 
 # 嵌入候選的顯示配置
 # 默認顯示效果爲:
-# 宇[浩¹]iwl ~淍² ~泃³
+# 好[码 ¹]dsm
 embeded_cands:
   index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ]       # 嵌入候選的序號顯示格式
   first_format: "${Stash}[${候選}${Seq}]${Code}${Comment}" # 首選的渲染格式

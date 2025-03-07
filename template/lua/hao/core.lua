@@ -13,7 +13,7 @@ core.stashed_text = ''
 core.base_mem = nil
 -- 由translator構造智能詞前綴樹
 core.word_trie = nil
--- 附加官宇詞庫
+-- 附加官好詞庫
 core.full_mem = nil
 
 
@@ -781,7 +781,7 @@ function core.gen_smart_trie(base_rev, db_name)
     return result
 end
 
--- 是否合法宇三分詞串
+-- 是否合法好三分詞串
 function core.valid_hao_input(input)
     -- 輸入串完全由 [a-z_] 構成, 且不以 [_] 開頭
     return string.match(input, "^[a-z ]*$") and not string.match(input, "^[ ]")

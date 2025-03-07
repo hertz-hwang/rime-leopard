@@ -251,7 +251,7 @@ function translator.func(input, seg, env)
         return
     end
 
-    -- 是否合法宇三編碼
+    -- 是否合法好三編碼
     if not core.valid_hao_input(input) then
         return
     end
