@@ -90461,7 +90461,7 @@
 𰈜	(衤刀丿口,QiNdTpKk,,CJK-G)
 𰈝	(口子貝,KkHiRb,,CJK-G)
 𰈞	(口丩⺈,KkEjDdIv,,CJK-G)
-𰈟	(丿大丿吅,TpIdTpPx,,CJK-G)
+𰈟	(一大一吅,DiIdDiPx,,CJK-G)
 𰈠	(忄𠂇丨匕,LxPsHsWb,,CJK-G)
 𰈡	(口㡀攵,KkIbAp,,CJK-G)
 𰈢	(口⺮日一,KkJuUrDi,,CJK-G)
