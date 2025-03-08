@@ -3,20 +3,20 @@
 
 schema:
   schema_id: hao
-  name: 豹碼三定
+  name: 豹码三定
   version: beta
   author:
     - 荒
   description: |
-    豹碼
+    豹码
   dependencies:
     # 拼音, 用于反查
     - hao.pinyin
-    # 基础碼表
+    # 基础码表
     - hao.base
-    # 全碼官好词库
+    # 豹码词库
     - hao.words
-    # 符號碼表
+    # 符號码表
     - hao.symbols
 
 switches:
@@ -27,28 +27,28 @@ switches:
     states: [ 半, 全 ]
     reset: 0
   - options: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ]
-    states: [ 註解關, 註解一, 註解二, 註解三, 註解四 ]
+    states: [ 注解关, 注解一, 注解二, 注解三, 注解四 ]
     reset: 0
-  - name: single_char
-    states: [ 智能, 純單 ]
+  - options: [ charset.all, charset.freqly ]
+    states: [ 全字集, 仅常用字 ]
     reset: 0
   - options: [ full.word, full.char, full.off ]
-    states: [ 字詞, 全單, 三碼 ]
+    states: [ 字词, 全单, 三码 ]
+    reset: 0
+  - name: single_char
+    states: [ 智能, 纯单 ]
     reset: 0
   - name: embeded_cands
     states: [ 普通, 嵌入 ]
     reset: 1
   - name: completion
-    states: [ 簡潔, 預測 ]
-    reset: 0
-  - options: [ charset.all, charset.freqly ]
-    states: [ 全字集, 僅常用字 ]
+    states: [ 简洁, 提示 ]
     reset: 0
   - name: ivd_map
-    states: [ NoIVD, IVD ]
+    states: [ 正常字, 異体字 ]
     reset: 0
   - name: ascii_mode
-    states: [ 漢字, 西文 ]
+    states: [ 汉字, 西文 ]
     reset: 0
 
 engine:
@@ -69,7 +69,7 @@ engine:
     - punct_segmentor
   translators:
     - punct_translator
-    # 符號翻譯器
+    # 符号翻译器
     - table_translator@symbols
     # 上次上屏历史
     - history_translator@history
@@ -115,7 +115,7 @@ division.lv1:
     - xlit/\{\}/\⟨\⟩/
   tags: [ abc, rev_pinyin ]
 
-# 拆分編碼提示
+# 拆分編码提示
 division.lv2:
   __include: rev_div
   option_name: division.lv2
@@ -143,7 +143,7 @@ division.lv4:
     - xform/.*\(([^()]*)\)$/($1)/
   tags: [ abc, rev_pinyin ]
 
-# 部件拆分及編碼提示, 反查时顯示
+# 部件拆分及編码提示, 反查时顯示
 rev_div:
   option_name: division.off
   opencc_config: hao_div.json
@@ -188,25 +188,25 @@ hao:
     # - functional keys: escape: 0xff1b; return: 0xff0d; tabular: 0xff09;
     # - ascii characters: space: 0x20; semicolon: 0x3b; slash: 0x2f; grave: 0x60;
     macro: [ 0x2f ]      # 以這些字符開頭, 則認爲是宏調用
-    primary: [ 0x20 ]    # 首要簡碼鍵
-    secondary: [ 0x3b ]  # 次要簡碼鍵
-    tertiary: []         # 次次簡碼鍵
-    fullci: [ 0xff09 ]   # 碼長爲四時, 輸入此串上屏首選
+    primary: [ 0x20 ]    # 首要简码鍵
+    secondary: [ 0x3b ]  # 次要简码鍵
+    tertiary: []         # 次次简码鍵
+    fullci: [ 0xff09 ]   # 码長爲四時, 輸入此串上屏首選
     break: [ 0xff09 ]    # 打斷施法
     repeat: [ 0x60 ]     # 重複上屏
-    clearact: [ 0xff0d ] # 清除活動編碼
+    clearact: [ 0xff0d ] # 清除活動編码
   mappers:
     # 常用字過濾器
     - option_name: charset.freqly
       expr: return require("hao.custom").freq_filter()
   macros:
     help:
-      - { type: tip, name: ❖好碼配置 }
-      - { type: switch, name: single_char, states: [ □智能, ■純單 ] }
-      - { type: radio, names: [ full.word, full.char, full.off ], states: [ ☑☑字詞, ☐☑全單, ☐☐三碼 ] }
+      - { type: tip, name: ❖好码配置 }
+      - { type: switch, name: single_char, states: [ □智能, ■纯单 ] }
+      - { type: radio, names: [ full.word, full.char, full.off ], states: [ ☑☑字词, ☐☑全单, ☐☐三码 ] }
       - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
-      - { type: switch, name: completion, states: [ □簡潔, ■補全 ] }
-      - { type: radio, names: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ], states: [ ☐☐☐☐註解, ☑☐☐☐註解, ☐☑☐☐註解, ☐☐☑☐註解, ☐☐☐☑註解 ] }
+      - { type: switch, name: completion, states: [ □简洁, ■補全 ] }
+      - { type: radio, names: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ], states: [ ☐☐☐☐注解, ☑☐☐☐注解, ☐☑☐☐注解, ☐☐☑☐注解, ☐☐☐☑注解 ] }
     date:
       - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
       - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
@@ -217,19 +217,19 @@ hao:
     div:
       - type: radio
         names: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ]
-        states: [ ☐☐☐☐無註解, ☑☐☐☐拆分提示, ☐☑☐☐編碼提示, ☐☐☑☐顯示注音, ☐☐☐☑顯示字集 ]
+        states: [ ☐☐☐☐無注解, ☑☐☐☐拆分提示, ☐☑☐☐編码提示, ☐☐☑☐顯示注音, ☐☐☐☑顯示字集 ]
     embed:
-      - { type: switch, name: embeded_cands, states: [ ☐嵌入編碼, ☑嵌入候選 ] }
+      - { type: switch, name: embeded_cands, states: [ ☐嵌入編码, ☑嵌入候選 ] }
     full:
       - type: radio
         names: [ full.word, full.char, full.off ]
-        states: [ "☑☑四碼字詞: 顯示所有候選", "☐☑四碼全單: 隐藏詞語候選", "☐☐僅三碼: 隐藏四碼候選" ]
+        states: [ "☑☑四码字词: 顯示所有候選", "☐☑四码全单: 隐藏词語候選", "☐☐僅三码: 隐藏四码候選" ]
     smart:
-      - { type: switch, name: single_char, states: [ □智能組詞, ■純單模式 ] }
+      - { type: switch, name: single_char, states: [ □智能組词, ■纯单模式 ] }
     comp:
       - type: switch
         name: completion
-        states: [ "□簡潔模式: 不顯示編碼預測結果", "■自動補全: 顯示編碼預測結果" ]
+        states: [ "□简洁模式: 不顯示編码預測結果", "■自動補全: 顯示編码預測結果" ]
     charset:
       - type: radio
         names: [ charset.all, charset.freqly ]
@@ -271,7 +271,7 @@ key_binder:
     - { when: has_menu, accept: "/", toggle: division.off }
     # 字集切換
     - { when: has_menu, accept: "0", toggle: charset.all }
-    # 内嵌候選開關
+    # 内嵌候選開关
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     # 中英文标点
     - {when: always, accept: Control+period, toggle: ascii_punct}
@@ -282,7 +282,7 @@ recognizer:
     symbols: "^/([0-9]0?|[A-Za-z]+)$"
     # 拼音反查模式
     rev_pinyin: "^`[a-z]+$"
-    # 單獨反引號
+    # 单獨反引號
     grave: "^`$"
 
 menu:
