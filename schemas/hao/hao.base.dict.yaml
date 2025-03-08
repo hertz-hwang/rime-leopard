@@ -451,7 +451,6 @@ columns:
 戓	akk	0
 惑	akl	10967
 帜	akn	669
-鱓	akp	1
 圓	akr	2396
 廻	akr	2
 廽	akr	0
@@ -614,6 +613,7 @@ columns:
 帗	apo	0
 鮁	apo	0
 鱄	apo	0
+鱓	app	1
 幝	app	0
 匓	apr	0
 幩	apr	0
@@ -2403,8 +2403,6 @@ columns:
 剚	dkn	1
 剄	dkn	0
 齞	dkn	0
-磾	dkp	9
-譂	dkp	0
 磒	dkr	0
 詋	dkr	0
 諿	dkv	0
@@ -2594,6 +2592,8 @@ columns:
 鿁	dpn	0
 磚	dpo	500
 詙	dpo	0
+磾	dpp	9
+譂	dpp	0
 砍	dpq	5170
 詼	dpr	5
 讌	dpr	5
@@ -4370,7 +4370,6 @@ columns:
 絒	fkk	0
 絽	fkk	0
 胑	fkn	0
-繟	fkp	0
 点	fkr	100	fk1
 縜	fkr	0
 脭	fkr	0
@@ -4610,6 +4609,7 @@ columns:
 繊	fpo	0
 胈	fpo	0
 膞	fpo	0
+繟	fpp	0
 龡	fpp	0
 展	fpq	100	fp1
 肷	fpq	2
@@ -5903,7 +5903,6 @@ columns:
 侶	hkk	264
 伿	hkn	0
 偘	hkp	0
-貚	hkp	0
 煲	hkr	172
 侱	hkr	0
 傊	hkr	0
@@ -6052,6 +6051,7 @@ columns:
 傎	hpn	0
 傳	hpo	8457
 僤	hpp	0
+貚	hpp	0
 飲	hpq	1944
 儎	hpq	0
 儾	hpq	0
@@ -7558,7 +7558,6 @@ columns:
 筥	jkk	9
 冋	jkk	0
 嚞	jkk	0
-簞	jkp	10
 欯	jkp	0
 颉	jkq	159
 兜	jkr	2247
@@ -7709,6 +7708,7 @@ columns:
 篿	jpo	0
 簙	jpo	0
 韍	jpo	0
+簞	jpp	10
 皁	jps	1
 蠞	jpv	0
 節	jpw	6682
@@ -8991,7 +8991,6 @@ columns:
 吢	lkk	0
 舝	lkl	0
 怾	lkn	4
-禪	lkp	389
 祝	lkr	6601
 怳	lkr	1
 悜	lkr	0
@@ -9124,6 +9123,7 @@ columns:
 禛	lpn	120
 祓	lpo	7
 慱	lpo	0
+禪	lpp	389
 憚	lpp	31
 忺	lpq	37
 恢	lpr	8604
@@ -11103,7 +11103,6 @@ columns:
 刟	nkn	0
 疻	nkn	0
 欩	nkp	0
-驒	nkp	0
 兑	nkr	952
 兌	nkr	2
 癌	nku	1478
@@ -11238,6 +11237,7 @@ columns:
 瘨	npn	0
 黰	npn	0
 癉	npp	0
+驒	npp	0
 饮	npq	5640
 癫	npq	538
 馕	npq	32
@@ -13291,7 +13291,6 @@ columns:
 軎	qkk	0
 织	qkn	100	qk1
 軹	qkn	0
-襌	qkp	11
 裎	qkr	14
 軦	qkr	1
 毄	qkr	0
@@ -13426,6 +13425,7 @@ columns:
 绂	qpo	11
 袚	qpo	0
 軷	qpo	0
+襌	qpp	11
 軟	qpq	1432
 歊	qpq	0
 轒	qpr	2
@@ -15009,7 +15009,6 @@ columns:
 閭	skk	35
 刉	skn	0
 闆	skp	967
-闡	skp	86
 殞	skr	10
 殒	skv	138
 年	sl1	196322	sl1
@@ -15136,6 +15135,7 @@ columns:
 鬨	spn	30
 閧	spn	0
 鲅	spo	19
+闡	spp	86
 殫	spp	10
 欣	spq	13460
 羵	spr	1
@@ -16912,7 +16912,6 @@ columns:
 尀	vko	0
 區	vkp	7244
 歐	vkp	3006
-蟬	vkp	272
 聖	vkr	1844
 毆	vkr	45
 贶	vkr	2
@@ -17026,6 +17025,7 @@ columns:
 蠘	vpm	0
 龚	vpn	1007
 蛂	vpo	0
+蟬	vpp	272
 匰	vpp	0
 蟦	vpr	0
 蝻	vps	2
@@ -18868,7 +18868,6 @@ columns:
 剖	xkn	959
 轵	xkn	5
 鹄	xko	126
-軃	xkp	1
 颥	xkq	4
 竞	xkr	4756
 競	xkr	2906
@@ -19002,6 +19001,7 @@ columns:
 隓	xpl	0
 牳	xpm	0
 竱	xpo	0
+軃	xpp	1
 软	xpq	11356
 欬	xpq	1
 隫	xpr	0
@@ -20930,7 +20930,6 @@ columns:
 搻	zko	0
 歙	zkp	32
 欱	zkp	0
-蕇	zkp	0
 颌	zkq	234
 颧	zkq	123
 蒷	zkr	0
@@ -21167,6 +21166,7 @@ columns:
 蓴	zpo	0
 歡	zpp	7253
 歛	zpp	2
+蕇	zpp	0
 芡	zpq	26
 蕡	zpr	2
 蘅	zps	188

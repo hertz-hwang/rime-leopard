@@ -2020,8 +2020,6 @@ columns:
 𩺑	akkm
 𩻙	akkm
 𱜻	akko
-鱓	akkp
-㺗	akkp
 𰈅	akkw
 𥦖	akld
 𢙍	aklx
@@ -2807,6 +2805,8 @@ columns:
 𱜵	apcl
 團	apco
 鱄	apco
+鱓	apcp
+㺗	apcp
 幝	apcp
 𠣹	apcu
 𤡚	apcu
@@ -5840,9 +5840,6 @@ columns:
 稆	bkkk
 𪪟	bkkl
 廱	bkkm
-𨢿	bkkp
-𬓿	bkkp
-𭙴	bkkp
 𦉨	bkkt
 𧖇	bkkv
 惒	bklx
@@ -6370,6 +6367,9 @@ columns:
 㢜	bpcl
 𥡵	bpco
 𭙥	bpco
+𨢿	bpcp
+𬓿	bpcp
+𭙴	bpcp
 𢉱	bpct
 廐	bpcu
 穊	bpcu
@@ -11682,9 +11682,6 @@ columns:
 𰵆	dkkm
 𡂧	dkkn
 𰈫	dkko
-磾	dkkp
-譂	dkkp
-𪙣	dkkp
 𧮜	dkkt
 𣈆	dkku
 𧬌	dkku
@@ -12451,6 +12448,9 @@ columns:
 𱴱	dpbl
 譓	dpcl
 磚	dpco
+磾	dpcp
+譂	dpcp
+𪙣	dpcp
 矴	dpds
 𥔩	dpds
 訂	dpdy
@@ -16132,11 +16132,6 @@ columns:
 瞣	ekkl
 𡑇	ekkm
 𰥏	ekkm
-䵐	ekkp
-𩴫	ekkp
-𫙎	ekkp
-𭿞	ekkp
-𮮯	ekkp
 𠮷	ekkt
 𫭙	ekkt
 喜	ekku
@@ -16803,7 +16798,12 @@ columns:
 壊	epbq
 塼	epco
 䁣	epco
+䵐	epcp
 墠	epcp
+𩴫	epcp
+𫙎	epcp
+𭿞	epcp
+𮮯	epcp
 𭇄	epdk
 盯	epdm
 圢	epdt
@@ -20824,8 +20824,6 @@ columns:
 𦠍	fkkm
 𬖏	fkkm
 𦢷	fkkn
-繟	fkkp
-䐷	fkkp
 𫆩	fkkr
 𡰪	fkks
 𫃜	fkks
@@ -21810,6 +21808,8 @@ columns:
 縳	fpco
 䊜	fpco
 膞	fpco
+繟	fpcp
+䐷	fpcp
 𥼥	fpcr
 𦅎	fpcr
 𦇡	fpdj
@@ -28680,7 +28680,6 @@ columns:
 𫺛	hkkl
 𣶚	hkkm
 𰜅	hkkm
-貚	hkkp
 㐰	hkkr
 𠋨	hkkr
 𠉬	hkku
@@ -29267,6 +29266,7 @@ columns:
 𡦕	hpco
 𫝊	hpco
 僤	hpcp
+貚	hpcp
 𠍶	hpcr
 𡦗	hpcr
 𪝌	hpct
@@ -33150,8 +33150,6 @@ columns:
 𡚊	ikkm
 𠷔	ikkn
 𪑵	ikkn
-㲷	ikkp
-䠤	ikkp
 𠧏	ikkp
 𠫺	ikkp
 𰠉	ikkp
@@ -33807,6 +33805,8 @@ columns:
 𨃭	ipay
 𧽢	ipco
 𨄔	ipco
+㲷	ipcp
+䠤	ipcp
 䟓	ipdu
 𬻚	ipdu
 𨁷	iped
@@ -37602,9 +37602,6 @@ columns:
 𭂼	jkkk
 𥶟	jkkl
 𬕪	jkkm
-簞	jkkp
-𤾠	jkkp
-𩏥	jkkp
 𥸂	jkkr
 𥸇	jkkr
 吉	jkks
@@ -38357,6 +38354,9 @@ columns:
 韢	jpcl
 𫂠	jpcl
 篿	jpco
+簞	jpcp
+𤾠	jpcp
+𩏥	jpcp
 𥶸	jpct
 篯	jpda
 𥰐	jpda
@@ -45072,7 +45072,6 @@ columns:
 𢠮	lkkm
 𮥿	lkkm
 𬽐	lkkn
-禪	lkkp
 𤬥	lkkq
 𧚱	lkkq
 𧚾	lkkq
@@ -45627,6 +45626,7 @@ columns:
 𥛸	lpcl
 慱	lpco
 𥛥	lpco
+禪	lpcp
 憚	lpcp
 慨	lpcu
 𱤼	lpdi
@@ -53813,7 +53813,6 @@ columns:
 癰	nkkm
 𠺎	nkkm
 𩡳	nkkm
-驒	nkkp
 吂	nkkw
 𭼺	nkkw
 𬰛	nklf
@@ -54537,6 +54536,7 @@ columns:
 𤹵	npco
 𲋿	npco
 癉	npcp
+驒	npcp
 𤻿	npcy
 𢍖	npcz
 疔	npdb
@@ -57354,8 +57354,6 @@ columns:
 捛	okkk
 𢹬	okkm
 𢰊	okko
-𠧈	okkp
-𠧉	okkp
 𭡒	okkq
 扣	okks
 𪭸	okld
@@ -57884,6 +57882,8 @@ columns:
 𢴥	opcl
 摶	opco
 撣	opcp
+𠧈	opcp
+𠧉	opcp
 摡	opcu
 𭡰	opcu
 𱠘	opde
@@ -60361,7 +60361,6 @@ columns:
 铝	pkkk
 𠰔	pkkm
 𩁣	pkkm
-𠦵	pkkp
 賷	pkkr
 右	pkks
 𰀉	pkks
@@ -60646,6 +60645,7 @@ columns:
 𮏃	ppgn
 𣟘	ppgy
 𲇻	pphi
+𠦵	pphp
 𰾾	ppja
 𰾂	ppji
 𠿧	ppjk
@@ -62795,12 +62795,9 @@ columns:
 𲌙	qkkm
 𥀶	qkkn
 𮖸	qkko
-襌	qkkp
-䡲	qkkp
 𠅷	qkkp
 𣤸	qkkp
 𣤽	qkkp
-𦪢	qkkp
 𣰶	qkkq
 𭮼	qkkt
 㣲	qkkw
@@ -63367,6 +63364,9 @@ columns:
 𨎥	qpcl
 𰬸	qpcl
 轉	qpco
+襌	qpcp
+䡲	qpcp
+𦪢	qpcp
 𧝄	qpcr
 𧜳	qpcu
 𨊡	qpdc
@@ -66844,9 +66844,6 @@ columns:
 𭟡	rkkl
 𤒌	rkkn
 𣤲	rkkp
-𤩧	rkkp
-𤪛	rkkp
-𩍍	rkkp
 䫷	rkkw
 𬪠	rkkx
 𰭫	rkme
@@ -67485,6 +67482,8 @@ columns:
 瑼	rpco
 𤍿	rpco
 燀	rpcp
+𤩧	rpcp
+𩍍	rpcp
 𤩚	rpcr
 𤩮	rpcr
 靪	rpdg
@@ -67555,6 +67554,7 @@ columns:
 𱪱	rplg
 𤩼	rplj
 𪹴	rplj
+𤪛	rplp
 𭯈	rpmb
 𤦷	rpms
 𭵗	rpms
@@ -70782,7 +70782,6 @@ columns:
 𦎑	skkk
 䍺	skkl
 問	skkm
-闡	skkp
 𫩠	skks
 㖖	skkx
 𬪊	skkx
@@ -71365,6 +71364,7 @@ columns:
 勄	spcl
 𣩘	spco
 𱈐	spco
+闡	spcp
 殫	spcp
 𭮟	spcr
 𫠧	spdf
@@ -73263,7 +73263,6 @@ columns:
 𦉅	tkka
 闾	tkkk
 问	tkkm
-𦉕	tkkp
 𠮢	tkky
 𱤯	tklk
 𪳏	tkmf
@@ -73484,6 +73483,7 @@ columns:
 𠛻	tpan
 𦉃	tpay
 𤮍	tpco
+𦉕	tpcp
 𦔙	tpcu
 耓	tpdl
 𮤫	tpdm
@@ -76268,10 +76268,7 @@ columns:
 𱛢	ukkk
 𰎵	ukkm
 𰎶	ukkm
-㠆	ukkp
 𠩰	ukkp
-𡼤	ukkp
-𬏕	ukkp
 𣅊	ukkr
 吾	ukku
 𡸡	ukku
@@ -76943,7 +76940,10 @@ columns:
 暷	upco
 𪩍	upco
 𮪴	upco
+㠆	upcp
 暺	upcp
+𡼤	upcp
+𬏕	upcp
 𰕴	upcq
 厩	upcu
 厅	updc
@@ -80155,8 +80155,6 @@ columns:
 𩀫	vkkm
 𠥷	vkko
 𡬿	vkko
-蟬	vkkp
-𫆐	vkkp
 𠥝	vkkr
 𰟱	vkkr
 𣂻	vkks
@@ -80669,7 +80667,9 @@ columns:
 𨟡	vpbx
 蟪	vpcl
 𧐕	vpco
+蟬	vpcp
 匰	vpcp
+𫆐	vpcp
 𧑂	vpcu
 虰	vpdc
 耵	vpde
@@ -83906,9 +83906,6 @@ columns:
 𲇢	wkkm
 如	wkkn
 𫓟	wkkn
-𠓊	wkkp
-𦧴	wkkp
-𨭐	wkkp
 𩫳	wkkq
 𩑇	wkkt
 㖲	wkkw
@@ -84637,6 +84634,9 @@ columns:
 嫥	wpco
 鏄	wpco
 嬋	wpcp
+𠓊	wpcp
+𦧴	wpcp
+𨭐	wpcp
 𡠣	wpcu
 釘	wpdj
 奵	wpdn
@@ -88140,9 +88140,6 @@ columns:
 告	xkkn
 吿	xkkn
 𤘘	xkkn
-軃	xkkp
-𨼒	xkkp
-𩉁	xkkp
 𥪾	xkkr
 𬋣	xkkr
 𨈖	xkks
@@ -88734,7 +88731,10 @@ columns:
 䧠	xpco
 𩅂	xpco
 𭷰	xpco
+軃	xpcp
+𨼒	xpcp
 𩅦	xpcp
+𩉁	xpcp
 𩅑	xpct
 𥪽	xpda
 䦺	xpde
@@ -96526,7 +96526,6 @@ columns:
 𡂤	zkkn
 𭄚	zkkn
 鹳	zkko
-蕇	zkkp
 𣤾	zkkp
 𫉞	zkkp
 颧	zkkq
@@ -97513,6 +97512,7 @@ columns:
 𮑀	zpbo
 蕙	zpcl
 蓴	zpco
+蕇	zpcp
 蔇	zpcu
 𮶬	zpda
 艼	zpdc
