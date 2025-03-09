@@ -41,8 +41,6 @@ columns:
 动	z1	145705	z1
 乍	aa1	1435
 窄	aaa	2075
-卍	aaa	14
-卐	aaa	9
 帴	aaa	0
 猋	aaa	0
 鮓	aaa	0
@@ -145,6 +143,7 @@ columns:
 匐	adc	253
 鰏	adc	1
 狕	adc	0
+卐	add	9
 幨	add	0
 狟	add	0
 竀	add	0
@@ -309,6 +308,7 @@ columns:
 帿	ahg	0
 鯸	ahg	0
 猛	ahh	100	ah1
+卍	ahh	14
 鯭	ahh	0
 囝	ahi	91
 狲	ahi	64
