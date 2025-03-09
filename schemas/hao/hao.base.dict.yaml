@@ -12914,7 +12914,6 @@ columns:
 轀	qah	0
 裀	qai	2
 凧	qaj	0
-幑	qaj	0
 裡	qal	22873
 裏	qal	42
 艃	qal	0
@@ -12937,7 +12936,6 @@ columns:
 鰲	qav	51
 袌	qav	0
 軳	qav	0
-鰴	qav	0
 袕	qax	0
 裍	qay	0
 裓	qaz	0
@@ -13013,7 +13011,6 @@ columns:
 编	qdy	7946
 袜	qdy	855
 褊	qdy	13
-徾	qdy	0
 艑	qdy	0
 謷	qdy	0
 輡	qdy	0
@@ -13082,7 +13079,6 @@ columns:
 輾	qfq	141
 艉	qfq	16
 衫	qfs	3998
-徽	qfs	1785
 毝	qfs	0
 缕	qfw	2068
 褛	qfw	191
@@ -13346,7 +13342,6 @@ columns:
 舠	qnd	0
 艠	qng	0
 褴	qnh	188
-黴	qnh	112
 衮	qni	618
 舩	qni	0
 衳	qni	0
@@ -13440,7 +13435,6 @@ columns:
 缟	qqg	34
 輬	qqi	0
 亮	qqj	37061
-微	qqj	100	wq1
 褳	qqj	5
 轋	qqj	0
 船	qqk	100	qq1
@@ -13464,7 +13458,6 @@ columns:
 盤	qrh	2731
 熬	qrh	2369
 衼	qri	0
-懲	qrl	280
 搫	qro	1
 撃	qro	0
 褩	qrq	0
@@ -13477,8 +13470,6 @@ columns:
 绪	qru	8442
 褚	qru	801
 螌	qrv	0
-徵	qrw	2722
-徴	qrw	1
 媻	qrw	0
 軖	qrw	0
 鎜	qrw	0
@@ -17334,6 +17325,7 @@ columns:
 嬔	wai	0
 銦	wai	0
 帇	waj	0
+幑	waj	0
 鉰	wak	0
 娌	wal	36
 孊	wal	0
@@ -17359,6 +17351,7 @@ columns:
 銁	wau	0
 鑥	wau	0
 鉋	wav	0
+鰴	wav	0
 娜	wax	13878
 匕	wb1	1696
 妑	wbb	0
@@ -17488,6 +17481,7 @@ columns:
 妺	wdy	106
 娮	wdy	0
 媥	wdy	0
+徾	wdy	0
 錎	wdy	0
 鍽	wdy	0
 妍	wdz	2181
@@ -17579,6 +17573,7 @@ columns:
 娓	wfq	454
 媜	wfr	5
 鍞	wfr	0
+徽	wfs	1785
 釤	wfs	0
 銯	wfs	0
 鐁	wfs	0
@@ -17978,6 +17973,7 @@ columns:
 嫉	wng	1917
 鐙	wng	10
 嬁	wng	0
+黴	wnh	112
 嫼	wnh	0
 妐	wni	0
 鈆	wni	0
@@ -18130,6 +18126,7 @@ columns:
 翞	wqi	0
 銥	wqi	0
 鍄	wqi	0
+微	wqj	100	wq1
 鏈	wqj	97
 翴	wqj	0
 釠	wqj	0
@@ -18160,6 +18157,7 @@ columns:
 鈘	wri	0
 娝	wrk	0
 姥	wrl	2228
+懲	wrl	280
 銠	wrl	0
 鉚	wrm	0
 鍘	wrn	15
@@ -18176,7 +18174,9 @@ columns:
 鈠	wrs	0
 媎	wru	0
 鍺	wru	0
+徵	wrw	2722
 熲	wrw	2
+徴	wrw	1
 孆	wrw	0
 鋣	wrx	0
 嬫	wry	0

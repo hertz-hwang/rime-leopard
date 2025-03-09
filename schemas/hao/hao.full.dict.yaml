@@ -61312,7 +61312,6 @@ columns:
 𣬢	qajm
 𱺒	qajs
 䙟	qajw
-幑	qajw
 𧝕	qajw
 𨝩	qakb
 𰬟	qakd
@@ -61392,7 +61391,6 @@ columns:
 𣭚	qavs
 𧙌	qavs
 𦪁	qavv
-鰴	qavw
 𡯶	qavy
 艬	qawa
 袕	qaxi
@@ -61726,7 +61724,6 @@ columns:
 𧙤	qdym
 𬘚	qdym
 𰚝	qdym
-徾	qdyw
 𨊻	qdzc
 𧙧	qdzc
 𡙦	qdzi
@@ -61812,7 +61809,6 @@ columns:
 纠	qejs
 𰬆	qejs
 𰹜	qejt
-𢕄	qejw
 軻	qekc
 袔	qeki
 𧙃	qeki
@@ -61984,7 +61980,6 @@ columns:
 𠘱	qfsj
 毝	qfsm
 䑣	qfso
-徽	qfsw
 𧛺	qfsx
 𬘽	qfsx
 𧜭	qfta
@@ -62787,7 +62782,6 @@ columns:
 𣬧	qkkm
 𠅷	qkkp
 𭮼	qkkt
-㣲	qkkw
 𩀖	qkmi
 𬧴	qkms
 织	qknb
@@ -63125,7 +63119,6 @@ columns:
 襚	qnhj
 𨍨	qnhs
 𠠭	qnhu
-黴	qnhw
 𪵜	qnid
 𦠫	qnih
 䙂	qnil
@@ -63475,7 +63468,6 @@ columns:
 𰴃	qqct
 𧙱	qqda
 𬴠	qqdd
-𧢓	qqdj
 𱼸	qqei
 𦨾	qqel
 𠨦	qqew
@@ -63510,7 +63502,6 @@ columns:
 𧘊	qqji
 𠘬	qqjj
 𣬠	qqjm
-微	qqjw
 缞	qqkd
 䙑	qqkd
 𧟄	qqkd
@@ -63554,7 +63545,6 @@ columns:
 㯔	qqqy
 𬴜	qqrb
 𧚢	qqre
-𭶓	qqrh
 𨎊	qqrk
 𬴢	qqru
 𧝻	qqrz
@@ -63586,7 +63576,6 @@ columns:
 𬴗	qrda
 𫄞	qrdi
 𲀨	qrdi
-𧢒	qrdj
 𲄸	qrdp
 磐	qrds
 𤳮	qrec
@@ -63596,15 +63585,12 @@ columns:
 𬴔	qreg
 𣬜	qrem
 𥈼	qrem
-𥋪	qrem
-𪿂	qrem
 𡐊	qret
 𪤈	qret
 𭺰	qrfg
 𬖯	qrfm
 縏	qrfs
 繋	qrfs
-𦡒	qrfy
 𨍝	qrgc
 䑬	qrgg
 𨋫	qrgg
@@ -63637,7 +63623,6 @@ columns:
 𦓄	qrlg
 𬴖	qrlg
 𱻧	qrlj
-懲	qrlx
 𢟁	qrlx
 𨋖	qrmc
 𨌡	qrmc
@@ -63677,15 +63662,12 @@ columns:
 褚	qrur
 绪	qrur
 𦩳	qrur
-㠞	qrus
 螌	qrvc
 𩍯	qrvh
 軖	qrwc
 𧘦	qrwi
 鎜	qrwj
 媻	qrwn
-徵	qrww
-徴	qrww
 𨟕	qrxe
 𲀯	qrxe
 𤘒	qrya
@@ -63836,7 +63818,6 @@ columns:
 鳌	qsva
 𧐮	qsvc
 𦗚	qsve
-𱈑	qsvw
 𣨻	qswb
 𩫓	qswb
 鏨	qswj
@@ -63895,14 +63876,12 @@ columns:
 襖	qtji
 𬡢	qtji
 𧙹	qtjk
-懲	qtjl
 艇	qtjr
 𬘩	qtjr
 衽	qtjs
 纴	qtjs
 軠	qtjs
 𨋦	qtjt
-𨟃	qtjx
 𲀹	qtka
 经	qtlg
 𪵛	qtlm
@@ -82046,6 +82025,7 @@ columns:
 帇	wajj
 𭘒	wajj
 𮡥	wajj
+幑	wajw
 𫲄	waka
 𠒬	wakd
 𦑌	wakd
@@ -82144,6 +82124,7 @@ columns:
 䎂	wavs
 𩐜	wavs
 𨫂	wavv
+鰴	wavw
 鑱	wawa
 㜶	wawa
 𦧻	wawa
@@ -82608,6 +82589,7 @@ columns:
 𰼤	wdym
 娮	wdyn
 𬜇	wdys
+徾	wdyw
 妍	wdzc
 鈃	wdzc
 𡌎	wdze
@@ -82695,6 +82677,7 @@ columns:
 𰅵	wejp
 舏	wejs
 翑	wejv
+𢕄	wejw
 𨰹	wejw
 𩐝	wejy
 𬫡	wekd
@@ -82905,6 +82888,7 @@ columns:
 釤	wfsj
 銯	wfsj
 𰋻	wfsn
+徽	wfsw
 𡟭	wfsx
 𩑘	wfsy
 𡠟	wfta
@@ -83899,6 +83883,7 @@ columns:
 如	wkkn
 𩫳	wkkq
 㖲	wkkw
+㣲	wkkw
 𡜣	wklg
 𥙦	wkls
 恕	wklx
@@ -84356,6 +84341,7 @@ columns:
 𨪂	wnhs
 𧲁	wnhu
 𨪺	wnhu
+黴	wnhw
 𮮜	wnhy
 𭑹	wnid
 鎹	wnij
@@ -84792,6 +84778,7 @@ columns:
 姵	wqda
 𨦨	wqda
 𫲉	wqdg
+𧢓	wqdj
 𨮫	wqdl
 㚯	wqei
 𨧤	wqel
@@ -84823,6 +84810,7 @@ columns:
 釠	wqjj
 𡚫	wqjn
 𫇔	wqjs
+微	wqjw
 鑲	wqkd
 孃	wqkd
 鉛	wqkk
@@ -84856,6 +84844,7 @@ columns:
 𭀴	wqqj
 𥃚	wqrh
 𬬛	wqrh
+𭶓	wqrh
 鏩	wqsj
 㜄	wqtv
 𩗩	wqtv
@@ -84893,12 +84882,16 @@ columns:
 鉟	wrdi
 㚰	wrdi
 𥫏	wrdj
+𧢒	wrdj
 𨮃	wrdo
 㒫	wrej
 𮢷	wrek
+𥋪	wrem
+𪿂	wrem
 𱙂	wren
 𡟽	wret
 竟	wrey
+𦡒	wrfy
 姚	wrgg
 銚	wrgg
 𡣘	wrgh
@@ -84933,6 +84926,7 @@ columns:
 銠	wrlj
 𫒰	wrlk
 姥	wrln
+懲	wrlx
 𭝊	wrlx
 𮱈	wrlx
 𡡳	wrmi
@@ -84987,12 +84981,15 @@ columns:
 鍺	wrur
 𦑥	wrur
 𨪌	wrur
+㠞	wrus
 𨦊	wrwb
 𬫃	wrwj
 嬼	wrwn
 𨮸	wrwn
 竸	wrwr
 䍿	wrwv
+徵	wrww
+徴	wrww
 熲	wrwy
 鋣	wrxe
 𨜭	wrxe
@@ -85176,6 +85173,7 @@ columns:
 𡢃	wsur
 𨰏	wsuw
 𡣟	wsve
+𱈑	wsvw
 𫱢	wsvx
 𨩝	wswj
 𨩽	wswj
@@ -85299,12 +85297,14 @@ columns:
 姠	wtjk
 銄	wtjk
 𲊧	wtjk
+懲	wtjl
 鋌	wtjr
 娗	wtjr
 𦐿	wtjr
 妊	wtjs
 鈓	wtjs
 𡤊	wtju
+𨟃	wtjx
 㪊	wtka
 帬	wtka
 𡟥	wtka
