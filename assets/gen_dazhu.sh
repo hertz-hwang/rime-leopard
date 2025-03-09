@@ -13,7 +13,7 @@ cat schemas/hao/hao.words.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >schemas/hao/dazhu.txt
+    >schemas/hao/dazhu-hao.txt
 
 cat schemas/hao/hao.base.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -24,7 +24,7 @@ cat schemas/hao/hao.base.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>schemas/hao/dazhu.txt
+    >>schemas/hao/dazhu-hao.txt
 
 cat schemas/hao/hao.full.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2⇥/g' | \
@@ -35,7 +35,7 @@ cat schemas/hao/hao.full.dict.yaml | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>schemas/hao/dazhu.txt
+    >>schemas/hao/dazhu-hao.txt
 
 cat schemas/hao/hao.symbols.dict.yaml | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -43,11 +43,26 @@ cat schemas/hao/hao.symbols.dict.yaml | \
     grep '.*{TAB}.*' | \
     sed 's/{TAB}/\t/g' | \
     awk '{print "/" $2 "\t" $1}' \
-    >>schemas/hao/dazhu.txt
+    >>schemas/hao/dazhu-hao.txt
 
 cat schemas/hao/opencc/hao_div.txt | \
     sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-    >>schemas/hao/dazhu.txt
+    >>schemas/hao/dazhu-hao.txt
+
+cat schemas/hao/leopard.dict.yaml | \
+    sed 's/^\(.*\)\t\(.*\)/\1\t\2⇥/g' | \
+    sed 's/\t/{TAB}/g' | \
+    grep '.*{TAB}.*' | \
+    sed 's/{TAB}/\t/g' | \
+    awk '{print $2 "\t" $1}' | \
+    sed 's/1/_/g' | \
+    sed 's/2/;/g' | \
+    sed "s/3/'/g" \
+    >schemas/hao/dazhu-leopard.txt
+
+cat schemas/hao/opencc/hao_div.txt | \
+    sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
+    >>schemas/hao/dazhu-leopard.txt
 
 #sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
 #    sed 's/\t/{TAB}/g' | \
