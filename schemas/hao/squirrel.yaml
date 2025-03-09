@@ -24,7 +24,7 @@ style:
   translucency: true      # 透明度總開關
 
   # 淺色主题
-  color_scheme: hertz-leopard-light-alpha #purity_of_form_custom #hertz-leopard-light
+  color_scheme: hertz-leopard-light #purity_of_form_custom #hertz-leopard-light
   # 深色主题
   color_scheme_dark: hertz-leopard-dark #purity_of_form_custom #hertz-leopard-dark
 
