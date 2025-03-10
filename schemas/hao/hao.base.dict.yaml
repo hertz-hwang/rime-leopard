@@ -3643,11 +3643,11 @@ columns:
 圪	esk	19
 墡	esk	13
 盵	esk	0
+執	esl	2793
 慹	esl	0
 漐	esm	0
 矘	esn	0
 騺	esn	0
-執	eso	2793
 墟	eso	754
 摯	eso	106
 坼	eso	14
@@ -9073,9 +9073,9 @@ columns:
 悌	lnx	73
 祶	lnx	0
 恲	lnz	0
+丸	lo1	2167
 忖	loc	1254
 対	loc	0
-丸	lod	2167
 祜	log	68
 怙	log	32
 憰	lok	0
@@ -9085,7 +9085,6 @@ columns:
 斏	lop	0
 懠	loq	0
 忬	lov	0
-奿	low	0
 恨	lp1	16348	lp1
 怖	lpa	5304
 愕	lpa	2531
@@ -9356,6 +9355,7 @@ columns:
 雌	lwm	808
 祿	lwm	77
 些	lwn	188618
+奿	lwn	0
 婓	lwn	0
 愼	lwn	0
 憳	lwo	0
@@ -13132,10 +13132,10 @@ columns:
 舺	qhj	68
 袵	qhj	1
 艙	qhk	238
+孰	qhl	471
 憝	qhl	2
 盘	qhm	13253
 衸	qhn	0
-孰	qho	471
 鹑	qho	80
 袝	qho	2
 撉	qho	0
@@ -13383,8 +13383,8 @@ columns:
 凡	qod	16534
 舣	qoe	1
 軲	qog	0
+亵	qol	522
 鸼	qon	0
-亵	qoo	522
 襆	qoo	0
 襨	qoo	0
 轐	qoo	0
@@ -20412,6 +20412,7 @@ columns:
 薐	zbj	0
 萂	zbk	0
 蓎	zbk	0
+萟	zbl	0
 萪	zbl	0
 蘿	zbm	404
 藜	zbm	132
@@ -20422,7 +20423,6 @@ columns:
 蘮	zbn	0
 蔑	zbo	1427
 菧	zbo	5
-萟	zbo	0
 蒪	zbo	0
 薭	zbp	0
 蘸	zbr	257
