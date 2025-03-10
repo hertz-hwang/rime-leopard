@@ -1,4 +1,6 @@
-#!/bin/bash
+#!/bin/zsh
+
+source ~/.zshrc
 
 cd "$(dirname $0)"
 WD="$(pwd)"
@@ -22,7 +24,7 @@ gen_schema() {
     cp ../template/squirrel.yaml "${HAO}"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc"
-    cp ../template/leopard.*.yaml "${HAO}"
+    cp ../template/leopard.*.yaml /"${TMPDIR}"/"${NAME}"
     #if [[ "$OSTYPE" == "darwin"* ]]; then
     #    # macOS
     #    sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
@@ -54,6 +56,12 @@ gen_schema() {
     cat /"${TMPDIR}"/fullcode.txt >>"${HAO}/hao.full.dict.yaml"
     cat /"${TMPDIR}"/${NAME}/hao.smart.txt >>"${HAO}/hao.smart.txt"
     cat /"${TMPDIR}"/div.txt >"${HAO}/opencc/hao_div.txt"
+
+    conda activate rime
+    python ../assets/simpcode/simpcode.py
+    cat ../assets/simpcode/res.txt >> /"${TMPDIR}"/"${NAME}"/leopard.dict.yaml
+    cp /"${TMPDIR}"/"${NAME}"/leopard.*.yaml "${HAO}"/
+    bash ../assets/gen_dazhu.sh
 
     # 打包发布
     pushd "${SCHEMAS}"
