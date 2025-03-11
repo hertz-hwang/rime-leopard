@@ -81980,7 +81980,7 @@
 𭅨	(十一土,PsEmDiEt,,CJK-F)
 𭅩	(幺言幺十,DyDyDyPs,,CJK-F)
 𭅪	(十日十ㄅ,PsUrPsAe,,CJK-F)
-𭅫	(𠃑一一口,AeDiDiKk,,CJK-F)
+𭅫	(𠃑一丨口,AeDiHsKk,,CJK-F)
 𭅬	(十一糸,PsEmDiFs,,CJK-F)
 𭅭	(⺊日十而,FbUrPsKe,,CJK-F)
 𭅮	(士冖豆十,JsGgGdPs,,CJK-F)

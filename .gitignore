@@ -1,5 +1,6 @@
 .DS_Store
 .vscode
+zh-hans-t-leopard-ugc.gram
 /deploy/generator
 /deploy/hao/hao_map.txtbak
 /docs/assets

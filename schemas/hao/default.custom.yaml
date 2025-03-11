@@ -3,8 +3,9 @@
 
 patch:
   schema_list:
-    - schema: leopard  # 好碼四定
-    - schema: hao      # 好碼三定
+    - schema: leopard_phrase  # 好碼整句
+    - schema: leopard         # 好碼四定
+    - schema: hao             # 好碼三定
   switcher/save_options:
     - embeded_cands
     - full.word

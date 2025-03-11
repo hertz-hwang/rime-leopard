@@ -1,0 +1,35 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: leopard_phrase
+version: "beta"
+sort: by_weight   #字典初始排序，可選original或by_weight
+use_preset_vocabulary: false
+import_tables:
+  - leopard
+  - leopard_phrase.base
+  - leopard_phrase.correlation
+  - leopard_phrase.associational
+  - leopard_phrase.poetry
+  - leopard_phrase.people
+  - leopard_phrase.place
+
+columns:
+  - text
+  - code
+  - weight
+...
+，	,	1
+。	.	1
+！	!	1
+？	?	1
+、	\	1
+@	@	1
+%	%	1
+………	^	1
+&	&	1
+*	*	1
+（	(	1
+）	)	1

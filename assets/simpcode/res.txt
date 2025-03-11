@@ -19418,7 +19418,6 @@
 𤢿	addd	0
 𩽊	addd	0
 𬺴	addi	0
-𭅫	addk	0
 𡈔	adds	0
 𤭳	addt	0
 𡆻	addy	0
@@ -19447,6 +19446,7 @@
 𭟵	adgy	0
 𥤵	adha	0
 䱆	adhi	0
+𭅫	adhk	0
 𥦑	adhp	0
 𩵜	adhs	0
 𥦇	adhu	0
