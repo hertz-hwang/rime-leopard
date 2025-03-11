@@ -1,0 +1,7 @@
+leopard_code_generator/
+├── Cargo.toml
+├── src/
+│   └── main.rs
+└── data/
+    ├── 单字全码表.txt
+    └── 多字词.txt 

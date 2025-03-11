@@ -25,7 +25,6 @@ gen_schema() {
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc"
     cp ../template/leopard.*.yaml /"${TMPDIR}"/"${NAME}"
-    cp ../template/leopard_phrase.*.yaml /"${TMPDIR}"/"${NAME}"
     #if [[ "$OSTYPE" == "darwin"* ]]; then
     #    # macOS
     #    sed -i "" "s/name: 豹碼/name: 豹碼·${NAME}/g" "${HAO}"/hao.{custom,schema}.yaml
@@ -58,11 +57,16 @@ gen_schema() {
     cat /"${TMPDIR}"/${NAME}/hao.smart.txt >>"${HAO}/hao.smart.txt"
     cat /"${TMPDIR}"/div.txt >"${HAO}/opencc/hao_div.txt"
 
+    pushd ${WD}/../assets/gendict
+        cat /"${TMPDIR}"/fullcode.txt > data/单字全码表.txt
+        cargo run
+    popd
+    cat ../assets/gendict/data/output.txt >> "${HAO}"/hao.words.dict.yaml
+
     conda activate rime
     python ../assets/simpcode/simpcode.py
     cat ../assets/simpcode/res.txt >> /"${TMPDIR}"/"${NAME}"/leopard.dict.yaml
     cp /"${TMPDIR}"/"${NAME}"/leopard.*.yaml "${HAO}"/
-    cp /"${TMPDIR}"/"${NAME}"/leopard_phrase.*.yaml "${HAO}"/
     bash ../assets/gen_dazhu.sh
 
     # 打包发布

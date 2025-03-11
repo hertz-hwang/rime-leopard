@@ -5531,7 +5531,7 @@ columns:
 倭	hbw	1176
 厁	hbw	0
 餧	hbw	0
-信	hc1	83111	hc1
+助	hc1	23976	hc1
 偶	hca	8752
 儡	hcc	614
 侽	hcc	1
@@ -5539,7 +5539,7 @@ columns:
 儽	hcf	0
 伄	hch	0
 伽	hck	927
-助	hcl	23976
+助	hcl	100	hc1
 偲	hcl	7
 仂	hcl	1
 饆	hco	0
@@ -5601,9 +5601,9 @@ columns:
 仾	hdw	0
 佹	hdw	0
 傓	hdw	0
+信	hdy	83111
 偏	hdy	12802
 餡	hdy	177
-信	hdy	100	hc1
 豜	hdz	0
 他	he1	877391	he1
 豨	hea	5

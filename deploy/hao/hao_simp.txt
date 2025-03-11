@@ -140,7 +140,7 @@
 冷	gz1
 作	ha1
 余	hb1
-信	hc1
+助	hc1
 你	hd1
 他	he1
 像	hf1

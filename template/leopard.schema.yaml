@@ -11,16 +11,25 @@ schema:
   version: beta
 
 switches:
-  - name: ascii_mode
-    reset: 0
-    states: [ 中文, 西文 ]
-  - name: full_shape
-    states: [ 半角, 全角 ]
   - name: ascii_punct
-    states: [ 。，, ．， ]
+    states: [ '，。', '，．' ]
+    reset: 0
+  - name: full_shape
+    states: [ 半, 全 ]
+    reset: 0
+  - options: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ]
+    states: [ 注解关, 注解一, 注解二, 注解三, 注解四 ]
+    reset: 0
+  - name: embeded_cands
+    states: [ 普通, 嵌入 ]
+    reset: 1
+  - name: ascii_mode
+    states: [ 汉字, 西文 ]
+    reset: 0
 
 engine:
   processors:
+    - lua_processor@*hao.core_processor
     - ascii_composer
     - recognizer
     - key_binder
@@ -38,9 +47,17 @@ engine:
   translators:
     - punct_translator
     - history_translator@history
+    - reverse_lookup_translator@rev_pinyin
     - table_translator
   filters:
+    - simplifier
     - uniquifier
+    - simplifier@rev_div
+    - simplifier@division.lv1
+    - simplifier@division.lv2
+    - simplifier@division.lv3
+    - simplifier@division.lv4
+    - lua_filter@*hao.embeded_cands@embeded_cands
 
 speller:
   initials: zyxwvutsrqponmlkjihgfedcba;]
@@ -70,6 +87,73 @@ history:
   size: 2
   initial_quality: 0
 
+# 部件拆分提示
+division.lv1:
+  __include: rev_div
+  option_name: division.lv1
+  comment_format:
+    - xform/\(([^,]*),([^,]*),([^,]*),([^,]*)\)/($1)/
+    - xform/.*\(([^()]*)\)$/($1)/
+    - xlit/\{\}/\⟨\⟩/
+  tags: [ abc, rev_pinyin ]
+
+# 拆分編码提示
+division.lv2:
+  __include: rev_div
+  option_name: division.lv2
+  comment_format:
+    - xform/\(([^,]*),([^,]*),([^,]*),([^,]*)\)/($2)/
+    - xform/.*\(([^()]*)\)$/($1)/
+  tags: [ abc, rev_pinyin ]
+
+# 讀音提示
+division.lv3:
+  __include: rev_div
+  option_name: division.lv3
+  comment_format:
+    - xform/\(([^,]*),([^,]*),([^,]*),([^,]*)\)/($3)/
+    - xform/.*\(([^()]*)\)$/($1)/
+    - xlit/_/,/
+  tags: [ abc, rev_pinyin ]
+
+# 字集提示
+division.lv4:
+  __include: rev_div
+  option_name: division.lv4
+  comment_format:
+    - xform/\(([^,]*),([^,]*),([^,]*),([^,]*)\)/($4)/
+    - xform/.*\(([^()]*)\)$/($1)/
+  tags: [ abc, rev_pinyin ]
+
+# 部件拆分及編码提示, 反查时顯示
+rev_div:
+  option_name: division.off
+  opencc_config: hao_div.json
+  tips: all
+  show_in_comment: true
+  comment_format:
+    - xform/\(([^,]*),([^,]*),([^,]*),([^,]*)\)/($1·$2)/
+    - xlit/\{\}/\⟨\⟩/
+  tags: [ rev_pinyin ]
+
+# 拼音反查
+rev_pinyin:
+  tag: rev_pinyin
+  prefix: "`"
+  dictionary: hao.pinyin
+  preedit_format:
+    - xform/^`//
+  comment_format:
+    - "xform/^/(/"
+    - "xform/$/)/"
+
+embeded_cands:
+  index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ]       # 嵌入候選的序號顯示格式
+  first_format: "${Stash}[${候選}${Seq}]${Code}${Comment}" # 首選的渲染格式
+  next_format: "${Stash}${候選}${Seq}${Comment}"           # 非首選的渲染格式
+  separator: " "                                           # 候選之間的分隔符
+  stash_placeholder: "~"                                   # 非首選的延遲串占位符, 支持 ${Stash} 變量
+
 punctuator:
   import_preset: symbols
   symbols:
@@ -80,6 +164,7 @@ key_bindings:
   __append:
     - { when: has_menu, accept: semicolon, send: KP_2 }
     - { when: has_menu, accept: apostrophe, send: KP_3 }
+    - { when: has_menu, accept: "/", toggle: division.off }
 
 key_binder:
   bindings:
@@ -91,3 +176,7 @@ recognizer:
   patterns:
     punct: '^/([0-9]0?|[A-Za-z]+)$'
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    rev_pinyin: "^`[a-z]+$"
+
+menu:
+  page_size: 5
