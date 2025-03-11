@@ -10,7 +10,7 @@ fRes = '../assets/simpcode/res.txt'  # 保存路径
 lenCode_limit = {1: 1, 2: 1, 3: 1, 4: 99}  # 不指定为1重
 
 isFreq = True  # 是否按照词频重新排序 True|False
-fFreq = '../assets/simpcode/frequency.txt'  # 词频路径
+fFreq = 'hao/freq.txt'  # 词频路径
 fEquiv = '../assets/simpcode/pair_equivalence.txt'  # 当量文件路径
 
 # 处理数字编码，将数字替换为数字前的最后一个字母重复两次
@@ -89,24 +89,27 @@ try:
         for line in f:
             parts = line.strip('\n').split('\t')
             if len(parts) >= 2:
-                freq[parts[0]] = int(parts[1])
+                # 将词频值转换为浮点数，并确保在0~1之间
+                freq_value = float(parts[1])
+                freq_value = max(0.0, min(1.0, freq_value))  # 限制在0~1之间
+                freq[parts[0]] = freq_value
     print(f"成功加载词频数据，共{len(freq)}条记录")
 except Exception as e:
     print(f"加载词频文件出错: {e}")
 
 print(f"4. 处理排序... {time.time() - start_time:.2f}秒")
-# 为每个词语添加词频信息（默认为1）
+# 为每个词语添加词频信息（默认为0）
 for i in range(len(word_codes)):
     if len(word_codes[i]) >= 1:
         char = word_codes[i][0]
-        word_freq = freq.get(char, 1)
+        word_freq = freq.get(char, 0.0)  # 默认值改为0.0
         # 如果词代码中已经有词频（weight），则保留，否则添加
         if len(word_codes[i]) >= 3:
             try:
-                # 尝试转换现有的权重值为整数
-                existing_weight = int(word_codes[i][2])
-                # 如果转换成功且大于1，则保留
-                if existing_weight > 1:
+                # 尝试转换现有的权重值为浮点数
+                existing_weight = float(word_codes[i][2])
+                # 如果转换成功且在有效范围内，则保留
+                if 0.0 <= existing_weight <= 1.0:
                     word_freq = existing_weight
             except:
                 pass
@@ -115,11 +118,11 @@ for i in range(len(word_codes)):
         while len(word_codes[i]) < 3:
             word_codes[i].append('')
         
-        word_codes[i][2] = str(word_freq)  # 设置词频
+        word_codes[i][2] = f"{word_freq:.6f}"  # 设置词频，保留6位小数
 
 # 排序
 if isFreq:
-    word_codes.sort(key=lambda x: int(x[2]) if len(x) >= 3 and x[2].isdigit() else 1, reverse=True)
+    word_codes.sort(key=lambda x: float(x[2]) if len(x) >= 3 and x[2] else 0.0, reverse=True)
 
 print(f"5. 开始生成简码... {time.time() - start_time:.2f}秒")
 # 出简不出全，考虑当量手感
@@ -174,7 +177,7 @@ try:
             if len(word_codes[i]) >= 2:
                 char = word_codes[i][0]
                 code = simplified_codes[i]
-                freq_value = word_codes[i][2] if len(word_codes[i]) >= 3 else "1"
+                freq_value = word_codes[i][2] if len(word_codes[i]) >= 3 else "0"
                 f.write(f'{char}\t{code}\t{freq_value}\n')
     print(f"结果已保存到 {fRes}，共{min(len(word_codes), len(simplified_codes))}条记录")
 except Exception as e:

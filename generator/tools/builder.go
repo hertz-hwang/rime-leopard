@@ -368,7 +368,10 @@ func sortCharMetaByCode(charMetaList []*types.CharMeta) {
 
 func calcCodeByDiv(div []string, mappings map[string]string, freq int64) (full string, code string) {
 	if len(div) > 3 {
-		div = []string{div[0], div[1], div[len(div)-1]}
+		// 1,2,4
+		//div = []string{div[0], div[1], div[len(div)-1]}
+		// 1,2,3
+		div = div[:3]
 	}
 	stack := "1"
 	if freq < 10 {
@@ -383,7 +386,14 @@ func calcCodeByDiv(div []string, mappings map[string]string, freq int64) (full s
 		stack = compCode[1:] + stack
 		full += compCode
 	}
-	code += stack[:3-len(code)]
+	if len(div) == 1 {
+		// 字根字：只有一个部件的字，第二位取stack第一位，第三位重复第二位
+		secondBit := stack[:1]
+		code += secondBit + secondBit
+	} else {
+		// 非字根字：按原规则补充到三位
+		code += stack[:3-len(code)]
+	}
 	code = strings.ToLower(code)
 	return
 }
