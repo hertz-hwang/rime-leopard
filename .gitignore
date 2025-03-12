@@ -3,8 +3,6 @@
 zh-hans-t-leopard-ugc.gram
 /assets/gendict/target
 /deploy/generator
-/deploy/hao/hao_map.txtbak
-/docs/assets
 /schemas/hao/build
 /schemas/hao/installation.yaml
 /schemas/hao/user.yaml
