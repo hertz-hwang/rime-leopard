@@ -35,6 +35,6 @@ jobs:
         env:
           REF_NAME: ${{ github.ref_name }}
         run: |
-          apt install -y zsh
+          sudo apt install -y zsh
           zsh deploy/deploy_hao.sh
           zsh assets/simpcode/gen_hao_simp.sh
