@@ -368,9 +368,9 @@ func sortCharMetaByCode(charMetaList []*types.CharMeta) {
 
 func calcCodeByDiv(div []string, mappings map[string]string, freq int64) (full string, code string) {
 	if len(div) > 3 {
-		// 1,2,4
+		// 一、二、末根
 		//div = []string{div[0], div[1], div[len(div)-1]}
-		// 1,2,3
+		// 一、二、三根
 		div = div[:3]
 	}
 	stack := "1"
@@ -399,22 +399,51 @@ func calcCodeByDiv(div []string, mappings map[string]string, freq int64) (full s
 }
 
 func calcFullCodeByDiv(div []string, mappings map[string]string) (full string, code string) {
+	// 复制原始部件列表
+	originalDiv := append([]string{}, div...)
+	
+	// 当部件数量大于4个时，取前三个部件+末部件
+	if len(div) > 4 {
+		div = append(originalDiv[:3], originalDiv[len(originalDiv)-1])
+	}
+	
 	stack := "11"
+	
+	// 遍历处理每个部件
 	for _, comp := range div {
-		if comp == "～" && len(stack) != 0 {
+		if comp == "～" && len(stack) > 0 {
 			code += stack[:1]
 			stack = stack[1:]
 			continue
 		}
+		
 		compCode := mappings[comp]
 		if len(compCode) == 0 {
-			panic(fmt.Errorf("component '%s' of %v not found in mappings table", comp, div))
+			panic(fmt.Errorf("component '%s' of %v not found in mappings table", comp, originalDiv))
 		}
-		code += compCode[:1]
-		stack = compCode[1:] + stack
+		
+		// 添加编码的第一位
+		if len(compCode) > 0 {
+			code += compCode[:1]
+		}
+		
+		// 将剩余部分加入栈
+		if len(compCode) > 1 {
+			stack = compCode[1:] + stack
+		}
+		
 		full += compCode
 	}
-	code += stack[:4-len(code)]
+	
+	// 补充到四码
+	remainingLength := 4 - len(code)
+	if remainingLength > 0 && len(stack) >= remainingLength {
+		code += stack[:remainingLength]
+	} else if remainingLength > 0 && len(stack) > 0 {
+		// 栈不够长，但仍有内容
+		code += stack + strings.Repeat(stack[:1], remainingLength-len(stack))
+	}
+	
 	code = strings.ToLower(code)
 	return
 }
