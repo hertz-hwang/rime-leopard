@@ -1,7 +1,7 @@
 #!/bin/python
 
 '''
-> cat table/smyh_map.txt | ./asset/gen_mappings_table.py
+> cat deploy/hao/hao_map.txt | ./asset/gen_mappings_table.py
 '''
 
 import sys

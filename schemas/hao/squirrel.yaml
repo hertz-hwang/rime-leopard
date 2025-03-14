@@ -26,7 +26,7 @@ style:
   # 淺色主题
   color_scheme: hertz-leopard-light #purity_of_form_custom #hertz-leopard-light
   # 深色主题
-  color_scheme_dark: hertz-leopard-dark #purity_of_form_custom #hertz-leopard-dark
+  color_scheme_dark: hertz-leopard-light #purity_of_form_custom #hertz-leopard-dark
 
   # #候选字体
   font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"

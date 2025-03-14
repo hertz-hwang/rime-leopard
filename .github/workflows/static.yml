@@ -9,7 +9,7 @@ on:
       - 'v*'
 
 jobs:
-  build_site:
+  build_release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,25 +23,39 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.13'
+          python-version: '3.12'
 
       - name: Set up Rust
         uses: moonrepo/setup-rust@v1
         with:
-          channel: '1.65.0'
+          channel: 'stable'
+          cache: true
+
+      - name: Setup Conda
+        uses: conda-incubator/setup-miniconda@v3
+        with:
+          auto-activate-base: false
+          python-version: '3.12'
+          activate-environment: rime
 
       - name: build
         run: |
-          go build -C generator -o ../deploy/generator
+          go build -C hao_gen -o ../deploy/generator
 
       - name: generate
         env:
           REF_NAME: ${{ github.ref_name }}
+          SHELL: /bin/zsh
+        shell: bash -l {0}
         run: |
-          sudo apt install -y zsh
+          sudo apt-get update
+          sudo apt-get install -y zsh lua5.4
+          touch ~/.zshrc
+          chmod +x deploy/deploy_hao.sh
+          mkdir -p deploy/hao schemas/releases
+          conda activate rime
           lua ./table/gen_freq.lua ./table/freq_simp.txt ./table/freq_trad.txt 9:1 > ./deploy/hao/freq.txt
-          zsh deploy/deploy_hao.sh  && zsh assets/simpcode/gen_hao_simp.sh &&  zsh deploy/deploy_hao.sh
-          cd schemas && tar -cf - "./hao" | zstd -9 -T0 --long=31 -c > "releases/hao-${{ github.ref_name }}.tar.zst" || return 1
+          ./deploy/deploy_hao.sh
       
       - name: Release
         uses: softprops/action-gh-release@v2

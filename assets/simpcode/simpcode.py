@@ -1,17 +1,23 @@
 #by单单
 import time
 import re
+import os
 
 # 开始计时
 start_time = time.time()
 
-fMB = '../schemas/hao/hao.full.dict.yaml'  # 码表路径
-fRes = '../assets/simpcode/res.txt'  # 保存路径
+# 从环境变量获取目录
+SCHEMAS_DIR = os.getenv('SCHEMAS_DIR', '../schemas/hao')
+ASSETS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# 文件路径
+fMB = os.path.join(SCHEMAS_DIR, 'hao.full.dict.yaml')  # 码表路径
+fRes = os.path.join(ASSETS_DIR, 'simpcode/res.txt')  # 保存路径
 lenCode_limit = {1: 1, 2: 1, 3: 1, 4: 99}  # 不指定为1重
 
 isFreq = True  # 是否按照词频重新排序 True|False
-fFreq = 'hao/freq.txt'  # 词频路径
-fEquiv = '../assets/simpcode/pair_equivalence.txt'  # 当量文件路径
+fFreq = os.path.join(SCHEMAS_DIR, 'freq.txt')  # 词频路径
+fEquiv = os.path.join(ASSETS_DIR, 'simpcode/pair_equivalence.txt')  # 当量文件路径
 
 # 处理数字编码，将数字替换为数字前的最后一个字母重复两次
 def replace_digits(code):
