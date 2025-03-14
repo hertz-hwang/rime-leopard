@@ -2,8 +2,10 @@ package tools
 
 import (
 	"fmt"
+	"runtime"
 	"sort"
 	"strings"
+	"sync"
 
 	"hao_gen/types"
 )
@@ -64,51 +66,104 @@ func acceptCharacter(char string, cjkExtWhiteSet map[rune]bool) (accept bool) {
 
 // BuildCharMetaList 构造字符编码列表
 func BuildCharMetaList(table map[string][]*types.Division, simpTable map[string][]*types.CharSimp, mappings map[string]string, freqSet map[string]int64, cjkExtWhiteSet map[rune]bool) (charMetaList []*types.CharMeta) {
-	charMetaList = make([]*types.CharMeta, 0, len(table))
-	// 遍历字符表
-	for char, divs := range table {
-		if !acceptCharacter(char, cjkExtWhiteSet) {
+	// 预分配足够大的切片以减少重新分配
+	charMetaList = make([]*types.CharMeta, 0, len(table)*2)
+	
+	// 并发处理以提高性能
+	var mutex sync.Mutex
+	var wg sync.WaitGroup
+	
+	// 将字符表分块并行处理
+	chars := make([]string, 0, len(table))
+	for char := range table {
+		chars = append(chars, char)
+	}
+	
+	// 决定并发数量，根据CPU核心数自动调整
+	concurrency := runtime.NumCPU()
+	batchSize := (len(chars) + concurrency - 1) / concurrency
+	
+	for i := 0; i < concurrency; i++ {
+		start := i * batchSize
+		end := (i + 1) * batchSize
+		if end > len(chars) {
+			end = len(chars)
+		}
+		
+		if start >= end {
 			continue
 		}
-
-		// 遍历字符的所有拆分表
-		for i, div := range divs {
-			full, code := calcCodeByDiv(div.Divs, mappings, freqSet[char])
-			charMeta := types.CharMeta{
-				Char: char,
-				Full: full,
-				Code: code,
-				Freq: freqSet[char],
-				MDiv: i == 0,
-			}
-			if len(simpTable[charMeta.Char]) != 0 {
-				// 遍历字符简码表
-				for _, simp := range simpTable[charMeta.Char] {
-					cm := charMeta
-					cm.Code = simp.Simp
-					cm.Simp = true
-					cm.Stem = cm.Code
-					charMetaList = append(charMetaList, &cm)
+		
+		wg.Add(1)
+		go func(start, end int) {
+			defer wg.Done()
+			localCharMetaList := make([]*types.CharMeta, 0, end-start)
+			
+			// 处理当前批次的字符
+			for i := start; i < end; i++ {
+				char := chars[i]
+				if !acceptCharacter(char, cjkExtWhiteSet) {
+					continue
 				}
-				// 全码后置
-				charMeta.Freq = fallBackFreq
-				charMeta.Back = true
-				charMeta.Stem = simpTable[charMeta.Char][0].Simp
-				charMetaList = append(charMetaList, &charMeta)
-			} else {
-				// 无简码
-				charMetaList = append(charMetaList, &charMeta)
+				
+				divs := table[char]
+				// 遍历字符的所有拆分表
+				for i, div := range divs {
+					full, code := calcCodeByDiv(div.Divs, mappings, freqSet[char])
+					charMeta := types.CharMeta{
+						Char: char,
+						Full: full,
+						Code: code,
+						Freq: freqSet[char],
+						MDiv: i == 0,
+					}
+					
+					if len(simpTable[charMeta.Char]) != 0 {
+						// 遍历字符简码表
+						for _, simp := range simpTable[charMeta.Char] {
+							cm := charMeta
+							cm.Code = simp.Simp
+							cm.Simp = true
+							cm.Stem = cm.Code
+							localCharMetaList = append(localCharMetaList, &cm)
+						}
+						// 全码后置
+						charMeta.Freq = fallBackFreq
+						charMeta.Back = true
+						charMeta.Stem = simpTable[charMeta.Char][0].Simp
+						localCharMetaList = append(localCharMetaList, &charMeta)
+					} else {
+						// 无简码
+						localCharMetaList = append(localCharMetaList, &charMeta)
+					}
+				}
 			}
-		}
+			
+			// 合并本地结果到全局列表
+			mutex.Lock()
+			charMetaList = append(charMetaList, localCharMetaList...)
+			mutex.Unlock()
+		}(start, end)
 	}
+	
+	// 等待所有协程完成
+	wg.Wait()
 
+	// 排序结果
 	sortCharMetaByCode(charMetaList)
 	return
 }
 
 // BuildFullCodeMetaList 构造字符四码全码编码列表
 func BuildFullCodeMetaList(table map[string][]*types.Division, mappings map[string]string, freqSet map[string]int64, charMetaMap map[string][]*types.CharMeta) (charMetaList []*types.CharMeta) {
+	// 预分配足够大的切片
 	charMetaList = make([]*types.CharMeta, 0, len(table))
+	
+	// 并发处理以提高性能
+	var mutex sync.Mutex
+	var wg sync.WaitGroup
+	
+	// 获取字符选重编号的辅助函数
 	getSel := func(char string) (sel int) {
 		sel = -1
 		for _, charMeta := range charMetaMap[char] {
@@ -118,26 +173,70 @@ func BuildFullCodeMetaList(table map[string][]*types.Division, mappings map[stri
 		}
 		return
 	}
-
-	// 遍历字符表
-	for char, divs := range table {
-		// 遍历字符的所有拆分表
-		for i, div := range divs {
-			full, code := calcFullCodeByDiv(div.Divs, mappings)
-			charMeta := types.CharMeta{
-				Char: char,
-				Full: full,
-				Code: code,
-				Freq: freqSet[char],
-				MDiv: i == 0,
-			}
-			if getSel(char) == 0 {
-				charMeta.Freq = fallBackFreq
-			}
-			charMetaList = append(charMetaList, &charMeta)
-		}
+	
+	// 将字符表分块并行处理
+	chars := make([]string, 0, len(table))
+	for char := range table {
+		chars = append(chars, char)
 	}
-
+	
+	// 决定并发数量，根据CPU核心数自动调整
+	concurrency := runtime.NumCPU()
+	batchSize := (len(chars) + concurrency - 1) / concurrency
+	
+	for i := 0; i < concurrency; i++ {
+		start := i * batchSize
+		end := (i + 1) * batchSize
+		if end > len(chars) {
+			end = len(chars)
+		}
+		
+		if start >= end {
+			continue
+		}
+		
+		wg.Add(1)
+		go func(start, end int) {
+			defer wg.Done()
+			localCharMetaList := make([]*types.CharMeta, 0, end-start)
+			
+			// 处理当前批次的字符
+			for i := start; i < end; i++ {
+				char := chars[i]
+				divs := table[char]
+				
+				// 遍历字符的所有拆分表
+				for i, div := range divs {
+					full, code := calcFullCodeByDiv(div.Divs, mappings)
+					charMeta := types.CharMeta{
+						Char: char,
+						Full: full,
+						Code: code,
+						Freq: freqSet[char],
+						MDiv: i == 0,
+						Sel:  getSel(char),
+					}
+					
+					// 如果选重编号为0，调整频率
+					if charMeta.Sel == 0 {
+						charMeta.Freq = fallBackFreq
+					}
+					
+					localCharMetaList = append(localCharMetaList, &charMeta)
+				}
+			}
+			
+			// 合并本地结果到全局列表
+			mutex.Lock()
+			charMetaList = append(charMetaList, localCharMetaList...)
+			mutex.Unlock()
+		}(start, end)
+	}
+	
+	// 等待所有协程完成
+	wg.Wait()
+	
+	// 排序结果
 	sortCharMetaByCode(charMetaList)
 	return
 }

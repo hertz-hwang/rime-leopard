@@ -70,9 +70,9 @@ gen_schema() {
     bash ../assets/gen_dazhu.sh
 
     # 打包发布
-    #pushd "${SCHEMAS}"
-    #    tar -cf - "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || return 1
-    #popd
+    pushd "${SCHEMAS}"
+        tar -cf - "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || return 1
+    popd
 }
 
 # 打包 hao 方案

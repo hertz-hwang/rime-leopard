@@ -5,12 +5,41 @@ import (
 	"regexp"
 	"strconv"
 	"strings"
+	"sync"
 
 	"hao_gen/types"
 )
 
+var (
+	// 文件内容缓存
+	fileCache     = make(map[string][]byte)
+	fileCacheLock sync.RWMutex
+)
+
+// 读取文件内容，带缓存功能
+func readFileWithCache(filepath string) ([]byte, error) {
+	fileCacheLock.RLock()
+	content, exists := fileCache[filepath]
+	fileCacheLock.RUnlock()
+	
+	if exists {
+		return content, nil
+	}
+	
+	content, err := os.ReadFile(filepath)
+	if err != nil {
+		return nil, err
+	}
+	
+	fileCacheLock.Lock()
+	fileCache[filepath] = content
+	fileCacheLock.Unlock()
+	
+	return content, nil
+}
+
 func ReadDivisionTable(filepath string) (table map[string][]*types.Division, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
@@ -47,7 +76,7 @@ func ReadDivisionTable(filepath string) (table map[string][]*types.Division, err
 }
 
 func ReadCharSimpTable(filepath string) (table map[string][]*types.CharSimp, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
@@ -69,7 +98,7 @@ func ReadCharSimpTable(filepath string) (table map[string][]*types.CharSimp, err
 }
 
 func ReadCompMap(filepath string) (mappings map[string]string, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
@@ -88,7 +117,7 @@ func ReadCompMap(filepath string) (mappings map[string]string, err error) {
 }
 
 func ReadCharFreq(filepath string) (freqSet map[string]int64, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
@@ -108,7 +137,7 @@ func ReadCharFreq(filepath string) (freqSet map[string]int64, err error) {
 }
 
 func ReadPhraseFreq(filepath string) (freqSet map[string]int64, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
@@ -132,7 +161,7 @@ func ReadPhraseFreq(filepath string) (freqSet map[string]int64, err error) {
 }
 
 func ReadCJKExtWhitelist(filepath string) (whitelist map[rune]bool, err error) {
-	buffer, err := os.ReadFile(filepath)
+	buffer, err := readFileWithCache(filepath)
 	if err != nil {
 		return
 	}
