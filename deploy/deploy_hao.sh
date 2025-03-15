@@ -87,7 +87,7 @@ gen_schema() {
 
     # 生成映射表
     log "生成映射表..."
-    cat "${HAO}/hao_map.txt" | python ../assets/gen_mappings_table.py >"${HAO}/hao.mappings_table.txt" || error "生成映射表失败"
+    cat "${HAO}/map.txt" | python ../assets/gen_mappings_table.py >"${HAO}/hao.mappings_table.txt" || error "生成映射表失败"
 
     # 生成简化字码表
     log "生成简化字码表..."
@@ -187,6 +187,7 @@ gen_schema() {
               --exclude='/freq*.txt' \
               --exclude='/fullcode.txt' \
               --exclude='/hao_*.txt' \
+              --exclude='/map.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 
     # 删除临时目录

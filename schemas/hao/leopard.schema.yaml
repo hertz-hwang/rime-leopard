@@ -20,9 +20,6 @@ switches:
   - options: [ division.off, division.lv1, division.lv2, division.lv3, division.lv4 ]
     states: [ 注解关, 注解一, 注解二, 注解三, 注解四 ]
     reset: 0
-  - name: embeded_cands
-    states: [ 普通, 嵌入 ]
-    reset: 1
   - name: ascii_mode
     states: [ 汉字, 西文 ]
     reset: 0
@@ -57,7 +54,6 @@ engine:
     - simplifier@division.lv2
     - simplifier@division.lv3
     - simplifier@division.lv4
-    - lua_filter@*hao.embeded_cands@embeded_cands
 
 speller:
   initials: zyxwvutsrqponmlkjihgfedcba;]
@@ -146,13 +142,6 @@ rev_pinyin:
   comment_format:
     - "xform/^/(/"
     - "xform/$/)/"
-
-embeded_cands:
-  index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ]       # 嵌入候選的序號顯示格式
-  first_format: "${Stash}[${候選}${Seq}]${Code}${Comment}" # 首選的渲染格式
-  next_format: "${Stash}${候選}${Seq}${Comment}"           # 非首選的渲染格式
-  separator: " "                                           # 候選之間的分隔符
-  stash_placeholder: "~"                                   # 非首選的延遲串占位符, 支持 ${Stash} 變量
 
 punctuator:
   import_preset: symbols
