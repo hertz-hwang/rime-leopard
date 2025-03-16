@@ -77,7 +77,10 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
     if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
         cat "${INPUT_DIR}/opencc/hao_div.txt" | \
             sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-            >>"${OUTPUT_DIR}/dazhu-leopard.txt"
+            >>"${OUTPUT_DIR}/dazhu-leopard.txt" && \
+        cat "${INPUT_DIR}/opencc/hao_div.txt" | \
+            sed 's/\(.*\)\t(\(.*\),.*,.*/\2\t\1/g' \
+            >"${OUTPUT_DIR}/dazhu-leopard-chai.txt"
     fi
 fi
 

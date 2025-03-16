@@ -892,7 +892,7 @@ Pg	
 Pg	
 Pj	⻐
 Pj	钅
-Px	{口口}
+Px	{双口}
 Pm	⺟
 Pm	母
 Pn	廿
