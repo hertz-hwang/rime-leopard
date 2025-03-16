@@ -5,8 +5,8 @@ schema:
   author:
     - Hertz Hwang <hertz@26hz.com.cn>
   description: |
-    豹码单字，小字集，优秀手感、超低选重方案
-  name: "豹码四定"
+    豹码四定，超低选重方案
+  name: "豹码·燼"
   schema_id: leopard
   version: beta
 

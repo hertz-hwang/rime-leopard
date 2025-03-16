@@ -3,12 +3,12 @@
 
 schema:
   schema_id: hao
-  name: 豹码三定
+  name: 豹码·影
   version: beta
   author:
     - 荒
   description: |
-    豹码
+    豹码三定，超低选重方案
   dependencies:
     # 拼音, 用于反查
     - hao.pinyin
