@@ -173,7 +173,7 @@ Cu	旡
 Cu	
 Cy	⻈
 Cy	讠
-Da	
+Da	
 Dc	⻭
 Dc	⻮
 Dc	⿒
@@ -312,6 +312,7 @@ Fj	及
 Fj	及
 Fj	
 Fl	侖
+Fl	龠
 Fm	⽶
 Fm	米
 Fm	
@@ -367,6 +368,7 @@ Gb	
 Gb	
 Gb	
 Gb	
+Gb	髟
 Gc	⼻
 Gc	ㄔ
 Gc	亍
@@ -484,12 +486,13 @@ Ic	𨱗
 Ic	𨱘
 Id	⼤
 Id	大
+If	風
 Il	⿅
 Il	鹿
 Il	
 Il	
 Il	
-Io	赢
+Io	{赢框}
 Iq	⽓
 Iq	气
 Iq	
@@ -640,6 +643,11 @@ Kk	
 Kk	
 Kk	𠂎
 Kk	𠂑
+Kl	龱
+Kl	𱕻
+Kl	
+Kl	
+Kl	囚
 Ld	⽃
 Ld	斗
 Lf	⾮
@@ -884,6 +892,7 @@ Pg	
 Pg	
 Pj	⻐
 Pj	钅
+Px	{口口}
 Pm	⺟
 Pm	母
 Pn	廿
@@ -904,7 +913,6 @@ Ps	𠂇
 Ps	𬂛
 Ps	𬺰
 Px	⾏
-Px	吅
 Px	行
 Qa	敖
 Qc	⾞
@@ -1278,7 +1286,7 @@ Wv	
 Wv	
 Wv	羽
 Wv	𦏲
-Ww	
+Ww	{微框}
 Wy	⾳
 Wy	⾴
 Wy	音
@@ -1364,6 +1372,7 @@ Yj	⾅
 Yj	臼
 Yj	
 Yj	𦥑
+Yl	來
 Ym	⽊
 Ym	木
 Ym	朩
@@ -1408,3 +1417,4 @@ Zy	
 Zy	
 Zy	
 Zy	𠫓
+Zy	{云变}

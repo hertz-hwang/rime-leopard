@@ -51,8 +51,7 @@ create_ramdisk() {
 }
 
 # 清理和准备目录
-log "清理旧文件..."
-rm -rf "${SCHEMAS}"
+#rm -rf "${SCHEMAS}/hao/build"
 create_ramdisk
 mkdir -p "${SCHEMAS}/releases"
 
@@ -168,7 +167,18 @@ gen_schema() {
             grep '.*{TAB}[a-z]\{1,2\}$' | \
             sed 's/{TAB}/\t/g' | \
             sed 's/$/1/g' \
-            > "${HAO}/hao_simp.txt"
+            > "../deploy/hao/hao_simp.txt"
+        log "重新生成简化字码表..."
+        ./generator -q \
+            -d "${HAO}/hao_div.txt" \
+            -s "${HAO}/hao_simp.txt" \
+            -m "${HAO}/hao_map.txt" \
+            -f "${HAO}/freq.txt" \
+            -w "${HAO}/cjkext_whitelist.txt" \
+            -c "${HAO}/char.txt" \
+            -u "${HAO}/fullcode.txt" \
+            -o "${HAO}/div.txt" \
+        || error "生成简化字码表失败"
     else
         error "leopard.dict.yaml 文件不存在"
     fi

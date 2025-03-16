@@ -690,7 +690,6 @@ function core.gen_smart_trie(base_rev, db_name)
     -- 更新詞條記录
     function result:update(code, word, weight)
         if self:db() then
-            -- insert { ":jgarjk:時間" -> weight }
             local key = string.format(":%s:%s", code, word)
             local value = tostring(weight or 0)
             self:db():update(key, value)
@@ -700,7 +699,6 @@ function core.gen_smart_trie(base_rev, db_name)
     -- 删除詞條記录
     function result:delete(code, word)
         if self:db() then
-            -- delete ":jgarjk:時間"
             local key = string.format(":%s:%s", code, word)
             self:db():erase(key)
         end
@@ -734,26 +732,19 @@ function core.gen_smart_trie(base_rev, db_name)
             local weight = os.time()
             for line in file:lines() do
                 local chars = {}
-                -- "時間軸" => ["時:jga", "間:rjk", "軸:rpb"]
                 for _, c in utf8.codes(line) do
                     local char = utf8.char(c)
                     local code = core.rev_lookup(self.base_rev, char)
                     if #code == 0 then
-                        -- 反查失敗, 下一個
                         break
                     end
                     table.insert(chars, { char = char, code = code })
                 end
-                -- 1 <= i <= n-1; i+1 <= j <= n
-                -- (i, j): (1, 2) -> (1, 3) -> (2, 3)
-                -- "時間", "時間軸", "間軸"
                 for i = 1, #chars - 1, 1 do
                     local code, word = chars[i].code, chars[i].char
                     for j = i + 1, #chars, 1 do
-                        -- 連字成詞
                         code = code .. chars[j].code
                         word = word .. chars[j].char
-                        -- insert: { "jgarjk:時間" -> weight }
                         self:update(code, word, weight)
                     end
                 end
@@ -814,8 +805,6 @@ function core.get_switch_handler(env, option_names)
 end
 
 -- 计算分词列表
--- "dkdqgxfvt;" -> ["dkd","qgx","fvt"], ";"
--- "d;nua"     -> ["d;", "nua"]
 function core.get_code_segs(input)
     input = core.input_replace_funckeys(input)
     local code_segs = {}
@@ -842,7 +831,6 @@ function core.rev_lookup(rev, char)
     if not rev then
         return result
     end
-    -- rev:lookup("他") => "e1 eso"
     local rev_code = rev:lookup_stems(char)
     if #rev_code == 0 then
         rev_code = rev:lookup(char)
@@ -863,7 +851,6 @@ function core.rev_lookup(rev, char)
 end
 
 -- 查询编码对应候选列表
--- "dkd" -> ["南", "電"]
 function core.dict_lookup(env, mem, code, count, comp)
     -- 是否补全编码
     count = count or 1
@@ -924,8 +911,6 @@ function core.query_first_cand_list(env, mem, code_segs)
 end
 
 -- 最大匹配查詢分詞候選列表
--- ["dkd", "qgx", "fvt"] -> ["電動", "杨"]
--- ["dkd", "qgx"]        -> ["南", "動"]
 function core.query_cand_list(env, mem, code_segs, skipfull)
     local index = 1
     local cand_list = {}

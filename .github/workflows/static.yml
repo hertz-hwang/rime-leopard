@@ -54,8 +54,8 @@ jobs:
           chmod +x deploy/deploy_hao.sh
           mkdir -p deploy/hao schemas/releases
           conda activate rime
-          lua ./table/gen_freq.lua ./table/freq_simp.txt ./table/freq_trad.txt 9:1 > ./deploy/hao/freq.txt
-          ./deploy/deploy_hao.sh
+          lua ./table/gen_freq.lua ./table/freq_simp.txt ./table/freq_simp.txt 9:1 > ./deploy/hao/freq.txt
+          ./deploy/deploy_hao.sh && ./deploy/deploy_hao.sh
       
       - name: Release
         uses: softprops/action-gh-release@v2

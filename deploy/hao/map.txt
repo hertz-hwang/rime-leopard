@@ -81,6 +81,7 @@ Fx	象
 Fy	月
 Gb	⺀
 Gb	⼎
+Gb	髟
 Gc	彳
 Gc	亍
 Gd	豆
@@ -112,6 +113,7 @@ Ib	㡀
 Ic	长
 Ic	長
 Id	大
+If	風
 Il	鹿
 Io	{赢框}
 Iq	气
@@ -148,6 +150,7 @@ Ki	乙
 Kj	见
 Kk	口
 Kk	{乐无小}
+Kl	龱
 Ld	斗
 Lf	非
 Lg	工
@@ -321,6 +324,7 @@ Yc	册
 Yc	冊
 Yg	谷
 Yj	臼
+Yl	來
 Ym	木
 Yw	韦
 Zc	艹

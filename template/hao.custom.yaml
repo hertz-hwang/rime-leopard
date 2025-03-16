@@ -159,7 +159,8 @@ patch:
   # style/horizontal: true
   # style/inline_preedit: false
   embeded_cands/+:
-    first_format: "${Stash}[${候選}]${Code}${Comment}"
+    first_format: "🐆${Stash}[${候選}]${Code}${Comment}"
+    next_format: "${Stash}${候選}${Seq}${Comment}"
   # 解注释以下内容, 并复制rime.lua, 以兼容旧版librime-lua
   # engine/processors:
   #   - lua_processor@hao_core_processor@hao
