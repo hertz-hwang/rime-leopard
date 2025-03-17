@@ -25850,7 +25850,7 @@
 革艹罒戊丶,RgZcBsOd	韈
 革艹一ㄅ灬,RgZcIlRh	韉
 革艹門木囗丷,RgZcSmNb	韊
-韦,Yw	韋
+韋,Jw	韋
 韋刀丶,JwNdOd	韌
 韋又丶,JwPsTyOd	韍
 韋一木,JwDiYm	韎
@@ -26071,7 +26071,7 @@
 ⻗而页,XvKeQy	颥
 止页白丿十,LiLiQyPs	颦
 艹{双口}隹页,ZcPxMiQy	颧
-几乂,QjEi	風
+風,If	風
 風彡,IfFs	颩
 一卜風,DiFbIf	颪
 風夫,IfGf	颫
@@ -48969,7 +48969,7 @@
 皿一ㄅ,HmDiAe	𥀿
 刀皿,NdHm	𥁀
 工皿,LgHm	𥁁
-子皿,HiHm	𥁂
+了㇀皿,ElDiHm	𥁂
 亡皿,NwHm	𥁃
 二ㄅ皿,NeAeHm	𥁄
 女皿,WnHm	𥁅

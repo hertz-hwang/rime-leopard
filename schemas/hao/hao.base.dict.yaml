@@ -6728,6 +6728,7 @@ columns:
 蹨	ifa	0
 赴	ifb	4713
 踧	ifd	104
+風	iff	104
 奟	iff	0
 逍	ifj	1655
 趿	ifj	177
@@ -7973,6 +7974,7 @@ columns:
 笋	jwt	595
 笯	jwt	104
 筚	jww	106
+韋	jww	104
 卽	jww	0
 皍	jww	0
 笓	jww	0
@@ -13205,7 +13207,6 @@ columns:
 轖	qeh	0
 缈	qei	244
 袪	qei	104
-風	qei	104
 风	qei	100	qe1
 纠	qej	5292
 艦	qej	104
@@ -20410,7 +20411,6 @@ columns:
 楷	yww	591
 枇	yww	169
 梐	yww	104
-韋	yww	104
 韦	yww	100	yw1
 榋	yww	0
 核	yx1	18185	yx1
@@ -21969,5 +21969,6 @@ $	k2
 伄戼	hr2
 布豪	pq2
 
-钛镪钌	ppp
+钛镪钌	pp2
+汰漒𣱾	mm2
 

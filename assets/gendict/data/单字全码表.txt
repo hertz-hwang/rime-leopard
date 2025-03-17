@@ -14625,6 +14625,7 @@
 𫮇	edhh
 𫭧	edhi
 𬑨	edhi
+𥁂	edhm
 𥄅	edhm
 𱲎	edhm
 𬑅	edhs
@@ -28714,7 +28715,6 @@
 怂	hhlx
 𬽿	hhlx
 孟	hhmi
-𥁂	hhmi
 𠇻	hhmr
 䀃	hhms
 𣲝	hhms
@@ -32211,6 +32211,7 @@
 𲃞	ieym
 𧿇	ieyu
 𧺏	ieyz
+風	if11
 𭯵	ifac
 乿	ifae
 𠄂	ifae
@@ -39459,6 +39460,7 @@
 桨	jvym
 𤾚	jvym
 䉁	jvzi
+韋	jw11
 籛	jwaa
 𥳾	jwag
 𰞆	jwah
@@ -62074,7 +62076,6 @@
 𧛾	qeih
 𨍰	qeih
 𬲅	qeii
-風	qeij
 风	qeij
 ⻛	qeij
 ⾵	qeij
@@ -93448,7 +93449,6 @@
 𣞘	yvzh
 𣘗	yvzk
 𣡛	yvzy
-韋	yw11
 韦	yw11
 ⻙	yw11
 ⾱	yw11

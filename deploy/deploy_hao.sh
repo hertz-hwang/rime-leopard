@@ -51,7 +51,7 @@ create_ramdisk() {
 }
 
 # 清理和准备目录
-#rm -rf "${SCHEMAS}/hao/build"
+rm -rf "${SCHEMAS}/"
 create_ramdisk
 mkdir -p "${SCHEMAS}/releases"
 
