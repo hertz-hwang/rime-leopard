@@ -30006,6 +30006,7 @@
 仉	hqjr
 飢	hqjs
 凣	hqjs
+飢	hqjs
 𫣐	hqkd
 偯	hqkk
 𠱧	hqkk
@@ -30072,7 +30073,6 @@
 𬾭	hrej
 𮯴	hrer
 䶿	hres
-飢	hres
 𠋿	hret
 𠓹	hrfl
 𠓻	hrfl
@@ -56085,6 +56085,7 @@
 𫥻	nzwj
 𦐵	nzwv
 頩	nzwy
+頩	nzwy
 郱	nzxe
 𫘗	nzyh
 𪑘	nzym
@@ -74100,7 +74101,6 @@
 逬	tztj
 𠝵	tzto
 甁	tztt
-頩	tztw
 郱	tztx
 幷	tztz
 𮉷	tzug

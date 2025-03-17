@@ -74,6 +74,7 @@ gen_schema() {
     cp ../table/*.txt "${HAO}" || error "复制码表文件失败"
     cp ../template/default.*.yaml ../template/hao.*.yaml ../template/hao.*.txt "${HAO}" || error "复制模板文件失败"
     cp ../template/squirrel.yaml "${HAO}" || error "复制 squirrel 配置失败"
+    cp ../template/weasel.yaml "${HAO}" || error "复制 weasel 配置失败"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao" || error "复制 Lua 脚本失败"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp ../template/leopard.*.yaml "${HAO}" || error "复制豹码配置失败"
