@@ -2362,6 +2362,7 @@ columns:
 訥	djh	0
 奂	dji	449
 詇	dji	0
+見	djj	104
 譿	djj	0
 扃	djk	108
 硈	djk	0
@@ -8352,7 +8353,6 @@ columns:
 咉	kji	104
 唛	kjj	104
 嘒	kjj	104
-見	kjj	104
 见	kjj	100	kj1
 嚖	kjj	0
 咭	kjk	216
@@ -13140,6 +13140,7 @@ columns:
 裤	qbx	3459
 輏	qby	0
 细	qc1	32498	qc1
+車	qcc	104
 轠	qcc	0
 缧	qcf	131
 纼	qch	104
@@ -18853,7 +18854,6 @@ columns:
 躿	xbw	0
 车	xc1	55756	xc1
 隅	xca	625
-車	xcc	104
 车	xcc	100	xc1
 霛	xcc	0
 靁	xcc	0

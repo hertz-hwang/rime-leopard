@@ -6712,6 +6712,7 @@ columns:
 𲂷	brzi
 四	bs11
 罒	bs11
+⺫	bs11
 ⺲	bs11
 ⺵	bs11
 䍏	bs11
@@ -9108,6 +9109,7 @@ columns:
 㢺	cxwn
 𫍭	cxwn
 𤳟	cxzy
+⻈	cy11
 𢡑	cyal
 谏	cyan
 㪙	cyap
@@ -11301,6 +11303,8 @@ columns:
 𱫒	dizr
 𭑆	dizy
 𭑇	dizy
+見	dj11
+⾒	dj11
 䃇	djaj
 䛲	djaj
 𧭇	djam
@@ -11761,6 +11765,7 @@ columns:
 𭃴	dkyn
 𨜥	dkyx
 𧭄	dkyy
+⻯	dl11
 䃪	dlad
 譠	dlad
 𪙵	dlad
@@ -13845,7 +13850,6 @@ columns:
 幺	dy11
 言	dy11
 ⺓	dy11
-⻈	dy11
 ⼳	dy11
 ⾔	dy11
 訁	dy11
@@ -16392,7 +16396,6 @@ columns:
 𭪃	elym
 𪣺	elzk
 目	em11
-⺫	em11
 ⽬	em11
 城	emae
 𥆏	emae
@@ -19611,7 +19614,6 @@ columns:
 𦠦	fezk
 飞	ff11
 ⻜	ff11
-⾶	ff11
 𩙱	ff11
 継	ffae
 𥺇	ffae
@@ -20911,6 +20913,7 @@ columns:
 𣣧	fkpq
 𣤓	fkpq
 𥺏	fkpq
+⿕	fkpx
 臊	fkpy
 繰	fkpy
 𥼾	fkpy
@@ -21007,7 +21010,6 @@ columns:
 𪉰	fkzn
 侖	fl11
 龠	fl11
-⿕	fl11
 𠎤	fl11
 𫿝	flaa
 𦡣	flab
@@ -22378,7 +22380,6 @@ columns:
 纟	fs11
 尸	fs11
 ⺯	fs11
-⺰	fs11
 ⼫	fs11
 ⼺	fs11
 ⽷	fs11
@@ -24461,6 +24462,7 @@ columns:
 𩯕	gezk
 夫	gf11
 飛	gf11
+⾶	gf11
 𡨅	gfak
 𩭊	gfak
 𪫕	gfap
@@ -25773,6 +25775,7 @@ columns:
 𫳍	gmym
 𰍜	gmym
 𰃲	gmyy
+⿃	gn11
 𠘃	gnac
 𭜀	gnac
 𡧈	gnae
@@ -30187,7 +30190,6 @@ columns:
 ⻝	hs11
 ⻞	hs11
 ⻟	hs11
-⻠	hs11
 ⼁	hs11
 ⼅	hs11
 ⾗	hs11
@@ -32226,6 +32228,7 @@ columns:
 𧿇	ieyu
 𧺏	ieyz
 風	if11
+⾵	if11
 𭯵	ifac
 乿	ifae
 𠄂	ifae
@@ -37649,7 +37652,6 @@ columns:
 麥	jjif
 麦	jjif
 ⻨	jjif
-⿆	jjif
 𬹈	jjif
 𱋗	jjih
 皞	jjip
@@ -39475,6 +39477,7 @@ columns:
 𤾚	jvym
 䉁	jvzi
 韋	jw11
+⾱	jw11
 籛	jwaa
 𥳾	jwag
 𰞆	jwah
@@ -41456,10 +41459,8 @@ columns:
 𭍉	kiyo
 𱒙	kizg
 唗	kizk
-見	kj11
 见	kj11
 ⻅	kj11
-⾒	kj11
 見	kj11
 𨤦	kjal
 啲	kjao
@@ -55050,6 +55051,7 @@ columns:
 𤶦	nrzc
 𤿬	nrzc
 𭕍	nrzg
+⻠	ns11
 𭼨	nsaa
 馐	nsae
 𬲰	nsaf
@@ -57795,7 +57797,6 @@ columns:
 鳥	on11
 鸟	on11
 ⻦	on11
-⿃	on11
 𫠓	on11
 𢳾	onac
 扝	onae
@@ -60349,6 +60350,7 @@ columns:
 𰽛	pixj
 𫓴	pixn
 𧮯	piyg
+⻐	pj11
 锦	pjaj
 𦮅	pjaj
 铂	pjbj
@@ -61795,6 +61797,8 @@ columns:
 𦈋	qbys
 𠟼	qbzn
 𨌮	qbzo
+車	qc11
+⾞	qc11
 𣮨	qcar
 轠	qccc
 𧞭	qccc
@@ -62093,7 +62097,6 @@ columns:
 𬲅	qeii
 风	qeij
 ⻛	qeij
-⾵	qeij
 𠘰	qeij
 𱃗	qeik
 𩙨	qein
@@ -63994,6 +63997,7 @@ columns:
 𦩎	qrzc
 𧚂	qrzc
 卅	qs11
+⺰	qs11
 丗	qs11
 𠀍	qs11
 䡭	qsae
@@ -64737,7 +64741,6 @@ columns:
 頁	qy11
 页	qy11
 ⻚	qy11
-⾴	qy11
 𩑋	qy11
 𱺧	qyan
 𦩚	qyap
@@ -65184,6 +65187,7 @@ columns:
 𤈪	razc
 𮚆	razc
 不	rb11
+⾙	rb11
 不	rb11
 𣎴	rb11
 𤪮	rbae
@@ -78992,7 +78996,6 @@ columns:
 貝	vb11
 贝	vb11
 ⻉	vb11
-⾙	vb11
 𧔊	vbae
 蠋	vbav
 蚆	vbbc
@@ -80208,9 +80211,7 @@ columns:
 𠸛	vkxr
 𠤾	vkza
 龙	vl11
-⻯	vl11
 ⻰	vl11
-⿓	vl11
 竜	vl11
 龍	vl11
 蟺	vlad
@@ -83649,7 +83650,6 @@ columns:
 ⺋	wj11
 ⺔	wj11
 ⺕	wj11
-⻐	wj11
 ⼙	wj11
 ⼹	wj11
 ⾦	wj11
@@ -86280,6 +86280,7 @@ columns:
 𡢅	wxzy
 音	wy11
 ⾳	wy11
+⾴	wy11
 𨥼	wyae
 𡞭	wyaj
 鍊	wyan
@@ -86910,10 +86911,8 @@ columns:
 𨽔	xbwr
 𨟲	xbyi
 𤚃	xbzo
-車	xc11
 车	xc11
 ⻋	xc11
-⾞	xc11
 車	xc11
 𰀞	xcae
 𣀀	xcap
@@ -87312,6 +87311,7 @@ columns:
 𨈒	xfbs
 𰠻	xfct
 龍	xfda
+⿓	xfda
 𪚑	xfda
 𫿤	xfda
 𱟡	xfda
@@ -91736,6 +91736,7 @@ columns:
 䴸	yjih
 𣖮	yjih
 𣘜	yjik
+⿆	yjil
 𪌳	yjio
 槔	yjip
 䜰	yjip
@@ -93465,7 +93466,6 @@ columns:
 𣡛	yvzy
 韦	yw11
 ⻙	yw11
-⾱	yw11
 樴	ywag
 𰘕	ywat
 朼	ywbm
