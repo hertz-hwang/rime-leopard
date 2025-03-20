@@ -74,7 +74,6 @@ Dh	
 Di	㇀
 Di	一
 Dj	見
-Dl	竜
 Dn	乃
 Dn	
 Ds	石
@@ -278,6 +277,7 @@ Lk	㐄
 Lk	
 Lk	
 Lk	
+Lm	⿆
 Lo	丸
 Ls	⺬
 Ls	示
@@ -501,6 +501,7 @@ Vk	
 Vk	
 Vk	𠥓
 Vl	龙
+Vl	竜
 Vm	民
 Vm	黽
 Vm	黾
@@ -573,7 +574,6 @@ Yg	
 Yj	⺽
 Yj	臼
 Yj	
-Yl	來
 Ym	木
 Ym	朩
 Yw	韦
