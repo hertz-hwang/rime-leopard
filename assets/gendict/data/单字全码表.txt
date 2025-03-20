@@ -2013,7 +2013,6 @@
 圖	akpk
 𫻒	akpl
 𰞰	akpr
-𮬐	akpw
 𰁋	akpx
 幧	akpy
 鱢	akpy
@@ -3112,6 +3111,7 @@
 𫭔	arok
 𫛭	aron
 鱜	arox
+𮬐	arpg
 鱷	arpp
 𩶨	arps
 𨌜	arqc
@@ -41633,7 +41633,6 @@
 𰈉	kjwf
 喡	kjwk
 喞	kjww
-卿	kjww
 𱓮	kjxa
 𭍌	kjxd
 𠳐	kjxe
@@ -42395,7 +42394,6 @@
 𠿨	kpuz
 𧮥	kpwd
 唧	kpwj
-卿	kpwj
 㘅	kpwj
 𠽒	kpwy
 𡿷	kpxc
@@ -42859,7 +42857,6 @@
 𫫉	ktpq
 𭇲	ktpq
 𭇳	ktpq
-卿	ktpw
 𫩓	ktqj
 𪡱	ktqm
 𮨄	ktqy
@@ -43032,7 +43029,6 @@
 喓	kuwn
 𠹥	kuwv
 𪡓	kuww
-卿	kuww
 𭋎	kuwy
 𡅃	kuxd
 哂	kuxk
@@ -43631,7 +43627,6 @@
 嗱	kzko
 噏	kzkw
 𠵴	kzkw
-𫧻	kzkw
 啽	kzkz
 𠸔	kzla
 唡	kzlk
@@ -66967,6 +66962,7 @@
 𤈥	rjwb
 𨝅	rjwb
 𫎞	rjwb
+卿	rjwb
 𰞃	rjwb
 𥖡	rjwd
 𤊷	rjwf
@@ -67075,7 +67071,6 @@
 𮴉	rknb
 𪹅	rkoc
 𮧪	rkpa
-𤫈	rkpl
 𭟡	rkpl
 𤉚	rkpq
 煰	rkpx
@@ -67733,6 +67728,7 @@
 鞎	rpgg
 㶿	rpgh
 𮳨	rpgh
+卿	rpgm
 珢	rpgw
 𤨰	rpgw
 㸧	rpgy
@@ -68149,6 +68145,7 @@
 𬸖	rron
 𪹝	rror
 𤩬	rrox
+𤫈	rrpl
 𰟎	rrpn
 欻	rrpq
 𤎫	rrpr
@@ -68579,6 +68576,7 @@
 𰞇	rtos
 𱁳	rtos
 瑵	rtov
+卿	rtpg
 𩊤	rtpo
 𩌱	rtpq
 𱪨	rtps
@@ -68903,6 +68901,7 @@
 䘄	ruvv
 𡗀	ruvv
 𤈑	ruwb
+卿	ruwb
 𤨱	ruwe
 熀	ruwg
 𤨆	ruwg
@@ -69548,6 +69547,7 @@
 烚	rzkk
 鞈	rzkk
 𫎖	rzkk
+𫧻	rzkk
 𱍛	rzkk
 𩌞	rzku
 𭺃	rzkv
@@ -76467,7 +76467,6 @@
 𣣄	ukpq
 𪨸	ukpq
 𣆉	ukps
-𬁋	ukpw
 嵓	ukpx
 𣋝	ukpy
 颛	ukqy
@@ -77512,6 +77511,7 @@
 𫞂	urod
 𫛃	urog
 曏	urox
+𬁋	urpg
 𡾙	urpp
 𰙏	urpq
 𭯦	urqm
@@ -92047,7 +92047,6 @@
 枳	yknb
 枴	yknd
 𣒱	ykpq
-𣛬	ykpw
 榀	ykpx
 楍	ykpx
 𣖎	ykpx
@@ -92791,6 +92790,7 @@
 𱊈	yron
 𣜼	yrox
 𣑥	yrpd
+𣛬	yrpg
 櫮	yrpp
 𣣉	yrpq
 𣚶	yrra
@@ -96511,7 +96511,6 @@
 𮧓	zkps
 𮶡	zkps
 𦻸	zkpv
-𦺄	zkpw
 䓵	zkpx
 𦾈	zkpy
 𦾆	zkpz
@@ -97788,6 +97787,7 @@
 䔊	zrnz
 𱽑	zrod
 薌	zrox
+𦺄	zrpg
 𮶸	zrpj
 蘁	zrpp
 𦭚	zrps

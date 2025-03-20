@@ -8365,7 +8365,7 @@
 一儿⺈厂⺋,DiReDdWj	卼
 白匕卩,JbWbWj	卽
 {双口}二ㄅ卩,PxNeAeWj	卾
-卩,KkPgWj	卿
+卯,RmPg	卿
 木人氺卩,YmHrMsWj	厀
 人禾斗卩,HrBhLdWj	厁
 厂,Uc	厂
@@ -42482,7 +42482,7 @@
 木⺮人王,YmJuHrRw	𣛩
 木彡頁,YmFsWy	𣛪
 木{双口}火,YmPxNdRh	𣛫
-木卩,YmKkPgWj	𣛬
+木卯,YmRmPg	𣛬
 木耂日阝,YmRlUrXe	𣛭
 木戊𠃌皿,YmMuAeHm	𣛮
 木氵欠皿,YmMsPqHm	𣛯
@@ -47566,7 +47566,7 @@
 王臼鬼,RwYjEg	𤫅
 人一王丶,HrDiIbOd	𤫆
 王廿口匕灬,RwPnKkRh	𤫇
-王卩心,RwKkPgLx	𤫈
+王卯心,RwRmPgLx	𤫈
 王言火火又,RwDyRhTy	𤫉
 口{双口}王,XvKkPxRw	𤫊
 王乚王⺈小貝,RwAeRwRb	𤫋
@@ -56714,7 +56714,7 @@
 ⺿氵木,ZcMsZyYm	𦺁
 艸白一ㄅ灬,ZcJbDiRh	𦺂
 艹⺊冂人禸,ZcFbJkAr	𦺃
-⺿卩,ZcKkPgWj	𦺄
+⺿卯,ZcRmPg	𦺄
 艹齊非一,ZcOqLfDi	𦺅
 ⺿自冫十隹,ZcViGbMi	𦺆
 艹氵龶母,ZcMsJfPm	𦺇
@@ -75993,7 +75993,7 @@
 ⺊貝癶豆,FbRbNbGd	𫧸
 一丨卩,DiHsWj	𫧹
 丿士卩,TpJsWj	𫧺
-亼口卩,KkZiKkWj	𫧻
+卯亼口,RmZiKk	𫧻
 卵丱,UlZc	𫧼
 一幺幺止卩,DiDyDyWj	𫧽
 卵爿士,UlJpJs	𫧾
@@ -77609,7 +77609,7 @@
 日丶艮阝,UrOdPgXe	𬁈
 尸匕亽ヿ日,FsWbZiUr	𬁉
 日彳人禾,UrGcHrBh	𬁊
-日卩,UrKkPgWj	𬁋
+日卯,UrRmPg	𬁋
 氏日䒑亡,ZsUrNbNw	𬁌
 日⺶乚厶,UrSyAeIs	𬁍
 日宀谷,UrGgYg	𬁎
@@ -88544,7 +88544,7 @@
 魚⺶目,AvSyEm	𮬍
 魚犭丷酉,AvAqNbBy	𮬎
 魚隹木,AvMiYm	𮬏
-魚卩,AvKkPgWj	𮬐
+魚卯,AvRmPg	𮬐
 魚彳𠂉日夂,AvGcStJi	𮬑
 魚止匕糸,AvLiWbFs	𮬒
 魚罒水攵,AvBsMsAp	𮬓
@@ -89424,9 +89424,9 @@
 十甫寸,PsBfOc	博
 卩,PgWj	即
 白卩,JbWbWj	卽
-日卩,KkUrWbWj	卿
-丿卩,KkTpPgWj	卿
-白卩,KkJbWbWj	卿
+卯日,RmUrWb	卿
+卯丿,RmTpPg	卿
+卯白,RmJbWb	卿
 ⺁,UcWb	𠨬
 厂火,UcRh	灰
 及,Fj	及

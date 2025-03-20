@@ -30202,7 +30202,7 @@
 大方向	imtj
 精神病院	flnx
 越王	imrw
-董卿	znkp
+董卿	znrp
 隔间	xutu
 德邦	gpjx
 北朝	jwpu
@@ -36770,7 +36770,7 @@
 自生自灭	vivd
 性急	lidw
 举荐	mnzp
-卿卿我我	kktt
+卿卿我我	rrtt
 马马虎虎	ssss
 招架不住	ocrh
 百依百顺	dhdk
@@ -40686,7 +40686,7 @@
 原产地	uxee
 工作狂	lhar
 当口	iwkk
-公卿	nikp
+公卿	nirp
 被劫	qnei
 泡馍	manz
 世宗	pagl
@@ -64529,7 +64529,7 @@
 温故	muoa
 卧虎藏龙	eszv
 长宽	icgz
-爱卿	igkp
+爱卿	igrp
 神探	luog
 刀头	ndoo
 扭腰	oafu
@@ -69133,7 +69133,7 @@
 记牢	cbgx
 姓甚名谁	wfvc
 乌金	auwj
-关汉卿	nmkp
+关汉卿	nmrp
 顶好	pqwh
 幽禁	udyy
 盖印	shkd
@@ -71804,7 +71804,7 @@
 很好的	gwja
 对我说	ttcn
 男篮	ccjn
-国务卿	ajkp
+国务卿	ajrp
 减产	gmxu
 台北市	ijla
 雨量	xvud
@@ -99916,7 +99916,7 @@
 填海	epms
 起效	ibme
 还珠	rjrt
-长卿	ickp
+长卿	icrp
 被炒	qnri
 宽约	gzqa
 东厂	ciuc
@@ -101732,7 +101732,7 @@
 差钱	slpd
 咱再	kvrj
 愈长	zfic
-九卿	ljkp
+九卿	ljrp
 懵然	lzfa
 别种	kcbk
 酒碗	mbdg
@@ -102282,7 +102282,7 @@
 强筋	ckjf
 修禅	hhln
 闭店	tpbf
-卿相	kpye
+卿相	rpye
 摸牌	ozjj
 票钱	ulpd
 冒光	uewg
@@ -116887,7 +116887,7 @@
 灰灰	prpr
 边带	cjqg
 扇风	dwqe
-颜真卿	xpkp
+颜真卿	xprp
 赐死	vusw
 僧袍	hnqa
 严厉打击	duoo
@@ -123758,7 +123758,7 @@
 南皮	pjnp
 量尺	udfo
 祖冲之	lgxi
-卿大夫	kigf
+卿大夫	rigf
 普通青年	nijs
 何其多	hfvv
 儿孙自有儿孙福	rhvl
@@ -131863,7 +131863,7 @@
 北京户口	jqdk
 十位数	phfw
 半年之内	nsxj
-卿本佳人	kyhh
+卿本佳人	ryhh
 双拳难敌四手	tnto
 古田会议	ochc
 另一天	kddi
