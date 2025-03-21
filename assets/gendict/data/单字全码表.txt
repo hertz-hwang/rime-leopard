@@ -30241,7 +30241,6 @@
 豕	hs11
 丨	hs11
 亅	hs11
-饣	hs11
 食	hs11
 ⻝	hs11
 ⻞	hs11
@@ -55247,6 +55246,7 @@
 𤶦	nrzc
 𤿬	nrzc
 𭕍	nrzg
+饣	ns11
 ⻠	ns11
 𭼨	nsaa
 馐	nsae
