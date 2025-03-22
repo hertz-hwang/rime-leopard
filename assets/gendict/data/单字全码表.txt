@@ -9241,11 +9241,7 @@
 䛪	dacg
 𥓰	dacg
 𢂏	dada
-𰀇	dada
-𱶟	dadb
 𭁢	dadd
-𭟸	dadh
-与	dadi
 𢆵	dadi
 𥐝	dadi
 𰏰	dadi
@@ -9253,22 +9249,12 @@
 詞	dadk
 𪗪	dadk
 𬹿	dadk
-𢗓	dadl
-𭚤	dadl
-𱍟	dadl
-𡴃	dadm
-𢪓	dado
-𢮠	dado
 𬣍	dado
-欤	dadp
 硗	dadr
 𱌰	dadr
 礳	dads
 𥔀	dady
 𰵀	dady
-𢌱	dadz
-𢌱	dadz
-𢌱	dadz
 𥑪	daea
 𧦷	daea
 齓	daec
@@ -11060,7 +11046,6 @@
 𤰳	dict
 䛫	dicy
 𧭕	dida
-𮘊	didd
 𬻊	didf
 戻	didh
 天	didi
@@ -11201,6 +11186,7 @@
 𬒕	dinn
 𭽹	dinp
 𱭌	dinw
+𮘊	diny
 𪘤	dioc
 𰦵	dioc
 𱳪	diod
@@ -14591,7 +14577,6 @@
 魓	eczo
 𭿑	eczo
 𥈂	edad
-𪾟	edad
 㘭	edae
 䀎	edae
 𥄠	edae
@@ -16776,6 +16761,7 @@
 𡍪	enyj
 𥈊	enyj
 㮂	enym
+𪾟	enym
 垪	enzc
 𪕒	enzc
 𭎎	enzg
@@ -24106,8 +24092,6 @@
 𡫾	gczz
 豆	gd11
 ⾖	gd11
-写	gdad
-㝍	gdad
 𫴟	gdad
 𭂆	gdae
 𱈝	gdae
@@ -26041,6 +26025,8 @@
 𪁩	gnxf
 𬑳	gnxf
 𤘰	gnxn
+写	gnyg
+㝍	gnyg
 𲅢	gnyj
 罙	gnym
 𣮥	gnyq
@@ -27866,7 +27852,6 @@
 𩞫	hczn
 饆	hczo
 𠌫	hczo
-𠇐	hdad
 𠇢	hdae
 𥀿	hdae
 𫢆	hdae
@@ -28606,7 +28591,6 @@
 傖	hhdk
 𩝞	hhdk
 𠠃	hhdn
-𭁕	hhdn
 𠇉	hhdo
 𰏤	hhdz
 𰕔	hhea
@@ -28796,6 +28780,7 @@
 价	hhnd
 㜾	hhnd
 𥇮	hhne
+𭁕	hhnn
 𩚭	hhoc
 𬽵	hhoc
 𮙨	hhoc
@@ -29767,6 +29752,7 @@
 𠊍	hnyd
 偛	hnyj
 𣐗	hnym
+𠇐	hnyr
 餅	hnzc
 併	hnzc
 𧳉	hnzc
@@ -31845,7 +31831,6 @@
 𪋜	iczo
 大	id11
 ⼤	id11
-𰷱	idad
 𲁦	idad
 𤓳	idae
 𥙧	idae
@@ -33976,6 +33961,7 @@
 𢋪	inye
 𨂵	inyj
 𠝱	inyn
+𰷱	inyz
 跰	inzc
 𢌾	inzc
 𧻓	inzc
@@ -35984,8 +35970,6 @@
 篳	jczo
 韠	jczo
 韠	jczo
-𤽗	jdad
-𥫣	jdad
 𩏊	jdad
 笺	jdag
 𰠛	jdag
@@ -36010,7 +35994,6 @@
 𥸄	jdcu
 𣀝	jdda
 𥶲	jddd
-𰄒	jddd
 𪇱	jddg
 𣡳	jddk
 𥳏	jddo
@@ -36123,6 +36106,7 @@
 𥴜	jdnk
 𩡿	jdnm
 𬔬	jdnu
+𰄒	jdny
 𣤼	jdop
 𥰸	jdou
 𥮳	jdoy
@@ -38524,10 +38508,12 @@
 𩑞	jnwy
 𨙻	jnxe
 㸷	jnxn
+𤽗	jnyb
 𠕢	jnyc
 牐	jnyj
 𥯥	jnyj
 栔	jnym
+𥫣	jnyu
 皏	jnzc
 䈂	jnzc
 𢍆	jnzc
@@ -41507,7 +41493,6 @@
 𭈜	kjct
 𡅎	kjcu
 𡅨	kjdd
-𱓡	kjdd
 𠱃	kjdi
 𠷶	kjdi
 哃	kjdk
@@ -41597,6 +41582,7 @@
 𠵜	kjnn
 𠹙	kjno
 𠵹	kjnu
+𱓡	kjny
 嗪	kjob
 𠱾	kjoc
 𱒦	kjoc
@@ -42000,7 +41986,6 @@
 𠯋	knda
 𠚴	kndc
 嗞	kndd
-𭇩	kndd
 𦓎	knde
 㓢	kndg
 𭉃	kndh
@@ -42075,6 +42060,7 @@
 嚑	knnh
 𠴮	knnl
 𠶵	knnn
+𭇩	knny
 𠯄	knod
 𠴍	knol
 𠽼	knol
@@ -44119,7 +44105,6 @@
 斗	ld11
 ⽃	ld11
 䛒	ldad
-𫹮	ldad
 巧	ldae
 𪋽	ldae
 𪫝	ldae
@@ -45825,6 +45810,7 @@
 𢗅	lnwx
 悌	lnxf
 祶	lnxf
+𫹮	lnyx
 恲	lnzc
 䴵	lnzc
 𢛉	lnzj
@@ -48086,9 +48072,9 @@
 𱨌	mdkw
 𨜋	mdkx
 𣶉	mdld
-𬇵	mdld
 泟	mdli
 𣳋	mdli
+𬇵	mdln
 𱩌	mdlp
 漹	mdlr
 𣸔	mdls
@@ -48622,7 +48608,6 @@
 𣵈	mgda
 𧯛	mgdc
 𪷛	mgdc
-泻	mgdd
 渲	mgdd
 𣼂	mgde
 𰴣	mgdg
@@ -48664,7 +48649,6 @@
 𢽾	mgha
 𣻄	mghb
 𱦿	mghc
-𱧿	mghd
 𭓓	mghe
 学	mghi
 𬇤	mghi
@@ -48672,6 +48656,7 @@
 漎	mghl
 𩀨	mghl
 𬈑	mghn
+𱧿	mghn
 𣹞	mgho
 𱊉	mgho
 𣶺	mghq
@@ -48744,6 +48729,7 @@
 𩿰	mgnu
 𱧐	mgnv
 𣸦	mgnw
+泻	mgny
 深	mgny
 浫	mgnz
 㴻	mgoc
@@ -50819,7 +50805,6 @@
 𣸶	msda
 𬀂	msda
 𬀐	msda
-𭤰	msdd
 𤃒	msde
 㳋	msdi
 𪯶	msdi
@@ -50984,6 +50969,7 @@
 𱩶	msnr
 𬀆	msnu
 海	msnu
+𭤰	msny
 𤂴	msoa
 溽	msoc
 泝	msod
@@ -52434,6 +52420,7 @@
 𪑥	naem
 𡈤	naeq
 𮪠	naes
+𰀇	naey
 騘	nafl
 𫜚	nafl
 𭼙	nafl
@@ -52857,7 +52844,6 @@
 𩡸	ndaj
 𤺡	ndal
 𫤰	ndan
-𭁉	ndan
 𰃝	ndao
 𣢍	ndap
 䵥	ndbb
@@ -53811,6 +53797,7 @@
 𤷈	nils
 忩	nilx
 𤻵	nima
+𭟸	nimh
 𤹩	nimi
 𪒥	nimu
 𪽸	nimu
@@ -53912,6 +53899,7 @@
 郑	nixe
 𮟭	nixe
 𱏸	nixk
+𭚤	nixl
 𣕙	niyi
 𩥅	niyj
 𬳊	niyj
@@ -54404,6 +54392,7 @@
 𰑓	nlxu
 忘	nlxw
 㤀	nlxw
+𢗓	nlxy
 𦥲	nlyj
 𩤋	nlym
 馬	nm11
@@ -54417,6 +54406,7 @@
 騨	nmcp
 𭻑	nmct
 𰣲	nmct
+𡴃	nmcy
 𥀋	nmdc
 𩣊	nmdi
 黬	nmdk
@@ -54533,6 +54523,7 @@
 𪒟	nnau
 𠔁	nnbb
 𤴭	nnbb
+𱶟	nnbb
 刅	nnbd
 𩡩	nnbm
 𮪛	nnbq
@@ -54671,6 +54662,7 @@
 𱥷	nnms
 𩢣	nnna
 𥤡	nnnb
+𭁉	nnnb
 刕	nnnd
 䭻	nnnd
 䭼	nnnd
@@ -54694,6 +54686,7 @@
 𤶝	nnol
 𱉑	nnon
 𢪘	nnos
+𢮠	nnos
 𩢔	nnos
 𱃷	nnos
 𩤀	nnoy
@@ -54869,6 +54862,7 @@
 𪓁	noso
 𪟶	noss
 𪒸	nost
+𢪓	nosy
 𩤝	nota
 𩥎	notc
 驈	notk
@@ -54999,6 +54993,7 @@
 𮩹	npqm
 饮	npqs
 𣢅	npqw
+欤	npqy
 𪑀	nprh
 𰅭	npsb
 䭴	npsm
@@ -56041,6 +56036,7 @@
 𭚾	nxzi
 𪒝	nxzy
 癊	nxzz
+与	ny11
 𤵦	nyae
 𬏹	nyaj
 敮	nyap
@@ -56071,8 +56067,8 @@
 𧸋	nyhr
 𱄤	nyhr
 𫤮	nyhs
-瘦	nyht
 馊	nyht
+瘦	nyht
 騪	nyht
 𠭦	nyht
 𰯻	nyir
@@ -56142,6 +56138,7 @@
 𩠈	nzal
 𪑡	nzal
 𭃮	nzal
+𱍟	nzal
 𢼩	nzap
 𢼶	nzap
 𣢲	nzap
@@ -56168,6 +56165,9 @@
 𩤱	nzct
 𤻹	nzcv
 𤼚	nzcv
+𢌱	nzcy
+𢌱	nzcy
+𢌱	nzcy
 艵	nzdb
 𪑿	nzdd
 𪪃	nzdh
@@ -56654,7 +56654,6 @@
 ㇏	od11
 ㇔	od11
 ㇝	od11
-𱟩	odad
 抝	odae
 𢩨	odae
 𢬆	odae
@@ -58157,6 +58156,7 @@
 挮	onxf
 插	onyj
 揷	onyj
+𱟩	onys
 拼	onzc
 𢶚	onzc
 捶	onzj
@@ -60048,7 +60048,6 @@
 槩	pcym
 𡁘	pczp
 丁	pd11
-𲇮	pdad
 㕺	pdae
 呺	pdae
 钱	pdag
@@ -60295,7 +60294,6 @@
 𣓑	pgcy
 𢍚	pgcz
 𤱿	pgcz
-䥾	pgdd
 𲈎	pgdd
 𬭰	pgdn
 𣪺	pgdr
@@ -60368,6 +60366,7 @@
 𡜌	pgnw
 鴴	pgnx
 鵆	pgnx
+䥾	pgny
 𰾉	pgnz
 𣕣	pgoy
 𬬾	pgpd
@@ -61044,6 +61043,7 @@
 䢼	pnxe
 锑	pnxf
 锸	pnyj
+𲇮	pnyj
 㭟	pnym
 𰽼	pnzc
 𱽭	pnzc
@@ -62058,7 +62058,6 @@
 襅	qczo
 𣯴	qczo
 𧛘	qdad
-𨊮	qdad
 线	qdag
 𧘟	qdaj
 𫥞	qdaj
@@ -63753,6 +63752,7 @@
 𬡜	qnxf
 𤙟	qnxn
 𠙘	qnyc
+𨊮	qnyc
 𬡩	qnyd
 䙄	qnyj
 𦩿	qnyj
@@ -65622,7 +65622,6 @@
 㻫	rczo
 鞸	rczo
 𠁙	rdaa
-玙	rdad
 考	rdae
 𩉷	rdae
 𬁥	rdae
@@ -67553,6 +67552,7 @@
 珶	rnxf
 𤦆	rnyj
 𧶵	rnyj
+玙	rnyw
 賆	rnzc
 㻂	rnzc
 𩊖	rnzc
@@ -70001,7 +70001,6 @@
 歹	sd11
 𨐷	sdaa
 𦎢	sdad
-𫚈	sdad
 𭮉	sdad
 㱙	sdae
 𭭿	sdae
@@ -71419,6 +71418,7 @@
 𤫼	snxf
 𬶕	snxf
 𭩶	snym
+𫚈	snyv
 骈	snzc
 䦕	snzc
 𦍰	snzc
@@ -73023,8 +73023,8 @@
 釆	tfmp
 ⾤	tfmp
 𦓿	tfnb
-𨤒	tfnd
 𠂦	tfnh
+𨤒	tfnn
 𬆣	tfnr
 𦉇	tfnz
 𨤘	tfpy
@@ -74785,10 +74785,8 @@
 𠢃	udac
 𮡛	udac
 𲇃	udac
-屿	udad
 𡹪	udad
 𭨎	udad
-𱛇	udad
 𱢡	udad
 甹	udae
 𡵿	udae
@@ -74804,7 +74802,6 @@
 䬗	udai
 昁	udaj
 逿	udaj
-𨓂	udaj
 𨔄	udaj
 𭘑	udaj
 𮞏	udaj
@@ -76901,6 +76898,7 @@
 嵡	uniw
 暡	uniw
 𡻐	uniw
+𨓂	unjc
 𫨔	unje
 𫶊	unjh
 𡶣	unji
@@ -77013,6 +77011,8 @@
 𬀹	unxf
 𣋥	unxx
 𣌃	unyh
+屿	unys
+𱛇	unys
 骿	unzc
 𪠆	unzc
 厜	unzj
@@ -79384,7 +79384,6 @@
 𪖦	vczx
 𪖯	vczy
 鼾	vczz
-𱻷	vdad
 𦔲	vdae
 贱	vdag
 𰲳	vdag
@@ -80768,6 +80767,7 @@
 𬩾	vnxe
 𧋘	vnxf
 𠉙	vnyc
+𱻷	vnye
 𧌤	vnyj
 聠	vnzc
 蛢	vnzc
@@ -82602,8 +82602,6 @@
 𫿦	wdaa
 𫿫	wdaa
 𫿬	wdaa
-𮡤	wdad
-𱙄	wdad
 𮰷	wdae
 𬗧	wdaf
 𧬣	wdag
@@ -82615,7 +82613,6 @@
 𢑔	wdak
 𫬫	wdak
 𮢑	wdak
-𮢃	wdao
 錑	wdaq
 𡝢	wdaq
 𬋝	wdar
@@ -84655,6 +84652,7 @@
 𡟂	wnoa
 釰	wnod
 釼	wnod
+𮢃	wnog
 𡝖	wnol
 𡡟	wnol
 𨧟	wnol
@@ -84705,7 +84703,9 @@
 鍤	wnyj
 㛼	wnyj
 𦑣	wnyj
+𮡤	wnyj
 㛼	wnyj
+𱙄	wnyn
 姘	wnzc
 鉼	wnzc
 娷	wnzj
@@ -90649,7 +90649,6 @@
 𩁕	ydam
 與	ydan
 𩦡	ydan
-𫟋	ydan
 舉	ydao
 㼂	ydao
 擧	ydao
@@ -91218,12 +91217,10 @@
 𣠣	ygcl
 𬂿	ygcl
 楦	ygdd
-𰗚	ygdd
 𣗳	ygdf
 𪳘	ygdh
 槻	ygdj
 𭬉	ygdj
-𮗜	ygdk
 𣔥	ygdl
 梪	ygdm
 𪲓	ygdm
@@ -91290,6 +91287,7 @@
 䳎	ygnj
 䳔	ygnj
 䳎	ygnj
+𮗜	ygnk
 檫	ygnl
 樢	ygnm
 𣖒	ygno
@@ -91299,6 +91297,7 @@
 𪴎	ygnr
 棎	ygny
 𬃩	ygny
+𰗚	ygny
 𰗯	ygnz
 𬛻	ygoa
 𡬾	ygoc
@@ -92402,6 +92401,7 @@
 榪	ynmm
 𣖬	ynmp
 柡	ynms
+𫟋	ynnb
 𪴚	ynnc
 枌	ynnd
 𧮱	ynnd
@@ -93668,7 +93668,6 @@
 𬅛	yydi
 𣟱	yydj
 𬃴	yydj
-𦦲	yydn
 櫸	yydo
 欅	yydo
 𥓙	yyds
@@ -93795,6 +93794,7 @@
 𩤆	yynm
 棼	yynn
 𦦫	yynn
+𦦲	yynn
 𣏕	yyod
 𣔈	yyps
 𮨴	yyqe
@@ -96428,12 +96428,12 @@
 𭬟	zkgy
 𮐪	zkgy
 㪘	zkha
-𥃋	zkhd
 𡦸	zkhh
 𪦻	zkhi
 盒	zkhm
 剣	zkhn
 𠝏	zkhn
+𥃋	zkhn
 剱	zkho
 𫝇	zkho
 㰸	zkhp

@@ -65,7 +65,7 @@ speller:
   auto_select_pattern: ^;\w+
 
 translator:
-  dictionary: leopard.extended
+  dictionary: leopard
   enable_charset_filter: false
   enable_encoder: true
   enable_sentence: false

@@ -144,7 +144,8 @@ gen_schema() {
     # 运行简码生成脚本
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
-        cat res.txt >> "${HAO}/leopard.dict.yaml"
+        #cat res.txt >> "${HAO}/leopard.dict.yaml"
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard.dict.yaml > temp && mv temp ${HAO}/leopard.dict.yaml
     popd
     
     # 确保 leopard 配置文件存在
