@@ -799,6 +799,9 @@ columns:
 猂	auz	104
 鱱	auz	0
 包	av1	44082	av1
+敢	ava	25127
+憨	ava	714
+饏	ava	0
 鮿	ava	0
 狈	avb	800
 独	avc	32655
@@ -812,6 +815,7 @@ columns:
 囻	avm	0
 鱦	avm	0
 刨	avn	598
+聼	avp	0
 炰	avr	104
 圚	avr	0
 窷	avr	0
@@ -1962,6 +1966,7 @@ columns:
 詢	dau	0
 龅	dav	219
 砲	dav	0
+譀	dav	0
 齙	dav	0
 讒	daw	0
 棨	day	104
@@ -2462,7 +2467,6 @@ columns:
 硛	dlr	0
 碽	dlr	0
 謐	dlt	0
-譀	dlv	0
 龇	dlw	321
 砇	dlw	0
 訿	dlw	0
@@ -3075,6 +3079,7 @@ columns:
 堍	eat	104
 坞	eau	898
 眴	eau	0
+瞰	eav	369
 垉	eav	0
 坹	eax	0
 郹	eax	0
@@ -3468,7 +3473,6 @@ columns:
 坑	elq	2915
 塆	elr	104
 眎	els	0
-瞰	elv	369
 坟	elw	2466
 眦	elw	221
 盿	elw	0
@@ -3667,6 +3671,7 @@ columns:
 郝	erx	1648
 幸	es1	19019	es1
 盩	esa	104
+矙	esa	0
 農	esc	104
 壋	esc	0
 壚	esc	0
@@ -3693,7 +3698,6 @@ columns:
 慹	esl	0
 摯	esl	0
 漐	esl	0
-矙	esl	0
 縶	esl	0
 蟄	esl	0
 褺	esl	0
@@ -8074,6 +8078,7 @@ columns:
 咰	kau	0
 嚕	kau	0
 咆	kav	945
+噉	kav	104
 噾	kaw	0
 嚵	kaw	0
 吧	kb1	58755	kb1
@@ -8398,7 +8403,6 @@ columns:
 呩	kls	0
 咇	klt	104
 唝	klv	104
-噉	klv	104
 呲	klw	237
 嘴	klw	100	kl1
 呅	klw	0
@@ -9434,9 +9438,6 @@ columns:
 悍	luz	1249
 禲	luz	0
 快	lv1	63855	lv1
-敢	lva	25127
-憨	lva	714
-饏	lva	0
 贡	lvb	6037
 蜚	lvc	239
 蚉	lvc	0
@@ -9450,7 +9451,6 @@ columns:
 怋	lvm	0
 憴	lvm	0
 恻	lvn	601
-聼	lvp	0
 恇	lvr	104
 憒	lvr	0
 祀	lvs	888
@@ -9629,6 +9629,7 @@ columns:
 洵	mau	324
 瀂	mau	0
 泡	mav	3660
+澉	mav	106
 漁	mav	104
 瀺	maw	104
 泬	max	0
@@ -10191,7 +10192,6 @@ columns:
 沶	mls	0
 泌	mlt	1487
 鿌	mlu	0
-澉	mlv	106
 汶	mlw	456
 泚	mlw	104
 湉	mlw	104
@@ -10588,6 +10588,7 @@ columns:
 派	mu1	42645	mu1
 渴	mua	3707
 洩	mua	104
+厳	mua	0
 渇	mua	0
 湹	mua	0
 漫	mub	7622
@@ -10630,7 +10631,6 @@ columns:
 渦	muk	0
 濄	muk	0
 漂	mul	6818
-厳	mul	0
 渂	mul	0
 漼	mum	104
 潂	mun	0
@@ -11718,6 +11718,7 @@ columns:
 掏	oat	3468
 擼	oau	0
 抱	oav	16032
+撖	oav	104
 摉	oav	0
 攙	oaw	0
 捆	oay	1872
@@ -12081,7 +12082,6 @@ columns:
 摃	olr	0
 蛰	olv	380
 贽	olv	168
-撖	olv	104
 抆	olw	104
 怘	olx	0
 抋	olx	0
@@ -12976,6 +12976,7 @@ columns:
 镧	pty	149
 朝	pu1	42809	pu1
 锡	pua	3021
+嚴	pua	104
 铠	pub	619
 镘	pub	104
 锝	pud	130
@@ -12991,7 +12992,6 @@ columns:
 衙	puk	2801
 铻	puk	104
 镖	pul	2740
-嚴	pul	104
 镢	pun	176
 剒	pun	104
 皵	pun	0
@@ -14959,6 +14959,8 @@ columns:
 殉	sau	851
 鲍	sav	3542
 瓟	sav	0
+闞	sav	0
+鬫	sav	0
 鮺	sav	0
 閫	say	0
 稣	sb1	2099	sb1
@@ -15205,8 +15207,6 @@ columns:
 辬	sls	0
 虙	slt	0
 閟	slt	0
-闞	slv	0
-鬫	slv	0
 虔	slw	1420
 閔	slw	104
 虑	slx	15514
@@ -15549,6 +15549,7 @@ columns:
 瓼	tal	0
 敕	tap	808
 闫	tas	165
+阚	tav	321
 阃	tay	164
 睾	tb1	528	tb1
 耙	tbb	342
@@ -15682,7 +15683,6 @@ columns:
 延	tlr	100	tl1
 蜑	tlr	0
 郔	tlr	0
-阚	tlv	321
 闵	tlw	862
 闷	tlx	4900
 巯	tlz	104
@@ -19495,8 +19495,10 @@ columns:
 椢	yar	0
 栒	yau	104
 櫓	yau	0
+橄	yav	574
 枹	yav	104
 蚻	yav	0
+豃	yav	0
 欃	yaw	0
 柼	yax	0
 梱	yay	0
@@ -19989,8 +19991,6 @@ columns:
 柲	ylt	0
 榓	ylt	0
 榊	ylu	104
-橄	ylv	574
-豃	ylv	0
 橴	ylw	0
 隸	ylw	0
 杺	ylx	0

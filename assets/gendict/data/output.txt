@@ -297,7 +297,7 @@
 即便	pwhd
 仿佛	hmhx
 准备	gmjc
-不敢	rblv
+不敢	rbav
 产品	xukp
 过了	ojel
 要是	uwue
@@ -1547,7 +1547,7 @@
 第二天	jndi
 热情	ollj
 神秘	lubl
-勇敢	iglv
+勇敢	igav
 战争	fkdi
 桌子	fuhi
 上海	fdms
@@ -4224,7 +4224,7 @@
 好不容易	wrgu
 多事	vvdk
 返回	utak
-敢于	lvdp
+敢于	avdp
 来时	vnuo
 运营	zjzg
 梦见	yykj
@@ -6487,7 +6487,7 @@
 内饰	jhns
 马路	smik
 下山	dfus
-敢说	lvcn
+敢说	avcn
 动用	zcgy
 银色	ppdb
 扶苏	ogzc
@@ -7171,7 +7171,7 @@
 时效	uome
 大怒	idwt
 五六	uuml
-还敢	rjlv
+还敢	rjav
 实践中	gikh
 犯错	awpp
 而至	kegi
@@ -8054,7 +8054,7 @@
 整治	tami
 绑架	qjck
 热血	olth
-谁敢	cmlv
+谁敢	cmav
 两国	zlar
 不当	rbiw
 击中	ojkh
@@ -8974,7 +8974,7 @@
 十月	psfy
 纯真	qdpe
 之光	xiwg
-你敢	hdlv
+你敢	hdav
 太难	iotm
 看得见	ogkj
 越来越大	ivii
@@ -10911,7 +10911,7 @@
 八九	nblj
 一觉	dimg
 近战	sjfk
-没敢	mrlv
+没敢	mrav
 靴子	rhhi
 陡然	xifa
 至关重要	gnnu
@@ -11611,7 +11611,7 @@
 口服	kkfw
 佛陀	hxxg
 飞向	fftj
-也敢	eylv
+也敢	eyav
 打完	opgn
 绅士	qujs
 接住	oxho
@@ -14762,7 +14762,7 @@
 凹陷	jdxd
 装上	jjfd
 出道	mjnv
-才敢	ptlv
+才敢	ptav
 高价	qghh
 电线	uaqd
 下落不明	dzru
@@ -14968,7 +14968,7 @@
 药箱	zqjy
 低语	hzcu
 则有	vnpf
-敢打	lvop
+敢打	avop
 新婚	xywz
 段落	odzm
 重用	nagy
@@ -16255,7 +16255,7 @@
 硕士	dqjs
 高雅	qgrm
 固有	aopf
-敢想	lvye
+敢想	avye
 天分	dinn
 宽厚	gzuu
 全神贯注	hlnm
@@ -16692,7 +16692,7 @@
 草药	zuzq
 眼红	epql
 凉风	gqqe
-敢做	lvho
+敢做	avho
 脊背	ggjw
 贪恋	zalr
 很能	gpif
@@ -16881,7 +16881,7 @@
 温水	mums
 绝色	qddb
 判官	nogt
-竟敢	wrlv
+竟敢	wrav
 细水长流	qmim
 名校	vkym
 向北	tjjw
@@ -17234,7 +17234,7 @@
 殷红	ddql
 家政	ghdl
 网址	jeel
-敢问	lvtk
+敢问	avtk
 拉回	oxak
 请注意	cmwl
 拳法	ngme
@@ -18904,7 +18904,7 @@
 毒气	jpiq
 一无所获	dcdz
 文静	lwjf
-俯瞰	hbel
+俯瞰	hbea
 溜达	mrij
 开灯	dzrp
 大法	idme
@@ -18917,7 +18917,7 @@
 易得	uagu
 老母	rlpm
 变作	lrha
-敢不敢	lrlv
+敢不敢	arav
 客车	gkxc
 巨额	vvgk
 国旗	arms
@@ -23366,7 +23366,7 @@
 画下	dcdf
 浓烟	mgra
 三维	asqm
-橄榄	ylyn
+橄榄	yayn
 焰火	rdrh
 有条不紊	pjrl
 远见	nrkj
@@ -23577,7 +23577,7 @@
 靠前	xknf
 很难说	gtcn
 体征	hygd
-怎敢	allv
+怎敢	alav
 云卷云舒	znzh
 太有	iopf
 新鲜感	xsmd
@@ -23747,7 +23747,7 @@
 姿色	gpdb
 峥嵘	uduz
 脂粉	fwfn
-敢当	lviw
+敢当	aviw
 走掉	izof
 吓住	kdho
 无解	cudg
@@ -24148,7 +24148,7 @@
 大官	idgt
 青葱	jfza
 得道	gunv
-敢情	lvlj
+敢情	avlj
 又名	tyvk
 睡下	endf
 大吵	idki
@@ -24185,7 +24185,7 @@
 亚当	doiw
 建安	irgw
 恶习	doqx
-果敢	cylv
+果敢	cyav
 发霉	mtxs
 鞋带	reqg
 挺立	otxl
@@ -24225,7 +24225,7 @@
 提货	ouhw
 据实	ofgo
 大发雷霆	imxx
-胆敢	fulv
+胆敢	fuav
 皈依	juhq
 污蔑	mnzb
 长生不老	iirr
@@ -25779,7 +25779,7 @@
 安葬	gwzs
 盒饭	zknu
 铁锤	ptpn
-憨厚	lvuu
+憨厚	avuu
 便道	hdnv
 而外	kevf
 练功	qclc
@@ -26633,7 +26633,7 @@
 胶带	fmqg
 酒壶	mbjg
 私聊	bivr
-哪敢	kalv
+哪敢	kaav
 营运	zgzj
 真名	pevk
 从众	hhhh
@@ -28212,7 +28212,7 @@
 黑峡谷	nuyg
 宝批龙	govl
 哈麻批	kaow
-憨麻批	laow
+憨麻批	aaow
 窗上	atfd
 傻嘿	htkn
 易手遮天	uobd
@@ -30118,7 +30118,7 @@
 称颂	bdni
 黑洞洞	nmmj
 骨节	ugzw
-敢为	lvoc
+敢为	avoc
 寄到	gign
 无路可走	ciei
 职级	vkqf
@@ -31344,7 +31344,7 @@
 嘴皮	klnp
 红烛	qlrv
 欺人太甚	fhif
-岂敢	ublv
+岂敢	ubav
 新作	xyha
 即以	pwwh
 门规	tmgk
@@ -32583,7 +32583,7 @@
 人海茫茫	hmzz
 互相帮助	dyjh
 从头开始	hodw
-未敢	vwlv
+未敢	vwav
 装睡	jjen
 不竭	rbxu
 澹台	mdik
@@ -33044,7 +33044,7 @@
 不冷不热	rgro
 四望	bsnf
 人样	hrys
-不敢当	rliw
+不敢当	raiw
 喉结	khqj
 锦衣玉食	pqrh
 时调	uocj
@@ -34321,7 +34321,7 @@
 丧家之犬	egxa
 防汛	xmma
 中文系	kltf
-敢言	lvdy
+敢言	avdy
 自甘	vifg
 悠哉	hhpa
 邪淫	rxmi
@@ -34745,7 +34745,7 @@
 凄楚	gdyy
 征伐	gdha
 皮笑肉不笑	njjj
-敢保	lvhk
+敢保	avhk
 备有	jcpf
 治教	mirh
 到校	gnym
@@ -44364,7 +44364,7 @@
 食欲不振	hyro
 水蒸气	mziq
 土坡	eten
-敢爱敢恨	lill
+敢爱敢恨	aial
 牛皮纸	xnqz
 四项基本原则	blfv
 孙媳妇	hwww
@@ -47327,7 +47327,7 @@
 干亲	zgxy
 反切	utcn
 端由	xuuy
-憨傻	lvht
+憨傻	avht
 徐步	ghll
 令亲	zixy
 承情	amlj
@@ -47531,7 +47531,7 @@
 邪毒	rxjp
 寺观	eotk
 钢爪	pjia
-憨实	lvgo
+憨实	avgo
 脸厚	fzuu
 鲁钝	supd
 精白	fjjb
@@ -48945,7 +48945,7 @@
 阒寂	tegf
 显位	uohx
 巨澜	vvmt
-憨痴	lvng
+憨痴	avng
 答茬	jzzp
 精巢	fjkc
 介壳	hnjg
@@ -53478,7 +53478,7 @@
 去问	eitk
 裁兵	pasn
 赝币	uhta
-敢来	lvvn
+敢来	avvn
 漏题	mfue
 高邑	qgkb
 她问	wetk
@@ -59136,7 +59136,7 @@
 怯场	leea
 通顺	igkq
 充溢	zrmm
-敢怒不敢言	lwrd
+敢怒不敢言	awrd
 偷换	hzod
 百叶窗	dkat
 结拜	qjod
@@ -59162,7 +59162,7 @@
 料及	flfj
 悲从中来	lhkv
 眼眉	epfe
-娇憨	wtlv
+娇憨	wtav
 不清不楚	rmry
 天外有天	dvpd
 绸子	qjhi
@@ -59601,7 +59601,7 @@
 微明	wquf
 吹灰之力	kpxc
 月会	fyhz
-敢干	lvzg
+敢干	avzg
 下机	dfyq
 山边	uscj
 炮响	rakt
@@ -64058,7 +64058,7 @@
 倒台	hgik
 香精	bufj
 祝寿	lkjo
-敢死队	lsxh
+敢死队	asxh
 填空	epal
 争奇斗艳	dilj
 率直	ldpe
@@ -64111,7 +64111,7 @@
 救亡图存	dnap
 磁化	dnhw
 表里不一	jard
-憨笑	lvjt
+憨笑	avjt
 娥眉	wtfe
 律令	gizi
 呼天抢地	kdoe
@@ -64361,7 +64361,7 @@
 考察队	rgxh
 残片	sdjp
 分一杯羹	ndys
-敢为人先	lohx
+敢为人先	aohx
 递送	nxni
 服兵役	fsgr
 发泡	mtma
@@ -67948,7 +67948,7 @@
 热辣辣	osst
 寒窗苦读	gazc
 斗艳	ldjd
-勤劳勇敢	pzil
+勤劳勇敢	pzia
 映山红	uuql
 南丁格尔	ppyd
 亮堂堂	qsse
@@ -68457,7 +68457,7 @@
 凶徒	ejgi
 菌类	zafi
 罗丹	bvjl
-鸟瞰	onel
+鸟瞰	onea
 风声鹤唳	qjgk
 万福	dnld
 进料	vjfl
@@ -68740,7 +68740,7 @@
 街面	pexm
 力劝	cltc
 自解	vidg
-敢讲	lvcv
+敢讲	avcv
 捞钱	ozpd
 钙质	pdup
 牵出	igmj
@@ -70369,7 +70369,7 @@
 生铁	ispt
 千呼万唤	nkdk
 雄踞	piif
-憨态可掬	lieo
+憨态可掬	aieo
 男科	ccbl
 及时雨	fuxv
 康有为	bpoc
@@ -70638,7 +70638,7 @@
 带话	qgcw
 呛声	khjf
 辅路	xbik
-敢是	lvue
+敢是	avue
 刷怪	falt
 发傻	mtht
 后盖	udsh
@@ -74864,7 +74864,7 @@
 拜占庭	ofbt
 碾子	dfhi
 山根	usyp
-憨态	lvio
+憨态	avio
 约同	qajd
 连缀	xjqt
 玉体	rohy
@@ -77652,7 +77652,7 @@
 吉它	jkgw
 自立门户	vxtd
 工区	lgve
-不敢苟同	rlzj
+不敢苟同	razj
 备耕	jctv
 百业	djoy
 俾斯麦	hfjj
@@ -78750,7 +78750,7 @@
 无风不起浪	cqrm
 换汤不换药	omrz
 饱暖思淫欲	nucy
-敢怒而不敢言	lwkd
+敢怒而不敢言	awkd
 西门子	uthi
 机顶盒	ypzk
 中山大学	kuim
@@ -79882,7 +79882,7 @@
 土地公	eeni
 输入框	xvyv
 老版	rlju
-憨豆	lvgd
+憨豆	avgd
 报检	owyz
 相对湿度	ytmb
 不如人意	rwhw
@@ -80353,7 +80353,7 @@
 异邦	vzjx
 遣词造句	vcxe
 闲职	tyvk
-敢作敢当	lhli
+敢作敢当	ahai
 树胶	ytfm
 媚外	wfvf
 甘受	fgig
@@ -80537,7 +80537,7 @@
 金税	wjbn
 安信	gwhd
 艾格	zeyk
-敢作敢为	lhlo
+敢作敢为	ahao
 泥瓦匠	mtvs
 人来疯	hvnq
 悍匪	luvl
@@ -81843,7 +81843,7 @@
 以儆效尤	whmv
 春风满面	jqmx
 传经	hnqt
-憨直	lvpe
+憨直	avpe
 铁工	ptlg
 镶牙	pqry
 分色	nndb
@@ -91022,7 +91022,7 @@
 张皇失措	cjto
 怒冲冲	wggk
 感恩图报	maao
-愧不敢当	lrli
+愧不敢当	lrai
 打保票	ohul
 拉皮条	onjy
 损益表	omjq
@@ -92006,7 +92006,7 @@
 风雨不改	qxrb
 风雨凄凄	qxgg
 首尾相应	nfyb
-不敢越雷池一步	rlil
+不敢越雷池一步	rail
 乌油油	ammu
 乘其不备	bfrj
 余音缭绕	hwqq
@@ -92028,7 +92028,7 @@
 心广体胖	lbhf
 我醉欲眠	tbye
 放冷箭	mgjn
-敢做敢当	lhli
+敢做敢当	ahai
 明珠暗投	uruo
 氟利昂	ibuk
 水木清华	mymh
@@ -92249,7 +92249,7 @@
 减速带	gtqg
 别无长物	kcix
 勃拉姆斯	powf
-勇猛果敢	iacl
+勇猛果敢	iaca
 包打天下	aodd
 十三经	paqt
 占有量	fpud
@@ -92863,7 +92863,7 @@
 心病还须心药医	lnrv
 成双作对	mtht
 提示符	oljh
-敢做敢为	lhlo
+敢做敢为	ahao
 料峭春寒	fujg
 曲不离口	erlk
 有产阶级	pxxq
@@ -93240,7 +93240,7 @@
 取得了	vgel
 若不是	zrue
 管我	jgto
-不敢相信	rlyh
+不敢相信	rayh
 改变自己	blvb
 不可能的	reij
 我们有	thpf
@@ -93668,7 +93668,7 @@
 全面贯彻	hxng
 扶住	ogho
 小舟	ixqo
-我敢	tolv
+我敢	toav
 亿人	hkhr
 医疗机构	vnyy
 城镇化	ephw
@@ -95384,7 +95384,7 @@
 赵默笙	inji
 说啥	cnkh
 生活用品	imgk
-他敢	helv
+他敢	heav
 之志	xijl
 佛前	hxnf
 飘起	ulib
@@ -95839,7 +95839,7 @@
 所起	dsib
 找得	oagu
 打爆	opru
-只敢	knlv
+只敢	knav
 元婴	nrvv
 面红	xmql
 噬血	kjth
@@ -96257,7 +96257,7 @@
 皇兄	jrkr
 想喝	yeku
 瓶里	nzal
-敢让	lvcf
+敢让	avcf
 来气	vniq
 弄人	rzhr
 拖进	osvj
@@ -96685,7 +96685,7 @@
 正念	dlza
 越开	imdz
 极短	yfgg
-敢放	lvma
+敢放	avma
 惧意	lewl
 广大人民群众	bihh
 醒了过来	beov
@@ -96699,7 +96699,7 @@
 再带	rjqg
 堵死	ersw
 再经	rjqt
-敢爱	lvig
+敢爱	avig
 于己	dpbj
 四重	bsna
 易逝	uaos
@@ -96787,7 +96787,7 @@
 吐舌	kews
 不太清楚	rimy
 不过了	roel
-不敢想	rlye
+不敢想	raye
 你们说	hhcn
 嘿嘿一笑	kkdj
 理解为	rdoc
@@ -97049,7 +97049,7 @@
 虽好	kvwh
 能吗	ifks
 早来	upvn
-敢惹	lvzp
+敢惹	avzp
 很让	gpcf
 愚者	caru
 若被	zpqn
@@ -97680,7 +97680,7 @@
 找个地方	ohem
 新思想	xcye
 社会主义道路	lhoi
-不敢说	rlcn
+不敢说	racn
 没有收到	mpeg
 受法律保护	imgo
 得要命	guzk
@@ -97951,7 +97951,7 @@
 哪年	kasl
 被锁	qnpi
 真火	perh
-憨憨	lvlv
+憨憨	avav
 使尽	hdfo
 歌中	eekh
 摔成	olma
@@ -97998,7 +97998,7 @@
 国网	arje
 出拳	mjng
 花完	zhgn
-敢吃	lvks
+敢吃	avks
 天应	dibm
 哭成	pama
 好言	whdy
@@ -98012,7 +98012,7 @@
 樊胜美	yfsi
 很可能会	geih
 没那么容易	matu
-再也不敢	rerl
+再也不敢	rera
 出什么事	mhtd
 也不少	erit
 几年后	qsud
@@ -98887,7 +98887,7 @@
 真灵	pewr
 央财	jivp
 顺受	kqig
-她敢	welv
+她敢	weav
 虽非	kvlf
 不了多少	revi
 只是说	kucn
@@ -99155,7 +99155,7 @@
 生娃	iswe
 冬奥	jgtj
 破摔	dnol
-敢管	lvjg
+敢管	avjg
 赌了	vrel
 副部	dkxk
 字诀	ghcv
@@ -99420,7 +99420,7 @@
 滚远	mqnr
 外话	vfcw
 更见	dukj
-太敢	iolv
+太敢	ioav
 无脸	cufz
 瞒我	ezto
 能够理解	ierd
@@ -99682,7 +99682,7 @@
 开弓	dzcg
 反式	utxl
 被喷	qnkp
-敢恨	lvlp
+敢恨	avlp
 省部	itxk
 窄巷	aapn
 斩击	xsoj
@@ -99826,7 +99826,7 @@
 风眼	qeep
 落上	zmfd
 水经	msqt
-敢怒	lvwt
+敢怒	avwt
 传国	hnar
 内视	jhlk
 两袖	zlqu
@@ -101086,7 +101086,7 @@
 挺早	otup
 换台	odik
 外村	vfyo
-敢拼	lvon
+敢拼	avon
 某县	fyhi
 大盒	idzk
 折煞	osdw
@@ -101257,7 +101257,7 @@
 色图	dbaj
 建城	irem
 赢下	ivdf
-敢吗	lvks
+敢吗	avks
 振宇	osgd
 迟些	folw
 钦点	ppfk
@@ -102294,7 +102294,7 @@
 塞钱	gvpd
 丁薛祥	pzls
 卢本伟	fyhy
-不敢怠慢	rlil
+不敢怠慢	rail
 我习惯	tqln
 闭上双眼	tfte
 人民幸福	hvel
@@ -102469,7 +102469,7 @@
 鸡贼	tova
 两河	zlme
 最矮	uvgb
-敢喝	lvku
+敢喝	avku
 速报	tjow
 嘤咛	kvkg
 车距	xciv
@@ -104533,7 +104533,7 @@
 十几个人	pqhh
 这一块	ldev
 这条街	ljpe
-不敢想象	rlyf
+不敢想象	rayf
 任何情况下	hhld
 影响我们	ukth
 我同意	tjwl
@@ -106533,7 +106533,7 @@
 用我	gyto
 评课	czcc
 求他	dmhe
-敢在	lvph
+敢在	avph
 来救	vndm
 算在	jeph
 长啊	ickx
@@ -106828,7 +106828,7 @@
 爱吗	igks
 裂帛	snja
 咋的	kaja
-敢去	lvei
+敢去	avei
 窄的	aaja
 记了	cbel
 才看	ptoe
@@ -106854,7 +106854,7 @@
 来打	vnop
 牧野	xaao
 谈吧	crkb
-敢动	lvzc
+敢动	avzc
 谁手	cmos
 来买	vnao
 等吧	jekb
@@ -106863,7 +106863,7 @@
 端了	xuel
 调压	cjue
 木了	ymel
-再敢	rjlv
+再敢	rjav
 去读	eicp
 可作	ekha
 油了	muel
@@ -106872,8 +106872,8 @@
 在骂	phps
 也早	eyup
 你管	hdjg
-敢对	lvto
-就敢	qilv
+敢对	avto
+就敢	qiav
 长的	icja
 好地	whee
 你讲	hdcv
@@ -107027,7 +107027,7 @@
 用那	gyao
 直了	peel
 干吧	zgkb
-敢把	lvob
+敢把	avob
 十动然拒	pzfo
 组里	qhal
 来没	vnmr
@@ -107450,7 +107450,7 @@
 她讲	wecv
 变过	lroj
 夺魂	ioze
-敢用	lvgy
+敢用	avgy
 校时	ymuo
 人老	hrrl
 人跑	hria
@@ -108391,7 +108391,7 @@
 调下	cjdf
 抗美	olsi
 你错	hdpp
-敢给	lvqz
+敢给	avqz
 肘击	fooj
 胡宗南	ogpj
 应说	bmcn
@@ -108415,7 +108415,7 @@
 古韵	ogwa
 云鹤	zygm
 十句	psej
-敢向	lvtj
+敢向	avtj
 都喊	rukm
 细河	qcme
 太岳	iosd
@@ -108959,7 +108959,7 @@
 司前	adnf
 给买	qzao
 更苦	duzo
-敢买	lvao
+敢买	avao
 帮俺	jxhi
 猫哥	azee
 三刻	asxn
@@ -109006,7 +109006,7 @@
 崇义	ugoe
 她送	weni
 先跑	xria
-敢闯	lvts
+敢闯	avts
 那堆	aoem
 靓汤	jfma
 三木	asym
@@ -109110,7 +109110,7 @@
 整到	tagn
 轮着	xnse
 一飞	diff
-敢要	lvuw
+敢要	avuw
 那幢	aoax
 据她	ofwe
 换完	odgn
@@ -109317,7 +109317,7 @@
 张着	cise
 还爱	rjig
 直下	pedf
-敢死	lvsw
+敢死	avsw
 奶精	wdfj
 真猛	peah
 多可	vvek
@@ -109359,7 +109359,7 @@
 乱停	wahq
 给做	qzho
 刚回	jeak
-敢写	lvgn
+敢写	avgn
 有笑	pfjt
 叫起	keib
 三笑	asjt
@@ -109834,7 +109834,7 @@
 追女	ttwn
 郑少秋	nibr
 小格	ixyk
-敢跟	lvip
+敢跟	avip
 武宗	dxgl
 返台	utik
 又喝	tyku
@@ -110459,7 +110459,7 @@
 买张	aoci
 够厚	evuu
 计略	cpck
-敢看	lvoe
+敢看	avoe
 刷下	fadf
 刀魂	ndze
 我做	toho
@@ -110509,7 +110509,7 @@
 小喜	ixek
 八场	nbea
 望穿	nfar
-敢不	lvrb
+敢不	avrb
 连升	xjtz
 会冷	hzgz
 好短	whgg
@@ -110746,7 +110746,7 @@
 乱射	waxo
 北关	jwni
 怎了	alel
-敢接	lvox
+敢接	avox
 尼雅	fwrm
 外穿	vfar
 还忙	rjln
@@ -111344,7 +111344,7 @@
 矿大	dbid
 唱罢	kube
 牛舌	xnws
-敢抓	lvoi
+敢抓	avoi
 靠向	xktj
 回送	akni
 涂着	mhse
@@ -112179,7 +112179,7 @@
 愿以	ujwh
 换名	odvk
 雪融	xwuv
-敢走	lviz
+敢走	aviz
 段永基	oofn
 潞城	miem
 牙病	rynd
@@ -112883,7 +112883,7 @@
 行波	pxmn
 马坝	smev
 皮裙	npqw
-都敢	rulv
+都敢	ruav
 略增	cken
 关村	niyo
 周书	jeaa
@@ -114640,7 +114640,7 @@
 还他	rjhe
 防磁	xmdn
 农区	gqve
-敢上	lvfd
+敢上	avfd
 振安	osgw
 灭蝇	drvv
 增列	ensn
@@ -115805,7 +115805,7 @@
 汇进	mvvj
 马塞卢	sgff
 丛植	hhyp
-憨批	lvow
+憨批	avow
 画刷	dcfa
 舵工	qglg
 加丹加	cjck
@@ -115991,7 +115991,7 @@
 佯死	hssw
 瞄一瞄	edez
 缩醛	qgbz
-焉敢	dllv
+焉敢	dlav
 鲜菇	sszw
 风钩	qepa
 吸浆虫	kjvc
@@ -118275,7 +118275,7 @@
 毫无防备	qcxj
 七十年	cpsl
 中奖率	kjld
-敢为天下先	lodx
+敢为天下先	aodx
 旧时代	huhx
 一枚枚	dyya
 夜谈	lhcr
@@ -118607,7 +118607,7 @@
 感到不安	mgrg
 每个星期	shuf
 这一方面	ldmx
-不敢直视	rlpl
+不敢直视	rapl
 外太空	vial
 富强民主文明和谐	gcvc
 意义上说	wofc
@@ -119468,7 +119468,7 @@
 准确地说	gdec
 历史任务	ukhj
 很不好意思	grwc
-我敢说	tlcn
+我敢说	tacn
 时间点	utfk
 某些时候	fluh
 一九六	dlml
@@ -120115,7 +120115,7 @@
 点头同意	fojw
 花点时间	zfut
 许多国家	cvag
-谁也不敢	cerl
+谁也不敢	cera
 钢化膜	phfz
 集中于	mkdp
 一花一世界	dzdc
@@ -121942,7 +121942,7 @@
 很多国家	gvag
 忙什么	lhti
 我们也许	thec
-我可不敢	terl
+我可不敢	tera
 所以这样	dwly
 支撑不住	rorh
 无法容忍	cmgn
@@ -121973,7 +121973,7 @@
 除了这个	xelh
 完全相信	ghyh
 按照这个	oulh
-不敢相信自己的眼睛	rlye
+不敢相信自己的眼睛	raye
 怎样一个	aydh
 爽飞	ieff
 珍珍	rhrh
@@ -125306,7 +125306,7 @@
 那是为了	auoe
 一切力量	dccu
 一种关系	dbnt
-不敢这么	rllt
+不敢这么	ralt
 不理我了	rrte
 不计前嫌	rcnw
 从里到外	hagv
@@ -126356,7 +126356,7 @@
 家书抵万金	gaow
 颞叶	vtkp
 不作数	rhfw
-不敢不敢	rlrl
+不敢不敢	rara
 高帅富	qngd
 谦受益	cimh
 配送员	bnkv
@@ -126849,7 +126849,7 @@
 鼓舞士气	esji
 上一轮	fdxn
 不妨试试	rwcc
-不敢接受	rloi
+不敢接受	raoi
 不知廉耻	rgbv
 中国国籍	kaaj
 主席令	obzi
@@ -127005,7 +127005,7 @@
 问世间情为何物	tptx
 难以估量	twhu
 不在场证明	rpeu
-不敢恭维	rlpq
+不敢恭维	rapq
 不良少年	rois
 令人动容	zhzg
 八十多岁	npvu
@@ -128417,7 +128417,7 @@
 心理年龄	lrsd
 心痒难耐	lntk
 愿闻其详	utfc
-我不敢看	trlo
+我不敢看	trao
 手机没电了	oyme
 抢占先机	ofxy
 护花使者	ozhr
@@ -130187,7 +130187,7 @@
 一个都不能少	dhri
 上晚自习	fuvq
 不可分割的一部分	renn
-不敢想像	rlyh
+不敢想像	rayh
 中国香港	kabm
 为伊消得人憔悴	ohml
 也有今天	epzd
@@ -131908,7 +131908,7 @@
 掌灯时分	srun
 携手共进	oopv
 摔门而去	otke
-敢于直面惨淡的人生	ldpi
+敢于直面惨淡的人生	adpi
 文件管理	lhjr
 文学理论	lmrc
 斩于马下	xdsd
@@ -134819,7 +134819,7 @@
 恶名昭彰	dvuw
 情侣头像	lhoh
 感觉身体被掏空	mmxa
-憨豆先生	lgxi
+憨豆先生	agxi
 懒癌晚期	lnuf
 成名成家	mvmg
 我辈岂是蓬蒿人	tluh
@@ -135429,7 +135429,7 @@
 故意而为之	owkx
 救心丸	dllo
 救救孩子	ddhh
-敢问路在何方	ltim
+敢问路在何方	atim
 数字键盘	fgpq
 数据支撑	foro
 新白娘子传奇	xjwi
@@ -137090,7 +137090,7 @@
 不同凡俗	rjqh
 不成人之恶	rmhd
 不拉叽	rokq
-不敢当不敢当	rlii
+不敢当不敢当	raii
 个人想法	hhym
 中国共产主义青年团	kapa
 中新社	kxle
@@ -137205,7 +137205,7 @@
 捅破窗户纸	odaq
 掉转枪口	oxyk
 政策方针	djmp
-敢于正视淋漓的鲜血	lddt
+敢于正视淋漓的鲜血	addt
 数学运算	fmzj
 新世界的大门	xpct
 新余市	xhla

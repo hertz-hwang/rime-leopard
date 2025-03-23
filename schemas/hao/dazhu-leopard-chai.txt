@@ -503,7 +503,7 @@
 亻衣夕夕,HrQiVxVx	㒅
 亻亼口羽,HrZiKkWv	㒆
 亻𠂉卌一灬,HrStUxRh	㒇
-亻工耳攵,HrLgVeAp	㒈
+亻ヿ耳攵,HrAeVeAp	㒈
 亻木,HrSsYm	㒉
 亻刀丶止刀丶止,HrNdOdLi	㒊
 亻斤,HrFgNbSj	㒋
@@ -893,7 +893,7 @@
 口臣又貝,KkEcTyRb	㘋
 口虍豕刂,KkShHsNd	㘌
 口小隹戈,KkIxMiAg	㘍
-口门工耳攵,KkTmLgAp	㘎
+口门ヿ耳攵,KkTmAeAp	㘎
 䒑自辶口匕,NbViJcWb	㘏
 口馬六乂,KkNmMlEi	㘐
 口士示氺,KkJsLsMs	㘑
@@ -904,8 +904,8 @@
 口厂彡頁,KkXlUcWy	㘖
 口目目隹,KkEmEmMi	㘗
 言糹糹口,DyFsFsKk	㘘
-口{双口}厂工耳攵,KkPxUcAp	㘙
-口門工耳攵,KkSmLgAp	㘚
+口{双口}厂ヿ耳攵,KkPxUcAp	㘙
+口門ヿ耳攵,KkSmAeAp	㘚
 口亼口立⺝,KkZiKkDa	㘛
 隹言隹口,MiDyMiKk	㘜
 囗又,AkTy	㘝
@@ -1166,7 +1166,7 @@
 女敖,WnQa	㜜
 女亽ヿ酉,WnZiAeBy	㜝
 車斤女,QcSjWn	㜞
-女工耳攵,WnLgVeAp	㜟
+女ヿ耳攵,WnAeVeAp	㜟
 女山隹,WnUsMi	㜠
 女彳人人龰,WnGcHrLi	㜡
 女口丨女,WnNuKkWn	㜢
@@ -1792,7 +1792,7 @@
 忄田一,LxIvCtDi	㦎
 忄巳巳龷八,LxVsVsNb	㦏
 忄弋二貝,LxXiNeRb	㦐
-忄工耳攵,LxLgVeAp	㦑
+忄ヿ耳攵,LxAeVeAp	㦑
 忄罒言,LxBsDy	㦒
 忄犬灬,LxFyAqRh	㦓
 日月犬心,UrFyAqLx	㦔
@@ -3077,7 +3077,7 @@
 犭龶貝,AqJfRb	㺓
 犭爫丿ヿヿヿ灬,AqIaTpRh	㺔
 犭丿米田,AqTpFmCt	㺕
-犭工耳攵,AqLgVeAp	㺖
+犭ヿ耳攵,AqAeVeAp	㺖
 犭{双口}田十,AqPxCtPs	㺗
 犭隹灬,AqMiRh	㺘
 犭宀母贝,AqGgPmVb	㺙
@@ -3882,7 +3882,7 @@
 穴癶豆,AxNbGd	䆸
 穴立里,AxXlAl	䆹
 穴丿米田,AxTpFmCt	䆺
-穴工耳攵,AxLgVeAp	䆻
+穴ヿ耳攵,AxAeVeAp	䆻
 穴冎口辶,AxUgKkJc	䆼
 穴虍豕,AxShHs	䆽
 穴臣皿,AxEcJuHm	䆾
@@ -4070,7 +4070,7 @@
 ⺮衣{双口}井一,JuQiPxDi	䉴
 ⺮目大食,JuEmIdHs	䉵
 ⺮隹隹又,JuMiMiTy	䉶
-⺮{双口}厂工耳攵,JuPxUcAp	䉷
+⺮{双口}厂ヿ耳攵,JuPxUcAp	䉷
 ⺮言辛,JuSxDySx	䉸
 ⺮⻗口{双口}工人人,JuXvKkHr	䉹
 米工,FmLg	䉺
@@ -4845,7 +4845,7 @@
 龷一鹿,PnFyDiIl	䕻
 艹廿口夫隹,ZcPnKkMi	䕼
 艹⻊罒勹虫,ZcIuBsVc	䕽
-艹{双口}厂工耳攵,ZcPxUcAp	䕾
+艹{双口}厂ヿ耳攵,ZcPxUcAp	䕾
 艹廿口夫鳥,ZcPnKkGn	䕿
 艹{双口}頁{双口},ZcPxWyPx	䖀
 艹田⽱音心,ZcCtArLx	䖁
@@ -5976,7 +5976,7 @@
 阝爫丿ヿヿヿ灬,XeIaTpRh	䧦
 阝⺷丿扌,XeSyTpAg	䧧
 阝业䒑未,XeOyNbVw	䧨
-阝工耳攵,XeLgVeAp	䧩
+阝ヿ耳攵,XeAeVeAp	䧩
 阝广大人人女,XeBgIdWn	䧪
 阝豕,XeQgHs	䧫
 阝宀一貝,XeGgDiRb	䧬
@@ -6346,7 +6346,7 @@
 飠日小,HsUrQgIx	䭘
 飠旡旡曰,HsCuCuUr	䭙
 飠立里,HsXlAl	䭚
-飠工耳攵,HsLgVeAp	䭛
+飠ヿ耳攵,HsAeVeAp	䭛
 飠大丷日小,HsIdNbIx	䭜
 飠亼囗⺌曰,HsZiAkUr	䭝
 飠罒土,HsBsEtSy	䭞
@@ -6653,7 +6653,7 @@
 魚夫夫曰,AvGfGfUr	䲋
 魚士示欠,AvJsLsPq	䲌
 舟丷夫魚,QoNbGfAv	䲍
-魚工耳攵,AvLgVeAp	䲎
+魚ヿ耳攵,AvAeVeAp	䲎
 魚火火冖力,AvRhRhCl	䲏
 魚虍田力,AvShCtCl	䲐
 魚⺷丿扌,AvSyTpAg	䲑
@@ -6938,7 +6938,7 @@
 齒亼{双口}人人,DcZiPxHr	䶨
 齒齐,DcOq	䶩
 齒十戈隹,DcPsAgMi	䶪
-齒{双口}厂工耳攵,DcPxUcAp	䶫
+齒{双口}厂ヿ耳攵,DcPxUcAp	䶫
 干干立⺝,ZgZgXlDa	䶬
 龙王,VlRw	䶭
 龙一大,VlDiId	䶮
@@ -7787,7 +7787,7 @@
 亻𠂒儿𠂒儿貝,HrXnReRb	儹
 亻廿口夫隹,HrPnKkMi	儺
 亻黑,HrSsNh	儻
-亻{双口}厂工耳攵,HrPxUcAp	儼
+亻{双口}厂ヿ耳攵,HrPxUcAp	儼
 亻田田田糸,HrCtCtFs	儽
 亻一口丨冖{双口}井一𧘇,HrDiKkQi	儾
 儿,Re	儿
@@ -8417,7 +8417,7 @@
 厂尚攵,UcSsAp	厰
 厂亼{双口}人人,UcZiPxHr	厱
 厂艹田⽱,UcZcCtAr	厲
-ツ厂工耳攵,MsUcLgAp	厳
+ツ厂ヿ耳攵,MsUcAeAp	厳
 厂日月犬甲,UcUrFyHj	厴
 厂白小厂白小厂白小,UcJbIxIx	厵
 厶,Is	厶
@@ -9079,7 +9079,7 @@
 口旡旡曰,KkCuCuUr	噆
 口立里,KkXlAl	噇
 口小尤,KkQgIxVy	噈
-口工耳攵,KkLgVeAp	噉
+口ヿ耳攵,KkAeVeAp	噉
 口予丿冂八口,KkOvTpKk	噊
 口子攵,KkQgHiAp	噋
 口丷囗⺌曰,KkNbAkUr	噌
@@ -9186,7 +9186,7 @@
 口虍豆戈,KkShGdAg	嚱
 子{双口}田十,QgHiPxPs	嚲
 乂乂冖𠂒口,YjEiEiKk	嚳
-{双口}厂工耳攵,PxUcLgAp	嚴
+{双口}厂ヿ耳攵,PxUcAeAp	嚴
 口匕匕兔,KkAtWbAt	嚵
 口貝貝女,KkRbRbWn	嚶
 口衣{双口}井一,KkQiPxDi	嚷
@@ -9749,7 +9749,7 @@
 土衣{双口}井一,EtQiPxDi	壤
 土厂黑土,EtUcNhEt	壥
 土艹{双口}隹,EtZcPxMi	壦
-土{双口}厂工耳攵,EtPxUcAp	壧
+土{双口}厂ヿ耳攵,EtPxUcAp	壧
 田田田田土,CtCtCtEt	壨
 土⻗革月,EtXvRgFy	壩
 土言糹糹弓,EtDyFsCg	壪
@@ -10363,7 +10363,7 @@
 女麻非,WnAmLf	孊
 女一一鹿,WnDiFyIl	孋
 言糹糹女,DyFsFsWn	孌
-女{双口}厂工耳攵,WnPxUcAp	孍
+女{双口}厂ヿ耳攵,WnPxUcAp	孍
 女尸氺罒勹虫,WnFsMsVc	孎
 女艹門木囗丷,WnZcSmNb	孏
 子,Hi	子
@@ -11002,7 +11002,7 @@
 山匕匕兔,UsAtWbAt	巉
 山貝貝女,UsRbRbWn	巊
 山丿㠯止彐冖巾,UsTpTiAj	巋
-山ツ厂工耳攵,UsMsUcAp	巌
+山ツ厂ヿ耳攵,UsMsUcAp	巌
 山禾女鬼,UsBhWnEg	巍
 山一自止巳八夂,UsDiViJi	巎
 山艹{双口}隹,UsZcPxMi	巏
@@ -11012,8 +11012,8 @@
 山匕目㇗八頁,UsWbEmWy	巓
 山十目頁,UsPsEmWy	巔
 山䒑丿㠯辛女,UsNbTpWn	巕
-山{双口}厂工耳攵,UsPxUcAp	巖
-山{双口}厂工耳攵,UsPxUcAp	巗
+山{双口}厂ヿ耳攵,UsPxUcAp	巖
+山{双口}厂ヿ耳攵,UsPxUcAp	巗
 山虍鬲犬,UsShUgAq	巘
 山䒑自止巳八夂,UsNbViJi	巙
 山虍鬲犬,UsShUgAq	巚
@@ -11990,7 +11990,7 @@
 火火冖力心,RhRhGgLx	憥
 忄火火冖力,LxRhRhCl	憦
 忄立里,LxXlAl	憧
-工耳攵心,LgVeApLx	憨
+ヿ耳攵心,AeVeApLx	憨
 舌自心,WsViLx	憩
 忄門月,LxSmFy	憪
 忄門文,LxSmLw	憫
@@ -12740,7 +12740,7 @@
 扌土土土一儿,OsEtEtRe	撓
 扌日小,OsUrQgIx	撔
 扌斤,OsFgNbSj	撕
-扌工耳攵,OsLgVeAp	撖
+扌ヿ耳攵,OsAeVeAp	撖
 扌黄,OsEh	撗
 扌⺮亼口,OsJuZiKk	撘
 扌丷酉寸,OsNbByOc	撙
@@ -12944,7 +12944,7 @@
 𠕁攵,YcNbAp	敟
 又又又又攴,TyTyTyAp	敠
 日勹攴,UrAkFsAp	敡
-工耳攵,LgVeAp	敢
+ヿ耳攵,AeVeAp	敢
 龷⺝攵,PnFyAp	散
 田木攴,CtYmAp	敤
 火火攴,RhRhAp	敥
@@ -13340,7 +13340,7 @@
 言糹糹日,DyFsFsUr	曫
 日一一鹿,UrDiFyIl	曬
 日黑,UrSsNh	曭
-日{双口}厂工耳攵,UrPxUcAp	曮
+日{双口}厂ヿ耳攵,UrPxUcAp	曮
 日尸氺罒勹虫,UrFsMsVc	曯
 曰,Ur	曰
 甲,Hj	曱
@@ -14194,7 +14194,7 @@
 木⺮勹日,YmJuAkUr	橁
 木丷酉大,YmNbById	橂
 木癶弓殳,YmNbCgRs	橃
-木工耳攵,YmLgVeAp	橄
+木ヿ耳攵,YmAeVeAp	橄
 木𠂉卌一灬,YmStUxRh	橅
 𠂉卌一木木,StUxDiYm	橆
 木毛毛毛,YmQmQmQm	橇
@@ -14403,7 +14403,7 @@
 言糹糹木,DyFsFsYm	欒
 木黑,YmSsNh	欓
 木目目隹又,YmEmEmTy	欔
-木{双口}厂工耳攵,YmPxUcAp	欕
+木{双口}厂ヿ耳攵,YmPxUcAp	欕
 木臣罒見,YmEcJuDj	欖
 木艹門木囗丷,YmZcSmNb	欗
 木尸氺罒勹虫,YmFsMsVc	欘
@@ -15543,7 +15543,7 @@
 氵土土土一儿,MsEtEtRe	澆
 氵火火冖力,MsRhRhCl	澇
 氵⺝攵,MsZyFyAp	澈
-氵工耳攵,MsLgVeAp	澉
+氵ヿ耳攵,MsAeVeAp	澉
 氵丷酉寸,MsNbByOc	澊
 氵日小,MsUrQgIx	澋
 氵斤,MsFgNbSj	澌
@@ -16559,7 +16559,7 @@
 犭艹{双口}隹,AqZcPxMi	獾
 犭一自止巳八夂,AqDiViJi	獿
 犭罒糹隹,AqBsFsMi	玀
-犭{双口}厂工耳攵,AqPxUcAp	玁
+犭{双口}厂ヿ耳攵,AqPxUcAp	玁
 犭艹{双口}田十斤,AqZcPxSj	玂
 犭目目隹又,AqEmEmTy	玃
 亠幺,LtDy	玄
@@ -17630,7 +17630,7 @@
 目大丷日小,EmIdNbIx	瞭
 目⺝攵,EmZyFyAp	瞮
 目門月,EmSmFy	瞯
-目工耳攵,EmLgVeAp	瞰
+目ヿ耳攵,EmAeVeAp	瞰
 目龷艹,EmPnZcOs	瞱
 目予丿冂八口,EmOvTpKk	瞲
 目立里,EmXlAl	瞳
@@ -17671,7 +17671,7 @@
 目一一鹿,EmDiFyIl	矖
 十目一十目一十目一,PsEmDiDi	矗
 目黑,EmSsNh	矘
-目門工耳攵,EmSmLgAp	矙
+目門ヿ耳攵,EmSmAeAp	矙
 目尸氺罒勹虫,EmFsMsVc	矚
 丿予,TpOv	矛
 予丿亽ヿ,OvTpZiAe	矜
@@ -18023,7 +18023,7 @@
 石艹{双口}隹,DsZcPxMi	礶
 石艹臣皿,DsZcEcHm	礷
 石𠂒儿𠂒儿貝,DsXnReRb	礸
-石{双口}厂工耳攵,DsPxUcAp	礹
+石{双口}厂ヿ耳攵,DsPxUcAp	礹
 示,Ls	示
 示,Ls	礻
 礻乚,LsAe	礼
@@ -19882,7 +19882,7 @@
 耳宀心皿丁,VeGgLxPd	聹
 耳宀示,VeGgNbLs	聺
 氵車斤耳,MsQcSjVe	聻
-工耳十罒一心,LgVePsLx	聼
+ヿ耳十罒一心,AeVePsLx	聼
 耳王十罒一心,VeRwPsLx	聽
 立⺝耳,XlFyDaVe	聾
 聿,Iv	聿
@@ -22638,7 +22638,7 @@
 弓口虫言,CgKkVcDy	謽
 言曰罒又,DyUrBsTy	謾
 言十日十月,DyPsUrFy	謿
-言工耳攵,DyLgVeAp	譀
+言ヿ耳攵,DyAeVeAp	譀
 言龷艹,DyPnZcOs	譁
 言{双口}田十,DyPxCtPs	譂
 言虍业,DyShOy	譃
@@ -22731,7 +22731,7 @@
 言𠂒儿𠂒儿貝,DyXnReRb	讚
 言艹土八土丸云,DyZcEtZy	讛
 言黑,DySsNh	讜
-言{双口}厂工耳攵,DyPxUcAp	讝
+言{双口}厂ヿ耳攵,DyPxUcAp	讝
 言虍鬲犬,DyShUgAq	讞
 言士罒貝言,DyJsBsDy	讟
 言,Dy	讠
@@ -22897,7 +22897,7 @@
 谷爫幺大,YgIaDyId	豀
 宀丰口谷,GgJfKkYg	豁
 谷羽人彡,YgWvHrFs	豂
-谷工耳攵,YgLgVeAp	豃
+谷ヿ耳攵,YgAeVeAp	豃
 谷士罒貝,YgJsBsRb	豄
 谷立⺝,YgXlFyDa	豅
 豆,Gd	豆
@@ -24307,7 +24307,7 @@
 酉爫罒寸,ByIaBsOc	釂
 酉一一鹿,ByDiFyIl	釃
 酉麻非,ByAmLf	釄
-酉{双口}厂工耳攵,ByPxUcAp	釅
+酉{双口}厂ヿ耳攵,ByPxUcAp	釅
 丿米,TpFm	釆
 爫木,IaYm	采
 丿米尸㇏,TpFmFsOd	釈
@@ -25356,7 +25356,7 @@
 門土,SmSsEt	闛
 門幺幺丱,SmDyDyZc	關
 門貝攵,SmRbAp	闝
-門工耳攵,SmLgVeAp	闞
+門ヿ耳攵,SmAeVeAp	闞
 門亼口羽,SmZiKkWv	闟
 門虫貝,SmVcRb	闠
 門{双口}田十,SmPxCtPs	闡
@@ -25416,7 +25416,7 @@
 门十目,TmPsEmNb	阗
 门⺜羽,TmUrWv	阘
 门䒑欠,TmNbMcPq	阙
-门工耳攵,TmLgVeAp	阚
+门ヿ耳攵,TmAeVeAp	阚
 门罒一口𧘇,TmBsDiQi	阛
 丿㠯十,TpTiPs	阜
 阝,Xe	阝
@@ -26237,7 +26237,7 @@
 飠巳巳龷八,HsVsVsNb	饌
 飠羊䒑口,HsSyNbKk	饍
 飠壴口,HsEuKk	饎
-工耳攵食,LgVeApHs	饏
+ヿ耳攵食,AeVeApHs	饏
 飠士冖豆,HsJsGgGd	饐
 飠幺幺戊丶,HsDyDyOd	饑
 飠土土土一儿,HsEtEtRe	饒
@@ -26713,7 +26713,7 @@
 鬥龷八,SdPnNb	鬨
 鬥臼儿,SdYjRe	鬩
 鬥豆寸,SdGdOc	鬪
-鬥工耳攵,SdLgVeAp	鬫
+鬥ヿ耳攵,SdAeVeAp	鬫
 鬥斤,SdOySj	鬬
 鬥斤,SdOySj	鬭
 鬥龜,SdGg	鬮
@@ -27601,7 +27601,7 @@
 鹿一田一田一,IlDiCtDi	麠
 鹿齊,IlOq	麡
 鹿⻗口{双口},IlXvKkPx	麢
-鹿{双口}厂工耳攵,IlPxUcAp	麣
+鹿{双口}厂ヿ耳攵,IlPxUcAp	麣
 鹿鹿鹿,IlIlIl	麤
 龶夂,JfJi	麥
 龶夂,JfJi	麦
@@ -31154,7 +31154,7 @@
 厂黑,UcNh	𠪩
 厂丿人人人人土,UcTpHrEt	𠪪
 厂十目㇗攵,UcPsEmAp	𠪫
-厂工耳攴,UcLgVeAp	𠪬
+厂ヿ耳攴,UcAeVeAp	𠪬
 厂屮凵方攵,UcMcJkAp	𠪭
 厂辟,UcMp	𠪮
 厂罒土,UcBsEtSy	𠪯
@@ -31184,7 +31184,7 @@
 厂耳十罒一心,UcVePsLx	𠫇
 厂糹火火毛,UcFsRhQm	𠫈
 厂目㇗八頁,UcWbEmWy	𠫉
-厂工耳十罒一心,UcLgVeLx	𠫊
+厂ヿ耳十罒一心,UcAeVeLx	𠫊
 厂艹魚禾,UcZcAvBh	𠫋
 厂禾禾止⺿殳,UcBhBhRs	𠫌
 厂貝貝貝,UcRbRbRb	𠫍
@@ -34005,7 +34005,7 @@
 夕夕亠乡隹,VxVxLtMi	𡗌
 ⺶㇏丶艮夕夕,SyOdOdVx	𡗍
 夕夕車斤日,VxVxQcUr	𡗎
-{双口}厂工耳攵夕夕,PxUcLgVx	𡗏
+{双口}厂ヿ耳攵夕夕,PxUcAeVx	𡗏
 艹罒冖夕匚コ,ZcBsGgVk	𡗐
 夕夕衣{双口}井一,SsVxVxDi	𡗑
 ,VkEi	𡗒
@@ -35253,7 +35253,7 @@
 宀耳夕阝,GgVeVxXe	𡪬
 宀口衣口,GgKkQiKk	𡪭
 宀儿辰廾,GgReScZc	𡪮
-宀工耳攵,GgLgVeAp	𡪯
+宀ヿ耳攵,GgAeVeAp	𡪯
 宀老老,GgRlRl	𡪰
 宀犬犬犬,GgAqAqAq	𡪱
 宀虫貝,GgVcRb	𡪲
@@ -39034,7 +39034,7 @@
 忄木日木日曰,LxYmUrUr	𢥱
 日⺸攵心,QgUrSyLx	𢥲
 忄可可可可,LxEkEkEk	𢥳
-忄{双口}厂工耳攵,LxPxUcAp	𢥴
+忄{双口}厂ヿ耳攵,LxPxUcAp	𢥴
 忄隹隹又又,LxMiMiTy	𢥵
 忄田⽱鳥,LxCtArGn	𢥶
 自心匕矢龴疋,ViLxWbEs	𢥷
@@ -42627,7 +42627,7 @@
 木可可木,YmEkEkYm	𣝺
 木四日一勹,YmBsUrFs	𣝻
 木自冖八冂冂,YmViGgJk	𣝼
-木匚工耳攵,YmVkLgAp	𣝽
+木匚ヿ耳攵,YmVkAeAp	𣝽
 木艹㇏禾,YmZcJfBh	𣝾
 木木人人一冂巳,YmYmHrVs	𣝿
 木面且,YmXmHq	𣞀
@@ -48655,7 +48655,7 @@
 疒月丷夫糸,NbFyNbFs	𤼆
 疒龷侖犬,NbPnFlAq	𤼇
 疒冂一口,NbYjJkNb	𤼈
-疒工耳攵心,NbLgVeLx	𤼉
+疒ヿ耳攵心,NbAeVeLx	𤼉
 疒臼人貝,NbYjHrRb	𤼊
 疒人人戈非一,NbHrHrDi	𤼋
 疒羽田龷八,NbWvCtNb	𤼌
@@ -49761,7 +49761,7 @@
 目飠土土土一儿,EmHsEtRe	𥍘
 目一小目一小目一小,EmDiIxIx	𥍙
 目言糹糹攵,EmDyFsAp	𥍚
-目山{双口}厂工耳攵,EmUsPxAp	𥍛
+目山{双口}厂ヿ耳攵,EmUsPxAp	𥍛
 目⺿目目隹又,EmZcEmTy	𥍜
 予丿一,OvTpDi	𥍝
 予丿刀丶,OvTpNdOd	𥍞
@@ -53996,7 +53996,7 @@
 ⺶⺮戊一口,SyJuMuKk	𦏣
 ⺶可可可,SyEkEkEk	𦏤
 ⺶而{双口}大,SyKePxId	𦏥
-⺶山工耳攵,SyUsLgAp	𦏦
+⺶山ヿ耳攵,SyUsAeAp	𦏦
 日羊⺄凵,QgUrSyMc	𦏧
 ⺶衣罒水,SyQiBsMs	𦏨
 ⺶厂禾禾日,SyUcBhUr	𦏩
@@ -69242,7 +69242,7 @@
 魚亠囗口日一虫,AvLtAkVc	𩽱
 魚自穴方辶,AvViAxJc	𩽲
 魚黑,AvSsNh	𩽳
-魚{双口}厂工耳攵,AvPxUcAp	𩽴
+魚{双口}厂ヿ耳攵,AvPxUcAp	𩽴
 魚彑虫虫,AvWjHsVc	𩽵
 魚⺊𱕻日口凵亅,AvFbKlHs	𩽶
 魚革月,AvXvRgFy	𩽷
@@ -70143,7 +70143,7 @@
 ⻗口{双口},IlXvKkPx	𪋶
 米四夕㐄,IlFmBsLk	𪋷
 山隹冂八口,IlUsMiKk	𪋸
-鹿{双口}厂工耳攵,IlPxUcAp	𪋹
+鹿{双口}厂ヿ耳攵,IlPxUcAp	𪋹
 鹿鬼而,IlEgXvKe	𪋺
 鹿鹿鹿土,IlIlIlEt	𪋻
 ⿆匕,LmWb	𪋼
@@ -71425,7 +71425,7 @@
 厂⺈用刀牛,UcDdGyXn	𪠘
 厂立⺝尤,UcXlFyVy	𪠙
 厂禾禾田,UcBhBhCt	𪠚
-厂{双口}工耳攵,UcPxLgAp	𪠛
+厂{双口}ヿ耳攵,UcPxAeAp	𪠛
 {云变}⺇一巾,ZyQjDiAj	𪠜
 土厶尸匕,EtIsFsWb	𪠝
 夕夕土厶,VxVxEtIs	𪠞
@@ -73445,7 +73445,7 @@
 石耳又丿,DsVeTyMs	𪿼
 石丿未侖,DsTpVwFl	𪿽
 石艹丿米田,DsZcTpCt	𪿾
-石爫厂工耳攵,DsIaUcAp	𪿿
+石爫厂ヿ耳攵,DsIaUcAp	𪿿
 {云变}示,ZyLs	𫀀
 示女,LsWn	𫀁
 十人示,PsHrLs	𫀂
@@ -75325,7 +75325,7 @@
 口車云,KkQcZy	𫝚
 木目冂一口,YmEmJkKk	𫝛
 口九木隹,KkLjYmMi	𫝜
-𫩏厂工耳攵,UrUcLgAp	𫝝
+𫩏厂ヿ耳攵,UrUcAeAp	𫝝
 口⻗予丿夂力,KkXvOvCl	𫝞
 土亠里,EtLtAl	𫝟
 土覀且,EtUxHq	𫝠
@@ -81175,7 +81175,7 @@
 ⺊龱日曰,FbKlUrUr	𬸶
 ⺊龱㇏一大,FbKlJfId	𬸷
 ⺊龱户𠕁,FbKlDhYc	𬸸
-⺊龱工耳攵,FbKlLgAp	𬸹
+⺊龱ヿ耳攵,FbKlAeAp	𬸹
 鹿乙,IlKi	𬸺
 鹿斤,IlSj	𬸻
 尸匕鹿,FsWbIl	𬸼
@@ -82404,7 +82404,7 @@
 口匕示頁,KkWbLsWy	𭌑
 口匕禾頁,KkWbBhWy	𭌒
 {双口}田十戈口,PxCtPsKk	𭌓
-口丨人厂工耳攵,KkHsHrAp	𭌔
+口丨人厂ヿ耳攵,KkHsHrAp	𭌔
 口艹立里,KkZcXlAl	𭌕
 口艹木木木,KkZcYmYm	𭌖
 口虍予,KkShOyOv	𭌗
@@ -83935,7 +83935,7 @@
 罒一口𧘇攵,BsDiKkAp	𭤌
 一白冖一止攵,DiJbGgAp	𭤍
 未攵厂未丷,VwApUcNb	𭤎
-丨〢人厂工耳攵,HsNdHrAp	𭤏
+丨〢人厂ヿ耳攵,HsNdHrAp	𭤏
 虍魚攵,ShAvAp	𭤐
 衣{双口}井一攵,QiPxVjAp	𭤑
 目目隹攵,EmEmMiAp	𭤒
@@ -93379,7 +93379,7 @@
 讠羽白,CyWvJb	𰶃
 讠大耂日,CyIdRlUr	𰶄
 讠自冫十,CyViGbPs	𰶅
-讠工耳攵,CyLgVeAp	𰶆
+讠ヿ耳攵,CyAeVeAp	𰶆
 讠阝𠂇工⺝,CyXePsFy	𰶇
 讠尸氺牛,CyFsMsXn	𰶈
 讠亠囗口日一,CyLtAkDi	𰶉
@@ -93936,7 +93936,7 @@
 钅山隹,PjUsMi	𰾰
 钅丿囗夂心,PjTpAkLx	𰾱
 钅鹿,PjIl	𰾲
-钅工耳攵,PjLgVeAp	𰾳
+钅ヿ耳攵,PjAeVeAp	𰾳
 钅斤,PjFgNbSj	𰾴
 钅古辛,PjOgSx	𰾵
 钅一日心,PjDiUrLx	𰾶
@@ -98961,7 +98961,7 @@
 鱼日业,SvUrOy	𲍖
 鱼爫一𠂇又,SvIaDiTy	𲍗
 鱼十日十𠂉乙,SvPsUrKi	𲍘
-鱼工耳攵,SvLgVeAp	𲍙
+鱼ヿ耳攵,SvAeVeAp	𲍙
 鳥士,GnJs	𲍚
 一鳥,DiMcGn	𲍛
 鳥八厶,GnNbIs	𲍜

@@ -206,6 +206,9 @@
 𤣃	aaur
 𩽈	aaur
 𫭈	aaur
+㺖	aava
+䆻	aava
+䲎	aava
 𩼞	aavc
 𬵈	aavk
 𫙣	aavl
@@ -2206,9 +2209,6 @@
 𥧝	aluk
 𰩘	alur
 𰩚	aluw
-㺖	alva
-䆻	alva
-䲎	alva
 𠣽	alva
 𮡜	alva
 𬔔	alvl
@@ -3716,10 +3716,13 @@
 𬔍	auzc
 猂	auzg
 ⿂	av11
-鮿	avae
 㡇	avae
+鮿	avae
+饏	avah
 𩽲	avaj
 𩻨	avak
+憨	aval
+敢	avap
 𢼌	avap
 𣀯	avap
 𱷏	avap
@@ -3799,6 +3802,7 @@
 刨	avnd
 𰤡	avnp
 𰔥	avop
+聼	avpl
 𰅟	avpn
 𰙌	avpq
 𧙘	avqi
@@ -7730,6 +7734,7 @@
 询	caur
 𤱬	caur
 𥝂	cauw
+𰶆	cava
 𢐗	cavg
 𰵜	cavs
 𪽟	cavt
@@ -8545,7 +8550,6 @@
 谧	clth
 𣄷	clui
 𰐞	clui
-𰶆	clva
 𦖷	clve
 𪽌	clwt
 顋	clwy
@@ -9471,6 +9475,7 @@
 𬀦	daur
 𡹘	daus
 𱳳	daus
+譀	dava
 𫆈	dave
 𪲬	davn
 龅	davs
@@ -11916,7 +11921,6 @@
 𫌧	dluw
 𱟥	dluw
 𣝖	dluy
-譀	dlva
 𥕵	dlva
 䂵	dlvb
 𥕁	dlve
@@ -14366,6 +14370,7 @@
 𮫞	eaur
 𰉭	eaur
 坞	eaut
+瞰	eava
 𰳎	eavc
 𫆃	eave
 𡍐	eavf
@@ -16358,7 +16363,6 @@
 𥈘	elui
 𫮎	elui
 𥅭	elur
-瞰	elva
 𡑒	elva
 𱖭	elvb
 𧏆	elvc
@@ -17378,6 +17382,7 @@
 鼡	es11
 𤴓	es11
 𤴔	es11
+矙	esaa
 𰏮	esaf
 盩	esah
 𡎍	esaj
@@ -17492,7 +17497,6 @@
 𦣬	eskw
 𰙅	esky
 䲀	esla
-矙	esla
 𰏞	esla
 謺	esld
 墊	esle
@@ -20696,6 +20700,7 @@
 𬖸	fjzk
 𢧗	fkaa
 𢿑	fkaa
+𬸹	fkaa
 𧡹	fkad
 乩	fkae
 𠧟	fkae
@@ -20858,7 +20863,6 @@
 𡰪	fkks
 𫃜	fkks
 𪉿	fkla
-𬸹	fkla
 鹵	fklb
 卤	fklb
 ⻧	fklb
@@ -23955,6 +23959,7 @@
 𮀊	gaur
 𰃽	gaur
 𰄏	gaur
+𡪯	gava
 𬴭	gavc
 髱	gavs
 䳈	gavs
@@ -25656,7 +25661,6 @@
 𡩺	gluk
 崈	glus
 𢕱	glut
-𡪯	glva
 𢕭	glva
 𰷥	glvb
 𧐵	glvc
@@ -27637,6 +27641,8 @@
 𠆿	haur
 𠐔	haur
 𡵾	haus
+㒈	hava
+䭛	hava
 𧓀	havc
 𪜭	havk
 飽	havs
@@ -29467,8 +29473,6 @@
 𠌹	hlul
 𬾮	hlun
 𬲑	hlur
-㒈	hlva
-䭛	hlva
 𫢟	hlvb
 𡦍	hlve
 𠐣	hlvl
@@ -40147,6 +40151,7 @@
 𡁮	kauk
 咰	kaur
 嚕	kaur
+噉	kava
 𰈋	kavc
 𠰸	kavk
 𠽐	kavk
@@ -41799,7 +41804,6 @@
 𠻿	klui
 𡁜	kluk
 𭉰	kluk
-噉	klva
 唝	klvb
 𭉤	klvc
 𠻎	klve
@@ -42615,6 +42619,7 @@
 𫬡	krzi
 𭍗	krzn
 𧶊	krzy
+㘚	ksaa
 唴	ksae
 𢒯	ksaf
 嗴	ksai
@@ -42670,7 +42675,6 @@
 𠳇	kskk
 𠸸	kskk
 𠼋	kskk
-㘚	ksla
 𠿷	ksla
 𫩰	ksld
 嗟	kslg
@@ -42754,6 +42758,7 @@
 哶	ksyk
 㘓	ksyn
 𰈇	kszy
+㘎	ktaa
 𪢀	ktaa
 𰇣	ktag
 𱕠	ktal
@@ -42821,7 +42826,6 @@
 𱜗	ktkv
 𠹇	ktkw
 𡄀	ktkz
-㘎	ktla
 𭈥	ktla
 𠱤	ktlk
 唌	ktlr
@@ -43911,6 +43915,7 @@
 恂	laur
 𥙣	laur
 𱡣	laur
+㦑	lava
 𧊢	lavc
 𬵄	lavo
 怉	lavs
@@ -45502,7 +45507,6 @@
 𠢻	lluc
 𮂉	lluf
 𢍷	lluz
-㦑	llva
 𫺌	llvb
 𧭹	llwd
 斐	llwf
@@ -46862,10 +46866,7 @@
 𥚅	lvae
 𢟘	lvag
 𢧎	lvag
-饏	lvah
-憨	lval
 𢣔	lvam
-敢	lvap
 㱗	lvaq
 𫶔	lvau
 贡	lvbg
@@ -46940,7 +46941,6 @@
 恻	lvnd
 𮵛	lvnd
 𥜁	lvni
-聼	lvpl
 𠙑	lvqj
 𭝐	lvqo
 𮨊	lvqy
@@ -47694,6 +47694,7 @@
 𣄤	maur
 𪨯	maus
 𣹯	mauz
+澉	mava
 𧌱	mavc
 𣴵	mavd
 𭰊	mavk
@@ -49849,7 +49850,6 @@
 𣲺	mlty
 鿌	mlui
 𣾝	mlur
-澉	mlva
 𰜮	mlve
 𱨠	mlvf
 𱩚	mlvl
@@ -51264,6 +51264,7 @@
 洴	mtzz
 戊	mu11
 戉	mu11
+厳	muaa
 𡐀	muae
 𤁄	muae
 𣿌	muaj
@@ -51404,7 +51405,6 @@
 濄	mukj
 浯	mukk
 渦	mukk
-厳	mula
 𣵀	mulg
 涅	mulg
 𣷐	muli
@@ -52575,6 +52575,7 @@
 𭼛	navc
 𮡡	navk
 𱄔	navk
+𤼉	navl
 𭼚	navl
 𩥭	navm
 疱	navs
@@ -54367,7 +54368,6 @@
 𪒠	nlva
 𬹚	nlvc
 𭐱	nlvj
-𤼉	nlvl
 𩦆	nlvy
 疵	nlwb
 𤵒	nlwb
@@ -56464,6 +56464,7 @@
 㧦	oaur
 𰓆	oaus
 𢧬	oauu
+撖	oava
 𧉒	oavc
 𭡫	oavc
 𪾑	oavh
@@ -57850,7 +57851,6 @@
 𢱊	olui
 𢫾	olur
 𢬐	olur
-撖	olva
 贽	olvb
 𫼱	olvb
 蛰	olvc
@@ -59885,6 +59885,7 @@
 𫬢	pauk
 𫓲	paur
 𧟭	paux
+𰾳	pava
 贳	pavb
 勚	pavc
 蛓	pavc
@@ -60845,7 +60846,6 @@
 铋	pltp
 𰏍	plue
 𰏌	plux
-𰾳	plva
 𮸉	plvb
 𮰐	plww
 𠳵	plwx
@@ -61320,9 +61320,11 @@
 𨙴	ptxe
 镧	ptyn
 友	ptys
+嚴	puaa
 锡	puaf
 𢧉	puag
 㪚	puap
+𡗏	puav
 𰎕	pubb
 铠	pubj
 镘	pubt
@@ -61360,10 +61362,8 @@
 𰾜	puke
 铻	pukk
 衙	pukk
-嚴	pula
 𬭺	puln
 镖	puls
-𡗏	pulv
 𢕅	pumf
 䧿	pumi
 𰾰	pumi
@@ -69830,6 +69830,9 @@
 𠹉	saur
 𧈔	saur
 𧈘	saur
+闞	sava
+鬫	sava
+𲍙	sava
 𧑼	savc
 𣩕	savd
 𫊣	savh
@@ -71131,9 +71134,6 @@
 𣨹	sluf
 𡮢	slur
 𱝂	slut
-闞	slva
-鬫	slva
-𲍙	slva
 𮤜	slvt
 𡗂	slvv
 虔	slwh
@@ -72073,6 +72073,7 @@
 𱻊	styy
 𮹇	stze
 䦕	stzz
+𦏦	suaa
 齾	suad
 𪚊	suad
 𨴄	suae
@@ -72186,7 +72187,6 @@
 𤬋	sukk
 𨵧	sukk
 𬶘	sukw
-𦏦	sula
 𫠌	suln
 鳔	suls
 骠	suls
@@ -72756,6 +72756,7 @@
 闫	tasm
 𮕕	tatv
 𨤸	taua
+阚	tava
 𮔳	tavc
 𢍘	tavz
 𡠼	tawn
@@ -73506,7 +73507,6 @@
 𤭬	tltw
 𦈫	tlty
 𢿹	tlua
-阚	tlva
 𱞹	tlvv
 闵	tlwm
 𩒍	tlwy
@@ -74516,7 +74516,9 @@
 𣋼	uaur
 𪹕	uaur
 𣈖	uauy
+𠪬	uava
 𱆏	uavg
+𠫊	uavl
 𣊘	uavr
 𬵅	uavr
 骲	uavs
@@ -76646,13 +76648,11 @@
 𫘲	ulur
 𭧆	ulur
 𠪚	ulva
-𠪬	ulva
 𣊟	ulva
 𧠀	ulva
 𭗐	ulva
 𱛨	ulvb
 𭑤	ulvi
-𠫊	ulvl
 𭆐	ulvt
 𮪬	ulvw
 骴	ulwb
@@ -77109,6 +77109,7 @@
 显	uoyr
 𰎑	uoys
 𭗦	uozy
+𪠛	upaa
 𭗨	upad
 𰖀	upae
 𭅸	upah
@@ -77197,7 +77198,6 @@
 曣	upkr
 𭗬	upkr
 𨞋	upkx
-𪠛	upla
 䯝	uplf
 𩪏	uplh
 髓	uplj
@@ -77847,6 +77847,7 @@
 𢆟	utzz
 五	uu11
 𢃷	uuaa
+𫝝	uuaa
 㫣	uuae
 𠄲	uuae
 𪠄	uuae
@@ -78011,7 +78012,6 @@
 𠪀	uukp
 𧟹	uukp
 𡹻	uula
-𫝝	uula
 𫶝	uula
 𰎽	uula
 𡺒	uulg
@@ -82361,6 +82361,7 @@
 𠓑	waur
 𦐥	waur
 𨩵	waut
+㜟	wava
 𡟏	wavc
 𨫷	wavj
 𡛸	wavk
@@ -84344,7 +84345,6 @@
 𮢬	wluk
 𨬦	wluo
 𮡵	wlur
-㜟	wlva
 𨬒	wlva
 𫝪	wlvb
 𲇡	wlwf
@@ -87005,6 +87005,7 @@
 𮥄	xaur
 𰺆	xaur
 𭷯	xaux
+䧩	xava
 𲊄	xavk
 𰠶	xavo
 雹	xavs
@@ -88531,7 +88532,6 @@
 𤚒	xlui
 𩄭	xluk
 𪺬	xlur
-䧩	xlva
 𤛄	xlve
 𨻕	xlve
 𢨜	xlvv
@@ -90440,6 +90440,8 @@
 栒	yaur
 櫓	yaur
 櫓	yaur
+橄	yava
+豃	yava
 蚻	yavc
 𭫆	yavc
 𣒪	yavd
@@ -92169,8 +92171,6 @@
 𫩀	ylty
 榊	yluh
 𣑢	ylur
-橄	ylva
-豃	ylva
 𱣚	ylvb
 𪲢	ylvs
 𣐑	ylwb
@@ -93348,6 +93348,7 @@
 梣	yuza
 櫔	yuza
 桿	yuzg
+𣝽	yvaa
 㭯	yvae
 𣐝	yvaj
 𦥱	yvaj
@@ -93381,7 +93382,6 @@
 樞	yvkp
 檉	yvkr
 𣞥	yvkr
-𣝽	yvla
 榧	yvlf
 𧯇	yvlg
 𮀇	yvlg
