@@ -51,7 +51,7 @@ create_ramdisk() {
 }
 
 # 清理和准备目录
-rm -rf "${SCHEMAS}/"
+rm -rf "${SCHEMAS}/hao/build" "${SCHEMAS}/hao/releases"
 create_ramdisk
 mkdir -p "${SCHEMAS}/releases"
 
@@ -67,7 +67,7 @@ gen_schema() {
     log "开始生成方案: ${NAME}"
     
     local HAO="${RAMDISK}/${NAME}"
-    mkdir -p "${HAO}/lua/hao" "${HAO}/opencc" || error "无法创建必要目录"
+    mkdir -p "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/opencc" || error "无法创建必要目录"
     
     # 复制基础文件到内存
     log "复制基础文件到内存..."
@@ -76,8 +76,9 @@ gen_schema() {
     cp ../template/squirrel.yaml "${HAO}" || error "复制 squirrel 配置失败"
     cp ../template/weasel.yaml "${HAO}" || error "复制 weasel 配置失败"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao" || error "复制 Lua 脚本失败"
+    cp -r ../template/lua/ace/* "${HAO}/lua/ace" || error "复制 Lua 脚本失败"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc" || error "复制 OpenCC 配置失败"
-    cp ../template/leopard.*.yaml "${HAO}" || error "复制豹码配置失败"
+    cp ../template/leopard*.yaml "${HAO}" || error "复制豹码配置失败"
 
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then
@@ -149,7 +150,7 @@ gen_schema() {
     popd
     
     # 确保 leopard 配置文件存在
-    for f in "${HAO}"/leopard.*.yaml; do
+    for f in "${HAO}"/leopard*.yaml; do
         if [ ! -f "$f" ]; then
             error "缺少必要的leopard配置文件: $f"
         fi
