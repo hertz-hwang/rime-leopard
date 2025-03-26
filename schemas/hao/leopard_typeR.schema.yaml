@@ -1,0 +1,37 @@
+# Rime schema settings
+# encoding: utf-8
+
+__include: leopard.schema:/
+
+schema:
+  schema_id: leopard_typeR
+  name: 豹码·竞
+  version: "2025-03-26"
+  author:
+    - 發明人 荒
+    - rime schema by Q
+  description: |
+    豹码简繁通打
+
+__patch:
+  - switches/@6/reset: 0 # lazy_clock
+  - switches/@9/reset: 0 # lazy_clock
+
+speller:
+  auto_clear: max_length
+
+fixed:
+  enable_completion: false
+  preedit_format: []
+translator:
+  enable_sentence: false
+  enable_completion: false
+  max_phrase_length: 4
+  preedit_format: []
+
+menu:
+  page_size: 5
+
+style:
+  horizontal: false
+  inline_preedit: true
