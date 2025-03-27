@@ -481,7 +481,6 @@ Ug	
 Ul	卵
 Ur	⺜
 Ur	日
-Ur	曰
 Ur	𫩏
 Us	山
 Uu	五
@@ -491,6 +490,7 @@ Ux	西
 Ux	覀
 Ux	
 Uy	由
+Uy	曰
 Vb	贝
 Vc	虫
 Ve	耳

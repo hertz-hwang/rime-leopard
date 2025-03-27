@@ -8022,7 +8022,7 @@
 害羞	gjsa
 紧绷	ntqf
 澎湃	memo
-子曰	hiur
+子曰	hiuy
 腿上	fpfd
 列车	snxc
 不懈	rbld
@@ -9381,7 +9381,7 @@
 联想	vnye
 牌子	jjhi
 毁掉	ylof
-名曰	vkur
+名曰	vkuy
 喝着	kuse
 海格	msyk
 非常重要	lsnu
@@ -22500,7 +22500,7 @@
 别开	kcdz
 山外	usvf
 一二三	dnas
-故曰	oaur
+故曰	oauy
 中旬	khau
 漫游	mumm
 驿站	stxf
@@ -29618,7 +29618,7 @@
 踏过	imoj
 长街	icpe
 扁舟	dyqo
-佛曰	hxur
+佛曰	hxuy
 四个全面	bhhx
 又是什么	tuht
 路向	iktj
@@ -60251,7 +60251,7 @@
 以之	whxi
 长卷	icng
 肩扛	dfol
-或曰	akur
+或曰	akuy
 乙型	kidz
 离校	leym
 方脸	mffz
@@ -62834,7 +62834,7 @@
 这座	ljbh
 心中的	lkja
 承运	amzj
-答曰	jzur
+答曰	jzuy
 雾水	xjms
 默默无语	nncc
 商都	xjru
@@ -86683,7 +86683,7 @@
 呈示	krls
 是非功过	ullo
 吐蕊	kezl
-谚曰	cxur
+谚曰	cxuy
 男宾	ccgs
 河网	meje
 军港	gxmp
@@ -95772,7 +95772,7 @@
 没良心	molx
 大狗	idae
 专业技能	nooi
-笑曰	jtur
+笑曰	jtuy
 不化	rbhw
 三阶	asxh
 已完	bign
@@ -96611,7 +96611,7 @@
 定能够	giev
 绝对没有	qtmp
 这一条	ldjy
-诗曰	ceur
+诗曰	ceuy
 汉高祖	mqlh
 具足	eniu
 写个	gnhh
@@ -96854,7 +96854,7 @@
 悔意	lswl
 身正	xsdl
 分我	nnto
-对曰	tour
+对曰	touy
 很真	gppe
 孟尝	hhsz
 黑纸	nhqz
@@ -104952,7 +104952,7 @@
 瞬秒	eibi
 查词	yuca
 丰度	jfbp
-诏曰	cnur
+诏曰	cnuy
 操课	okcc
 焙烤	rxrr
 商计	xjcp
@@ -110281,7 +110281,7 @@
 伢子	hrhi
 多段	vvod
 寄至	gigi
-叹曰	ktur
+叹曰	ktuy
 净制	gdxa
 没赚	mrvn
 就无	qicu
@@ -112733,7 +112733,7 @@
 相山	yeus
 书山	aaus
 瓜州	sgkk
-又曰	tyur
+又曰	tyuy
 外沿	vfmq
 来问	vntk
 啃咬	klkm

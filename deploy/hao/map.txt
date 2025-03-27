@@ -217,12 +217,13 @@ Uc	{厂⺁}
 Ug	{骨⾻冎}
 Ug	鬲
 Ul	卵
-Ur	{日⺜曰𫩏}
+Ur	{日⺜𫩏}
 Us	山
 Uu	五
 Ux	{卌}
 Ux	{西襾覀}
 Uy	由
+Uy	曰
 Vb	贝
 Vc	虫
 Ve	耳

@@ -7157,7 +7157,6 @@ columns:
 蹶	iun	274
 踬	iup	109
 踲	iup	0
-書	iur	104
 氜	iur	0
 氙	ius	129
 赸	ius	104
@@ -7166,6 +7165,7 @@ columns:
 蹋	iuw	476
 氥	iux	0
 跴	iux	0
+書	iuy	104
 麜	iuy	0
 趕	iuz	104
 距	iv1	11956	iv1
@@ -10643,7 +10643,6 @@ columns:
 灝	muq	0
 沓	mur	444
 汨	mur	325
-汩	mur	215
 濐	mur	0
 汕	mus	397
 汳	mut	0
@@ -10659,6 +10658,7 @@ columns:
 滉	muw	104
 洒	mux	3043
 油	muy	15975
+汩	muy	215
 溧	muy	169
 涔	muz	261
 涆	muz	0
@@ -16483,7 +16483,6 @@ columns:
 崱	urn	0
 覊	urn	0
 曏	uro	104
-曰	urr	7278
 晱	urr	104
 日	urr	100	ur1
 嶗	urr	0
@@ -16591,7 +16590,6 @@ columns:
 覃	uup	280
 鷣	uup	0
 暻	uuq	0
-昌	uur	5423
 昍	uur	104
 焸	uur	0
 龧	uur	0
@@ -16613,6 +16611,7 @@ columns:
 崐	uuw	104
 崑	uuw	104
 晒	uux	1704
+昌	uuy	5423
 岫	uuy	222
 峀	uuy	0
 岸	uuz	14289
@@ -16736,6 +16735,7 @@ columns:
 嵖	uyu	104
 崠	uyu	0
 崬	uyu	0
+曰	uyy	7278
 由	uyy	100	uy1
 厯	uyy	0
 崊	uyy	0
