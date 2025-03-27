@@ -55,6 +55,7 @@ jobs:
           mkdir -p deploy/hao schemas/releases
           conda activate rime
           lua ./table/gen_freq.lua ./table/freq_simp.txt ./table/freq_simp.txt 9:1 > ./deploy/hao/freq.txt
+          lua ./table/gen_freq.lua ./table/freq_trad.txt ./table/freq_trad.txt 9:1 > ./deploy/hao/freq_tc.txt
           ./deploy/deploy_hao.sh && ./deploy/deploy_hao.sh
       
       - name: Release
