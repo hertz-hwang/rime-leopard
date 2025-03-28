@@ -9696,7 +9696,6 @@ encoder:
 䗴	vjtr	0.000001
 蝂	vju	0.000001
 匚	vkkk	0.000001
-匚	vkkk	0.000001
 𧊅	vkc	0.000001
 蠟	vke	0.000001
 蜎	vkf	0.000001
@@ -11257,6 +11256,8 @@ encoder:
 ㇟	aeee	0.000000
 ㇡	aeee	0.000000
 ㇢	aeee	0.000000
+㇤	aeee	0.000000
+㇥	aeee	0.000000
 乁	aeee	0.000000
 𠃊	aeee	0.000000
 𠃋	aeee	0.000000
@@ -16336,6 +16337,7 @@ encoder:
 𨠜	bnpy	0.000000
 秊	bnq	0.000000
 䄭	bnqh	0.000000
+秊	bnqh	0.000000
 秊	bnqh	0.000000
 𧚩	bnqi	0.000000
 𮖇	bnqi	0.000000
@@ -22116,6 +22118,7 @@ encoder:
 尶	dreh	0.000000
 ⺎	drei	0.000000
 兀	drei	0.000000
+兀	drei	0.000000
 𢌬	drei	0.000000
 𰏯	drey	0.000000
 𤮾	drf	0.000000
@@ -27191,6 +27194,7 @@ encoder:
 䀰	eyg	0.000000
 𪀣	eygn	0.000000
 﨏	eygt	0.000000
+﨏	eygt	0.000000
 𭫇	eyha	0.000000
 睞	eyhh	0.000000
 𩳳	eyhh	0.000000
@@ -29128,6 +29132,7 @@ encoder:
 𦢌	fjbr	0.000000
 絈	fjbs	0.000000
 胉	fjby	0.000000
+﨤	fjcj	0.000000
 﨤	fjcj	0.000000
 𨙄	fjcl	0.000000
 𫐮	fjcl	0.000000
@@ -34483,6 +34488,7 @@ encoder:
 裊	gqin	0.000000
 𬷐	gqin	0.000000
 𭿾	gqis	0.000000
+凉	gqix	0.000000
 凉	gqix	0.000000
 𭛵	gqix	0.000000
 髠	gqjb	0.000000
@@ -40970,6 +40976,7 @@ encoder:
 𧺻	ildy	0.000000
 𩗁	ildy	0.000000
 﨣	ildz	0.000000
+﨣	ildz	0.000000
 𧺯	ildz	0.000000
 䬜	ile	0.000000
 𮜐	ilea	0.000000
@@ -44060,6 +44067,7 @@ encoder:
 豰	jgdr	0.000000
 轂	jgdr	0.000000
 鷇	jgdr	0.000000
+嗀	jgdr	0.000000
 嗀	jgdr	0.000000
 穀	jgdr	0.000000
 𣪊	jgdr	0.000000
@@ -48360,6 +48368,7 @@ encoder:
 㗳	kjz	0.000000
 𪢑	kjzk	0.000000
 ⼝	kkkk	0.000000
+〇	kkkk	0.000000
 ㇣	kkkk	0.000000
 𠂎	kkkk	0.000000
 𨞑	kkba	0.000000
@@ -50188,6 +50197,7 @@ encoder:
 𣥃	laei	0.000000
 𱲶	laem	0.000000
 礼	laes	0.000000
+礼	laes	0.000000
 𬒰	laet	0.000000
 𢥼	laev	0.000000
 𢖪	laex	0.000000
@@ -51929,6 +51939,7 @@ encoder:
 𣱵	lmst	0.000000
 𢗷	lmsx	0.000000
 愯	lmt	0.000000
+﨎	lmty	0.000000
 﨎	lmty	0.000000
 𪯩	lmty	0.000000
 𬓏	lmty	0.000000
@@ -63059,6 +63070,7 @@ encoder:
 𭅺	opwj	0.000000
 郞	opxe	0.000000
 郎	opxe	0.000000
+郎	opxe	0.000000
 郞	opxe	0.000000
 𡏅	opxe	0.000000
 𫑱	opxf	0.000000
@@ -65914,6 +65926,7 @@ encoder:
 𰋁	qale	0.000000
 𧚬	qalg	0.000000
 𬜖	qalg	0.000000
+裏	qali	0.000000
 裏	qali	0.000000
 裡	qali	0.000000
 𣦔	qali	0.000000
@@ -80704,6 +80717,7 @@ encoder:
 𡻴	uxej	0.000000
 嵜	uxek	0.000000
 﨑	uxek	0.000000
+﨑	uxek	0.000000
 𡹣	uxek	0.000000
 邖	uxes	0.000000
 𨚹	uxex	0.000000
@@ -82137,6 +82151,7 @@ encoder:
 𮋰	virj	0.000000
 𮔖	virj	0.000000
 﨡	vis	0.000000
+﨡	visc	0.000000
 𧈥	visc	0.000000
 𫟉	vise	0.000000
 𠤵	visk	0.000000
@@ -82275,6 +82290,7 @@ encoder:
 䗗	vjzz	0.000000
 ⼕	vkkk	0.000000
 ⼖	vkkk	0.000000
+匸	vkkk	0.000000
 𠥓	vkkk	0.000000
 𧕂	vka	0.000000
 𦕊	vkae	0.000000
@@ -84713,6 +84729,7 @@ encoder:
 𡛫	wesn	0.000000
 𨯿	wesw	0.000000
 﨨	wesy	0.000000
+﨨	wesy	0.000000
 鏗	wet	0.000000
 𡠩	wete	0.000000
 釷	wetj	0.000000
@@ -86699,6 +86716,7 @@ encoder:
 𫖈	wrgv	0.000000
 𨬊	wrha	0.000000
 𭴁	wrhb	0.000000
+﨧	wrhi	0.000000
 﨧	wrhi	0.000000
 𫰪	wrhi	0.000000
 鈥	wrhj	0.000000
@@ -88985,6 +89003,7 @@ encoder:
 𮟠	xfvj	0.000000
 隣	xfvl	0.000000
 隣	xfvl	0.000000
+隣	xfvl	0.000000
 𨊌	xfvl	0.000000
 𨼺	xfvn	0.000000
 𭘐	xfvn	0.000000
@@ -89141,6 +89160,7 @@ encoder:
 隖	xgu	0.000000
 𩈹	xgum	0.000000
 𩈺	xgum	0.000000
+﨩	xgus	0.000000
 﨩	xgus	0.000000
 𨹕	xgv	0.000000
 𨼭	xgvv	0.000000
@@ -93105,6 +93125,7 @@ encoder:
 𱣖	ymnb	0.000000
 𣕝	ymne	0.000000
 﨔	ymno	0.000000
+﨔	ymno	0.000000
 𭫵	ymnv	0.000000
 𪳪	ymnw	0.000000
 𣐘	ympd	0.000000
@@ -93845,6 +93866,7 @@ encoder:
 𬄄	ytty	0.000000
 𮲮	ytty	0.000000
 𱣤	ytu	0.000000
+㍿	ytve	0.000000
 𮲷	ytve	0.000000
 𪴓	ytvm	0.000000
 𮧱	ytvw	0.000000
@@ -94579,6 +94601,7 @@ encoder:
 𭬝	yzhk	0.000000
 𣘻	yzhl	0.000000
 﨓	yzho	0.000000
+﨓	yzho	0.000000
 𬃵	yzhq	0.000000
 𣗎	yzhr	0.000000
 𣗪	yzhy	0.000000
@@ -95067,6 +95090,7 @@ encoder:
 𩴲	zbge	0.000000
 𱿋	zbgf	0.000000
 蘒	zbgg	0.000000
+蘒	zbgg	0.000000
 蘒	zbgg	0.000000
 𧀆	zbgg	0.000000
 𧄼	zbgg	0.000000
@@ -95913,6 +95937,7 @@ encoder:
 𧀠	zfue	0.000000
 𦼳	zfuf	0.000000
 藴	zfuh	0.000000
+﨟	zfun	0.000000
 﨟	zfun	0.000000
 𰖗	zfur	0.000000
 蘰	zfut	0.000000
@@ -99821,6 +99846,8 @@ encoder:
 ㇟	aeee
 ㇡	aeee
 ㇢	aeee
+㇤	aeee
+㇥	aeee
 乁	aeee
 𠃊	aeee
 𠃋	aeee
@@ -105335,6 +105362,7 @@ encoder:
 𨠜	bnpy
 秊	bnqh
 䄭	bnqh
+秊	bnqh
 秊	bnqh
 𧚩	bnqi
 𮖇	bnqi
@@ -111821,6 +111849,7 @@ encoder:
 兀	drei
 ⺎	drei
 兀	drei
+兀	drei
 𢌬	drei
 𰏯	drey
 𤮾	drfg
@@ -117452,6 +117481,7 @@ encoder:
 䀰	eygm
 𪀣	eygn
 﨏	eygt
+﨏	eygt
 𭫇	eyha
 睞	eyhh
 𩳳	eyhh
@@ -119576,6 +119606,7 @@ encoder:
 𦢌	fjbr
 絈	fjbs
 胉	fjby
+﨤	fjcj
 﨤	fjcj
 𨙄	fjcl
 𫐮	fjcl
@@ -125402,6 +125433,7 @@ encoder:
 𬷐	gqin
 𭿾	gqis
 凉	gqix
+凉	gqix
 凉	gqix
 𭛵	gqix
 髠	gqjb
@@ -132629,6 +132661,7 @@ encoder:
 𧺻	ildy
 𩗁	ildy
 﨣	ildz
+﨣	ildz
 𧺯	ildz
 䬜	ilea
 𮜐	ilea
@@ -135993,6 +136026,7 @@ encoder:
 豰	jgdr
 轂	jgdr
 鷇	jgdr
+嗀	jgdr
 嗀	jgdr
 穀	jgdr
 𣪊	jgdr
@@ -140741,6 +140775,7 @@ encoder:
 𪢑	kjzk
 口	kkkk
 ⼝	kkkk
+〇	kkkk
 ㇣	kkkk
 𠂎	kkkk
 𨞑	kkba
@@ -142839,6 +142874,7 @@ encoder:
 𱲶	laem
 礼	laes
 礼	laes
+礼	laes
 忸	laet
 𬒰	laet
 𢥼	laev
@@ -144746,6 +144782,7 @@ encoder:
 𣱵	lmst
 𢗷	lmsx
 愯	lmty
+﨎	lmty
 﨎	lmty
 𪯩	lmty
 𬓏	lmty
@@ -157462,6 +157499,7 @@ encoder:
 郎	opxe
 郞	opxe
 郎	opxe
+郎	opxe
 郞	opxe
 𡏅	opxe
 𫑱	opxf
@@ -160955,6 +160993,7 @@ encoder:
 𬜖	qalg
 裏	qali
 裡	qali
+裏	qali
 裏	qali
 裡	qali
 𣦔	qali
@@ -177634,6 +177673,7 @@ encoder:
 𡻴	uxej
 嵜	uxek
 﨑	uxek
+﨑	uxek
 𡹣	uxek
 邖	uxes
 𨚹	uxex
@@ -179235,6 +179275,7 @@ encoder:
 𮋰	virj
 𮔖	virj
 﨡	visc
+﨡	visc
 𧈥	visc
 𫟉	vise
 𠤵	visk
@@ -179395,9 +179436,9 @@ encoder:
 𦗧	vjzk
 䗗	vjzz
 匚	vkkk
-匚	vkkk
 ⼕	vkkk
 ⼖	vkkk
+匸	vkkk
 𠥓	vkkk
 𧕂	vkad
 𦕊	vkae
@@ -182093,6 +182134,7 @@ encoder:
 𨯿	wesw
 婞	wesy
 﨨	wesy
+﨨	wesy
 鏗	wete
 𡠩	wete
 釷	wetj
@@ -184266,6 +184308,7 @@ encoder:
 𫖈	wrgv
 𨬊	wrha
 𭴁	wrhb
+﨧	wrhi
 﨧	wrhi
 𫰪	wrhi
 灵	wrhj
@@ -186748,6 +186791,7 @@ encoder:
 辚	xfvl
 隣	xfvl
 隣	xfvl
+隣	xfvl
 𨊌	xfvl
 𨼺	xfvn
 𭘐	xfvn
@@ -186915,6 +186959,7 @@ encoder:
 隖	xgue
 𩈹	xgum
 𩈺	xgum
+﨩	xgus
 﨩	xgus
 𨹕	xgvs
 𨼭	xgvv
@@ -191366,6 +191411,7 @@ encoder:
 𣕝	ymne
 榉	ymno
 﨔	ymno
+﨔	ymno
 𭫵	ymnv
 𪳪	ymnw
 樑	ymny
@@ -192220,6 +192266,7 @@ encoder:
 𬄄	ytty
 𮲮	ytty
 𱣤	ytur
+㍿	ytve
 𮲷	ytve
 𪴓	ytvm
 株	ytvw
@@ -193055,6 +193102,7 @@ encoder:
 𭬝	yzhk
 𣘻	yzhl
 﨓	yzho
+﨓	yzho
 𬃵	yzhq
 𣗎	yzhr
 椛	yzhw
@@ -193605,6 +193653,7 @@ encoder:
 𩴲	zbge
 𱿋	zbgf
 蘒	zbgg
+蘒	zbgg
 蘒	zbgg
 𧀆	zbgg
 𧄼	zbgg
@@ -194539,6 +194588,7 @@ encoder:
 𧀠	zfue
 𦼳	zfuf
 藴	zfuh
+﨟	zfun
 﨟	zfun
 䓬	zfup
 𰖗	zfur

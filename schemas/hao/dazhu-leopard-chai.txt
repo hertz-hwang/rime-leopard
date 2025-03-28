@@ -327,6 +327,7 @@
 立⺝,XlFyDa	⿓
 ⿔,Gg	⿔
 侖口{双口},FlKkPx	⿕
+〇,Kk	〇
 一,Di	㇀
 ㇢,Ae	㇁
 レ,Ae	㇂
@@ -363,10 +364,13 @@
 ㄋ,Ae	㇡
 ㇢,Ae	㇢
 〇,Kk	㇣
+⺄,Ae	㇤
+ㄅ,Ae	㇥
 干丷戊乛,ZgNbMuAe	㍻
 日刀禾口,UrNdBhKk	㍼
 大一止,IdDiLi	㍽
 日月氵厶,UrFyMsIs	㍾
+木丿未人云弋工礻土,YmTpVwEt	㍿
 卝一,ZcDi	㐀
 一囗人,DiAkHr	㐁
 七七七,CqCqCq	㐂
@@ -8295,6 +8299,7 @@
 匚士罒貝,VkJsBsRb	匵
 匚艹隹臼,VkZcMiYj	匶
 匚目目隹,VkEmEmMi	匷
+匚,Vk	匸
 匚儿,VkRe	匹
 匚㐅,VkEi	区
 匚矢,VkGs	医

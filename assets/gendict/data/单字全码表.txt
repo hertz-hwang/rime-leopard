@@ -705,6 +705,8 @@
 ㇟	ae11
 ㇡	ae11
 ㇢	ae11
+㇤	ae11
+㇥	ae11
 乁	ae11
 𠃊	ae11
 𠃋	ae11
@@ -6219,6 +6221,7 @@
 𨠜	bnpy
 秊	bnqh
 䄭	bnqh
+秊	bnqh
 秊	bnqh
 𧚩	bnqi
 𮖇	bnqi
@@ -12705,6 +12708,7 @@
 兀	drei
 ⺎	drei
 兀	drei
+兀	drei
 𢌬	drei
 𰏯	drey
 𤮾	drfg
@@ -18336,6 +18340,7 @@
 䀰	eygm
 𪀣	eygn
 﨏	eygt
+﨏	eygt
 𭫇	eyha
 睞	eyhh
 𩳳	eyhh
@@ -20460,6 +20465,7 @@
 𦢌	fjbr
 絈	fjbs
 胉	fjby
+﨤	fjcj
 﨤	fjcj
 𨙄	fjcl
 𫐮	fjcl
@@ -26286,6 +26292,7 @@
 𬷐	gqin
 𭿾	gqis
 凉	gqix
+凉	gqix
 凉	gqix
 𭛵	gqix
 髠	gqjb
@@ -33513,6 +33520,7 @@
 𧺻	ildy
 𩗁	ildy
 﨣	ildz
+﨣	ildz
 𧺯	ildz
 䬜	ilea
 𮜐	ilea
@@ -36877,6 +36885,7 @@
 豰	jgdr
 轂	jgdr
 鷇	jgdr
+嗀	jgdr
 嗀	jgdr
 穀	jgdr
 𣪊	jgdr
@@ -41625,6 +41634,7 @@
 𪢑	kjzk
 口	kk11
 ⼝	kk11
+〇	kk11
 ㇣	kk11
 𠂎	kk11
 𨞑	kkba
@@ -43723,6 +43733,7 @@
 𱲶	laem
 礼	laes
 礼	laes
+礼	laes
 忸	laet
 𬒰	laet
 𢥼	laev
@@ -45630,6 +45641,7 @@
 𣱵	lmst
 𢗷	lmsx
 愯	lmty
+﨎	lmty
 﨎	lmty
 𪯩	lmty
 𬓏	lmty
@@ -58346,6 +58358,7 @@
 郎	opxe
 郞	opxe
 郎	opxe
+郎	opxe
 郞	opxe
 𡏅	opxe
 𫑱	opxf
@@ -61839,6 +61852,7 @@
 𬜖	qalg
 裏	qali
 裡	qali
+裏	qali
 裏	qali
 裡	qali
 𣦔	qali
@@ -78518,6 +78532,7 @@
 𡻴	uxej
 嵜	uxek
 﨑	uxek
+﨑	uxek
 𡹣	uxek
 邖	uxes
 𨚹	uxex
@@ -80119,6 +80134,7 @@
 𮋰	virj
 𮔖	virj
 﨡	visc
+﨡	visc
 𧈥	visc
 𫟉	vise
 𠤵	visk
@@ -80279,9 +80295,9 @@
 𦗧	vjzk
 䗗	vjzz
 匚	vk11
-匚	vk11
 ⼕	vk11
 ⼖	vk11
+匸	vk11
 𠥓	vk11
 𧕂	vkad
 𦕊	vkae
@@ -82977,6 +82993,7 @@
 𨯿	wesw
 婞	wesy
 﨨	wesy
+﨨	wesy
 鏗	wete
 𡠩	wete
 釷	wetj
@@ -85150,6 +85167,7 @@
 𫖈	wrgv
 𨬊	wrha
 𭴁	wrhb
+﨧	wrhi
 﨧	wrhi
 𫰪	wrhi
 灵	wrhj
@@ -87632,6 +87650,7 @@
 辚	xfvl
 隣	xfvl
 隣	xfvl
+隣	xfvl
 𨊌	xfvl
 𨼺	xfvn
 𭘐	xfvn
@@ -87799,6 +87818,7 @@
 隖	xgue
 𩈹	xgum
 𩈺	xgum
+﨩	xgus
 﨩	xgus
 𨹕	xgvs
 𨼭	xgvv
@@ -92250,6 +92270,7 @@
 𣕝	ymne
 榉	ymno
 﨔	ymno
+﨔	ymno
 𭫵	ymnv
 𪳪	ymnw
 樑	ymny
@@ -93104,6 +93125,7 @@
 𬄄	ytty
 𮲮	ytty
 𱣤	ytur
+㍿	ytve
 𮲷	ytve
 𪴓	ytvm
 株	ytvw
@@ -93939,6 +93961,7 @@
 𭬝	yzhk
 𣘻	yzhl
 﨓	yzho
+﨓	yzho
 𬃵	yzhq
 𣗎	yzhr
 椛	yzhw
@@ -94489,6 +94512,7 @@
 𩴲	zbge
 𱿋	zbgf
 蘒	zbgg
+蘒	zbgg
 蘒	zbgg
 𧀆	zbgg
 𧄼	zbgg
@@ -95423,6 +95447,7 @@
 𧀠	zfue
 𦼳	zfuf
 藴	zfuh
+﨟	zfun
 﨟	zfun
 䓬	zfup
 𰖗	zfur
