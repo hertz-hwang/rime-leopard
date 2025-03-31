@@ -14,6 +14,7 @@ schema:
     豹码简繁通打
 
 __patch:
+  - switches/@0/reset: 1    # GBK字集
   - switches/@6/reset: 0    # 注解
   - switches/@9/reset: 0    # lazy_clock
 
@@ -26,11 +27,17 @@ fixed:
 translator:
   enable_sentence: false
   enable_completion: false
+  enable_user_dict: false
   max_phrase_length: 4
   preedit_format: []
 
+history:
+  input: 'z'
+  size: 2
+  initial_quality: 0
+
 menu:
-  page_size: 5
+  page_size: 3
 
 style:
   horizontal: false

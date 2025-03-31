@@ -785,7 +785,7 @@
 古口匕,OgKkWb	㖛
 口匕,QgKkWb	㖜
 未口匕,VwKkWb	㖝
-{双口}冂人,PxJkHr	㖞
+口口冂人,KkKkJkHr	㖞
 口爫冖又,KkIaGgTy	㖟
 口大示,KkIdLs	㖠
 口亠亻,KkLtHrFy	㖡
@@ -8605,11 +8605,11 @@
 口氏丶,KkZsOd	呧
 ⺆土口,JkEtKk	周
 口示,KkLs	呩
-{双口}儿,PxRe	呪
+口口儿,KkKkRe	呪
 口⺊口,KkFbKk	呫
 口四,KkBs	呬
 口廿㇗,KkPnAe	呭
-{双口}八,PxNb	呮
+口口八,KkKkNb	呮
 口干丷,KkZgNb	呯
 止匕口,LiWbKk	呰
 口瓜,KkSg	呱
@@ -8621,7 +8621,7 @@
 口甲,KkHj	呷
 口不一,KkRbDi	呸
 口丿夫,KkTpGf	呹
-{双口}一ㄅ,PxDiAe	呺
+口口一ㄅ,KkKkDiAe	呺
 口日丨,KkUrHs	呻
 口丿丷𬺰,KkTpNbPs	呼
 亼口卩,ZiKkWj	命
@@ -8744,7 +8744,7 @@
 扌斤口,OsSjKk	哲
 口扌斤,KkOsSj	哳
 口丶艮,KkOdPg	哴
-{双口}力刂,PxClNd	哵
+口口力刂,KkKkClNd	哵
 口⺸,KkSy	哶
 口爫寸,KkIaOc	哷
 口爫女,KkIaWn	哸
@@ -8763,7 +8763,7 @@
 口亽ヿ口,KkZiAeKk	唅
 口厶八夂,KkIsNbJi	唆
 辰口,ScKk	唇
-{双口}巴,PxBb	唈
+口口巴,KkKkBb	唈
 口厶矢,KkIsGs	唉
 口大人人,KkIdHrHr	唊
 口人禾,KkHrBh	唋
@@ -9117,7 +9117,7 @@
 口艹田⽱,KkZcCtAr	噧
 {双口}犬{双口},PxAqPx	器
 王{双口}{双口},RwPxPx	噩
-{双口}{双口}木,PxPxYm	噪
+口口{双口}木,KkKkPxYm	噪
 口音心,KkWyLx	噫
 口⺮工人人,KkJuLgHr	噬
 口白方攵,KkJbMfAp	噭
@@ -31579,7 +31579,7 @@
 口犭⺋,KkAqWj	𠱍
 口勹一,KkAkFsDi	𠱎
 口一丸二,KkDiLoNe	𠱏
-{双口}ㄥ大,PxAeId	𠱐
+口口ㄥ大,KkKkAeId	𠱐
 口大口,KkIdKk	𠱑
 丿未口,TpVwKk	𠱒
 口⺈厂⺋,KkDdUcWj	𠱓
@@ -31629,7 +31629,7 @@
 口力力力,KkClClCl	𠱿
 一口口,DiKkEiKk	𠲀
 {双口},PxAg	𠲁
-{双口}大,PxId	𠲂
+口口大,KkKkId	𠲂
 口一卩,KkKkDiWj	𠲃
 口夕阝,KkVxXe	𠲄
 口⺈巴,KkDdBb	𠲅
@@ -31661,7 +31661,7 @@
 口亻牛,KkHrXn	𠲟
 口丩攵,KkEjAp	𠲠
 口女子,KkWnHi	𠲡
-{双口}巾,PxAj	𠲢
+口口巾,KkKkAj	𠲢
 口丿皿,KkTpHm	𠲣
 口氵女,KkMsWn	𠲤
 口礻乚,KkLsAe	𠲥
@@ -31742,8 +31742,8 @@
 口止夕,KkLiVx	𠳰
 口⺊龱,KkFbKl	𠳱
 口日一𬺰,KkUrDiPs	𠳲
-{双口}木,PxYm	𠳳
-{双口}丨女,PxHsWn	𠳴
+口口木,KkKkYm	𠳳
+口口丨女,KkKkHsWn	𠳴
 {双口}文,PxLw	𠳵
 口禾几,KkBhQj	𠳶
 口亻土厶,KkHrEtIs	𠳷
@@ -31765,7 +31765,7 @@
 口,KkSjNb	𠴇
 口宀𠂇厶,KkGgPsIs	𠴈
 口阝二儿,KkXeNeRe	𠴉
-{双口}丿口,PxTpKk	𠴊
+口口丿口,KkKkTpKk	𠴊
 口扌九力,KkOsLjCl	𠴋
 口彐火,KkWjRh	𠴌
 口刀丶心,KkNdOdLx	𠴍
@@ -31775,7 +31775,7 @@
 口艹女,KkZcWn	𠴑
 口亻亽龴,KkHrZiIs	𠴒
 口亻氏丶,KkHrZsOd	𠴓
-{双口}王,PxRw	𠴔
+口口王,KkKkRw	𠴔
 口女小丿,KkWnIxTp	𠴕
 口亻立,KkHrXl	𠴖
 口木土,KkYmEt	𠴗
@@ -31864,7 +31864,7 @@
 {双口}工乂,PxLgEi	𠵪
 口日卩,KkUrKkWj	𠵫
 口{双口}又,KkPxTy	𠵬
-{双口}乚⺝,PxAeFy	𠵭
+口口乚⺝,KkKkAeFy	𠵭
 口牜牛,KkXnXn	𠵮
 口舌刂,KkWsNd	𠵯
 口𠂉光,KkStWg	𠵰
@@ -31942,7 +31942,7 @@
 口谷卩,KkYgWj	𠶸
 口糹𠂉乙,KkFsStKi	𠶹
 口一冂人攴,KkDiJkAp	𠶺
-{双口}耳,PxVe	𠶻
+口口耳,KkKkVe	𠶻
 口目㇗巛,KkEmAeKc	𠶼
 口幺幺廾,KkDyDyZc	𠶽
 口⺿可,KkZcEk	𠶾
@@ -31982,7 +31982,7 @@
 石戈口,DsAgKk	𠷠
 一白亼口,DiJbZiKk	𠷡
 口𦈢亍,KkTfGc	𠷢
-{双口}虫,PxVc	𠷣
+口口虫,KkKkVc	𠷣
 口月勹巳,KkFyAkVs	𠷤
 口丁,KkQgPd	𠷥
 口儿力,KkAtReCl	𠷦
@@ -32101,7 +32101,7 @@
 口扌斤口,KkOsSjKk	𠹗
 口⺊目夂,KkFbEmJi	𠹘
 口丰刀手,KkJfNdOs	𠹙
-{双口}貝,PxRb	𠹚
+口口貝,KkKkRb	𠹚
 口山豆,KkUsGd	𠹛
 口{双口}止,KkPxLi	𠹜
 木木九口,YmYmLjKk	𠹝
@@ -32491,7 +32491,7 @@
 口木木疋,KkYmYmEs	𠿝
 口亠囗口日一,KkLtAkDi	𠿞
 乂乂冖口,YjEiEiKk	𠿟
-{双口}耳,PxVeAg	𠿠
+口口耳,KkKkVeAg	𠿠
 穴又又又又口,AxTyTyKk	𠿡
 口⺷氵欠,KkSyMsPq	𠿢
 口覀土欠,KkUxEtPq	𠿣
@@ -32572,7 +32572,7 @@
 口衣,KkGnQi	𡀮
 口亻一日寸,KkHrDiOc	𡀯
 口亻山隹,KkHrUsMi	𡀰
-{双口}一ㄅ虎,PxDiAeSh	𡀱
+口口一ㄅ虎,KkKkDiSh	𡀱
 口言亥,KkDyXh	𡀲
 口丿口羊,KkWjTpSy	𡀳
 口扌烏,KkOsGu	𡀴
@@ -32821,7 +32821,7 @@
 口言井王冂,KkDyVjJk	𡄧
 口山女束攵,KkUsWnAp	𡄨
 口豸艮心,KkHiPgLx	𡄩
-{双口}虫隹,PxVcMi	𡄪
+口口虫隹,KkKkVcMi	𡄪
 口言䒑,KkDyNbRh	𡄫
 亼口云鬼,ZiKkZyEg	𡄬
 口彳人人龰耳,KkGcHrVe	𡄭
@@ -43836,7 +43836,7 @@
 ⺊龱米毛,FbKlFmQm	𣰮
 魚日毛,AvUrQm	𣰯
 大一白一白毛,IdDiJbQm	𣰰
-{双口}田一毛一白,PxCtDiJb	𣰱
+𫩏田一毛一白,UrCtDiJb	𣰱
 予丿冂八口小丿毛,OvTpJkQm	𣰲
 毛⺮竜,QmJuVl	𣰳
 ⺮竜毛,JuVlQm	𣰴
@@ -51356,7 +51356,7 @@
 穴貝,AxRb	𥦎
 穴日大,AxUrId	𥦏
 穴工〢,AxLgNdVk	𥦐
-穴一人人十,AxDiHrPs	𥦑
+穴人人,AxOsHrHr	𥦑
 穴白匕,AxJbWb	𥦒
 穴丿米,AxTpFm	𥦓
 穴土欠,AxEtPq	𥦔
@@ -71359,7 +71359,7 @@
 方句八刀,MfEjNbNd	𪟑
 方𠂉矢刂,MfStGsNd	𪟒
 刀子日匕,NdHiUrWb	𪟓
-{双口}囗人人刂,PxAkHrNd	𪟔
+囚人{双口}刂,KlHrPxNd	𪟔
 ⺮刂,JuFgNbNd	𪟕
 ⺻灬皿刂,IvRhHmNd	𪟖
 力口丁,ClKkPd	𪟗
@@ -76091,7 +76091,7 @@
 口广,KkBg	𫩕
 口门,KkTm	𫩖
 口又丶,KkTyOd	𫩗
-{双口}丨,PxHs	𫩘
+口口丨,KkKkHs	𫩘
 {双口}乚,PxAe	𫩙
 口冂㐅,KkJkEi	𫩚
 口人人,KkHrHr	𫩛
@@ -76101,7 +76101,7 @@
 口工一ㄅ,KkLgDiAe	𫩟
 龸口,SsKk	𫩠
 口匕,KkJpWb	𫩡
-{双口},PxEi	𫩢
+口口,KkKkEi	𫩢
 冂大口,JkIdKk	𫩣
 口业,KkOy	𫩤
 口丨日,KkHsUr	𫩥
@@ -82308,7 +82308,7 @@
 艹土寸口,ZcEtOcWb	𭊬
 口艹大日乚,KkZcIdAe	𭊭
 口龷人人土,KkPnHrEt	𭊮
-{双口}{双口}二ㄅ,PxPxNeAe	𭊯
+口口{双口}二ㄅ,KkKkPxAe	𭊯
 口虍一ㄅ火,KkShDiRh	𭊰
 口⻊皮,KkIuNp	𭊱
 口{双口}丩丩丩,KkPxEjEj	𭊲

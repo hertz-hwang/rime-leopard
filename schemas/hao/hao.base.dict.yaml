@@ -8379,11 +8379,17 @@ columns:
 喡	kjw	0
 口	kk1	95430	kk1
 邕	kkb	336
+唈	kkb	0
 雝	kkb	0
 州	kkc	24721
+哵	kkc	0
+呺	kkd	0
 咯	kkg	1745
 嗈	kkk	104
 口	kkk	100	kk1
+呮	kkn	0
+噪	kkp	1247
+呪	kkr	0
 嘴	kl1	20571	kl1
 呌	kld	104
 呟	kld	0
@@ -12610,7 +12616,6 @@ columns:
 博	pb1	15234	pb1
 镯	pba	452
 钯	pbb	137
-唈	pbb	0
 锈	pbd	673
 镮	pbd	104
 铺	pbf	6263
@@ -12635,7 +12640,6 @@ columns:
 镪	pck	108
 锶	pcl	168
 协	pcn	22237
-哵	pcn	0
 單	pcp	104
 戰	pcp	104
 囅	pcp	0
@@ -12649,7 +12653,6 @@ columns:
 槩	pcy	0
 钱	pd1	35174	pd1
 钱	pda	100	pd1
-呺	pda	0
 铯	pdb	133
 丁	pdd	14856
 钙	pdf	942
@@ -12865,7 +12868,6 @@ columns:
 顎	pna	0
 鶚	pna	0
 共	pnb	100	pn1
-呮	pnb	0
 钊	pnd	652
 镃	pnd	104
 丳	pnd	0
@@ -12915,7 +12917,6 @@ columns:
 钹	ppt	209
 错	ppu	100	pp1
 铝	ppx	735
-噪	ppy	1247
 枽	ppy	0
 顶	pq1	16832	pq1
 镐	pqg	353
@@ -12934,7 +12935,6 @@ columns:
 钚	prb	278
 镏	prc	198
 铐	prd	454
-呪	pre	0
 铫	prg	106
 盔	prh	1218
 钬	prh	104

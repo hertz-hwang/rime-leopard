@@ -51,7 +51,7 @@ create_ramdisk() {
 }
 
 # 清理和准备目录
-rm -rf "${SCHEMAS}/hao/build" "${SCHEMAS}/hao/releases"
+rm -rf "${SCHEMAS}/hao/build" "${SCHEMAS}/releases"
 create_ramdisk
 mkdir -p "${SCHEMAS}/releases"
 
@@ -74,6 +74,8 @@ gen_schema() {
     cp ../table/*.txt "${HAO}" || error "复制码表文件失败"
     cp ../template/default.*.yaml ../template/hao.*.yaml ../template/hao.*.txt "${HAO}" || error "复制模板文件失败"
     cp ../template/squirrel.yaml "${HAO}" || error "复制 squirrel 配置失败"
+    cp ../template/stroke*.yaml "${HAO}" || error "复制 stroke 配置失败"
+    cp ../template/symbols.yaml "${HAO}" || error "复制 symbols 配置失败"
     cp ../template/weasel.yaml "${HAO}" || error "复制 weasel 配置失败"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao" || error "复制 Lua 脚本失败"
     cp -r ../template/lua/ace/* "${HAO}/lua/ace" || error "复制 Lua 脚本失败"
@@ -197,7 +199,7 @@ gen_schema() {
     mkdir -p "${SCHEMAS}/${NAME}"
     
     # 使用rsync进行选择性复制，排除指定文件
-    rsync -av --exclude='/gendict' \
+    rsync -a --exclude='/gendict' \
               --exclude='/simpcode' \
               --exclude='/多字词.txt' \
               --exclude='/char.txt' \

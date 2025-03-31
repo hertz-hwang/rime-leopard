@@ -8291,7 +8291,7 @@
 药师	zqnd
 擦肩	ogdf
 迷恋	fjlr
-噪声	ppjf
+噪声	kkjf
 活活	mwmw
 沐浴	mymy
 房价	dmhh
@@ -16496,7 +16496,7 @@
 主办	orcn
 瓶颈	nztl
 浓厚	mguu
-噪音	ppwy
+噪音	kkwy
 雕塑	jenm
 弹药	cnzq
 外加	vfck
@@ -29312,7 +29312,7 @@
 浪荡	mozm
 生分	isnn
 入赘	vuqv
-聒噪	vwpp
+聒噪	vwkk
 下部	dfxk
 紧追	nttt
 已晚	biua
@@ -58114,7 +58114,7 @@
 等价物	jhxa
 春雷	joxc
 缔约	qxqa
-鼓噪	erpp
+鼓噪	erkk
 难言之隐	tdxx
 打头阵	ooxx
 群起	wtib
@@ -61022,7 +61022,7 @@
 丁字	pdgh
 掉渣	ofmy
 幽绿	udqw
-降噪	xjpp
+降噪	xjkk
 异母	vzpm
 美团	siap
 单论	nccn
@@ -74523,7 +74523,7 @@
 数以百计	fwdc
 墨菲	nezl
 数以亿计	fwhc
-名声大噪	vjip
+名声大噪	vjik
 强买强卖	cacp
 未竟	vwwr
 充分条件	znjh
@@ -86027,7 +86027,7 @@
 私产	bixu
 边界线	ccqd
 临高	njqg
-名噪一时	vpdu
+名噪一时	vkdu
 思茅	clzo
 回炉	akrd
 花生酱	zijv
@@ -86555,7 +86555,7 @@
 实验性	gsli
 小商小贩	ixiv
 激光器	mwpa
-信噪比	hpww
+信噪比	hkww
 沙门氏菌	mtzz
 出航	mjql
 张伯伦	chhn
@@ -90509,7 +90509,7 @@
 博眼球	perd
 历久弥坚	udcn
 名列第一	vsjd
-声名大噪	jvip
+声名大噪	jvik
 大中型企业	ikdo
 娉婷袅娜	wwow
 小户人家	idhg
@@ -128667,7 +128667,7 @@
 三峡工程	aulb
 游戏币	mtta
 高分辨率	qnsl
-噪点	ppfk
+噪点	kkfk
 高圆圆	qaak
 文艺晚会	lzuh
 专题讲座	nucb
@@ -135807,7 +135807,7 @@
 生亦何欢	ilht
 电影和电视	uubl
 电池电量	umuu
-白噪音	jpwy
+白噪音	jkwy
 百分之多少	dnxi
 百团大战	daif
 百家讲坛	dgce
@@ -136320,7 +136320,7 @@
 中秋晚会	kbuh
 丸子头	lhoo
 为什么要还	ohtr
-主动降噪	ozxp
+主动降噪	ozxk
 乐哈哈	kkkz
 二十周年	npjs
 人民教育	hvrz

@@ -25,7 +25,7 @@ __patch:
 switches:
   - options: [ gb2312, gbk, big5, utf8 ]
     states: [ gb2312, GBK, BIG5, UTF-8 ]
-    reset: 1
+    reset: 3
   - name: ascii_mode
     reset: 0
     states: [ 中文, 西文 ]
@@ -241,9 +241,9 @@ stroke_reverse_lookup:
 
 punctuator:
   import_preset: symbols
-  symbols:
-    __append:
-      '/tab': '	' #制表符
+  #symbols:
+  #  __append:
+  #    '/tab': '	' #制表符
 
 # 本节点仅用于被 __patch 指令引用
 key_bindings:
@@ -267,6 +267,7 @@ key_binder:
 
 recognizer:
   patterns:
+    punct: '^/([0-9]0?|[A-Za-z]+)$'
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup:     "^`([a-z]+'?)*$"
     hao_pinyin_lookup: "^`P([a-z]+'?)*$"
