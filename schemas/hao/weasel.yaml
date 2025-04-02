@@ -16,13 +16,13 @@ style:
   mark_text: ""
   #vertical_text_left_to_right: true
   # #候选字体
-  font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  font_face: "Segoe UI Emoji, TumanPUA, 思源黑体, 遍黑体P1, 遍黑体P2"
   font_point: 16 #主字体字号
   # #滤镜内容字体
-  comment_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  comment_font_face: "Segoe UI Emoji, TumanPUA, 思源黑体, 遍黑体P1, 遍黑体P2"
   comment_font_point: 14 # 滤镜内容字号
   # #候选前编号标志字体
-  label_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  label_font_face: "Segoe UI Emoji, TumanPUA, 思源黑体, 遍黑体P1, 遍黑体P2"
   label_font_point: 14 #候选前编号标志字号
   ascii_tip_follow_cursor: true
   #horizontal: true
