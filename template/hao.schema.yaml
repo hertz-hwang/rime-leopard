@@ -256,8 +256,9 @@ punctuator:
     __append:
       '/tab': '	' #制表符
 
-key_binder:
-  bindings:
+# 本节点仅用于被 __patch 指令引用
+key_bindings:
+  __append:
     # 空格清空错码
     - { when: has_menu, accept: space, send: space }
     - { when: composing, accept: space, send: Escape }
@@ -275,6 +276,17 @@ key_binder:
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     # 中英文标点
     - {when: always, accept: Control+period, toggle: ascii_punct}
+
+key_binder:
+  bindings:
+    __patch:
+      - key_bindings:/emacs_editing?
+      - key_bindings:/move_by_word_with_tab?
+      - key_bindings:/paging_with_minus_equal?
+      - key_bindings:/numbered_mode_switch?
+      - key_bindings
+      # 方案用户可仿照 key_bindings 节点在 *.custom.yaml 文件中添加按键绑定：
+      - hao.custom:/key_bindings?
 
 recognizer:
   patterns:
