@@ -61,7 +61,7 @@ Ct	田
 Cu	无
 Cu	旡
 Cy	讠
-Da	
+Da	{龍右}
 Dc	歯
 Dc	齒
 Dc	齿
