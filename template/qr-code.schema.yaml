@@ -1,0 +1,65 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: qr-code
+  name: 二维码
+  version: "0.8"
+  author:
+    - 荒
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [ 中文, 西文 ]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+
+speller:
+  alphabet: "zyxwvutsrqponmlkjihgfedcba;,./"
+  delimiter: " '"
+
+translator:
+  dictionary: qr-code
+  enable_user_dict: false
+
+punctuator:
+  import_preset: symbols
+
+key_bindings:
+  __append:
+
+
+key_binder:
+  bindings:
+    __patch:
+      - key_bindings:/emacs_editing?
+      - key_bindings:/move_by_word_with_tab?
+      - key_bindings:/paging_with_minus_equal?
+      - key_bindings:/numbered_mode_switch?
+      - key_bindings
+      # 方案用户可仿照 key_bindings 节点在 *.custom.yaml 文件中添加按键绑定：
+      - secret.custom:/key_bindings?
+
+#recognizer:
+  #import_preset: default
+  #patterns:
+  #  punct: "^/([0-9]+[a-z]*|[a-z]+)$"

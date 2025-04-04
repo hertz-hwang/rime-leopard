@@ -1,6 +1,6 @@
 .DS_Store
 .vscode
-zh-hans-t-leopard-ugc.gram
+*.gram
 /assets/gendict/target
 /deploy/generator
 /schemas/hao/build
@@ -8,8 +8,7 @@ zh-hans-t-leopard-ugc.gram
 /schemas/hao/user.yaml
 /schemas/hao/sync
 /schemas/hao/hao.smart
-/schemas/hao/hao.smart.userdb
-/schemas/hao/hao.smart.userdb.bak
-/schemas/hao/leopard.userdb
+/schemas/hao/*.userdb
+/schemas/hao/*.userdb.bak
 /schemas/hao/weasel.custom.yaml
 /schemas/releases

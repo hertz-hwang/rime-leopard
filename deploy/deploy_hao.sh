@@ -81,6 +81,7 @@ gen_schema() {
     cp -r ../template/lua/ace/* "${HAO}/lua/ace" || error "复制 Lua 脚本失败"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp ../template/leopard*.yaml "${HAO}" || error "复制豹码配置失败"
+    cp ../template/qr*.yaml "${HAO}" || error "复制二维码配置失败"
 
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then

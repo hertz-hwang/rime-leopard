@@ -262,6 +262,7 @@ key_binder:
       - key_bindings:/paging_with_minus_equal?
       - key_bindings:/numbered_mode_switch?
       - key_bindings
+      - key_smart?
       # 方案用户可仿照 key_bindings 节点在 *.custom.yaml 文件中添加按键绑定：
       - leopard.custom:/key_bindings?
 
