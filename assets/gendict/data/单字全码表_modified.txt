@@ -4031,7 +4031,6 @@
 𩹎	awyv
 窨	awyx
 𱮑	awzc
-𢆂	awzn
 穴	axxx
 ⽳	axxx
 𠕉	axxx
@@ -4064,6 +4063,7 @@
 𱜼	axfd
 𢂀	axfj
 𢂍	axfj
+𢆂	axfn
 狒	axfq
 鮄	axfv
 𱶵	axfx

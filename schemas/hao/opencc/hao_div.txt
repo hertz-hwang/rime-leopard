@@ -37005,7 +37005,7 @@
 𢅿	(巾大廿木廿木,AjIdPnYm,,CJK-B)
 𢆀	(巾囗口貝人王,AjAkKkRw,yuán,CJK-B)
 𢆁	(巾⺮广䒑,AjJuBgRh,,CJK-B)
-𢆂	(巾音亼⺝刂刂,AjWyZiNd,néng,CJK-B)
+𢆂	(巾立月亼⺝刂刂,AjXlFyNd,néng,CJK-B)
 𢆃	(巾䒑自止巳八夂,AjNbViJi,,CJK-B)
 𢆄	(巾⺿門木囗丷,AjZcSmNb,,CJK-B)
 𢆅	(曰⺿日大巾,IvUyZcAj,,CJK-B)

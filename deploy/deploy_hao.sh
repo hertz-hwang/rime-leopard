@@ -220,6 +220,7 @@ gen_schema() {
     log "打包发布文件..."
     pushd "${SCHEMAS}" || error "无法切换到发布目录"
         tar -cf - "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
+        #tar -cf - --exclude="wanxiang-lts-zh-hans.gram" "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
     popd
 
     log "方案 ${NAME} 生成完成"
