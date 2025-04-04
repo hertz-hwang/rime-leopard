@@ -1,0 +1,18 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: leopard_sentence
+  name: 豹码整句·伪方案·勿用勿改
+  version: "2025.04.04"
+  author:
+    - 發明人 荒
+  description: |
+    伪方案，不能打字。
+    不要选我，不要修改本方案及配套词典。
+    仅用于辅助整句方案功能。
+
+translator:
+  dictionary: leopard_smart
+  prism: leopard_smart
+  enable_user_dict: false

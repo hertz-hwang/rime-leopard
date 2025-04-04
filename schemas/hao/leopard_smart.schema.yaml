@@ -6,18 +6,20 @@ __include: leopard.schema:/
 schema:
   schema_id: leopard_smart
   name: 豹码·智
-  version: "2025-004-04"
+  version: "2025-04-04"
   author:
     - 發明人 荒
   description: |
     豹码简繁通打
+  dependencies:
+    - leopard_sentence
 
 __patch:
   - switches/@0/reset: 0    # GB2312字集
   - switches/@6/reset: 0    # 注解
   - switches/@9/reset: 0    # lazy_clock
-  - engine/translators/@after 3: script_translator@smart
-
+  - engine/translators/@after 2: script_translator@smart
+  - engine/filters/@before 0: lua_filter@*leopard.mark_smart_filter
 speller:
   alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
   max_code_length: 5
@@ -31,8 +33,8 @@ fixed:
   initial_quality: 1000
   preedit_format: []
 translator:
-  dictionary: leopard_smart
-  prism: leopard_smart
+  dictionary: leopard
+  prism: leopard
   enable_sentence: true
   enable_user_dict: false
   enable_encoder: true
@@ -95,8 +97,8 @@ octagram:
       max_homographs: 5
     translator/+:
       contextual_suggestions: true
-      max_homophones: 2
-      max_homographs: 2
+      max_homophones: 7
+      max_homographs: 7
     smart/+:
       contextual_suggestions: true
       max_homophones: 1
