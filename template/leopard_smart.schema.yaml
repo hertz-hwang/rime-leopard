@@ -31,7 +31,8 @@ fixed:
   enable_sentence: false
   max_phrase_length: 4
   initial_quality: 1000
-  preedit_format: []
+  preedit_format:
+    - xform/_/ /
 translator:
   dictionary: leopard
   prism: leopard
@@ -40,7 +41,8 @@ translator:
   enable_encoder: true
   encode_commit_history: false
   max_phrase_length: 5
-  preedit_format: []
+  preedit_format:
+    - xform/_/ /
 smart:
   dictionary: leopard_smart
   prism: leopard_smart
@@ -49,6 +51,8 @@ smart:
   encode_commit_history: false
   max_phrase_length: 5
   initial_quality: 0
+  preedit_format:
+    - xform/_/ /
 
 history:
   input: 'z'

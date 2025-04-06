@@ -1,4 +1,4 @@
-#!/bin/zsh
+#!/bin/bash
 
 # 豹码输入法部署脚本
 # 用途：生成豹码输入法的 RIME 方案并打包发布
@@ -22,7 +22,7 @@ error() {
 OS_TYPE=$(uname)
 
 # 初始化环境变量和工作目录
-source ~/.zshrc
+#source ~/.zshrc
 
 cd "$(dirname $0)" || error "无法切换到脚本目录"
 WD="$(pwd)"
@@ -72,7 +72,7 @@ gen_schema() {
     # 复制基础文件到内存
     log "复制基础文件到内存..."
     cp ../table/*.txt "${HAO}" || error "复制码表文件失败"
-    cp ../template/default.*.yaml ../template/hao.*.yaml ../template/hao.*.txt "${HAO}" || error "复制模板文件失败"
+    cp ../template/default.yaml ../template/default.*.yaml ../template/hao.*.yaml ../template/hao.*.txt "${HAO}" || error "复制模板文件失败"
     cp ../template/squirrel.yaml "${HAO}" || error "复制 squirrel 配置失败"
     cp ../template/stroke*.yaml "${HAO}" || error "复制 stroke 配置失败"
     cp ../template/symbols.yaml "${HAO}" || error "复制 symbols 配置失败"
@@ -132,9 +132,9 @@ gen_schema() {
 
     # 生成简码
     log "生成简码..."
-    if ! conda activate rime; then
-        error "无法激活 conda 环境"
-    fi
+    #if ! conda activate rime; then
+    #    error "无法激活 conda 环境"
+    #fi
     
     # 创建简码生成所需的目录结构
     mkdir -p "${HAO}/simpcode"
@@ -220,7 +220,7 @@ gen_schema() {
     # 打包发布
     log "打包发布文件..."
     pushd "${SCHEMAS}" || error "无法切换到发布目录"
-        tar -cf - "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
+        tar -cf - --exclude="*userdb" --exclude="sync" "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
         #tar -cf - --exclude="wanxiang-lts-zh-hans.gram" "./${NAME}" | zstd -9 -T0 --long=31 -c > "releases/${NAME}-${REF_NAME}.tar.zst" || error "打包失败"
     popd
 
