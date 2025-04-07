@@ -2743,7 +2743,6 @@ columns:
 𤝩	aotp
 𩶒	aotp
 𰦎	aotp
-𤠘	aotv
 猱	aoty
 鰇	aoty
 𥨛	aouf
@@ -3433,6 +3432,7 @@ columns:
 𤜫	atod
 𤝢	atos
 鰠	atov
+𤠘	atov
 𠚣	atpe
 𢦍	atpg
 𩷃	atpi
@@ -16617,12 +16617,6 @@ columns:
 𥊦	eotc
 瞲	eotk
 䰬	eotk
-㻨	eoto
-𢯲	eoto
-𤦼	eoto
-𤧩	eoto
-𥄗	eoto
-𧒕	eotv
 𭏋	eoty
 𲎟	eoty
 𡐾	eoue
@@ -17507,10 +17501,16 @@ columns:
 䀑	etod
 𮰚	etod
 䁊	etoe
+㻨	etoo
+𢯲	etoo
+𤦼	etoo
+𤧩	etoo
+𥄗	etoo
 掔	etos
 𰉣	etos
 𱲮	etos
 𤭲	etot
+𧒕	etov
 𰉠	etpt
 𥃶	etqj
 賢	etrb
@@ -21580,7 +21580,6 @@ columns:
 𪛛	fods
 𦂰	fodt
 𦟺	foef
-肞	foei
 𦛥	foej
 𭕣	foej
 𦞖	foem
@@ -21684,12 +21683,9 @@ columns:
 𦠈	fotk
 𭕷	fotk
 𰯊	fotl
-𢮗	foto
-𮌋	foto
 䋒	fotp
 𣤅	fotp
 𲂢	fotr
-𦃐	fotv
 糅	foty
 䋴	foty
 腬	foty
@@ -22466,10 +22462,14 @@ columns:
 𡱫	ftoa
 𬚾	ftoa
 紁	ftod
+肞	ftod
 𡰫	ftod
+𢮗	ftoo
+𮌋	ftoo
 𢫪	ftos
 𬖘	ftos
 糔	ftov
+𦃐	ftov
 𦞣	ftov
 𮇚	ftpo
 𣣳	ftpq
@@ -25868,8 +25868,6 @@ columns:
 𩮼	gotc
 𩮤	goto
 髳	gotp
-𢔳	gotv
-𩮚	gotv
 䰆	goty
 𢔟	goty
 𪿌	goty
@@ -26453,6 +26451,8 @@ columns:
 𡬮	gtoc
 𰌵	gtod
 𪞝	gtos
+𢔳	gtov
+𩮚	gtov
 𭔡	gtpl
 𠘂	gtpq
 𩮶	gtpq
@@ -29619,7 +29619,6 @@ columns:
 𠍢	hotc
 僪	hotk
 偽	hotr
-𠋺	hotv
 㑱	hoty
 𠎗	hoty
 𣜈	hoty
@@ -30270,6 +30269,7 @@ columns:
 𫢘	htoc
 𮯷	htod
 𱎪	htos
+𠋺	htov
 𩚿	htpt
 𬽴	htpt
 㑛	htsr
@@ -38388,7 +38388,6 @@ columns:
 䉥	jotl
 箨	joto
 𤾡	jotr
-𥰱	jotv
 韖	joty
 𢾎	joua
 𢾜	joua
@@ -38928,6 +38927,7 @@ columns:
 𥫢	jtod
 𱁿	jtod
 𱱻	jtod
+𥰱	jtov
 㪏	jtpa
 𪏒	jtpe
 𭅤	jtpe
@@ -42000,7 +42000,6 @@ columns:
 𡃓	kotc
 𭊞	kotc
 噊	kotk
-𠹏	kotv
 㖻	koty
 𠵆	koud
 𠽮	koue
@@ -42615,6 +42614,7 @@ columns:
 𡃤	ktnr
 哦	ktoa
 𫩗	ktod
+𠹏	ktov
 嗽	ktpq
 𫫉	ktpq
 𭇲	ktpq
@@ -58001,10 +58001,8 @@ columns:
 𢪙	ooss
 𢹸	oost
 𢺑	oosy
-𢮞	ooti
 𢵮	ootk
 𰔐	ootr
-𢸪	ootv
 揉	ooty
 𢫇	ooty
 捣	oous
@@ -58799,15 +58797,15 @@ columns:
 𡬢	otoc
 𢫊	otoc
 扠	otod
-㕚	otod
 𰦍	otod
+𢮞	otoi
 𭿼	oton
 𥍫	otop
 择	otos
 𥍭	otos
 𥍤	otot
 搔	otov
-𧎮	otov
+𢸪	otov
 𬼀	otpd
 𥎚	otpe
 𥎊	otpj
@@ -73557,7 +73555,9 @@ columns:
 𭃆	tond
 𬸁	tonw
 鸡	tony
+㕚	tood
 𱉟	toon
+𧎮	toov
 阆	topg
 䶩	toqc
 𲊹	toqy
@@ -77055,7 +77055,6 @@ columns:
 𪰴	uodr
 𱛽	uodr
 𭨏	uoeh
-𡵌	uoei
 𮲛	uoei
 𰆕	uoei
 𡺗	uoem
@@ -77129,7 +77128,6 @@ columns:
 𬁒	uotc
 𭥮	uotc
 㬙	uotr
-𣉔	uotv
 𱢐	uovi
 顕	uowy
 𩓃	uowy
@@ -77821,7 +77819,9 @@ columns:
 𣇕	utoa
 𫵹	utoc
 𬀮	utoc
+𡵌	utod
 峄	utos
+𣉔	utov
 𩨶	utqi
 𣉶	utqm
 𪩟	utsk
@@ -80878,7 +80878,6 @@ columns:
 𧐙	votc
 𫊴	votc
 𧑐	votk
-𤧬	voto
 𦖯	votr
 蝚	voty
 𧏃	vovi
@@ -81324,6 +81323,7 @@ columns:
 蛾	vtoa
 𬚚	vtoa
 𦔹	vtod
+𤧬	vtoo
 𢮝	vtos
 𰲵	vtos
 𤭿	vtot
@@ -84856,7 +84856,6 @@ columns:
 𨥨	wotp
 𭑴	wotp
 媯	wotr
-𨪊	wotv
 媃	woty
 鍒	woty
 𪠬	woty
@@ -85689,6 +85688,7 @@ columns:
 拏	wtos
 拏	wtos
 𡠁	wtov
+𨪊	wtov
 𢂜	wtpa
 𨛦	wtpb
 尹	wtpj
@@ -95456,7 +95456,6 @@ columns:
 𦱅	zfog
 𫉱	zfop
 𫊖	zfoq
-𧂩	zfov
 𮐐	zfpg
 𫉖	zfph
 𧃚	zfpj
@@ -95481,6 +95480,7 @@ columns:
 𱿃	zftc
 𦾾	zftj
 𧄉	zftl
+𧂩	zftv
 𦹴	zftx
 𮎭	zfty
 𦺩	zfua
@@ -95695,7 +95695,6 @@ columns:
 𱽦	zgoc
 莺	zgon
 𰱖	zgor
-𦻩	zgov
 苧	zgpd
 𦬪	zgpd
 䓳	zgpg
@@ -95740,6 +95739,7 @@ columns:
 蘌	zgtl
 𱽮	zgtl
 𫦕	zgtn
+𦻩	zgtv
 𦾖	zgtv
 蓹	zgtw
 𦶀	zguc

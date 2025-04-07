@@ -717,7 +717,7 @@
 ⺷㇏厶,SyDdOdIs	㕗
 厶厶厶人小,IsIsIsIx	㕘
 厶八夂兔,IsNbJiAt	㕙
-丶又丶,OdTyOd	㕚
+又丶丶,TyOdOd	㕚
 又又,TyTy	㕛
 口丨又,KkHsTy	㕜
 古又,OgTy	㕝
@@ -3163,7 +3163,7 @@
 王丷酉,RwNbBy	㻥
 王田⽱,RwCtAr	㻦
 王夕㐄木,RwVxLkYm	㻧
-臣丶又丶王丶,EcOdTyOd	㻨
+臣又丶丶王丶,EcTyOdOd	㻨
 王䒑,RwNbWjRh	㻩
 王隹乃,RwMiDn	㻪
 王田艹,RwCtZcOs	㻫
@@ -19921,7 +19921,7 @@
 月工,FyLg	肛
 月彡,FyFs	肜
 月干,FyZg	肝
-月丶乂,FyOdEi	肞
+月又丶,FyTyOd	肞
 月二ㄅ,FyNeAe	肟
 月ㄋ,FyAeFs	肠
 月殳,FyRs	股
@@ -29189,7 +29189,7 @@
 亻屮一虫,HrMcDiVc	𠋷
 亻工口木,HrLgKkYm	𠋸
 亻勹日八一ㄅ,HrAkUrAe	𠋹
-亻丶又丶虫,HrOdTyVc	𠋺
+亻又丶丶虫,HrTyOdVc	𠋺
 亻田儿夂,HrCtReJi	𠋻
 亻囗五口,HrAkUuKk	𠋼
 亻大丿士廴,HrIdTpRy	𠋽
@@ -32090,7 +32090,7 @@
 口厶⺼匕,KkIsFyWb	𠹌
 口宀谷,KkGgYg	𠹍
 口亻木灬,KkHrYmRh	𠹎
-口丶又丶虫,KkOdTyVc	𠹏
+口又丶丶虫,KkTyOdVc	𠹏
 口人人土夂,KkHrHrJi	𠹐
 口自木,KkViYm	𠹑
 口宀口丿口,KkGgKkKk	𠹒
@@ -35927,7 +35927,7 @@
 山一儿,UsDiRe	𡵉
 山⺊乙,UsFbKi	𡵊
 山⺊乙,UsFbKi	𡵋
-山丶乂,UsOdEi	𡵌
+山又丶,UsTyOd	𡵌
 亡山,NwUs	𡵍
 丸山,LoUs	𡵎
 山幺,UsDy	𡵏
@@ -37950,7 +37950,7 @@
 彳目,GcFsEm	𢔰
 彳谷卩,GcYgWj	𢔱
 彳田,GcRmCt	𢔲
-彳丶又丶虫,GcOdTyVc	𢔳
+彳又丶丶虫,GcTyOdVc	𢔳
 彳五口阝,GcUuKkXe	𢔴
 彳井王冂,GcVjRwJk	𢔵
 彳見寸,GcDjOc	𢔶
@@ -39586,14 +39586,14 @@
 扌二勹方,OsNeAkMf	𢮔
 扌木,OsZyYm	𢮕
 扌囗禾,OsAkBh	𢮖
-月丶又丶手,FyOdTyOs	𢮗
+月又丶丶手,FyTyOdOs	𢮗
 宀夕⺋手,GgVxWjOs	𢮘
 扌丷夫力,OsNbGfCl	𢮙
 扌日一大,OsUrDiId	𢮚
 扌一日,OsDiUrIs	𢮛
 手,FgNbOs	𢮜
 耳又手,VeTyOs	𢮝
-扌丶又丶爪,OsOdTyIa	𢮞
+扌又丶丶爪,OsTyOdIa	𢮞
 巛冖手,LkKcGgOs	𢮟
 与与手,NyNyOs	𢮠
 扌人羊,OsHrSy	𢮡
@@ -39677,7 +39677,7 @@
 扌虍巾,OsShAj	𢯯
 扌彳聿,OsGcIv	𢯰
 扌穴人又,OsAxHrTy	𢯱
-目丶又丶手,EmOdTyOs	𢯲
+目又丶丶手,EmTyOdOs	𢯲
 扌爫巳又,OsIaVsTy	𢯳
 扌宀六乂,OsGgMlEi	𢯴
 扌目人,OsEmVkHr	𢯵
@@ -40245,7 +40245,7 @@
 土八土火火手,EtNbEtOs	𢸧
 扌一口丨冖石木,OsDiKkYm	𢸨
 扌至㇏禾,OsGiJfBh	𢸩
-扌丶又丶虫虫,OsOdTyVc	𢸪
+扌又丶丶虫虫,OsTyOdVc	𢸪
 扌魚禾,OsAvBh	𢸫
 扌衣罒水,OsQiBsMs	𢸬
 立⺝{龍右}手,XlFyDaOs	𢸭
@@ -41311,7 +41311,7 @@
 九巛日曰,LjKcUrUy	𣉑
 日冖隹,UrGgMi	𣉒
 日一幺幺土,UrDiDyEt	𣉓
-日丶又丶虫,UrOdTyVc	𣉔
+日又丶丶虫,UrTyOdVc	𣉔
 日又又又木,UrTyTyYm	𣉕
 日火一日一,UrRhDiDi	𣉖
 日冂大皿,UrJkIdHm	𣉗
@@ -46883,7 +46883,7 @@
 犭亠幺田,AqLtDyCt	𤠕
 犭高,AqQg	𤠖
 犭厶⺼匕,AqIsFyWb	𤠗
-犭丶又丶虫,AqOdTyVc	𤠘
+犭又丶丶虫,AqTyOdVc	𤠘
 犭可可,AqEkEk	𤠙
 犭龶糸,AqJfFs	𤠚
 犭艹亾,AqZcNwKc	𤠛
@@ -47303,7 +47303,7 @@
 王⺊貝,RwFbRb	𤦹
 王可,RwXlEk	𤦺
 王几,RwQgQj	𤦻
-目丶又丶王丶,EmOdTyOd	𤦼
+目又丶丶王丶,EmTyOdOd	𤦼
 王方𠂉子,RwMfStHi	𤦽
 王冫欠女,RwGbPqWn	𤦾
 王二欠口,RwNePqKk	𤦿
@@ -47348,10 +47348,10 @@
 王丶禾火,RwOdBhRh	𤧦
 千止殳王丶,NqLiRsOd	𤧧
 王阝,RwPgXe	𤧨
-目丶又丶王丶,EmOdTyOd	𤧩
+目又丶丶王丶,EmTyOdOd	𤧩
 王穴大丷,RwAxIdNb	𤧪
 王丿㠯辶,RwTpTiJc	𤧫
-耳丶又丶王丶,VeOdTyOd	𤧬
+耳又丶丶王丶,VeTyOdOd	𤧬
 王冖方,RwXlGgMf	𤧭
 王歹刂木,RwSdNdYm	𤧮
 王丿冂人八夂,RwTpJkJi	𤧯
@@ -49186,7 +49186,7 @@
 目一巾,EmDiAj	𥄔
 卝目,ZcEm	𥄕
 目十,EmNbPs	𥄖
-目丶又丶,EmOdTyOd	𥄗
+目又丶丶,EmTyOdOd	𥄗
 勹目,NbAkEm	𥄘
 目示,EmLs	𥄙
 目一小,EmDiIx	𥄚
@@ -52028,7 +52028,7 @@
 ⺮力口可,JuClKkEk	𥰮
 ⺮可可,JuEkEk	𥰯
 ⺮工人人廾,JuLgHrZc	𥰰
-⺮丶又丶虫,JuOdTyVc	𥰱
+⺮又丶丶虫,JuTyOdVc	𥰱
 ⺮火龷八,JuRhPnNb	𥰲
 ⺮車几丶,JuQcQjOd	𥰳
 ⺮勹日一ㄅ,JuAkUrAe	𥰴
@@ -53211,7 +53211,7 @@
 糹丿囗夂廾,FsTpAkZc	𦃍
 糹耳戈,FsVeAg	𦃎
 糹㐅木殳,FsEiYmRs	𦃏
-糹丶又丶虫,FsOdTyVc	𦃐
+糹又丶丶虫,FsTyOdVc	𦃐
 糹⺿亡,FsZcNwKc	𦃑
 糹屮凵示,FsMcJkLs	𦃒
 糹卯田,FsRmCt	𦃓
@@ -56820,7 +56820,7 @@
 ⺿勹缶,ZcAkTfZc	𦻦
 ⺿隹,ZcMiZc	𦻧
 ⺿犭瓜,ZcAqSgZc	𦻨
-⺿冖丶又丶虫,ZcGgOdVc	𦻩
+⺿冖又丶丶虫,ZcGgTyVc	𦻩
 ⺿韋廾,ZcJwZc	𦻪
 ⺿亠卝衣,ZcLtZcQi	𦻫
 ⺿方,ZcMfFgNb	𦻬
@@ -57268,7 +57268,7 @@
 艹木而而,ZcYmKeKe	𧂦
 ⺿氵曰罒方,ZcMsUyMf	𧂧
 艹冖巾足,ZcXlGgIu	𧂨
-⺿糹丶又丶虫,ZcFsOdVc	𧂩
+⺿糹又丶丶虫,ZcFsTyVc	𧂩
 艹冫戊二貝,ZcGbMuRb	𧂪
 艹魚勹巳,ZcAvAkVs	𧂫
 艹耒口貝,ZcTlKkRb	𧂬
@@ -58041,7 +58041,7 @@
 虫⺌貝,VcIxRb	𧎫
 牜土寸虫,XnEtOcVc	𧎬
 身寸虫,XsOcVc	𧎭
-丶又丶虫虫,OdTyOdVc	𧎮
+又丶丶虫虫,TyOdOdVc	𧎮
 虫缶人,VcTfVkHr	𧎯
 尸龷虫,FsPnQiVc	𧎰
 巴虫虫,BbVcVc	𧎱
@@ -58272,7 +58272,7 @@
 夂丰虫虫,JiJfVcVc	𧒒
 虫王王心丿,VcRwRwTp	𧒓
 一氺丶虫虫,DiMsOdVc	𧒔
-壴丶又丶虫,EuOdTyVc	𧒕
+壴又丶丶虫,EuTyOdVc	𧒕
 虫冎口辶,VcUgKkJc	𧒖
 虫土人人囗口,VcEtHrKk	𧒗
 虫鬲㐄,VcUgLk	𧒘
@@ -63893,7 +63893,7 @@
 金廿㇗冂土,WjPnAeEt	𨪇
 金鬼,WjEg	𨪈
 金⺁虎,WjUcSh	𨪉
-金丶又丶虫,WjOdTyVc	𨪊
+金又丶丶虫,WjTyOdVc	𨪊
 金井王冂,WjVjRwJk	𨪋
 金老日,WjRlUr	𨪌
 金氵小丿女,WjMsIxWn	𨪍
@@ -68261,7 +68261,7 @@
 髟立立,GbXlXl	𩮗
 髟高,GbQg	𩮘
 髟⺿耳,GbZcVe	𩮙
-髟丶又丶虫,GbOdTyVc	𩮚
+髟又丶丶虫,GbTyOdVc	𩮚
 髟十冖糸,GbPsGgFs	𩮛
 髟耳火目,GbVeRhEm	𩮜
 髟宀丰口,GbGgJfKk	𩮝
@@ -86496,7 +86496,7 @@
 ⺊一月,FbDiFy	𮌈
 夕冂人人,VxJkHrHr	𮌉
 冂人人也,JkHrHrEy	𮌊
-月丶又丶,FyOdTyOd	𮌋
+月又丶丶,FyTyOdOd	𮌋
 月业,FyOy	𮌌
 月勹亾,FyAkNw	𮌍
 勹亾月,AkNwFy	𮌎
