@@ -155,10 +155,11 @@ gen_schema() {
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
         #cat res.txt >> "${HAO}/leopard.dict.yaml"
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard.dict.yaml > temp && mv temp ${HAO}/leopard.dict.yaml
-        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/leopard.dict.yaml > temp && mv temp ${HAO}/leopard.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard_smart_temp.dict.yaml
+        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard.dict.yaml
     popd
-    
+
     # 确保 leopard 配置文件存在
     for f in "${HAO}"/leopard*.yaml; do
         if [ ! -f "$f" ]; then
@@ -213,9 +214,16 @@ gen_schema() {
               --exclude='/map.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
 
+    # 运行智能整句简码生成脚本
+    log "智能整句简码生成..."
+    pushd ${WD}/../assets/gen_smart || error "无法切换到 gen_smart 目录"
+        python gen_smart.py
+    popd
+
     # 删除临时目录
-    log "删除临时目录..."
+    log "删除临时目录、文件..."
     rm -rf "${RAMDISK}"
+    rm -rf "${SCHEMAS}/${NAME}/leopard_smart_temp.dict.yaml"
 
     # 打包发布
     log "打包发布文件..."

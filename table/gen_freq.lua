@@ -97,7 +97,7 @@ local function read_file(filename, weight)
         total = total + freq
         freq_set[char] = freq_set[char] + freq * weight
     end
-    comment(string.format("%s total freq: %.8f", filename, total))
+    comment(string.format("%s total freq: %.20f", filename, total))
 end
 
 read_file(simp_freq, simp_weight)
@@ -123,6 +123,6 @@ end)
 local total = 0
 for _, v in ipairs(char_list) do
     total = total + freq_set[v]
-    print(string.format("%s\t%.8f", v, freq_set[v]))
+    print(string.format("%s\t%.20f", v, freq_set[v]))
 end
-comment(string.format("total freq: %.8f", total))
+comment(string.format("total freq: %.20f", total))

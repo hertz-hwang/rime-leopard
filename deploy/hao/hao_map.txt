@@ -62,8 +62,6 @@ Cu	无
 Cu	旡
 Cy	讠
 Da	{龍右}
-Dc	歯
-Dc	齒
 Dc	齿
 Dd	⺈
 Dd	
@@ -197,7 +195,6 @@ If	風
 Il	鹿
 Il	
 Il	
-Io	{赢框}
 Iq	气
 Is	厶
 Is	生
@@ -264,7 +261,7 @@ Kl	龱
 Kl	𱕻
 Kl	
 Kl	
-Kl	囚
+Kq	囚
 Ld	斗
 Lf	非
 Lf	
@@ -350,6 +347,7 @@ Od	㇏
 Od	丶
 Od	乀
 Og	古
+Oi	{赢框}
 On	鸟
 On	
 Oq	斉
@@ -458,6 +456,8 @@ Sy	⺸
 Sy	羊
 Sy	芈
 Sy	
+Tc	歯
+Tc	齒
 Tf	缶
 Tf	𦈢
 Ti	㠯
@@ -479,6 +479,8 @@ Ug	骨
 Ug	鬲
 Ug	
 Ul	卵
+Um	黽
+Um	黾
 Ur	⺜
 Ur	日
 Ur	𫩏
@@ -504,8 +506,7 @@ Vk	𠥓
 Vl	龙
 Vl	竜
 Vm	民
-Vm	黽
-Vm	黾
+Vq	僉
 Vs	巳
 Vu	入
 Vw	未
