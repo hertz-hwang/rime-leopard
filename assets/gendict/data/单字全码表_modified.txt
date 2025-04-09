@@ -6564,6 +6564,7 @@
 𥢋	brct
 𨢇	brct
 𮊚	brct
+𨢂	brdf
 𧤙	brdg
 𫎚	brdh
 秠	brdi
@@ -6811,7 +6812,6 @@
 㡯	btcq
 䣨	btcq
 𢇠	btcq
-𨢂	btda
 𢁑	btdr
 𰥥	btem
 㢖	btfc
@@ -42199,6 +42199,7 @@
 𠺕	krct
 𠱼	krda
 𦫮	krdb
+𠸕	krdf
 呸	krdi
 䚋	krdj
 𠻷	krdj
@@ -42467,7 +42468,6 @@
 吒	ktcq
 𭆿	ktcq
 𤚧	ktcx
-𠸕	ktda
 𪢐	ktdv
 𫫦	ktdy
 𧡈	kted
@@ -45894,6 +45894,7 @@
 𥛽	lrct
 𥛅	lrct
 𪫭	lrda
+𱞳	lrdf
 怌	lrdi
 𥘻	lrdi
 𪨂	lrdi
@@ -46179,7 +46180,6 @@
 𪬀	ltca
 𢖲	ltcq
 𪌂	ltcq
-𱞳	ltda
 覕	ltdj
 𰑇	ltdp
 懶	ltdr
@@ -50348,6 +50348,7 @@
 溜	mrct
 洘	mrda
 㴴	mrda
+湚	mrdf
 𣳎	mrdi
 𭳻	mrdo
 𤃮	mrds
@@ -50825,7 +50826,6 @@
 𣲃	mtcq
 𤁧	mtcs
 𪶣	mtcz
-湚	mtda
 瀨	mtdr
 濑	mtdv
 𱦭	mtdz
@@ -65439,6 +65439,7 @@
 𤫟	rdfi
 𩎉	rdfi
 𬋞	rdfi
+胤	rdfy
 𭵅	rdfy
 䲹	rdgn
 𭺅	rdgs
@@ -65674,6 +65675,7 @@
 𭹌	reiw
 䝭	rejb
 爦	rejd
+𠃕	reje
 𩉿	rejg
 爁	rejh
 璼	rejh
@@ -65895,6 +65897,7 @@
 𪛑	rfrf
 𦷓	rfrh
 𮚄	rfsb
+𫃛	rfse
 𱮶	rfsw
 𪹳	rfta
 瑤	rftf
@@ -68822,6 +68825,7 @@
 瑘	rvxe
 鄊	rvxe
 𠁌	rvxe
+𠂗	rvxe
 𤥌	rvxe
 㶤	rvxh
 𪢞	rvxk
@@ -69252,6 +69256,7 @@
 𩋪	rzfw
 焴	rzfy
 㻙	rzfy
+𦚯	rzfy
 𧶰	rzfy
 𤨮	rzga
 𩌴	rzga
@@ -72636,7 +72641,6 @@
 𡢛	tddw
 𠬾	tddy
 𪙡	tdeu
-胤	tdfa
 𠮔	tdfi
 𨓔	tdfj
 𦙍	tdfy
@@ -72686,7 +72690,6 @@
 𫔷	tdzl
 𬮫	tdzp
 𮤴	tdzu
-𠃕	teae
 阒	teaq
 𢌦	tear
 㷩	tebr
@@ -72753,7 +72756,6 @@
 ⽸	tfff
 𦈢	tfff
 𠀭	tfae
-𫃛	tfae
 𭻻	tfae
 䎤	tfak
 𫾶	tfap
@@ -74056,7 +74058,6 @@
 罎	tuxz
 𦉡	tuxz
 𪙺	tuza
-𠂗	tvae
 𪘛	tvae
 㦵	tvag
 𢼲	tvap
@@ -74261,7 +74262,6 @@
 𡉼	tzet
 𨛘	tzex
 𦔞	tzfa
-𦚯	tzfa
 𱲟	tzfh
 𤭷	tzfn
 𰿵	tzfn
@@ -81028,6 +81028,7 @@
 𭅁	vrcl
 䗜	vrct
 𮔁	vrda
+𧎠	vrdf
 蚽	vrdi
 𱿯	vrdl
 匹	vrek
@@ -81256,7 +81257,6 @@
 𪘅	vtcc
 虴	vtcq
 𡯹	vtcq
-𧎠	vtda
 𧔸	vtdk
 𧩞	vtdy
 𪠱	vteo
@@ -92389,12 +92389,12 @@
 𣘸	ynhm
 𣏎	ynhs
 𣔾	ynhs
-𠔲	ynia
 𢃪	ynia
 𣙚	ynia
 𩸝	ynia
 栚	ynid
 𰉹	ynie
+𠔲	ynig
 𪁿	ynig
 㮸	ynij
 棇	ynil

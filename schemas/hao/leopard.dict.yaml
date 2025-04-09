@@ -3422,6 +3422,7 @@ encoder:
 绮	qie	0.000008
 褪	qpj	0.000008
 鳌	qs	0.000008
+胤	rdf	0.000008
 炳	rdjh	0.000008
 琦	rie	0.000008
 烘	rpn	0.000008
@@ -3429,7 +3430,6 @@ encoder:
 炊	rpq	0.000008
 睿	sye	0.000008
 敕	tap	0.000008
-胤	tdf	0.000008
 闸	thj	0.000008
 衅	thn	0.000008
 昊	udid	0.000008
@@ -16635,7 +16635,8 @@ encoder:
 𥢋	brct	0.000000
 𨢇	brct	0.000000
 𮊚	brct	0.000000
-𧤙	brd	0.000000
+𨢂	brd	0.000000
+𧤙	brdg	0.000000
 𫎚	brdh	0.000000
 秠	brdi	0.000000
 𨠙	brdi	0.000000
@@ -16867,8 +16868,7 @@ encoder:
 㡯	btcq	0.000000
 䣨	btcq	0.000000
 𢇠	btcq	0.000000
-𨢂	btd	0.000000
-𢁑	btdr	0.000000
+𢁑	btd	0.000000
 𰥥	bte	0.000000
 㢖	btf	0.000000
 𥢌	btfc	0.000000
@@ -48831,6 +48831,7 @@ encoder:
 𠺕	krct	0.000000
 𠱼	krda	0.000000
 𦫮	krdb	0.000000
+𠸕	krdf	0.000000
 䚋	krdj	0.000000
 𠻷	krdj	0.000000
 𠳟	krdr	0.000000
@@ -49062,8 +49063,7 @@ encoder:
 嚙	ktck	0.000000
 𭆿	ktcq	0.000000
 𤚧	ktcx	0.000000
-𠸕	ktd	0.000000
-𪢐	ktdv	0.000000
+𪢐	ktd	0.000000
 𫫦	ktdy	0.000000
 𧡈	kte	0.000000
 𠲍	ktei	0.000000
@@ -52139,6 +52139,7 @@ encoder:
 𥛽	lrct	0.000000
 𥛅	lrct	0.000000
 𪫭	lrd	0.000000
+𱞳	lrdf	0.000000
 怌	lrdi	0.000000
 𥘻	lrdi	0.000000
 𪨂	lrdi	0.000000
@@ -52387,7 +52388,6 @@ encoder:
 𪬀	ltc	0.000000
 𢖲	ltcq	0.000000
 𪌂	ltcq	0.000000
-𱞳	ltda	0.000000
 覕	ltdj	0.000000
 𰑇	ltdp	0.000000
 䄤	ltdr	0.000000
@@ -55983,6 +55983,7 @@ encoder:
 澑	mrct	0.000000
 溜	mrct	0.000000
 㴴	mrda	0.000000
+湚	mrdf	0.000000
 𣳎	mrdi	0.000000
 𭳻	mrdo	0.000000
 𤃮	mrds	0.000000
@@ -56400,7 +56401,6 @@ encoder:
 𣲃	mtcq	0.000000
 𤁧	mtcs	0.000000
 𪶣	mtcz	0.000000
-湚	mtda	0.000000
 瀨	mtdr	0.000000
 𱦭	mtdz	0.000000
 𱪚	mte	0.000000
@@ -69047,7 +69047,7 @@ encoder:
 𩍭	rdei	0.000000
 㷮	rdeu	0.000000
 𱯞	rdeu	0.000000
-𤓩	rdf	0.000000
+𤓩	rdfa	0.000000
 𮙴	rdfa	0.000000
 𰠠	rdfb	0.000000
 𮴠	rdff	0.000000
@@ -69254,6 +69254,7 @@ encoder:
 𭹌	reiw	0.000000
 䝭	rejb	0.000000
 爦	rejd	0.000000
+𠃕	reje	0.000000
 𩉿	rejg	0.000000
 爁	rejh	0.000000
 璼	rejh	0.000000
@@ -69451,6 +69452,7 @@ encoder:
 𪛑	rfrf	0.000000
 𦷓	rfrh	0.000000
 𮚄	rfs	0.000000
+𫃛	rfse	0.000000
 𱮶	rfsw	0.000000
 𪹳	rfta	0.000000
 琸	rfup	0.000000
@@ -72051,6 +72053,7 @@ encoder:
 瑘	rvxe	0.000000
 鄊	rvxe	0.000000
 𠁌	rvxe	0.000000
+𠂗	rvxe	0.000000
 𤥌	rvxe	0.000000
 㶤	rvxh	0.000000
 𪢞	rvxk	0.000000
@@ -72439,6 +72442,7 @@ encoder:
 𩋪	rzfw	0.000000
 焴	rzfy	0.000000
 㻙	rzfy	0.000000
+𦚯	rzfy	0.000000
 𧶰	rzfy	0.000000
 𤨮	rzga	0.000000
 𩌴	rzga	0.000000
@@ -75412,7 +75416,7 @@ encoder:
 𡢛	tddw	0.000000
 𠬾	tddy	0.000000
 𪙡	tde	0.000000
-𠮔	tdfi	0.000000
+𠮔	tdf	0.000000
 𨓔	tdfj	0.000000
 𦙍	tdfy	0.000000
 𬨻	tdh	0.000000
@@ -75454,7 +75458,6 @@ encoder:
 𫔷	tdzl	0.000000
 𬮫	tdzp	0.000000
 𮤴	tdzu	0.000000
-𠃕	teae	0.000000
 𢌦	tear	0.000000
 㷩	teb	0.000000
 𠡍	tec	0.000000
@@ -75514,7 +75517,6 @@ encoder:
 ⽸	tfff	0.000000
 𦈢	tfff	0.000000
 𠀭	tfa	0.000000
-𫃛	tfae	0.000000
 𭻻	tfae	0.000000
 䎤	tfak	0.000000
 𫾶	tfap	0.000000
@@ -76681,8 +76683,7 @@ encoder:
 罎	tuxz	0.000000
 𦉡	tuxz	0.000000
 𪙺	tuz	0.000000
-𠂗	tva	0.000000
-𪘛	tvae	0.000000
+𪘛	tva	0.000000
 㦵	tvag	0.000000
 𢼲	tvap	0.000000
 𫾭	tvap	0.000000
@@ -76863,7 +76864,6 @@ encoder:
 𡉼	tzet	0.000000
 𨛘	tzex	0.000000
 𦔞	tzf	0.000000
-𦚯	tzfa	0.000000
 𱲟	tzfh	0.000000
 𤭷	tzfn	0.000000
 𰿵	tzfn	0.000000
@@ -82941,6 +82941,7 @@ encoder:
 𭅁	vrcl	0.000000
 䗜	vrct	0.000000
 𮔁	vrd	0.000000
+𧎠	vrdf	0.000000
 蚽	vrdi	0.000000
 𱿯	vrdl	0.000000
 𠑶	vre	0.000000
@@ -83143,8 +83144,7 @@ encoder:
 𪘅	vtcc	0.000000
 虴	vtcq	0.000000
 𡯹	vtcq	0.000000
-𧎠	vtd	0.000000
-𧔸	vtdk	0.000000
+𧔸	vtd	0.000000
 𧩞	vtdy	0.000000
 𪠱	vteo	0.000000
 埾	vtet	0.000000
@@ -93227,12 +93227,12 @@ encoder:
 𣘸	ynhm	0.000000
 𣏎	ynhs	0.000000
 𣔾	ynhs	0.000000
-𠔲	yni	0.000000
-𢃪	ynia	0.000000
+𢃪	yni	0.000000
 𣙚	ynia	0.000000
 𩸝	ynia	0.000000
 栚	ynid	0.000000
 𰉹	ynie	0.000000
+𠔲	ynig	0.000000
 𪁿	ynig	0.000000
 㮸	ynij	0.000000
 棇	ynil	0.000000
@@ -105705,6 +105705,7 @@ encoder:
 𥢋	brct
 𨢇	brct
 𮊚	brct
+𨢂	brdf
 𧤙	brdg
 𫎚	brdh
 秠	brdi
@@ -105952,7 +105953,6 @@ encoder:
 㡯	btcq
 䣨	btcq
 𢇠	btcq
-𨢂	btda
 𢁑	btdr
 𰥥	btem
 㢖	btfc
@@ -141340,6 +141340,7 @@ encoder:
 𠺕	krct
 𠱼	krda
 𦫮	krdb
+𠸕	krdf
 呸	krdi
 䚋	krdj
 𠻷	krdj
@@ -141608,7 +141609,6 @@ encoder:
 吒	ktcq
 𭆿	ktcq
 𤚧	ktcx
-𠸕	ktda
 𪢐	ktdv
 𫫦	ktdy
 𧡈	kted
@@ -145035,6 +145035,7 @@ encoder:
 𥛽	lrct
 𥛅	lrct
 𪫭	lrda
+𱞳	lrdf
 怌	lrdi
 𥘻	lrdi
 𪨂	lrdi
@@ -145320,7 +145321,6 @@ encoder:
 𪬀	ltca
 𢖲	ltcq
 𪌂	ltcq
-𱞳	ltda
 覕	ltdj
 𰑇	ltdp
 懶	ltdr
@@ -149489,6 +149489,7 @@ encoder:
 溜	mrct
 洘	mrda
 㴴	mrda
+湚	mrdf
 𣳎	mrdi
 𭳻	mrdo
 𤃮	mrds
@@ -149966,7 +149967,6 @@ encoder:
 𣲃	mtcq
 𤁧	mtcs
 𪶣	mtcz
-湚	mtda
 瀨	mtdr
 濑	mtdv
 𱦭	mtdz
@@ -164580,6 +164580,7 @@ encoder:
 𤫟	rdfi
 𩎉	rdfi
 𬋞	rdfi
+胤	rdfy
 𭵅	rdfy
 䲹	rdgn
 𭺅	rdgs
@@ -164815,6 +164816,7 @@ encoder:
 𭹌	reiw
 䝭	rejb
 爦	rejd
+𠃕	reje
 𩉿	rejg
 爁	rejh
 璼	rejh
@@ -165036,6 +165038,7 @@ encoder:
 𪛑	rfrf
 𦷓	rfrh
 𮚄	rfsb
+𫃛	rfse
 𱮶	rfsw
 𪹳	rfta
 瑤	rftf
@@ -167963,6 +167966,7 @@ encoder:
 瑘	rvxe
 鄊	rvxe
 𠁌	rvxe
+𠂗	rvxe
 𤥌	rvxe
 㶤	rvxh
 𪢞	rvxk
@@ -168393,6 +168397,7 @@ encoder:
 𩋪	rzfw
 焴	rzfy
 㻙	rzfy
+𦚯	rzfy
 𧶰	rzfy
 𤨮	rzga
 𩌴	rzga
@@ -171777,7 +171782,6 @@ encoder:
 𡢛	tddw
 𠬾	tddy
 𪙡	tdeu
-胤	tdfa
 𠮔	tdfi
 𨓔	tdfj
 𦙍	tdfy
@@ -171827,7 +171831,6 @@ encoder:
 𫔷	tdzl
 𬮫	tdzp
 𮤴	tdzu
-𠃕	teae
 阒	teaq
 𢌦	tear
 㷩	tebr
@@ -171894,7 +171897,6 @@ encoder:
 ⽸	tfff
 𦈢	tfff
 𠀭	tfae
-𫃛	tfae
 𭻻	tfae
 䎤	tfak
 𫾶	tfap
@@ -173197,7 +173199,6 @@ encoder:
 罎	tuxz
 𦉡	tuxz
 𪙺	tuza
-𠂗	tvae
 𪘛	tvae
 㦵	tvag
 𢼲	tvap
@@ -173402,7 +173403,6 @@ encoder:
 𡉼	tzet
 𨛘	tzex
 𦔞	tzfa
-𦚯	tzfa
 𱲟	tzfh
 𤭷	tzfn
 𰿵	tzfn
@@ -180169,6 +180169,7 @@ encoder:
 𭅁	vrcl
 䗜	vrct
 𮔁	vrda
+𧎠	vrdf
 蚽	vrdi
 𱿯	vrdl
 匹	vrek
@@ -180397,7 +180398,6 @@ encoder:
 𪘅	vtcc
 虴	vtcq
 𡯹	vtcq
-𧎠	vtda
 𧔸	vtdk
 𧩞	vtdy
 𪠱	vteo
@@ -191530,12 +191530,12 @@ encoder:
 𣘸	ynhm
 𣏎	ynhs
 𣔾	ynhs
-𠔲	ynia
 𢃪	ynia
 𣙚	ynia
 𩸝	ynia
 栚	ynid
 𰉹	ynie
+𠔲	ynig
 𪁿	ynig
 㮸	ynij
 棇	ynil
