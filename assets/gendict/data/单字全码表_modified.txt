@@ -6343,6 +6343,7 @@
 𭙾	bpbq
 穗	bpcl
 㢜	bpcl
+𬔄	bpcl
 𥡵	bpco
 𨢿	bpcp
 𬓿	bpcp
@@ -6455,7 +6456,6 @@
 𢇬	bpty
 釅	bpua
 廟	bpuf
-𬔄	bpul
 醋	bpur
 庴	bpur
 稓	bpur
@@ -50085,6 +50085,7 @@
 𬉢	mpca
 潓	mpcl
 漙	mpco
+𭳚	mpco
 潬	mpcp
 𰜵	mpct
 溉	mpcu
@@ -50207,7 +50208,6 @@
 漧	mpuk
 濣	mpul
 𬉦	mpun
-𭳚	mpuo
 𣶃	mpup
 㳻	mpur
 𤃬	mpur
@@ -59728,12 +59728,14 @@
 𨖇	pcij
 𬨼	pcij
 𬩒	pcij
+蕙	pcil
 惠	pcil
 𢞯	pcil
 𢡴	pcil
 剸	pcin
 𫦂	pcin
 專	pcio
+蓴	pcio
 𡭏	pcio
 𰣜	pcir
 𬭂	pcis
@@ -61127,8 +61129,6 @@
 𮸢	pugq
 𫬋	pugx
 𬬹	puhs
-蕙	puil
-蓴	puio
 𰾝	puis
 逪	pujc
 𦝙	pujh

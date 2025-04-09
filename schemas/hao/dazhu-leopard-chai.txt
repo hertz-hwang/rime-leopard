@@ -21031,7 +21031,7 @@
 艹氵䒑廾,ZcMsNbZc	蓱
 艹匚口{双口},ZcVkKkPx	蓲
 艹廿口龶,ZcPnKkJf	蓳
-龷日寸,PnUrIsOc	蓴
+龷田寸,PnCtIsOc	蓴
 艹扌一龰,ZcOsDiLi	蓵
 艹口隹,ZcKkMi	蓶
 艹扌隹,ZcOsMi	蓷
@@ -21132,7 +21132,7 @@
 艹氵匚コ木,ZcMsVkYm	蕖
 艹⻊各,ZcIuKg	蕗
 艹土土土一儿,ZcEtEtRe	蕘
-龷日心,PnUrIsLx	蕙
+龷田心,PnCtIsLx	蕙
 艹口{双口}二ㄅ,ZcKkPxAe	蕚
 艹禾丷𢎨,ZcBhNbXf	蕛
 艹非心,ZcLfLx	蕜
@@ -78823,7 +78823,7 @@
 禾艹日大力,BhZcUrCl	𬔁
 禾小亼口,BhQgIxKk	𬔂
 禾士罒貝,BhJsBsRb	𬔃
-禾龷日心,BhPnUrLx	𬔄
+禾龷田心,BhPnCtLx	𬔄
 穴丩,AxEj	𬔅
 穴毛,AxQm	𬔆
 穴火,AxRh	𬔇
@@ -84911,7 +84911,7 @@
 氵罒幺幺灬,MsBsDyRh	𭳗
 水亡罒,MsNwBsEs	𭳘
 氵尸止匕土口,MsFsLiKk	𭳙
-氵龷日寸,MsPnUrOc	𭳚
+氵龷田寸,MsPnCtOc	𭳚
 水彑宀一人,MsWjGgHr	𭳛
 氵士冖一米殳,MsJsGgRs	𭳜
 氵耳幺幺灬,MsVeDyRh	𭳝

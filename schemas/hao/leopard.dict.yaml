@@ -4169,6 +4169,7 @@ encoder:
 抠	ove	0.000004
 锢	paog	0.000004
 镀	pbp	0.000004
+蕙	pcil	0.000004
 钾	phj	0.000004
 锺	pnal	0.000004
 颚	pnaq	0.000004
@@ -4176,7 +4177,6 @@ encoder:
 锷	ppn	0.000004
 镐	pqg	0.000004
 锏	ptu	0.000004
-蕙	pui	0.000004
 斡	pupl	0.000004
 钡	pvb	0.000004
 茉	pym	0.000004
@@ -16445,6 +16445,7 @@ encoder:
 𲆲	bpay	0.000000
 𭙾	bpb	0.000000
 㢜	bpcl	0.000000
+𬔄	bpcl	0.000000
 𥡵	bpco	0.000000
 𨢿	bpcp	0.000000
 𬓿	bpcp	0.000000
@@ -16542,7 +16543,6 @@ encoder:
 度	bpty	0.000000
 𢇬	bpty	0.000000
 釅	bpua	0.000000
-𬔄	bpul	0.000000
 庴	bpur	0.000000
 稓	bpur	0.000000
 𨞒	bpux	0.000000
@@ -55760,6 +55760,7 @@ encoder:
 𬉢	mpca	0.000000
 潓	mpcl	0.000000
 漙	mpco	0.000000
+𭳚	mpco	0.000000
 潬	mpcp	0.000000
 𰜵	mpct	0.000000
 𰝧	mpcy	0.000000
@@ -55864,7 +55865,6 @@ encoder:
 漧	mpuk	0.000000
 濣	mpul	0.000000
 𬉦	mpun	0.000000
-𭳚	mpuo	0.000000
 𣶃	mpup	0.000000
 㳻	mpur	0.000000
 𤃬	mpur	0.000000
@@ -64201,6 +64201,7 @@ encoder:
 𢞯	pcil	0.000000
 𢡴	pcil	0.000000
 𫦂	pcin	0.000000
+蓴	pcio	0.000000
 𡭏	pcio	0.000000
 𰣜	pcir	0.000000
 𬭂	pcis	0.000000
@@ -65296,8 +65297,7 @@ encoder:
 鵲	pugn	0.000000
 𮸢	pugq	0.000000
 𫬋	pugx	0.000000
-蓴	puio	0.000000
-𰾝	puis	0.000000
+𰾝	pui	0.000000
 逪	puj	0.000000
 𦝙	pujh	0.000000
 𫟙	puka	0.000000
@@ -105484,6 +105484,7 @@ encoder:
 𭙾	bpbq
 穗	bpcl
 㢜	bpcl
+𬔄	bpcl
 𥡵	bpco
 𨢿	bpcp
 𬓿	bpcp
@@ -105596,7 +105597,6 @@ encoder:
 𢇬	bpty
 釅	bpua
 廟	bpuf
-𬔄	bpul
 醋	bpur
 庴	bpur
 稓	bpur
@@ -149226,6 +149226,7 @@ encoder:
 𬉢	mpca
 潓	mpcl
 漙	mpco
+𭳚	mpco
 潬	mpcp
 𰜵	mpct
 溉	mpcu
@@ -149348,7 +149349,6 @@ encoder:
 漧	mpuk
 濣	mpul
 𬉦	mpun
-𭳚	mpuo
 𣶃	mpup
 㳻	mpur
 𤃬	mpur
@@ -158869,12 +158869,14 @@ encoder:
 𨖇	pcij
 𬨼	pcij
 𬩒	pcij
+蕙	pcil
 惠	pcil
 𢞯	pcil
 𢡴	pcil
 剸	pcin
 𫦂	pcin
 專	pcio
+蓴	pcio
 𡭏	pcio
 𰣜	pcir
 𬭂	pcis
@@ -160268,8 +160270,6 @@ encoder:
 𮸢	pugq
 𫬋	pugx
 𬬹	puhs
-蕙	puil
-蓴	puio
 𰾝	puis
 逪	pujc
 𦝙	pujh
