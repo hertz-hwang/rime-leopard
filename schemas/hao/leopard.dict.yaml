@@ -9812,7 +9812,6 @@ encoder:
 輝	wgq	0.000001
 婠	wgti	0.000001
 𠬶	wgty	0.000001
-彘	wgw	0.000001
 翚	wgxc	0.000001
 㛹	whd	0.000001
 勠	whfc	0.000001
@@ -9943,6 +9942,7 @@ encoder:
 鎳	wvy	0.000001
 坒	wwe	0.000001
 婦	wwg	0.000001
+彘	wwgw	0.000001
 嫪	wwhf	0.000001
 錄	wwms	0.000001
 㚣	wwn	0.000001
@@ -14224,8 +14224,6 @@ encoder:
 鮼	awgt	0.000000
 𮄀	awgt	0.000000
 𩶸	awgv	0.000000
-𩻼	awgw	0.000000
-𩼍	awgw	0.000000
 𥧚	awh	0.000000
 㺒	awhf	0.000000
 𢄪	awhf	0.000000
@@ -14324,6 +14322,8 @@ encoder:
 𡮿	awwt	0.000000
 𤮭	awwt	0.000000
 𩖌	awww	0.000000
+𩻼	awww	0.000000
+𩼍	awww	0.000000
 𫧉	awww	0.000000
 𬆺	awww	0.000000
 酁	awwx	0.000000
@@ -72070,7 +72070,6 @@ encoder:
 𤑱	rwgq	0.000000
 𭴵	rwgt	0.000000
 𭹔	rwgt	0.000000
-璏	rwgw	0.000000
 𱯲	rwgy	0.000000
 熮	rwhf	0.000000
 賿	rwhf	0.000000
@@ -72157,6 +72156,7 @@ encoder:
 𤓛	rwwm	0.000000
 𤇹	rwwp	0.000000
 𱁴	rwwp	0.000000
+璏	rwww	0.000000
 熤	rwx	0.000000
 𩑢	rwyb	0.000000
 𩔈	rwyg	0.000000
@@ -85135,7 +85135,7 @@ encoder:
 𡤐	wgvr	0.000000
 𨭙	wgvv	0.000000
 鋺	wgvw	0.000000
-𥏚	wgwa	0.000000
+𥏚	wgw	0.000000
 鉈	wgwb	0.000000
 𠤗	wgwb	0.000000
 𠤜	wgwb	0.000000
@@ -103057,8 +103057,6 @@ encoder:
 鮼	awgt
 𮄀	awgt
 𩶸	awgv
-𩻼	awgw
-𩼍	awgw
 𥧚	awhe
 㺒	awhf
 𢄪	awhf
@@ -103164,6 +103162,8 @@ encoder:
 𡮿	awwt
 𤮭	awwt
 𩖌	awww
+𩻼	awww
+𩼍	awww
 𫧉	awww
 𬆺	awww
 酁	awwx
@@ -167982,7 +167982,6 @@ encoder:
 𭴵	rwgt
 𭹔	rwgt
 珖	rwgw
-璏	rwgw
 𱯲	rwgy
 璆	rwhf
 熮	rwhf
@@ -168082,6 +168081,7 @@ encoder:
 𤓛	rwwm
 𤇹	rwwp
 𱁴	rwwp
+璏	rwww
 熤	rwxl
 𩑢	rwyb
 𩔈	rwyg
@@ -182580,7 +182580,6 @@ encoder:
 姲	wgwn
 銨	wgwn
 𡝈	wgwn
-彘	wgww
 𨯲	wgwy
 𩓙	wgwy
 翚	wgxc
@@ -185328,6 +185327,7 @@ encoder:
 鋟	wwgt
 𣇶	wwgu
 𪵕	wwgu
+彘	wwgw
 𦐳	wwgw
 𩐣	wwgy
 嫪	wwhf

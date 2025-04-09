@@ -11403,7 +11403,7 @@
 氺,WjMs	录
 彑,WjHs	彖
 丰丰彐,JfJfWj	彗
-彑矢匕,WjGsWbWb	彘
+彑矢匕,WjWbGsWb	彘
 彑冖田木,WjGgCtYm	彙
 冖田木,WjGgCtYm	彚
 米八刀廾,WjFmNbZc	彛
@@ -16834,7 +16834,7 @@
 王宀一由八,RwGgDiNb	璌
 王龷艹,RwPnZcOs	璍
 王贝贝女,RwVbVbWn	璎
-王彑矢匕,RwWjGsWb	璏
+王彑矢匕,RwWjWbWb	璏
 王⻊各,RwIuKg	璐
 王𠂉卌一灬,RwStUxRh	璑
 王癶豆,RwNbGd	璒
@@ -69127,7 +69127,7 @@
 魚十日十月,AvPsUrFy	𩻹
 魚非心,AvLfLx	𩻺
 魚大丷日小,AvIdNbIx	𩻻
-魚彑矢匕,AvWjGsWb	𩻼
+魚彑矢匕,AvWjWbWb	𩻼
 魚田一,AvIvCtDi	𩻽
 魚門日,AvSmUr	𩻾
 魚木人人犬,AvYmHrAq	𩻿
@@ -69144,7 +69144,7 @@
 {赢框}魚,OiAv	𩼊
 魚业䒑未,AvOyNbVw	𩼋
 魚{微框}几,AvWwQj	𩼌
-魚彑矢匕,AvWjGsWb	𩼍
+魚彑矢匕,AvWjWbWb	𩼍
 魚辟,AvMp	𩼎
 阝𠂇工𠂇工魚,XePsLgAv	𩼏
 丿𠂇工魚,TpTiPsAv	𩼐

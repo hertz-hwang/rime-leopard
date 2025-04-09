@@ -3930,8 +3930,6 @@ columns:
 鮼	awgt
 𮄀	awgt
 𩶸	awgv
-𩻼	awgw
-𩼍	awgw
 𥧚	awhe
 㺒	awhf
 𢄪	awhf
@@ -4037,6 +4035,8 @@ columns:
 𡮿	awwt
 𤮭	awwt
 𩖌	awww
+𩻼	awww
+𩼍	awww
 𫧉	awww
 𬆺	awww
 酁	awwx
@@ -68855,7 +68855,6 @@ columns:
 𭴵	rwgt
 𭹔	rwgt
 珖	rwgw
-璏	rwgw
 𱯲	rwgy
 璆	rwhf
 熮	rwhf
@@ -68955,6 +68954,7 @@ columns:
 𤓛	rwwm
 𤇹	rwwp
 𱁴	rwwp
+璏	rwww
 熤	rwxl
 𩑢	rwyb
 𩔈	rwyg
@@ -83453,7 +83453,6 @@ columns:
 姲	wgwn
 銨	wgwn
 𡝈	wgwn
-彘	wgww
 𨯲	wgwy
 𩓙	wgwy
 翚	wgxc
@@ -86201,6 +86200,7 @@ columns:
 鋟	wwgt
 𣇶	wwgu
 𪵕	wwgu
+彘	wwgw
 𦐳	wwgw
 𩐣	wwgy
 嫪	wwhf
