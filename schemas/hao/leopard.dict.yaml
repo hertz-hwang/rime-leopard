@@ -1672,13 +1672,13 @@ encoder:
 陶	xat	0.000065
 蒂	zxg	0.000065
 晋	dou	0.000064
-惠	dui	0.000064
 卢	ffs	0.000064
 宙	guy	0.000064
 宪	gxr	0.000064
 储	hcr	0.000064
 汤	maf	0.000064
 扰	ovy	0.000064
+惠	pci	0.000064
 聪	vnk	0.000064
 慕	zuil	0.000064
 匆	afo	0.000063
@@ -3463,8 +3463,8 @@ encoder:
 憨	aval	0.000007
 狒	axf	0.000007
 窖	axk	0.000007
-穗	bdu	0.000007
 酣	bfg	0.000007
+穗	bpc	0.000007
 羁	brs	0.000007
 酝	bzy	0.000007
 谒	cua	0.000007
@@ -5539,7 +5539,6 @@ encoder:
 蠊	vbnr	0.000002
 蚴	vdc	0.000002
 砻	vds	0.000002
-蟪	vdul	0.000002
 蠼	veet	0.000002
 蟛	vef	0.000002
 瓯	vetw	0.000002
@@ -5561,6 +5560,7 @@ encoder:
 虻	vnwc	0.000002
 蛄	vog	0.000002
 蛴	voq	0.000002
+蟪	vpc	0.000002
 蚝	vqm	0.000002
 虼	vsk	0.000002
 蛘	vsy	0.000002
@@ -5778,7 +5778,6 @@ encoder:
 窀	admc	0.000001
 𤞤	adru	0.000001
 㹴	adu	0.000001
-團	aduo	0.000001
 麼	adym	0.000001
 狺	adyq	0.000001
 乛	aee	0.000001
@@ -5866,6 +5865,7 @@ encoder:
 幞	aoso	0.000001
 攵	app	0.000001
 攴	appp	0.000001
+團	apc	0.000001
 蝨	apv	0.000001
 麿	apx	0.000001
 犭	aqqq	0.000001
@@ -6063,7 +6063,6 @@ encoder:
 彌	cdib	0.000001
 𬣙	cdp	0.000001
 谵	cdud	0.000001
-𬤝	cdul	0.000001
 谞	cef	0.000001
 讻	cej	0.000001
 畤	ceo	0.000001
@@ -6101,7 +6100,8 @@ encoder:
 诐	cnp	0.000001
 𰵞	com	0.000001
 𮙋	cpad	0.000001
-彈	cpc	0.000001
+𬤝	cpc	0.000001
+彈	cpcp	0.000001
 𬣳	cpg	0.000001
 谳	cpj	0.000001
 䜩	cpkr	0.000001
@@ -6161,7 +6161,6 @@ encoder:
 砘	ddm	0.000001
 幾	ddmo	0.000001
 砳	dds	0.000001
-磚	dduo	0.000001
 硊	dduw	0.000001
 龘	ddx	0.000001
 碥	ddy	0.000001
@@ -6273,6 +6272,7 @@ encoder:
 註	dorw	0.000001
 鄑	doux	0.000001
 亞	doy	0.000001
+磚	dpc	0.000001
 矴	dpd	0.000001
 訂	dpdy	0.000001
 硍	dpgs	0.000001
@@ -6317,8 +6317,6 @@ encoder:
 硙	dub	0.000001
 厃	duc	0.000001
 甦	due	0.000001
-剸	duin	0.000001
-專	duio	0.000001
 語	dukk	0.000001
 譚	duu	0.000001
 磹	duup	0.000001
@@ -6979,7 +6977,6 @@ encoder:
 儾	hdkq	0.000001
 儲	hdru	0.000001
 貆	hdud	0.000001
-傳	hduo	0.000001
 佹	hduw	0.000001
 㑇	hdw	0.000001
 餡	hdyj	0.000001
@@ -7075,6 +7072,7 @@ encoder:
 俍	hop	0.000001
 僕	hos	0.000001
 佈	hpa	0.000001
+傳	hpc	0.000001
 傎	hpen	0.000001
 侑	hpf	0.000001
 佷	hpg	0.000001
@@ -8464,6 +8462,8 @@ encoder:
 薑	pcdd	0.000001
 塈	pce	0.000001
 镙	pcf	0.000001
+剸	pcin	0.000001
+專	pcio	0.000001
 镪	pck	0.000001
 戰	pcp	0.000001
 單	pcps	0.000001
@@ -8673,7 +8673,6 @@ encoder:
 輕	qdk	0.000001
 襜	qdu	0.000001
 绠	qdue	0.000001
-轉	qduo	0.000001
 謷	qdya	0.000001
 褊	qdyc	0.000001
 飏	qea	0.000001
@@ -8757,6 +8756,7 @@ encoder:
 褏	qou	0.000001
 绁	qpa	0.000001
 襶	qpan	0.000001
+轉	qpc	0.000001
 裉	qpg	0.000001
 纮	qpi	0.000001
 軟	qpq	0.000001
@@ -10150,7 +10150,6 @@ encoder:
 栢	ydjb	0.000001
 㯊	ydl	0.000001
 杌	ydr	0.000001
-橞	ydul	0.000001
 枑	ydw	0.000001
 枅	ydz	0.000001
 覺	yeed	0.000001
@@ -10259,6 +10258,7 @@ encoder:
 楙	yoty	0.000001
 椟	ypa	0.000001
 楪	ypay	0.000001
+橞	ypcl	0.000001
 槙	ypen	0.000001
 桲	ypg	0.000001
 慾	ypl	0.000001
@@ -10653,7 +10653,6 @@ encoder:
 𨤷	aadk	0.000000
 𭷿	aadk	0.000000
 𮫴	aadk	0.000000
-𩼯	aado	0.000000
 𢄅	aadr	0.000000
 𬌮	aadr	0.000000
 𡵽	aadu	0.000000
@@ -10766,6 +10765,7 @@ encoder:
 𩷰	aapj	0.000000
 䵇	aapm	0.000000
 𪎘	aapm	0.000000
+𩼯	aapo	0.000000
 𰕄	aapq	0.000000
 𤜢	aaps	0.000000
 𩶺	aaps	0.000000
@@ -11180,9 +11180,6 @@ encoder:
 鯁	adue	0.000000
 㺅	adug	0.000000
 𡈰	aduk	0.000000
-𬵪	adul	0.000000
-𱜵	adul	0.000000
-鱄	aduo	0.000000
 𫙿	adut	0.000000
 𩺏	aduu	0.000000
 鮠	aduw	0.000000
@@ -11803,7 +11800,6 @@ encoder:
 獊	ahdk	0.000000
 䱽	ahdk	0.000000
 𬔎	ahdk	0.000000
-𡈬	ahdo	0.000000
 𮄂	ahe	0.000000
 𡇡	ahem	0.000000
 𱷒	ahen	0.000000
@@ -11876,7 +11872,8 @@ encoder:
 𢂆	ahoc	0.000000
 𤝔	ahoc	0.000000
 𠣥	ahod	0.000000
-𤝦	ahp	0.000000
+𡈬	ahp	0.000000
+𤝦	ahpt	0.000000
 𢂈	ahqj	0.000000
 𣭃	ahqm	0.000000
 𫭓	ahqo	0.000000
@@ -13169,8 +13166,11 @@ encoder:
 幉	apay	0.000000
 鰈	apay	0.000000
 𭸗	apay	0.000000
-𩽙	apc	0.000000
+𩽙	apcd	0.000000
+𬵪	apcl	0.000000
 𰅒	apcl	0.000000
+𱜵	apcl	0.000000
+鱄	apco	0.000000
 𱜻	apco	0.000000
 㺗	apcp	0.000000
 幝	apcp	0.000000
@@ -15100,12 +15100,11 @@ encoder:
 𤥹	bdro	0.000000
 䄷	bds	0.000000
 𫅂	bdss	0.000000
-稉	bdue	0.000000
+稉	bdu	0.000000
 𭙜	bdue	0.000000
 穂	bdul	0.000000
 𥡄	bdum	0.000000
 𥡌	bdum	0.000000
-𥡵	bduo	0.000000
 𭙥	bduo	0.000000
 𢈌	bduw	0.000000
 𨠥	bduw	0.000000
@@ -16456,7 +16455,8 @@ encoder:
 𥠓	bpay	0.000000
 𲆲	bpay	0.000000
 𭙾	bpb	0.000000
-㢜	bpc	0.000000
+㢜	bpcl	0.000000
+𥡵	bpco	0.000000
 𨢿	bpcp	0.000000
 𬓿	bpcp	0.000000
 𭙴	bpcp	0.000000
@@ -18958,7 +18958,6 @@ encoder:
 𰏰	dadi	0.000000
 𧠎	dadj	0.000000
 𬹿	dadk	0.000000
-𬣍	dado	0.000000
 𱌰	dadr	0.000000
 𥔀	dady	0.000000
 𰵀	dady	0.000000
@@ -19104,6 +19103,7 @@ encoder:
 𢽕	dapj	0.000000
 𫾴	dapj	0.000000
 𢂤	dapo	0.000000
+𬣍	dapo	0.000000
 𥑳	daps	0.000000
 𬑿	daps	0.000000
 䚺	dapy	0.000000
@@ -19575,7 +19575,6 @@ encoder:
 𬂋	dduf	0.000000
 𧩩	ddug	0.000000
 𥖷	dduk	0.000000
-譓	ddul	0.000000
 𬒩	ddum	0.000000
 𨍃	dduq	0.000000
 詭	dduw	0.000000
@@ -20402,7 +20401,6 @@ encoder:
 謒	dhdk	0.000000
 𰧕	dhdk	0.000000
 𧥰	dhdn	0.000000
-𬣋	dhdo	0.000000
 𣂱	dhds	0.000000
 𢁄	dhdv	0.000000
 𧪄	dhdy	0.000000
@@ -20476,6 +20474,7 @@ encoder:
 𧭎	dhoo	0.000000
 𧞮	dhoq	0.000000
 𪿰	dhp	0.000000
+𬣋	dhpo	0.000000
 𥔚	dhqc	0.000000
 𢨷	dhqh	0.000000
 𠁈	dhqk	0.000000
@@ -21756,7 +21755,8 @@ encoder:
 諜	dpay	0.000000
 𫌣	dpay	0.000000
 𱴱	dpb	0.000000
-𥗜	dpc	0.000000
+𥗜	dpca	0.000000
+譓	dpcl	0.000000
 磾	dpcp	0.000000
 譂	dpcp	0.000000
 𡂧	dpdn	0.000000
@@ -21870,7 +21870,6 @@ encoder:
 𫰀	dqdi	0.000000
 𧩠	dqdj	0.000000
 𩧕	dqdn	0.000000
-𮁗	dqdo	0.000000
 𬻟	dqdr	0.000000
 𧨑	dqel	0.000000
 𣃪	dqem	0.000000
@@ -21920,6 +21919,7 @@ encoder:
 諪	dqpd	0.000000
 𥗝	dqpd	0.000000
 𧮨	dqpe	0.000000
+𮁗	dqpo	0.000000
 𠘲	dqq	0.000000
 𣭺	dqqm	0.000000
 𮁀	dqqm	0.000000
@@ -22415,36 +22415,15 @@ encoder:
 𬻍	duht	0.000000
 𭮻	duht	0.000000
 𨊢	duhz	0.000000
-𭤈	duia	0.000000
-𤴝	duie	0.000000
-𭕃	duie	0.000000
-𦄯	duif	0.000000
-𬺡	duif	0.000000
-鷒	duig	0.000000
-𡭇	duih	0.000000
-𧭱	duij	0.000000
-𨖇	duij	0.000000
-𬨼	duij	0.000000
-𬩒	duij	0.000000
+𧭱	dui	0.000000
 𰺿	duij	0.000000
 𠵤	duik	0.000000
-𢞯	duil	0.000000
-𢡴	duil	0.000000
 𤴛	duil	0.000000
-𫦂	duin	0.000000
-𡭏	duio	0.000000
 䃏	duis	0.000000
 叀	duis	0.000000
 謃	duis	0.000000
 𧈌	duis	0.000000
-甎	duit	0.000000
-𫩄	duit	0.000000
-𡸸	duiu	0.000000
-𬹢	duiu	0.000000
-𮋍	duiw	0.000000
-鄟	duix	0.000000
 𣓧	duiy	0.000000
-𫸜	duiz	0.000000
 𨑿	duj	0.000000
 謜	duji	0.000000
 𮀷	dujj	0.000000
@@ -23744,8 +23723,6 @@ encoder:
 𡔓	edui	0.000000
 𱳐	eduk	0.000000
 𱳙	eduk	0.000000
-䁣	eduo	0.000000
-塼	eduo	0.000000
 𣅎	edur	0.000000
 𥅏	edur	0.000000
 𥄝	edus	0.000000
@@ -25650,6 +25627,8 @@ encoder:
 𥊸	epb	0.000000
 壊	epbq	0.000000
 𡓥	epc	0.000000
+䁣	epco	0.000000
+塼	epco	0.000000
 䵐	epcp	0.000000
 墠	epcp	0.000000
 𩴫	epcp	0.000000
@@ -27197,8 +27176,6 @@ encoder:
 䏤	fad	0.000000
 𥿆	fadk	0.000000
 𭨺	fadk	0.000000
-糰	fado	0.000000
-𣎫	fado	0.000000
 𦀄	fadr	0.000000
 𰮝	fadr	0.000000
 𱸼	fadr	0.000000
@@ -27320,6 +27297,8 @@ encoder:
 𦀨	faox	0.000000
 𬛁	faox	0.000000
 𦃫	fapk	0.000000
+糰	fapo	0.000000
+𣎫	fapo	0.000000
 籸	faps	0.000000
 𡰵	faps	0.000000
 𥾲	faps	0.000000
@@ -27898,17 +27877,10 @@ encoder:
 𦚸	fdud	0.000000
 綆	fdue	0.000000
 𦛟	fdue	0.000000
-𬘄	fduf	0.000000
 𦂐	fdug	0.000000
 𦞕	fdug	0.000000
 𡳘	fduh	0.000000
 𦁆	fdui	0.000000
-𦝏	fdui	0.000000
-繐	fdul	0.000000
-𫆵	fdul	0.000000
-䊜	fduo	0.000000
-縳	fduo	0.000000
-膞	fduo	0.000000
 𦡡	fduo	0.000000
 㫖	fdur	0.000000
 𥼥	fdur	0.000000
@@ -30237,7 +30209,14 @@ encoder:
 𭫮	fpay	0.000000
 𰯕	fpb	0.000000
 𮍁	fpbq	0.000000
-繟	fpc	0.000000
+𬘄	fpc	0.000000
+𦝏	fpci	0.000000
+繐	fpcl	0.000000
+𫆵	fpcl	0.000000
+䊜	fpco	0.000000
+縳	fpco	0.000000
+膞	fpco	0.000000
+繟	fpcp	0.000000
 䐷	fpcp	0.000000
 𦄛	fpct	0.000000
 𰯄	fpd	0.000000
@@ -31845,7 +31824,6 @@ encoder:
 𥼧	fzcy	0.000000
 𥿐	fzd	0.000000
 𥿄	fzdi	0.000000
-𦇠	fzdl	0.000000
 𦆶	fze	0.000000
 𦢃	fzed	0.000000
 𦢐	fzei	0.000000
@@ -31939,6 +31917,7 @@ encoder:
 𫆲	fzph	0.000000
 𦂍	fzpk	0.000000
 𰮷	fzpk	0.000000
+𦇠	fzpl	0.000000
 䌯	fzpm	0.000000
 䑏	fzpm	0.000000
 𬛚	fzpy	0.000000
@@ -32421,13 +32400,10 @@ encoder:
 𫴃	gduh	0.000000
 𩘒	gdui	0.000000
 𰐰	gdui	0.000000
-寭	gdul	0.000000
 𫳾	gdul	0.000000
 𩀈	gdum	0.000000
 𠝳	gdun	0.000000
 𩤡	gdun	0.000000
-𪅘	gduo	0.000000
-𪫖	gduo	0.000000
 𪧅	gdus	0.000000
 翧	gduw	0.000000
 𡧭	gduw	0.000000
@@ -34096,7 +34072,10 @@ encoder:
 徳	gpbl	0.000000
 𱚒	gpbo	0.000000
 𬡁	gpc	0.000000
+寭	gpcl	0.000000
 𪿍	gpcn	0.000000
+𪅘	gpco	0.000000
+𪫖	gpco	0.000000
 𩯂	gpcu	0.000000
 㓅	gpdb	0.000000
 㣔	gpdc	0.000000
@@ -35833,14 +35812,9 @@ encoder:
 𧱂	hdud	0.000000
 𩟋	hdud	0.000000
 便	hdue	0.000000
-𫮯	hdue	0.000000
 𠊱	hdug	0.000000
 𩝍	hdug	0.000000
-𬨽	hduj	0.000000
-𬩘	hduj	0.000000
-僡	hdul	0.000000
 𬾽	hdul	0.000000
-𡦕	hduo	0.000000
 𫝊	hduo	0.000000
 𫣣	hduo	0.000000
 𠍶	hdur	0.000000
@@ -37447,7 +37421,12 @@ encoder:
 偞	hpay	0.000000
 䭎	hpay	0.000000
 𫣜	hpb	0.000000
-𠐠	hpc	0.000000
+𫮯	hpce	0.000000
+𬨽	hpcj	0.000000
+𬩘	hpcj	0.000000
+𠐠	hpck	0.000000
+僡	hpcl	0.000000
+𡦕	hpco	0.000000
 僤	hpcp	0.000000
 貚	hpcp	0.000000
 𪝌	hpct	0.000000
@@ -39391,9 +39370,6 @@ encoder:
 𭺵	idue	0.000000
 𧼵	idug	0.000000
 𨅧	iduk	0.000000
-𧽢	iduo	0.000000
-𨄔	iduo	0.000000
-𩘯	iduo	0.000000
 𣅱	idur	0.000000
 𩘤	iduu	0.000000
 𧻜	iduw	0.000000
@@ -41252,7 +41228,10 @@ encoder:
 𧽅	ipay	0.000000
 𨃭	ipay	0.000000
 𩘏	ipay	0.000000
-㲷	ipc	0.000000
+𧽢	ipc	0.000000
+𨄔	ipco	0.000000
+𩘯	ipco	0.000000
+㲷	ipcp	0.000000
 䠤	ipcp	0.000000
 𩘾	ipcp	0.000000
 𡙲	ipct	0.000000
@@ -43123,12 +43102,8 @@ encoder:
 𩎨	jdud	0.000000
 𰠞	jdue	0.000000
 𥮔	jdui	0.000000
-韢	jdul	0.000000
-𫂠	jdul	0.000000
 𮆻	jdun	0.000000
-篿	jduo	0.000000
 𱷱	jdus	0.000000
-𥶸	jdut	0.000000
 𭽘	jdut	0.000000
 𰠓	jdv	0.000000
 䇘	jdwj	0.000000
@@ -45499,10 +45474,14 @@ encoder:
 牃	jpay	0.000000
 韘	jpay	0.000000
 簙	jpb	0.000000
-簞	jpc	0.000000
+韢	jpc	0.000000
+𫂠	jpcl	0.000000
+篿	jpco	0.000000
+簞	jpcp	0.000000
 𤾠	jpcp	0.000000
 𩏥	jpcp	0.000000
 𥷋	jpcs	0.000000
+𥶸	jpct	0.000000
 𥰐	jpda	0.000000
 𭽆	jpdb	0.000000
 𥫙	jpdu	0.000000
@@ -46706,7 +46685,6 @@ encoder:
 𬺾	kadi	0.000000
 𱓉	kadj	0.000000
 呞	kadk	0.000000
-𡁴	kado	0.000000
 𠷧	kadr	0.000000
 嚰	kads	0.000000
 𱳻	kads	0.000000
@@ -46788,6 +46766,7 @@ encoder:
 𫡣	kapi	0.000000
 呚	kapk	0.000000
 𭇅	kapk	0.000000
+𡁴	kapo	0.000000
 𡃐	kapp	0.000000
 𠲦	kaps	0.000000
 𤠪	kara	0.000000
@@ -47208,9 +47187,7 @@ encoder:
 𰏃	kdud	0.000000
 㗋	kdug	0.000000
 𡂂	kduk	0.000000
-𠽡	kdul	0.000000
 𠿴	kduo	0.000000
-𭉾	kduo	0.000000
 𠱓	kduw	0.000000
 𫑣	kdux	0.000000
 𱄍	kdvd	0.000000
@@ -47409,7 +47386,6 @@ encoder:
 𭌚	kfdm	0.000000
 𱓇	kfdm	0.000000
 𬗎	kfdo	0.000000
-𭌯	kfdo	0.000000
 𠴫	kfdt	0.000000
 𭍘	kfe	0.000000
 𠹘	kfej	0.000000
@@ -47489,6 +47465,7 @@ encoder:
 𫩺	kfog	0.000000
 𤋚	kfor	0.000000
 𭈩	kfp	0.000000
+𭌯	kfpo	0.000000
 𠹖	kfpq	0.000000
 𠺼	kfpq	0.000000
 𠿍	kfpr	0.000000
@@ -47670,7 +47647,6 @@ encoder:
 𪡇	khdi	0.000000
 𭌞	khdi	0.000000
 𠯹	khdn	0.000000
-𡀯	khdo	0.000000
 𮓰	khdo	0.000000
 𭑲	khdw	0.000000
 𱓞	khdy	0.000000
@@ -47761,6 +47737,7 @@ encoder:
 𡄩	khpl	0.000000
 𪟔	khpn	0.000000
 𱓋	khpn	0.000000
+𡀯	khpo	0.000000
 𠿮	khpq	0.000000
 𠯰	khps	0.000000
 𡆟	khpt	0.000000
@@ -48209,7 +48186,6 @@ encoder:
 㗜	kldc	0.000000
 𠷐	kldd	0.000000
 𭌹	kldi	0.000000
-𭋪	kldo	0.000000
 𠻜	kldp	0.000000
 𫫣	kldx	0.000000
 呟	kldy	0.000000
@@ -48264,6 +48240,7 @@ encoder:
 𡁙	klp	0.000000
 𭉆	klpg	0.000000
 𭉱	klph	0.000000
+𭋪	klpo	0.000000
 𠯥	klps	0.000000
 𫬍	klqi	0.000000
 𠺱	klql	0.000000
@@ -48692,6 +48669,8 @@ encoder:
 𡃹	kpca	0.000000
 𡃢	kpcd	0.000000
 𡄊	kpch	0.000000
+𠽡	kpcl	0.000000
+𭉾	kpco	0.000000
 嘽	kpcp	0.000000
 𣃓	kpcs	0.000000
 𠵛	kpda	0.000000
@@ -48814,7 +48793,6 @@ encoder:
 𡃩	kqbm	0.000000
 𰈶	kqbo	0.000000
 唓	kqc	0.000000
-囀	kqd	0.000000
 𭋳	kqf	0.000000
 𫪺	kqg	0.000000
 嗃	kqgk	0.000000
@@ -48846,6 +48824,7 @@ encoder:
 𡿳	kqos	0.000000
 𠼁	kqoy	0.000000
 𠷥	kqpd	0.000000
+囀	kqpo	0.000000
 𠵒	kqps	0.000000
 𡀑	kqqo	0.000000
 𠽶	kqqq	0.000000
@@ -50479,16 +50458,11 @@ encoder:
 𭏃	ldue	0.000000
 𢜴	ldug	0.000000
 𥚦	ldug	0.000000
-𭟫	ldug	0.000000
 𢝼	lduh	0.000000
 𰨑	lduh	0.000000
 𢣸	lduk	0.000000
-憓	ldul	0.000000
-𥛸	ldul	0.000000
 𤣨	ldun	0.000000
-慱	lduo	0.000000
 𢣀	lduo	0.000000
-𥛥	lduo	0.000000
 𢘆	ldur	0.000000
 𰧳	ldur	0.000000
 恑	lduw	0.000000
@@ -51945,6 +51919,11 @@ encoder:
 惵	lpay	0.000000
 𪍐	lpay	0.000000
 𢥇	lpca	0.000000
+𭟫	lpcg	0.000000
+憓	lpcl	0.000000
+𥛸	lpcl	0.000000
+慱	lpco	0.000000
+𥛥	lpco	0.000000
 憚	lpcp	0.000000
 𱤼	lpd	0.000000
 忊	lpdx	0.000000
@@ -53257,7 +53236,6 @@ encoder:
 𢌮	lzct	0.000000
 𮵝	lzct	0.000000
 𱞭	lzct	0.000000
-𢤺	lzd	0.000000
 𢢩	lze	0.000000
 𢣒	lzeg	0.000000
 𢣏	lzeh	0.000000
@@ -53314,6 +53292,7 @@ encoder:
 𭝩	lzog	0.000000
 𢞻	lzph	0.000000
 𢜪	lzpk	0.000000
+𢤺	lzpl	0.000000
 𭞖	lzpw	0.000000
 𪬠	lzpx	0.000000
 𢢲	lzpy	0.000000
@@ -53895,10 +53874,8 @@ encoder:
 𣽃	mduk	0.000000
 𱩷	mduk	0.000000
 𱪒	mduk	0.000000
-潓	mdul	0.000000
 𠅾	mdum	0.000000
 𰝯	mdun	0.000000
-漙	mduo	0.000000
 𱧈	mduo	0.000000
 旹	mdur	0.000000
 𣽉	mdur	0.000000
@@ -55816,6 +55793,8 @@ encoder:
 𭲖	mpb	0.000000
 𣽡	mpbo	0.000000
 𬉢	mpca	0.000000
+潓	mpcl	0.000000
+漙	mpco	0.000000
 潬	mpcp	0.000000
 𰜵	mpct	0.000000
 𰝧	mpcy	0.000000
@@ -57310,7 +57289,6 @@ encoder:
 滋	mzdd	0.000000
 𥁼	mzdh	0.000000
 𢡛	mzdl	0.000000
-𪷺	mzdl	0.000000
 𫴴	mzdo	0.000000
 満	mzdu	0.000000
 𤀂	mze	0.000000
@@ -57445,6 +57423,7 @@ encoder:
 𱩩	mzpi	0.000000
 渃	mzpk	0.000000
 𢢉	mzpl	0.000000
+𪷺	mzpl	0.000000
 𤅞	mzpt	0.000000
 𤂙	mzpv	0.000000
 𭲝	mzpw	0.000000
@@ -58079,9 +58058,6 @@ encoder:
 𬳬	ndue	0.000000
 𤻭	nduk	0.000000
 𪒧	nduk	0.000000
-𪒜	ndul	0.000000
-𤹵	nduo	0.000000
-𲋿	nduo	0.000000
 𭽩	nduw	0.000000
 𬳎	ndv	0.000000
 𤹉	ndvj	0.000000
@@ -59817,7 +59793,10 @@ encoder:
 䮜	npay	0.000000
 𪑧	npay	0.000000
 𭪭	npay	0.000000
-癉	npc	0.000000
+𪒜	npc	0.000000
+𤹵	npco	0.000000
+𲋿	npco	0.000000
+癉	npcp	0.000000
 驒	npcp	0.000000
 𩥺	npct	0.000000
 𰣾	npct	0.000000
@@ -59919,7 +59898,6 @@ encoder:
 㾝	nqc	0.000000
 𫘙	nqd	0.000000
 𫡸	nqdl	0.000000
-𩧜	nqdo	0.000000
 𤹒	nqei	0.000000
 㾸	nqg	0.000000
 䮦	nqgm	0.000000
@@ -59952,6 +59930,7 @@ encoder:
 𪓃	nqpd	0.000000
 𫗵	nqpd	0.000000
 𪒌	nqpn	0.000000
+𩧜	nqpo	0.000000
 𩣰	nqps	0.000000
 𠅽	nqq	0.000000
 𲋬	nqqm	0.000000
@@ -61092,7 +61071,6 @@ encoder:
 𢲚	oadk	0.000000
 𭠟	oadk	0.000000
 𢬼	oadm	0.000000
-㩛	oado	0.000000
 𰔨	oado	0.000000
 𱠏	oadr	0.000000
 𫾚	oads	0.000000
@@ -61177,6 +61155,7 @@ encoder:
 擵	oaos	0.000000
 𫽼	oaov	0.000000
 𭡇	oaox	0.000000
+㩛	oapo	0.000000
 𢱳	oapr	0.000000
 扟	oaps	0.000000
 𢩲	oaps	0.000000
@@ -61513,11 +61492,8 @@ encoder:
 𭡔	odub	0.000000
 𢬎	odud	0.000000
 挭	odue	0.000000
-𢮛	odui	0.000000
 𢮨	odui	0.000000
-𢴥	odul	0.000000
 𮲑	odum	0.000000
-摶	oduo	0.000000
 㧪	oduw	0.000000
 𢰁	oduz	0.000000
 𫼨	odv	0.000000
@@ -62749,7 +62725,10 @@ encoder:
 𰔊	opay	0.000000
 𭢙	opb	0.000000
 𱠲	opbo	0.000000
-勆	opc	0.000000
+𢮛	opc	0.000000
+勆	opcl	0.000000
+𢴥	opcl	0.000000
+摶	opco	0.000000
 撣	opcp	0.000000
 𠧈	opcp	0.000000
 𠧉	opcp	0.000000
@@ -64238,10 +64217,31 @@ encoder:
 䀈	pch	0.000000
 𰾛	pchn	0.000000
 𰽣	pchs	0.000000
-𰣜	pci	0.000000
+𭤈	pcia	0.000000
+𤴝	pcie	0.000000
+𭕃	pcie	0.000000
+𦄯	pcif	0.000000
+𬺡	pcif	0.000000
+鷒	pcig	0.000000
+𡭇	pcih	0.000000
+𨖇	pcij	0.000000
+𬨼	pcij	0.000000
+𬩒	pcij	0.000000
+𢞯	pcil	0.000000
+𢡴	pcil	0.000000
+𫦂	pcin	0.000000
+𡭏	pcio	0.000000
+𰣜	pcir	0.000000
 𬭂	pcis	0.000000
+甎	pcit	0.000000
+𫩄	pcit	0.000000
+𡸸	pciu	0.000000
+𬹢	pciu	0.000000
+𮋍	pciw	0.000000
+鄟	pcix	0.000000
 𮸀	pcix	0.000000
 𲇷	pcix	0.000000
+𫸜	pciz	0.000000
 𭥊	pcj	0.000000
 𰭯	pcke	0.000000
 𪟙	pclg	0.000000
@@ -64318,11 +64318,7 @@ encoder:
 𱔈	pdpz	0.000000
 𫓸	pdr	0.000000
 𬬷	pds	0.000000
-𠦽	pdu	0.000000
-𰾶	pdul	0.000000
-𫧤	pduo	0.000000
-䦄	pduq	0.000000
-𡄿	pduq	0.000000
+𡄿	pdu	0.000000
 𰽺	pduw	0.000000
 𢧖	pdv	0.000000
 𣀌	pdva	0.000000
@@ -65100,6 +65096,10 @@ encoder:
 𱽛	poyn	0.000000
 𢆐	poz	0.000000
 𰾕	ppay	0.000000
+𠦽	ppc	0.000000
+𰾶	ppcl	0.000000
+𫧤	ppco	0.000000
+䦄	ppcq	0.000000
 𠒖	ppdr	0.000000
 𫔌	ppfa	0.000000
 𭘧	ppga	0.000000
@@ -65999,8 +65999,6 @@ encoder:
 𦪯	qduh	0.000000
 𨐀	qdui	0.000000
 𧞟	qduk	0.000000
-𨎥	qdul	0.000000
-𰬸	qdul	0.000000
 凬	qdur	0.000000
 𧝄	qdur	0.000000
 𠙊	qdut	0.000000
@@ -67438,7 +67436,9 @@ encoder:
 𫄬	qpay	0.000000
 𬽗	qpb	0.000000
 𧞻	qpbe	0.000000
-𧟀	qpc	0.000000
+𧟀	qpca	0.000000
+𨎥	qpcl	0.000000
+𰬸	qpcl	0.000000
 襌	qpcp	0.000000
 䡲	qpcp	0.000000
 𦪢	qpcp	0.000000
@@ -69168,10 +69168,6 @@ encoder:
 𰷜	rdud	0.000000
 鞕	rdue	0.000000
 𪸫	rdue	0.000000
-璤	rdul	0.000000
-𬋅	rdul	0.000000
-瑼	rduo	0.000000
-𤍿	rduo	0.000000
 𤩚	rdur	0.000000
 𤩮	rdur	0.000000
 𤥕	rduw	0.000000
@@ -70838,7 +70834,11 @@ encoder:
 鞢	rpay	0.000000
 𰷊	rpay	0.000000
 𭹹	rpb	0.000000
-燀	rpc	0.000000
+璤	rpc	0.000000
+𬋅	rpcl	0.000000
+瑼	rpco	0.000000
+𤍿	rpco	0.000000
+燀	rpcp	0.000000
 𤩧	rpcp	0.000000
 𩍍	rpcp	0.000000
 靪	rpdg	0.000000
@@ -72407,7 +72407,6 @@ encoder:
 弄	rzcw	0.000000
 𤒬	rzd	0.000000
 𫠯	rzdf	0.000000
-𤫃	rzdl	0.000000
 瓂	rzeh	0.000000
 𤐩	rzeh	0.000000
 𤓆	rzeh	0.000000
@@ -72539,6 +72538,7 @@ encoder:
 𫪹	rzog	0.000000
 𪻷	rzpk	0.000000
 𰞾	rzpk	0.000000
+𤫃	rzpl	0.000000
 𩀳	rzpm	0.000000
 𭺈	rzpr	0.000000
 𮧭	rzpr	0.000000
@@ -73014,8 +73014,6 @@ encoder:
 𲅅	sdud	0.000000
 𣉠	sduf	0.000000
 𭖯	sdui	0.000000
-𣩘	sduo	0.000000
-𱈐	sduo	0.000000
 𫖵	sduq	0.000000
 𭮟	sdur	0.000000
 𱛛	sdus	0.000000
@@ -74251,6 +74249,8 @@ encoder:
 殜	spay	0.000000
 𨵳	spay	0.000000
 勄	spc	0.000000
+𣩘	spco	0.000000
+𱈐	spco	0.000000
 殫	spcp	0.000000
 闡	spcp	0.000000
 𫠧	spd	0.000000
@@ -75444,7 +75444,6 @@ encoder:
 𱰒	tdud	0.000000
 𮉳	tdue	0.000000
 𢍖	tduh	0.000000
-𤮍	tduo	0.000000
 𪬯	tdv	0.000000
 𪘎	tdyc	0.000000
 䶟	tdyj	0.000000
@@ -76236,7 +76235,8 @@ encoder:
 䶪	tpam	0.000000
 𠛻	tpan	0.000000
 𦉃	tpay	0.000000
-𦉕	tpc	0.000000
+𤮍	tpc	0.000000
+𦉕	tpcp	0.000000
 𪙣	tpcp	0.000000
 𦔙	tpcu	0.000000
 耓	tpd	0.000000
@@ -77157,7 +77157,6 @@ encoder:
 㬅	ubdn	0.000000
 𫵿	ubdn	0.000000
 𭦟	ubdn	0.000000
-𡭍	ubdo	0.000000
 𡾫	ubdw	0.000000
 𭗪	ube	0.000000
 曠	ubeh	0.000000
@@ -77219,6 +77218,7 @@ encoder:
 𪠑	uboc	0.000000
 𪩉	uboc	0.000000
 𡹴	ubp	0.000000
+𡭍	ubpo	0.000000
 𠪁	ubpq	0.000000
 𡻠	ubpr	0.000000
 𤳐	ubpr	0.000000
@@ -77595,11 +77595,7 @@ encoder:
 𡺝	udug	0.000000
 𩩽	udug	0.000000
 𭧬	uduk	0.000000
-𪱇	udul	0.000000
 鼌	udum	0.000000
-暷	uduo	0.000000
-𪩍	uduo	0.000000
-𮪴	uduo	0.000000
 𩍻	udur	0.000000
 𡵤	udus	0.000000
 𬚩	uduv	0.000000
@@ -79454,6 +79450,10 @@ encoder:
 𫨓	upb	0.000000
 𭧧	upbo	0.000000
 𭧵	upbq	0.000000
+𪱇	upcl	0.000000
+暷	upco	0.000000
+𪩍	upco	0.000000
+𮪴	upco	0.000000
 㠆	upcp	0.000000
 暺	upcp	0.000000
 𡼤	upcp	0.000000
@@ -79605,8 +79605,8 @@ encoder:
 𱛢	upxs	0.000000
 𫨘	upy	0.000000
 𩩥	upym	0.000000
-曄	upz	0.000000
-㠏	upzo	0.000000
+㠏	upz	0.000000
+曄	upzo	0.000000
 曅	upzo	0.000000
 𧠁	upzo	0.000000
 𪩓	upzo	0.000000
@@ -81148,7 +81148,6 @@ encoder:
 𱿘	vadi	0.000000
 𧉠	vadk	0.000000
 𢿄	vadl	0.000000
-𧓘	vado	0.000000
 𮶓	vadr	0.000000
 𧏈	vadv	0.000000
 𧩥	vady	0.000000
@@ -81239,6 +81238,7 @@ encoder:
 𫾬	vape	0.000000
 敃	vapm	0.000000
 𦤚	vapo	0.000000
+𧓘	vapo	0.000000
 斂	vapq	0.000000
 𦤠	vapr	0.000000
 攺	vaps	0.000000
@@ -81620,7 +81620,6 @@ encoder:
 𫧑	vdud	0.000000
 𧋑	vdue	0.000000
 𦗯	vduk	0.000000
-𧐕	vduo	0.000000
 𠓤	vdur	0.000000
 𡵪	vdus	0.000000
 𧉋	vdus	0.000000
@@ -81992,7 +81991,6 @@ encoder:
 螥	vhdk	0.000000
 𠥐	vhdk	0.000000
 𬚤	vhdk	0.000000
-𧓆	vhdo	0.000000
 𫝡	vhe	0.000000
 𮚒	vhf	0.000000
 聄	vhfs	0.000000
@@ -82038,7 +82036,8 @@ encoder:
 蚹	vho	0.000000
 𧌮	vhod	0.000000
 𱉔	vhon	0.000000
-𠥡	vhp	0.000000
+𧓆	vhp	0.000000
+𠥡	vhpp	0.000000
 𮍙	vhqi	0.000000
 㔳	vhqj	0.000000
 𭀟	vhre	0.000000
@@ -82817,7 +82816,8 @@ encoder:
 聴	vpb	0.000000
 𦗟	vpbl	0.000000
 𨟡	vpbx	0.000000
-匰	vpc	0.000000
+𧐕	vpco	0.000000
+匰	vpcp	0.000000
 蟬	vpcp	0.000000
 𫆐	vpcp	0.000000
 𧑂	vpcu	0.000000
@@ -84580,12 +84580,7 @@ encoder:
 𡞍	wdui	0.000000
 𦑐	wdui	0.000000
 𨪭	wduj	0.000000
-鏸	wdul	0.000000
-𦒎	wdul	0.000000
 𨫍	wdul	0.000000
-𫱮	wdul	0.000000
-嫥	wduo	0.000000
-鏄	wduo	0.000000
 𭻋	wdut	0.000000
 𦑾	wduu	0.000000
 䤥	wduw	0.000000
@@ -86471,7 +86466,12 @@ encoder:
 𩐱	wpay	0.000000
 𮷴	wpb	0.000000
 𫓆	wpbo	0.000000
-嬋	wpc	0.000000
+鏸	wpc	0.000000
+𦒎	wpcl	0.000000
+𫱮	wpcl	0.000000
+嫥	wpco	0.000000
+鏄	wpco	0.000000
+嬋	wpcp	0.000000
 𠓊	wpcp	0.000000
 𦧴	wpcp	0.000000
 𨭐	wpcp	0.000000
@@ -86632,8 +86632,6 @@ encoder:
 𧢒	wqdj	0.000000
 𧢓	wqdj	0.000000
 𨮫	wqdl	0.000000
-𡤛	wqdo	0.000000
-𮎀	wqdo	0.000000
 㚯	wqe	0.000000
 𨧤	wqel	0.000000
 𫰳	wqel	0.000000
@@ -86683,6 +86681,8 @@ encoder:
 𦐩	wqov	0.000000
 𫲑	wqoy	0.000000
 𨪃	wqpd	0.000000
+𡤛	wqpo	0.000000
+𮎀	wqpo	0.000000
 㜛	wqpq	0.000000
 𨩎	wqq	0.000000
 𪥪	wqqj	0.000000
@@ -88745,15 +88745,9 @@ encoder:
 𨼮	xdud	0.000000
 𲉎	xdud	0.000000
 𩂼	xdue	0.000000
-𩃘	xdui	0.000000
 𨊗	xduk	0.000000
 𨼧	xduk	0.000000
-䧥	xdul	0.000000
 靄	xdun	0.000000
-䧠	xduo	0.000000
-竱	xduo	0.000000
-𩅂	xduo	0.000000
-𭷰	xduo	0.000000
 𩄪	xdur	0.000000
 𲊒	xdut	0.000000
 陒	xduw	0.000000
@@ -90232,7 +90226,13 @@ encoder:
 𲊂	xpar	0.000000
 𩄓	xpay	0.000000
 郶	xpb	0.000000
-軃	xpc	0.000000
+𩃘	xpc	0.000000
+䧥	xpcl	0.000000
+竱	xpco	0.000000
+䧠	xpco	0.000000
+𩅂	xpco	0.000000
+𭷰	xpco	0.000000
+軃	xpcp	0.000000
 𨼒	xpcp	0.000000
 𩅦	xpcp	0.000000
 𩉁	xpcp	0.000000
@@ -91435,7 +91435,6 @@ encoder:
 𬂷	yada	0.000000
 杓	yadi	0.000000
 柌	yadk	0.000000
-檲	yado	0.000000
 𣔛	yadr	0.000000
 𣟖	yads	0.000000
 𣛱	yady	0.000000
@@ -91522,6 +91521,7 @@ encoder:
 𮲻	yaph	0.000000
 𢻾	yapm	0.000000
 𣏽	yapm	0.000000
+檲	yapo	0.000000
 㭄	yaps	0.000000
 㭜	yaps	0.000000
 𧮬	yaps	0.000000
@@ -91874,8 +91874,6 @@ encoder:
 𰘆	yduh	0.000000
 𣚢	yduj	0.000000
 𨕹	yduj	0.000000
-𬰶	ydul	0.000000
-槫	yduo	0.000000
 𣚐	ydur	0.000000
 𮙍	yduw	0.000000
 㭥	ydv	0.000000
@@ -93418,6 +93416,8 @@ encoder:
 𭬪	ypca	0.000000
 櫭	ypcd	0.000000
 𱤳	ypcd	0.000000
+𬰶	ypcl	0.000000
+槫	ypco	0.000000
 樿	ypcp	0.000000
 𬻩	ypd	0.000000
 朾	ypdm	0.000000
@@ -95081,7 +95081,6 @@ encoder:
 𬝦	zbdh	0.000000
 𦮄	zbdi	0.000000
 𧁨	zbdi	0.000000
-𬟘	zbdl	0.000000
 藅	zbdn	0.000000
 𦲦	zbdo	0.000000
 𮑼	zbdo	0.000000
@@ -95246,6 +95245,7 @@ encoder:
 𧀹	zbpj	0.000000
 𬩦	zbpj	0.000000
 𦶹	zbpk	0.000000
+𬟘	zbpl	0.000000
 𦳫	zbpq	0.000000
 𦳔	zbpt	0.000000
 𮑭	zbpu	0.000000
@@ -95794,7 +95794,6 @@ encoder:
 𦽁	zfdl	0.000000
 蒓	zfdm	0.000000
 𠛲	zfdn	0.000000
-𮓁	zfdo	0.000000
 𫇄	zfdq	0.000000
 𬟄	zfdw	0.000000
 葋	zfe	0.000000
@@ -95935,6 +95934,7 @@ encoder:
 𫉖	zfph	0.000000
 𧃚	zfpj	0.000000
 𬟕	zfpn	0.000000
+𮓁	zfpo	0.000000
 𣣎	zfpq	0.000000
 𬝳	zfpq	0.000000
 𰱡	zfpq	0.000000
@@ -96243,7 +96243,6 @@ encoder:
 𦲺	zhde	0.000000
 𦳄	zhde	0.000000
 𦲴	zhdl	0.000000
-𬞶	zhdl	0.000000
 芿	zhdn	0.000000
 𠠈	zhdn	0.000000
 𦼃	zhdn	0.000000
@@ -96350,6 +96349,7 @@ encoder:
 𦵋	zhph	0.000000
 𫈈	zhpk	0.000000
 𧄅	zhpl	0.000000
+𬞶	zhpl	0.000000
 𦬯	zhps	0.000000
 𮶧	zhqa	0.000000
 𦲤	zhqi	0.000000
@@ -97156,7 +97156,6 @@ encoder:
 𧁪	zmdj	0.000000
 𦴹	zmdl	0.000000
 𦽫	zmdl	0.000000
-𬟉	zmdl	0.000000
 𮑓	zmdm	0.000000
 𦮛	zmdo	0.000000
 𰙎	zmdp	0.000000
@@ -97304,6 +97303,7 @@ encoder:
 𦲉	zmpa	0.000000
 𦭑	zmpd	0.000000
 𦶶	zmph	0.000000
+𬟉	zmpl	0.000000
 𦱞	zmpm	0.000000
 𦿭	zmpv	0.000000
 䓷	zmpx	0.000000
@@ -98676,7 +98676,6 @@ encoder:
 𦲣	zwct	0.000000
 𦲙	zwd	0.000000
 𫇵	zwdn	0.000000
-𫊙	zwdo	0.000000
 𦲼	zwds	0.000000
 𦰰	zwe	0.000000
 𦽋	zwej	0.000000
@@ -98745,6 +98744,7 @@ encoder:
 𬞵	zwp	0.000000
 𨙏	zwpj	0.000000
 𦲝	zwpm	0.000000
+𫊙	zwpo	0.000000
 𫉮	zwpq	0.000000
 𧆐	zwpr	0.000000
 蔁	zwps	0.000000
@@ -99181,7 +99181,6 @@ encoder:
 𨤷	aadk
 𭷿	aadk
 𮫴	aadk
-𩼯	aado
 𢄅	aadr
 𬌮	aadr
 𡵽	aadu
@@ -99302,6 +99301,7 @@ encoder:
 𩷰	aapj
 䵇	aapm
 𪎘	aapm
+𩼯	aapo
 𰕄	aapq
 狨	aaps
 𤜢	aaps
@@ -99764,10 +99764,6 @@ encoder:
 鯁	adue
 㺅	adug
 𡈰	aduk
-𬵪	adul
-𱜵	adul
-團	aduo
-鱄	aduo
 𫙿	adut
 𩺏	aduu
 鮠	aduw
@@ -100438,7 +100434,6 @@ encoder:
 獊	ahdk
 䱽	ahdk
 𬔎	ahdk
-𡈬	ahdo
 𮄂	ahee
 𡇡	ahem
 𱷒	ahen
@@ -100515,6 +100510,7 @@ encoder:
 𢂆	ahoc
 𤝔	ahoc
 𠣥	ahod
+𡈬	ahpo
 𤝦	ahpt
 𢂈	ahqj
 𣭃	ahqm
@@ -101922,7 +101918,11 @@ encoder:
 鰈	apay
 𭸗	apay
 𩽙	apcd
+𬵪	apcl
 𰅒	apcl
+𱜵	apcl
+團	apco
+鱄	apco
 𱜻	apco
 㺗	apcp
 幝	apcp
@@ -104004,11 +104004,9 @@ encoder:
 𫅂	bdss
 稉	bdue
 𭙜	bdue
-穗	bdul
 穂	bdul
 𥡄	bdum
 𥡌	bdum
-𥡵	bduo
 𭙥	bduo
 𢈌	bduw
 𨠥	bduw
@@ -105495,7 +105493,9 @@ encoder:
 𥠓	bpay
 𲆲	bpay
 𭙾	bpbq
+穗	bpcl
 㢜	bpcl
+𥡵	bpco
 𨢿	bpcp
 𬓿	bpcp
 𭙴	bpcp
@@ -107161,7 +107161,6 @@ encoder:
 𰵨	cdru
 𱐫	cdsl
 谵	cdud
-𬤝	cdul
 诡	cduw
 𣄲	cduw
 𤱯	cduw
@@ -107844,6 +107843,7 @@ encoder:
 弽	cpay
 𮟶	cpbb
 𢐆	cpcg
+𬤝	cpcl
 彈	cpcp
 町	cpdt
 甼	cpdt
@@ -108391,7 +108391,6 @@ encoder:
 𧠎	dadj
 詞	dadk
 𬹿	dadk
-𬣍	dado
 硗	dadr
 𱌰	dadr
 礳	dads
@@ -108550,6 +108549,7 @@ encoder:
 𢽕	dapj
 𫾴	dapj
 𢂤	dapo
+𬣍	dapo
 訊	daps
 𥑳	daps
 𬑿	daps
@@ -109056,9 +109056,7 @@ encoder:
 𬂋	dduf
 𧩩	ddug
 𥖷	dduk
-譓	ddul
 𬒩	ddum
-磚	dduo
 𨍃	dduq
 硊	dduw
 詭	dduw
@@ -109955,7 +109953,6 @@ encoder:
 謒	dhdk
 𰧕	dhdk
 𧥰	dhdn
-𬣋	dhdo
 𣂱	dhds
 𢁄	dhdv
 𧪄	dhdy
@@ -110033,6 +110030,7 @@ encoder:
 𧭎	dhoo
 𧞮	dhoq
 𪿰	dhpn
+𬣋	dhpo
 龃	dhqc
 𥔚	dhqc
 𢨷	dhqh
@@ -111461,6 +111459,8 @@ encoder:
 𫌣	dpay
 𱴱	dpbl
 𥗜	dpca
+譓	dpcl
+磚	dpco
 磾	dpcp
 譂	dpcp
 𡂧	dpdn
@@ -111588,7 +111588,6 @@ encoder:
 𫰀	dqdi
 𧩠	dqdj
 𩧕	dqdn
-𮁗	dqdo
 𬻟	dqdr
 砜	dqei
 𧨑	dqel
@@ -111645,6 +111644,7 @@ encoder:
 諪	dqpd
 𥗝	dqpd
 𧮨	dqpe
+𮁗	dqpo
 𠘲	dqqj
 𣭺	dqqm
 𮁀	dqqm
@@ -112191,39 +112191,15 @@ encoder:
 𬻍	duht
 𭮻	duht
 𨊢	duhz
-𭤈	duia
-𤴝	duie
-𭕃	duie
-𦄯	duif
-𬺡	duif
-鷒	duig
-𡭇	duih
 𧭱	duij
-𨖇	duij
-𬨼	duij
-𬩒	duij
 𰺿	duij
 𠵤	duik
-惠	duil
-𢞯	duil
-𢡴	duil
 𤴛	duil
-剸	duin
-𫦂	duin
-專	duio
-𡭏	duio
 䃏	duis
 叀	duis
 謃	duis
 𧈌	duis
-甎	duit
-𫩄	duit
-𡸸	duiu
-𬹢	duiu
-𮋍	duiw
-鄟	duix
 𣓧	duiy
-𫸜	duiz
 𨑿	dujc
 謜	duji
 𮀷	dujj
@@ -113659,8 +113635,6 @@ encoder:
 𡔓	edui
 𱳐	eduk
 𱳙	eduk
-䁣	eduo
-塼	eduo
 𣅎	edur
 𥅏	edur
 𥄝	edus
@@ -115781,6 +115755,8 @@ encoder:
 𥊸	epbl
 壊	epbq
 𡓥	epca
+䁣	epco
+塼	epco
 䵐	epcp
 墠	epcp
 𩴫	epcp
@@ -117507,8 +117483,6 @@ encoder:
 䏤	fadk
 𥿆	fadk
 𭨺	fadk
-糰	fado
-𣎫	fado
 𦀄	fadr
 𰮝	fadr
 𱸼	fadr
@@ -117640,6 +117614,8 @@ encoder:
 𬛁	faox
 𦃫	fapk
 敉	fapm
+糰	fapo
+𣎫	fapo
 絨	faps
 籸	faps
 𡰵	faps
@@ -118270,17 +118246,10 @@ encoder:
 粳	fdue
 綆	fdue
 𦛟	fdue
-𬘄	fduf
 𦂐	fdug
 𦞕	fdug
 𡳘	fduh
 𦁆	fdui
-𦝏	fdui
-繐	fdul
-𫆵	fdul
-䊜	fduo
-縳	fduo
-膞	fduo
 𦡡	fduo
 㫖	fdur
 𥼥	fdur
@@ -120848,6 +120817,13 @@ encoder:
 𭫮	fpay
 𰯕	fpbl
 𮍁	fpbq
+𬘄	fpcf
+𦝏	fpci
+繐	fpcl
+𫆵	fpcl
+䊜	fpco
+縳	fpco
+膞	fpco
 繟	fpcp
 䐷	fpcp
 𦄛	fpct
@@ -122585,7 +122561,6 @@ encoder:
 𥼧	fzcy
 𥿐	fzda
 𥿄	fzdi
-𦇠	fzdl
 𦆶	fzed
 𦢃	fzed
 𦢐	fzei
@@ -122690,6 +122665,7 @@ encoder:
 𫆲	fzph
 𦂍	fzpk
 𰮷	fzpk
+𦇠	fzpl
 䌯	fzpm
 䑏	fzpm
 𬛚	fzpy
@@ -123211,14 +123187,11 @@ encoder:
 𫴃	gduh
 𩘒	gdui
 𰐰	gdui
-寭	gdul
 𫳾	gdul
 𩀈	gdum
 寅	gdun
 𠝳	gdun
 𩤡	gdun
-𪅘	gduo
-𪫖	gduo
 𪧅	gdus
 翧	gduw
 𡧭	gduw
@@ -125018,7 +124991,10 @@ encoder:
 徳	gpbl
 𱚒	gpbo
 𬡁	gpcg
+寭	gpcl
 𪿍	gpcn
+𪅘	gpco
+𪫖	gpco
 𩯂	gpcu
 㓅	gpdb
 㣔	gpdc
@@ -126944,15 +126920,9 @@ encoder:
 𩟋	hdud
 便	hdue
 便	hdue
-𫮯	hdue
 𠊱	hdug
 𩝍	hdug
-𬨽	hduj
-𬩘	hduj
-僡	hdul
 𬾽	hdul
-傳	hduo
-𡦕	hduo
 𫝊	hduo
 𫣣	hduo
 𠍶	hdur
@@ -128776,7 +128746,13 @@ encoder:
 偞	hpay
 䭎	hpay
 𫣜	hpbl
+𫮯	hpce
+𬨽	hpcj
+𬩘	hpcj
 𠐠	hpck
+僡	hpcl
+傳	hpco
+𡦕	hpco
 僤	hpcp
 貚	hpcp
 𪝌	hpct
@@ -130954,9 +130930,6 @@ encoder:
 𭺵	idue
 𧼵	idug
 𨅧	iduk
-𧽢	iduo
-𨄔	iduo
-𩘯	iduo
 𣅱	idur
 𩘤	iduu
 跪	iduw
@@ -132982,6 +132955,9 @@ encoder:
 𧽅	ipay
 𨃭	ipay
 𩘏	ipay
+𧽢	ipco
+𨄔	ipco
+𩘯	ipco
 㲷	ipcp
 䠤	ipcp
 𩘾	ipcp
@@ -135007,12 +134983,8 @@ encoder:
 筻	jdue
 𰠞	jdue
 𥮔	jdui
-韢	jdul
-𫂠	jdul
 𮆻	jdun
-篿	jduo
 𱷱	jdus
-𥶸	jdut
 𭽘	jdut
 𰠓	jdvi
 䇘	jdwj
@@ -137594,10 +137566,14 @@ encoder:
 牃	jpay
 韘	jpay
 簙	jpbo
+韢	jpcl
+𫂠	jpcl
+篿	jpco
 簞	jpcp
 𤾠	jpcp
 𩏥	jpcp
 𥷋	jpcs
+𥶸	jpct
 篯	jpda
 𥰐	jpda
 𭽆	jpdb
@@ -138908,7 +138884,6 @@ encoder:
 𬺾	kadi
 𱓉	kadj
 呞	kadk
-𡁴	kado
 哓	kadr
 𠷧	kadr
 嚰	kads
@@ -139001,6 +138976,7 @@ encoder:
 𫡣	kapi
 呚	kapk
 𭇅	kapk
+𡁴	kapo
 𡃐	kapp
 𠲦	kaps
 吠	kaqk
@@ -139474,9 +139450,7 @@ encoder:
 哽	kdue
 㗋	kdug
 𡂂	kduk
-𠽡	kdul
 𠿴	kduo
-𭉾	kduo
 𠱓	kduw
 𫑣	kdux
 嘎	kdva
@@ -139705,7 +139679,6 @@ encoder:
 𭌚	kfdm
 𱓇	kfdm
 𬗎	kfdo
-𭌯	kfdo
 𠴫	kfdt
 𭍘	kfed
 𠹘	kfej
@@ -139792,6 +139765,7 @@ encoder:
 鹃	kfon
 𤋚	kfor
 𭈩	kfpo
+𭌯	kfpo
 𠹖	kfpq
 𠺼	kfpq
 𠿍	kfpr
@@ -139997,7 +139971,6 @@ encoder:
 𭌞	khdi
 嗆	khdk
 𠯹	khdn
-𡀯	khdo
 𮓰	khdo
 𭑲	khdw
 𱓞	khdy
@@ -140098,6 +140071,7 @@ encoder:
 𡄩	khpl
 𪟔	khpn
 𱓋	khpn
+𡀯	khpo
 𠿮	khpq
 𠯰	khps
 𡆟	khpt
@@ -140616,7 +140590,6 @@ encoder:
 𠷐	kldd
 𭌹	kldi
 呌	kldk
-𭋪	kldo
 𠻜	kldp
 𫫣	kldx
 呟	kldy
@@ -140674,6 +140647,7 @@ encoder:
 𡁙	klpc
 𭉆	klpg
 𭉱	klph
+𭋪	klpo
 𠯥	klps
 𫬍	klqi
 吭	klqj
@@ -141165,6 +141139,8 @@ encoder:
 𡃹	kpca
 𡃢	kpcd
 𡄊	kpch
+𠽡	kpcl
+𭉾	kpco
 嘽	kpcp
 𣃓	kpcs
 嘅	kpcu
@@ -141315,7 +141291,6 @@ encoder:
 𡃩	kqbm
 𰈶	kqbo
 唓	kqck
-囀	kqdo
 哼	kqel
 𭋳	kqfl
 𫪺	kqga
@@ -141353,6 +141328,7 @@ encoder:
 𠼁	kqoy
 嚷	kqpd
 𠷥	kqpd
+囀	kqpo
 𠵒	kqps
 喨	kqqj
 𡀑	kqqo
@@ -143206,16 +143182,11 @@ encoder:
 𭏃	ldue
 𢜴	ldug
 𥚦	ldug
-𭟫	ldug
 𢝼	lduh
 𰨑	lduh
 𢣸	lduk
-憓	ldul
-𥛸	ldul
 𤣨	ldun
-慱	lduo
 𢣀	lduo
-𥛥	lduo
 𢘆	ldur
 𰧳	ldur
 恑	lduw
@@ -144812,6 +144783,11 @@ encoder:
 惵	lpay
 𪍐	lpay
 𢥇	lpca
+𭟫	lpcg
+憓	lpcl
+𥛸	lpcl
+慱	lpco
+𥛥	lpco
 禪	lpcp
 憚	lpcp
 慨	lpcu
@@ -146299,7 +146275,6 @@ encoder:
 𢌮	lzct
 𮵝	lzct
 𱞭	lzct
-𢤺	lzdl
 𢢩	lzea
 𢣒	lzeg
 𢣏	lzeh
@@ -146364,6 +146339,7 @@ encoder:
 𭝩	lzog
 𢞻	lzph
 𢜪	lzpk
+𢤺	lzpl
 懽	lzpm
 𭞖	lzpw
 𪬠	lzpx
@@ -147048,10 +147024,8 @@ encoder:
 𣽃	mduk
 𱩷	mduk
 𱪒	mduk
-潓	mdul
 𠅾	mdum
 𰝯	mdun
-漙	mduo
 𱧈	mduo
 旹	mdur
 𣽉	mdur
@@ -149287,6 +149261,8 @@ encoder:
 𭲖	mpbl
 𣽡	mpbo
 𬉢	mpca
+潓	mpcl
+漙	mpco
 潬	mpcp
 𰜵	mpct
 溉	mpcu
@@ -151035,7 +151011,6 @@ encoder:
 滋	mzdd
 𥁼	mzdh
 𢡛	mzdl
-𪷺	mzdl
 𫴴	mzdo
 満	mzdu
 𤀂	mzea
@@ -151194,6 +151169,7 @@ encoder:
 𱩩	mzpi
 渃	mzpk
 𢢉	mzpl
+𪷺	mzpl
 灌	mzpm
 𤅞	mzpt
 𤂙	mzpv
@@ -151903,9 +151879,6 @@ encoder:
 𬳬	ndue
 𤻭	nduk
 𪒧	nduk
-𪒜	ndul
-𤹵	nduo
-𲋿	nduo
 𭽩	nduw
 𬳎	ndva
 𤹉	ndvj
@@ -153815,6 +153788,9 @@ encoder:
 䮜	npay
 𪑧	npay
 𭪭	npay
+𪒜	npcl
+𤹵	npco
+𲋿	npco
 癉	npcp
 驒	npcp
 𩥺	npct
@@ -153929,7 +153905,6 @@ encoder:
 㾝	nqcb
 𫘙	nqdg
 𫡸	nqdl
-𩧜	nqdo
 疯	nqei
 𤹒	nqei
 㾸	nqgb
@@ -153966,6 +153941,7 @@ encoder:
 𪓃	nqpd
 𫗵	nqpd
 𪒌	nqpn
+𩧜	nqpo
 𩣰	nqps
 𠅽	nqqi
 𲋬	nqqm
@@ -155232,7 +155208,6 @@ encoder:
 𢲚	oadk
 𭠟	oadk
 𢬼	oadm
-㩛	oado
 𰔨	oado
 挠	oadr
 𱠏	oadr
@@ -155330,6 +155305,7 @@ encoder:
 𭡇	oaox
 故	oapg
 撺	oaph
+㩛	oapo
 𢱳	oapr
 扟	oaps
 𢩲	oaps
@@ -155717,11 +155693,8 @@ encoder:
 擔	odud
 𢬎	odud
 挭	odue
-𢮛	odui
 𢮨	odui
-𢴥	odul
 𮲑	odum
-摶	oduo
 㧪	oduw
 𢰁	oduz
 𫼨	odvb
@@ -157158,7 +157131,10 @@ encoder:
 𰔊	opay
 𭢙	opbl
 𱠲	opbo
+𢮛	opci
 勆	opcl
+𢴥	opcl
+摶	opco
 撣	opcp
 𠧈	opcp
 𠧉	opcp
@@ -158914,10 +158890,34 @@ encoder:
 䀈	pchm
 𰾛	pchn
 𰽣	pchs
+𭤈	pcia
+𤴝	pcie
+𭕃	pcie
+𦄯	pcif
+𬺡	pcif
+鷒	pcig
+𡭇	pcih
+𨖇	pcij
+𬨼	pcij
+𬩒	pcij
+惠	pcil
+𢞯	pcil
+𢡴	pcil
+剸	pcin
+𫦂	pcin
+專	pcio
+𡭏	pcio
 𰣜	pcir
 𬭂	pcis
+甎	pcit
+𫩄	pcit
+𡸸	pciu
+𬹢	pciu
+𮋍	pciw
+鄟	pcix
 𮸀	pcix
 𲇷	pcix
+𫸜	pciz
 𭥊	pcjj
 𰭯	pcke
 镪	pckv
@@ -159013,10 +159013,6 @@ encoder:
 𱔈	pdpz
 𫓸	pdrj
 𬬷	pdsj
-𠦽	pdul
-𰾶	pdul
-𫧤	pduo
-䦄	pduq
 𡄿	pduq
 𰽺	pduw
 𢧖	pdva
@@ -159992,6 +159988,10 @@ encoder:
 𢆐	pozg
 钸	ppaj
 𰾕	ppay
+𠦽	ppcl
+𰾶	ppcl
+𫧤	ppco
+䦄	ppcq
 钉	ppdj
 𠒖	ppdr
 衠	ppen
@@ -161108,9 +161108,6 @@ encoder:
 𦪯	qduh
 𨐀	qdui
 𧞟	qduk
-𨎥	qdul
-𰬸	qdul
-轉	qduo
 凬	qdur
 𧝄	qdur
 𠙊	qdut
@@ -162769,6 +162766,9 @@ encoder:
 𬽗	qpbb
 𧞻	qpbe
 𧟀	qpca
+𨎥	qpcl
+𰬸	qpcl
+轉	qpco
 襌	qpcp
 䡲	qpcp
 𦪢	qpcp
@@ -164712,10 +164712,6 @@ encoder:
 𰷜	rdud
 鞕	rdue
 𪸫	rdue
-璤	rdul
-𬋅	rdul
-瑼	rduo
-𤍿	rduo
 𤩚	rdur
 𤩮	rdur
 𤥕	rduw
@@ -166598,6 +166594,10 @@ encoder:
 鞢	rpay
 𰷊	rpay
 𭹹	rpbq
+璤	rpcl
+𬋅	rpcl
+瑼	rpco
+𤍿	rpco
 燀	rpcp
 𤩧	rpcp
 𩍍	rpcp
@@ -168358,7 +168358,6 @@ encoder:
 弄	rzcw
 𤒬	rzdd
 𫠯	rzdf
-𤫃	rzdl
 璥	rzea
 瓂	rzeh
 𤐩	rzeh
@@ -168504,6 +168503,7 @@ encoder:
 鞯	rzph
 𪻷	rzpk
 𰞾	rzpk
+𤫃	rzpl
 瓘	rzpm
 爟	rzpm
 𩀳	rzpm
@@ -169042,8 +169042,6 @@ encoder:
 鲠	sdue
 𣉠	sduf
 𭖯	sdui
-𣩘	sduo
-𱈐	sduo
 𫖵	sduq
 𭮟	sdur
 岳	sdus
@@ -170458,6 +170456,8 @@ encoder:
 殜	spay
 𨵳	spay
 勄	spcl
+𣩘	spco
+𱈐	spco
 殫	spcp
 闡	spcp
 𫠧	spdf
@@ -171813,7 +171813,6 @@ encoder:
 𱰒	tdud
 𮉳	tdue
 𢍖	tduh
-𤮍	tduo
 赖	tdvb
 𪬯	tdvl
 𪘎	tdyc
@@ -172709,6 +172708,7 @@ encoder:
 䶪	tpam
 𠛻	tpan
 𦉃	tpay
+𤮍	tpco
 𦉕	tpcp
 𪙣	tpcp
 𦔙	tpcu
@@ -173739,7 +173739,6 @@ encoder:
 㬅	ubdn
 𫵿	ubdn
 𭦟	ubdn
-𡭍	ubdo
 𡾫	ubdw
 𭗪	ubeg
 曠	ubeh
@@ -173810,6 +173809,7 @@ encoder:
 𪠑	uboc
 𪩉	uboc
 𡹴	ubpn
+𡭍	ubpo
 𠪁	ubpq
 𡻠	ubpr
 𤳐	ubpr
@@ -174226,12 +174226,8 @@ encoder:
 𡺝	udug
 𩩽	udug
 𭧬	uduk
-𪱇	udul
 鼂	udum
 鼌	udum
-暷	uduo
-𪩍	uduo
-𮪴	uduo
 𩍻	udur
 𡵤	udus
 𬚩	uduv
@@ -176278,6 +176274,10 @@ encoder:
 𫨓	upbb
 𭧧	upbo
 𭧵	upbq
+𪱇	upcl
+暷	upco
+𪩍	upco
+𮪴	upco
 㠆	upcp
 暺	upcp
 𡼤	upcp
@@ -176446,8 +176446,8 @@ encoder:
 𱛢	upxs
 𫨘	upyc
 𩩥	upym
-曄	upzo
 㠏	upzo
+曄	upzo
 曅	upzo
 𧠁	upzo
 𪩓	upzo
@@ -178150,7 +178150,6 @@ encoder:
 𱿘	vadi
 𧉠	vadk
 𢿄	vadl
-𧓘	vado
 蛲	vadr
 𮶓	vadr
 𧏈	vadv
@@ -178251,6 +178250,7 @@ encoder:
 𫾬	vape
 敃	vapm
 𦤚	vapo
+𧓘	vapo
 斂	vapq
 𦤠	vapr
 贼	vaps
@@ -178676,8 +178676,6 @@ encoder:
 𫧑	vdud
 𧋑	vdue
 𦗯	vduk
-蟪	vdul
-𧐕	vduo
 𠓤	vdur
 𡵪	vdus
 𧉋	vdus
@@ -179099,7 +179097,6 @@ encoder:
 螥	vhdk
 𠥐	vhdk
 𬚤	vhdk
-𧓆	vhdo
 𫝡	vhet
 𮚒	vhfm
 聄	vhfs
@@ -179153,6 +179150,7 @@ encoder:
 蚹	vhoc
 𧌮	vhod
 𱉔	vhon
+𧓆	vhpo
 𠥡	vhpp
 蛆	vhqc
 𮍙	vhqi
@@ -180031,6 +180029,8 @@ encoder:
 聴	vpbl
 𦗟	vpbl
 𨟡	vpbx
+蟪	vpcl
+𧐕	vpco
 匰	vpcp
 蟬	vpcp
 𫆐	vpcp
@@ -181971,12 +181971,7 @@ encoder:
 𡞍	wdui
 𦑐	wdui
 𨪭	wduj
-鏸	wdul
-𦒎	wdul
 𨫍	wdul
-𫱮	wdul
-嫥	wduo
-鏄	wduo
 𭻋	wdut
 𦑾	wduu
 姽	wduw
@@ -184033,6 +184028,11 @@ encoder:
 𩐱	wpay
 𮷴	wpbl
 𫓆	wpbo
+鏸	wpcl
+𦒎	wpcl
+𫱮	wpcl
+嫥	wpco
+鏄	wpco
 嬋	wpcp
 𠓊	wpcp
 𦧴	wpcp
@@ -184213,8 +184213,6 @@ encoder:
 𧢒	wqdj
 𧢓	wqdj
 𨮫	wqdl
-𡤛	wqdo
-𮎀	wqdo
 㚯	wqei
 𨧤	wqel
 𫰳	wqel
@@ -184272,6 +184270,8 @@ encoder:
 鑲	wqpd
 婷	wqpd
 𨪃	wqpd
+𡤛	wqpo
+𮎀	wqpo
 㜛	wqpq
 𨩎	wqqj
 𪥪	wqqj
@@ -186503,15 +186503,9 @@ encoder:
 𨼮	xdud
 𲉎	xdud
 𩂼	xdue
-𩃘	xdui
 𨊗	xduk
 𨼧	xduk
-䧥	xdul
 靄	xdun
-䧠	xduo
-竱	xduo
-𩅂	xduo
-𭷰	xduo
 𩄪	xdur
 𲊒	xdut
 陒	xduw
@@ -188159,6 +188153,12 @@ encoder:
 𲊂	xpar
 𩄓	xpay
 郶	xpbb
+𩃘	xpci
+䧥	xpcl
+竱	xpco
+䧠	xpco
+𩅂	xpco
+𭷰	xpco
 軃	xpcp
 𨼒	xpcp
 𩅦	xpcp
@@ -189496,7 +189496,6 @@ encoder:
 𬂷	yada
 杓	yadi
 柌	yadk
-檲	yado
 桡	yadr
 𣔛	yadr
 𣟖	yads
@@ -189593,6 +189592,7 @@ encoder:
 枚	yapm
 𢻾	yapm
 𣏽	yapm
+檲	yapo
 㭄	yaps
 㭜	yaps
 𧮬	yaps
@@ -189993,9 +189993,6 @@ encoder:
 𰘆	yduh
 𣚢	yduj
 𨕹	yduj
-橞	ydul
-𬰶	ydul
-槫	yduo
 𣚐	ydur
 桅	yduw
 𮙍	yduw
@@ -191754,6 +191751,9 @@ encoder:
 𭬪	ypca
 櫭	ypcd
 𱤳	ypcd
+橞	ypcl
+𬰶	ypcl
+槫	ypco
 樿	ypcp
 概	ypcu
 𬻩	ypdf
@@ -193641,7 +193641,6 @@ encoder:
 𬝦	zbdh
 𦮄	zbdi
 𧁨	zbdi
-𬟘	zbdl
 莠	zbdn
 藅	zbdn
 𦲦	zbdo
@@ -193820,6 +193819,7 @@ encoder:
 𧀹	zbpj
 𬩦	zbpj
 𦶹	zbpk
+𬟘	zbpl
 𦳫	zbpq
 蔗	zbpr
 𦳔	zbpt
@@ -194428,7 +194428,6 @@ encoder:
 𦽁	zfdl
 蒓	zfdm
 𠛲	zfdn
-𮓁	zfdo
 𫇄	zfdq
 菽	zfdt
 𬟄	zfdw
@@ -194587,6 +194586,7 @@ encoder:
 𫉖	zfph
 𧃚	zfpj
 𬟕	zfpn
+𮓁	zfpo
 𣣎	zfpq
 𬝳	zfpq
 𰱡	zfpq
@@ -194945,7 +194945,6 @@ encoder:
 𦳄	zhde
 蒼	zhdk
 𦲴	zhdl
-𬞶	zhdl
 芿	zhdn
 𠠈	zhdn
 𦼃	zhdn
@@ -195068,6 +195067,7 @@ encoder:
 𦵋	zhph
 𫈈	zhpk
 𧄅	zhpl
+𬞶	zhpl
 𦬯	zhps
 𮶧	zhqa
 苴	zhqc
@@ -195981,7 +195981,6 @@ encoder:
 葴	zmdk
 𦴹	zmdl
 𦽫	zmdl
-𬟉	zmdl
 𮑓	zmdm
 剑	zmdn
 𦮛	zmdo
@@ -196147,6 +196146,7 @@ encoder:
 薜	zmpc
 𦭑	zmpd
 𦶶	zmph
+𬟉	zmpl
 𦱞	zmpm
 葓	zmpn
 𦿭	zmpv
@@ -197693,7 +197693,6 @@ encoder:
 𦲣	zwct
 𦲙	zwdm
 𫇵	zwdn
-𫊙	zwdo
 𦲼	zwds
 𦰰	zwej
 𦽋	zwej
@@ -197772,6 +197771,7 @@ encoder:
 𬞵	zwpg
 𨙏	zwpj
 𦲝	zwpm
+𫊙	zwpo
 𫉮	zwpq
 𧆐	zwpr
 蔁	zwps
