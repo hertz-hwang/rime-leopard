@@ -57,8 +57,6 @@ columns:
 戔	aag	0
 鶟	aag	0
 盞	aah	0
-鮂	aah	0
-鰮	aah	0
 飆	aai	104
 爴	aai	0
 帘	aaj	2331
@@ -439,6 +437,7 @@ columns:
 鮥	akg	0
 窝	akh	4042
 狆	akh	0
+鰮	akh	0
 穵	aki	0
 迴	akj	104
 逥	akj	0
@@ -450,6 +449,7 @@ columns:
 戓	akk	0
 惑	akl	5191
 帜	akn	1126
+鮂	akq	0
 圓	akr	104
 廻	akr	104
 廽	akr	0
@@ -951,7 +951,6 @@ columns:
 稶	baf	0
 醿	baf	0
 鸀	bag	0
-醞	bah	0
 秵	bai	0
 斣	bal	0
 釄	bal	0
@@ -1209,6 +1208,7 @@ columns:
 罥	bkf	104
 酪	bkg	459
 种	bkh	100	bk1
+醞	bkh	0
 乶	bki	0
 稬	bki	0
 酬	bkk	3156
@@ -3902,8 +3902,6 @@ columns:
 粷	faf	0
 肳	faf	0
 膣	fag	104
-縕	fah	0
-膃	fah	0
 胭	fai	454
 絪	fai	0
 胸	faj	11736
@@ -4358,6 +4356,8 @@ columns:
 絡	fkg	104
 肿	fkh	4098
 脶	fkh	104
+縕	fkh	0
+膃	fkh	0
 鹸	fkh	0
 奌	fki	0
 緛	fki	0
@@ -6545,7 +6545,6 @@ columns:
 鷩	iag	0
 龞	iag	0
 蹿	iah	610
-氳	iah	0
 蹩	iai	328
 氤	iai	257
 慶	iaj	104
@@ -6859,6 +6858,7 @@ columns:
 躐	ike	106
 路	ikg	100	ik1
 鷺	ikg	0
+氳	ikh	0
 跞	iki	161
 麌	iki	0
 觅	ikj	1311
@@ -8754,7 +8754,6 @@ columns:
 麴	laf	0
 鸇	lag	0
 惸	lah	0
-慍	lah	0
 懡	lai	0
 恟	laj	104
 邅	laj	104
@@ -9043,6 +9042,7 @@ columns:
 恪	lkg	624
 祸	lkh	4859
 忡	lkh	659
+慍	lkh	0
 祌	lkh	0
 忆	lki	7697
 乧	lki	0
@@ -9548,9 +9548,7 @@ columns:
 汮	mag	0
 潌	mag	0
 盛	mah	12725
-泅	mah	260
 溷	mah	109
-溫	mah	104
 沟	mai	5590
 洇	mai	114
 涵	maj	2501
@@ -10081,6 +10079,7 @@ columns:
 洛	mkg	15841
 涡	mkh	1246
 沖	mkh	137
+溫	mkh	104
 泺	mki	110
 洖	mki	0
 渜	mki	0
@@ -10088,6 +10087,7 @@ columns:
 呇	mkk	104
 洲	mkk	100	mk1
 灉	mkm	0
+泅	mkq	260
 況	mkr	104
 兗	mkr	0
 浧	mkr	0
@@ -11643,7 +11643,6 @@ columns:
 找	oag	100	oa1
 抣	oag	0
 撺	oah	168
-搵	oah	0
 抅	oai	0
 挖	oak	4784
 控	oal	21949
@@ -11979,6 +11978,7 @@ columns:
 擸	oke	0
 捐	okf	2658
 挌	okg	0
+搵	okh	0
 扣	okk	5990
 捌	okn	151
 抧	okn	0
@@ -13068,7 +13068,6 @@ columns:
 毱	qaf	0
 戞	qag	0
 袀	qag	0
-轀	qah	0
 裀	qai	0
 凧	qaj	0
 艃	qal	104
@@ -13443,6 +13442,7 @@ columns:
 衷	qkh	2646
 舯	qkh	104
 衶	qkh	0
+轀	qkh	0
 輭	qki	0
 舰	qkj	19206
 哀	qkk	5428
@@ -13895,7 +13895,6 @@ columns:
 炀	raf	322
 玚	raf	104
 戝	rag	0
-熅	rah	0
 賯	rah	0
 烟	rai	17108
 珚	rai	0
@@ -14285,6 +14284,7 @@ columns:
 烙	rkg	726
 珞	rkg	258
 賂	rkg	0
+熅	rkh	0
 烁	rki	1323
 乮	rki	0
 煗	rki	0
@@ -17551,7 +17551,6 @@ columns:
 鈞	wag	104
 戠	wag	0
 鈛	wag	0
-媼	wah	0
 姻	wai	3084
 嬷	wai	325
 嬎	wai	0
@@ -18084,6 +18083,7 @@ columns:
 娲	wkh	352
 翀	wkh	162
 妕	wkh	0
+媼	wkh	0
 鈡	wkh	0
 娱	wki	1836
 娛	wki	104
@@ -19483,7 +19483,6 @@ columns:
 紮	yaf	104
 椈	yaf	0
 枃	yag	0
-榲	yah	0
 构	yai	100	ya1
 栶	yai	0
 帠	yaj	0
@@ -19954,6 +19953,7 @@ columns:
 栭	yke	0
 梋	ykf	0
 格	ykg	100	yk1
+榲	ykh	0
 栎	yki	243
 朰	yki	0
 枧	ykj	106
@@ -20567,8 +20567,6 @@ columns:
 芴	zaf	104
 鳹	zag	0
 盦	zah	104
-苬	zah	0
-蒕	zah	0
 茵	zai	1268
 芶	zai	104
 荬	zai	104
@@ -21115,6 +21113,7 @@ columns:
 盒	zkh	3549
 莴	zkh	169
 盫	zkh	0
+蒕	zkh	0
 艺	zki	19630
 茣	zki	0
 苋	zkj	196
@@ -21129,6 +21128,7 @@ columns:
 歙	zkp	206
 欱	zkp	0
 颌	zkq	739
+苬	zkq	0
 蒷	zkr	0
 龛	zkv	363
 葺	zkv	185
