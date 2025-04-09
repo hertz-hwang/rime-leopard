@@ -1569,8 +1569,8 @@ encoder:
 耐	koc	0.000075
 焦	mrh	0.000075
 扶	ogf	0.000075
+矛	otp	0.000075
 乔	tin	0.000075
-矛	tov	0.000075
 闲	tym	0.000075
 盾	upe	0.000075
 返	utj	0.000075
@@ -3933,7 +3933,7 @@ encoder:
 睾	tb	0.000005
 阖	teih	0.000005
 囱	tkl	0.000005
-蚤	tovc	0.000005
+蚤	tov	0.000005
 暄	ugd	0.000005
 骼	ukg	0.000005
 晾	uqix	0.000005
@@ -63370,7 +63370,7 @@ encoder:
 𥍭	otos	0.000000
 𥍤	otot	0.000000
 𢸪	otov	0.000000
-𬼀	otp	0.000000
+𬼀	otpd	0.000000
 𥎚	otpe	0.000000
 𥎊	otpj	0.000000
 𢬌	otpo	0.000000
@@ -157886,6 +157886,7 @@ encoder:
 㧞	otpt
 𫼫	otpt
 矠	otpu
+矛	otpv
 ⽭	otpv
 𫼕	otqj
 𣭅	otqm
@@ -172705,7 +172706,6 @@ encoder:
 𦔇	toty
 蚤	tovc
 𰀥	tovi
-矛	tovp
 𨙳	toxe
 𤮌	toxw
 𪪴	tozc

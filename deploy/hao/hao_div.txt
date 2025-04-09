@@ -17678,7 +17678,7 @@
 矘	[目黑,tǎng,CJK]
 矙	[目門ヿ耳攵,kàn,CJK]
 矚	[目尸氺罒勹虫,zhǔ,CJK]
-矛	[丿予,máo,CJK]
+矛	[予丿,máo,CJK]
 矜	[予丿亽ヿ,jīn_qín_guān,CJK]
 矝	[予丿亽龴,jīn,CJK]
 矞	[予丿冂八口,yù_jué_xù,CJK]

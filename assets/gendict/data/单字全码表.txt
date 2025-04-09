@@ -58745,6 +58745,7 @@
 㧞	otpt
 𫼫	otpt
 矠	otpu
+矛	otpv
 ⽭	otpv
 𫼕	otqj
 𣭅	otqm
@@ -73564,7 +73565,6 @@
 𦔇	toty
 蚤	tovc
 𰀥	tovi
-矛	tovp
 𨙳	toxe
 𤮌	toxw
 𪪴	tozc
