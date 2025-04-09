@@ -3288,6 +3288,8 @@
 𩽍	astd
 𩼇	astf
 𩽐	asth
+幱	astn
+𩽥	astn
 𬔑	astp
 鰒	asuj
 𠣴	asuj
@@ -3312,8 +3314,6 @@
 𤲜	asyl
 𤡦	asym
 𬵬	asym
-幱	asyn
-𩽥	asyn
 𤝪	asyq
 𤞢	asyq
 𦍕	asyq
@@ -3408,6 +3408,8 @@
 𮃾	atlr
 𫙛	atlv
 𱮘	atmi
+鰊	atnb
+𢃿	atnb
 鯻	atnd
 𡇿	atnd
 𤟰	atnd
@@ -3441,6 +3443,7 @@
 𲉙	atta
 𩺬	attj
 𠿡	attk
+𰏟	attn
 窡	attt
 𩸯	attt
 𲉐	attt
@@ -3476,7 +3479,6 @@
 𭅄	atyk
 𤞎	atym
 𦊧	atym
-𰏟	atyn
 𩵎	atyv
 𥤦	atyx
 𡆼	atzc
@@ -4154,8 +4156,6 @@
 𥨾	axyd
 𫚀	axys
 𥦣	ayae
-鰊	ayan
-𢃿	ayan
 𤡡	ayan
 𩸳	ayap
 獡	ayar
@@ -6883,6 +6883,7 @@
 㢂	btti
 𢊅	bttj
 𥡈	bttj
+𪩱	bttn
 𢈹	bttp
 𱶒	bttp
 醊	bttt
@@ -6903,7 +6904,6 @@
 𱶀	btxi
 𭙎	btyg
 𥝐	btyh
-𪩱	btyn
 𮂶	btzc
 𰼄	btzc
 庰	btzz
@@ -8909,6 +8909,7 @@
 𰵡	ctlg
 诞	ctlr
 诔	ctly
+谏	ctnb
 𫍞	ctnp
 𬏃	ctnp
 𰵮	ctoa
@@ -8917,13 +8918,13 @@
 𢽛	ctpa
 𤰞	ctps
 𬣷	ctsy
+谰	cttn
 畷	cttt
 𰵷	cttt
 诛	ctvw
 𰢢	ctwu
 𫦧	ctxi
 𢎤	ctyg
-谰	ctyn
 𤰖	ctyt
 𢏳	ctzz
 𤲒	ctzz
@@ -9102,7 +9103,6 @@
 𤳟	cxzy
 ⻈	cy11
 𢡑	cyal
-谏	cyan
 敤	cyap
 㪙	cyap
 𪳿	cybt
@@ -12731,6 +12731,8 @@
 𧭖	dsta
 𪘷	dstc
 𧭸	dstd
+讕	dstn
+䃹	dstn
 謼	dstp
 𥕕	dstp
 𬢱	dsty
@@ -12748,8 +12750,6 @@
 𪿢	dsxs
 䛨	dsxy
 䜜	dsye
-讕	dsyn
-䃹	dsyn
 𥒞	dsys
 𬒌	dsys
 詳	dsyy
@@ -12846,6 +12846,8 @@
 𰵄	dtmi
 𱳨	dtms
 𧦻	dtna
+諫	dtnb
+𠣂	dtnc
 𧩲	dtnd
 𢨽	dtnp
 𧦝	dtnp
@@ -13575,10 +13577,8 @@
 𧥛	dy11
 𧥜	dy11
 𥖔	dyaa
-𠣂	dyac
 𢧊	dyag
 𢩚	dyak
-諫	dyan
 𢽣	dyap
 𢽶	dyap
 𪿥	dyap
@@ -17019,6 +17019,7 @@
 𪔙	ersy
 𪔕	ertf
 𫎭	ertl
+𧹯	ertn
 鼜	ertv
 𧹬	erue
 𱗴	erue
@@ -17053,7 +17054,6 @@
 𪔴	erxi
 䞕	erxk
 𧹥	erye
-𧹯	eryn
 𱝒	eryq
 𦧄	eryr
 𲃇	eryr
@@ -17296,6 +17296,8 @@
 䰮	esta
 𥋟	esta
 𥂎	esth
+𥌻	estn
+𱘘	estn
 㙤	estp
 𭾆	estr
 𮚕	estr
@@ -17334,8 +17336,6 @@
 𥊲	esym
 𥊺	esym
 𰊨	esym
-𥌻	esyn
-𱘘	esyn
 垟	esyt
 幸	esyt
 𦍒	esyt
@@ -17414,6 +17414,8 @@
 䀽	etlr
 𡋃	etlt
 𭎕	etms
+堜	etnb
+𥈵	etnb
 𥈙	etnd
 𱗌	etnd
 垀	etnp
@@ -18012,8 +18014,6 @@
 𥋞	exzi
 墵	exzy
 也	ey11
-堜	eyan
-𥈵	eyan
 𢼢	eyap
 𢽓	eyap
 𭣱	eyap
@@ -22260,6 +22260,9 @@
 𤬖	fstf
 𥽆	fstf
 𩜨	fsth
+䑌	fstn
+𥽭	fstn
+𮉚	fstn
 𮈺	fstp
 𠭮	fstv
 𬗰	fstv
@@ -22287,9 +22290,6 @@
 𦛛	fsxy
 𥹎	fsym
 𦠯	fsym
-䑌	fsyn
-𥽭	fsyn
-𮉚	fsyn
 絴	fsys
 𡱝	fsys
 羘	fsyy
@@ -22381,9 +22381,15 @@
 𪳏	ftmf
 𦟗	ftmi
 𩀘	ftmi
+練	ftnb
+練	ftnb
+練	ftnb
+𥻂	ftnb
+𮌥	ftnb
 𥻃	ftnd
 䉿	ftnp
 𦇛	ftnr
+𬚎	ftnr
 𡱫	ftoa
 𬚾	ftoa
 紁	ftod
@@ -22416,6 +22422,7 @@
 䊚	fttj
 縋	fttj
 𦄥	fttl
+𬖺	fttn
 綴	fttt
 腏	fttt
 𦀁	fttt
@@ -22436,7 +22443,6 @@
 𦚖	ftxi
 𠬵	ftym
 𥸩	ftym
-𬖺	ftyn
 㞋	ftys
 𠬩	ftys
 𠬮	ftys
@@ -23216,16 +23222,10 @@
 冃	fy11
 𠔼	fy11
 𱼀	fy11
-練	fyan
-練	fyan
-練	fyan
-𥻂	fyan
-𮌥	fyan
 𢼾	fyap
 𢽋	fyap
 𦁼	fyap
 𣚻	fyar
-𬚎	fyar
 粣	fycm
 𥹣	fycm
 𥹤	fycm
@@ -26363,11 +26363,14 @@
 㝚	gtlr
 悹	gtlx
 𰌰	gtmh
+徚	gtnb
 鬎	gtnd
 𢔯	gtnd
 𫥑	gtnd
 𪄋	gtng
+𫴨	gtng
 宻	gtnu
+𪧶	gtnu
 𮔉	gtnv
 𬷪	gtny
 䳗	gtoa
@@ -26985,13 +26988,10 @@
 用	gy11
 ⽤	gy11
 𱏹	gy11
-𫴨	gyag
-徚	gyan
 𫥏	gyap
 寫	gyar
 冩	gyar
 𧸹	gyar
-𪧶	gyau
 𫓓	gyaw
 𩬥	gycb
 𰶢	gyel
@@ -30185,6 +30185,7 @@
 𫢨	htlx
 傩	htmi
 们	htmr
+𠋖	htnb
 𠉳	htnd
 𮩆	htni
 𠇼	htnp
@@ -30207,6 +30208,7 @@
 𩛍	htti
 䭔	httj
 𰂨	httj
+𱏓	httn
 餟	httt
 䝌	httt
 𬾧	httt
@@ -30222,7 +30224,6 @@
 𥁔	htxi
 𩚮	htxi
 𫲡	htyi
-𱏓	htyn
 𫨶	htyq
 𱑲	htyq
 仅	htyr
@@ -30844,7 +30845,6 @@
 𩟃	hxzi
 𠎉	hxzy
 𡥑	hyae
-𠋖	hyan
 𠍠	hyao
 𠌋	hyap
 𩜫	hyap
@@ -32100,6 +32100,7 @@
 𨅛	ifta
 𧽎	iftf
 𧗁	ifth
+𲄐	iftn
 𧿸	ifty
 𡚄	ifua
 𲃷	ifud
@@ -32147,7 +32148,6 @@
 𡭒	ifyk
 𪊒	ifyl
 𰸜	ifym
-𲄐	ifyn
 𣱙	ifyq
 䏍	ifys
 𤯝	ifys
@@ -34237,6 +34237,7 @@
 𫏨	issy
 趟	issz
 𨆋	ista
+躝	istn
 𨄥	istp
 𨂟	istr
 𨄆	isuf
@@ -34254,7 +34255,6 @@
 𨅨	isym
 𨅽	isym
 𩙆	isym
-躝	isyn
 氧	isyq
 𧾝	isyt
 𧾩	isyt
@@ -34372,6 +34372,9 @@
 𡮖	itmq
 𡘎	itms
 𬦢	itmu
+𣱨	itnb
+𨃀	itnb
+𰢯	itnb
 𠚺	itnd
 𩘊	itnd
 䴣	itnp
@@ -34415,6 +34418,7 @@
 𰋳	itth
 𨃬	ittj
 𨙂	ittj
+𨅬	ittn
 䞵	ittt
 䟾	ittt
 𨀝	ittt
@@ -34440,7 +34444,6 @@
 䟪	itxi
 𡮯	itxj
 𠬪	itya
-𨅬	ityn
 𧺉	ityz
 𧿘	itzc
 𨁠	itze
@@ -35041,9 +35044,6 @@
 𭷪	ixzk
 𡘹	iyae
 𤔁	iyae
-𣱨	iyan
-𨃀	iyan
-𰢯	iyan
 𡮋	iyap
 𩘄	iyap
 𨱸	iycc
@@ -38767,6 +38767,7 @@
 䉝	jsta
 𥴷	jstf
 𭽢	jstf
+籣	jstn
 𤗭	jstp
 𥲉	jstp
 𥶁	jsts
@@ -38783,7 +38784,6 @@
 𤽝	jsyb
 𭽗	jsyb
 䉎	jsym
-籣	jsyn
 牂	jsyp
 𤖁	jsyp
 𥬴	jsyu
@@ -38844,6 +38844,7 @@
 𬕊	jtlx
 𰑉	jtlx
 𭽖	jtms
+𤗛	jtnb
 𥰍	jtnd
 𬖁	jtnm
 𥬏	jtnp
@@ -38887,6 +38888,7 @@
 𥢮	jttb
 𮆚	jttf
 𠭐	jttl
+𮆏	jttn
 𣤷	jttp
 𫂧	jtts
 𮆞	jtts
@@ -38905,7 +38907,6 @@
 𫨷	jtyb
 𠕀	jtyk
 𣏷	jtym
-𮆏	jtyn
 𠬧	jtyp
 𤕭	jtyp
 𦋌	jtyr
@@ -39469,7 +39470,6 @@
 䉙	jxzy
 𥴈	jyaa
 𥵅	jyal
-𤗛	jyan
 𢾟	jyap
 𤽰	jyap
 𥯍	jyap
@@ -40605,6 +40605,7 @@
 𠶹	kfsk
 𫩹	kfsk
 嘱	kfta
+𭌈	kftn
 瓹	kftw
 𠸾	kftx
 𠰎	kfty
@@ -40632,7 +40633,6 @@
 肙	kfyk
 𠯲	kfyk
 㖼	kfym
-𭌈	kfyn
 𱔲	kfzk
 𭌫	kfzn
 𠶩	kfzo
@@ -42430,6 +42430,7 @@
 𠿿	ksta
 𩐉	kstd
 𡄄	ksth
+㘓	kstn
 嘑	kstp
 𰈿	kstp
 𪢘	ksts
@@ -42451,7 +42452,6 @@
 哶	ksyk
 𠴟	ksyk
 哶	ksyk
-㘓	ksyn
 𰈇	kszy
 㘎	ktaa
 𪢀	ktaa
@@ -42530,6 +42530,7 @@
 𭉼	ktmi
 𫩖	ktmk
 𠰗	ktna
+𠷬	ktnb
 喇	ktnd
 喇	ktnd
 𭃒	ktnd
@@ -42556,6 +42557,7 @@
 𡂜	kttb
 𭌼	kttb
 㗓	kttj
+𪢌	kttn
 𭇨	kttr
 啜	kttt
 嗓	ktty
@@ -42574,7 +42576,6 @@
 叹	ktyk
 𪠲	ktyk
 𰇢	ktym
-𪢌	ktyn
 呏	ktzc
 𡌍	ktze
 𭌿	ktzi
@@ -42954,6 +42955,7 @@
 𰈲	kwtg
 𠲰	kwtk
 𭉏	kwtl
+𡄮	kwtn
 𠸎	kwto
 吚	kwtp
 𭋯	kwtp
@@ -42985,7 +42987,6 @@
 喑	kwyk
 㖽	kwyk
 𠱟	kwym
-𡄮	kwyn
 𫫿	kwzi
 𡆇	kwzt
 𭈘	kxaf
@@ -43109,7 +43110,6 @@
 𫲱	kyah
 嗣	kyak
 𭊂	kyal
-𠷬	kyan
 𠶣	kyap
 𫬕	kyau
 𠿽	kybf
@@ -46149,6 +46149,8 @@
 惝	lssx
 𢣂	lsta
 𢤯	lstd
+㦨	lstn
+斕	lstn
 㦆	lstp
 𪬔	lstv
 𱞦	lsty
@@ -46164,8 +46166,6 @@
 𭝬	lswj
 𭝅	lsxx
 𢡿	lsym
-㦨	lsyn
-斕	lsyn
 㦦	lsyr
 祥	lsys
 祥	lsys
@@ -46258,6 +46258,8 @@
 𫺓	ltlx
 𰑒	ltlx
 𫹰	ltmx
+𢛔	ltnb
+𱞫	ltnb
 𠛡	ltnd
 𥚲	ltnd
 懶	ltnr
@@ -46287,6 +46289,7 @@
 𥙢	ltti
 𪌤	ltti
 𢟋	lttj
+斓	lttn
 辪	ltts
 𥜕	ltts
 惙	lttt
@@ -46312,7 +46315,6 @@
 邲	ltxe
 𠬚	ltyj
 叏	ltyk
-斓	ltyn
 𫻁	ltyr
 𱝽	ltyx
 𢗢	ltzc
@@ -46992,8 +46994,6 @@
 𮵟	lxys
 𢠣	lxyu
 鿅	lxzi
-𢛔	lyan
-𱞫	lyan
 𮁧	lycs
 𫿯	lycw
 𫀕	lyda
@@ -50743,6 +50743,7 @@
 瀣	mstd
 澯	mstf
 𭤨	mstf
+瀾	mstn
 滹	mstp
 𤁕	msts
 旊	mstw
@@ -50795,7 +50796,6 @@
 𬀡	msyi
 澖	msym
 𬈷	msym
-瀾	msyn
 旟	msyn
 𤂓	msyn
 𬀣	msyn
@@ -50897,6 +50897,8 @@
 𣳛	mtms
 𰛉	mtms
 𱨸	mtmw
+𣿊	mtna
+湅	mtnb
 溂	mtnd
 𤀦	mtnd
 𥖍	mtnd
@@ -50932,6 +50934,7 @@
 𡴎	mtti
 𣳨	mtti
 𰸷	mtti
+澜	mttn
 㔎	mttn
 𠦭	mttp
 辥	mtts
@@ -50959,7 +50962,6 @@
 𠬢	mtyc
 隻	mtyi
 𰛵	mtym
-澜	mtyn
 𠮃	mtyp
 汉	mtys
 𢦬	mtyu
@@ -51666,11 +51668,9 @@
 𮳗	mxzn
 澐	mxzy
 𣼩	mxzz
-𣿊	myaa
 㳐	myae
 𣺅	myaf
 𪜚	myak
-湅	myan
 𱦲	myap
 潟	myar
 𣳷	mycs
@@ -55038,6 +55038,7 @@
 𲋧	nsss
 癣	nssy
 𲌃	nsta
+𬐁	nstn
 𤹣	nstp
 𤻬	nsts
 䵰	nsuf
@@ -55061,7 +55062,6 @@
 𤺛	nsym
 𩣆	nsym
 𩦃	nsym
-𬐁	nsyn
 𩰕	nsyr
 𮊤	nsyw
 𣂬	nszj
@@ -58465,6 +58465,7 @@
 㩘	osta
 𪘔	ostc
 𢷂	ostf
+攔	ostn
 摢	ostp
 𬁝	ostu
 𢲬	ostv
@@ -58501,7 +58502,6 @@
 𪎇	osyl
 梊	osym
 𢴤	osym
-攔	osyn
 𣫞	osyr
 𣫩	osyr
 𪭰	osys
@@ -58713,6 +58713,7 @@
 𥍥	otmu
 𥍠	otna
 𥍽	otna
+揀	otnb
 揦	otnd
 𢲏	otne
 𥂂	otnh
@@ -59247,7 +59248,6 @@
 业	oy11
 𠁁	oy11
 𢫄	oyae
-揀	oyan
 𱠇	oyap
 𪭪	oycs
 𢹳	oydh
@@ -61060,6 +61060,7 @@
 𫔇	ptkw
 𮸎	ptlx
 钔	ptmj
+𫔀	ptnb
 锇	ptoa
 犮	ptod
 钗	ptod
@@ -61076,6 +61077,7 @@
 𰝸	ptrh
 𨱈	ptsj
 𬭨	pttj
+镧	pttn
 𲇵	ptty
 锏	ptur
 𬁡	ptur
@@ -61085,7 +61087,6 @@
 𰅡	ptwb
 㼗	ptwd
 𨙴	ptxe
-镧	ptyn
 友	ptys
 嚴	puaa
 锡	puaf
@@ -61379,7 +61380,6 @@
 铲	pxuc
 𬭏	pxur
 镄	pxvb
-𫔀	pyan
 𠦩	pyap
 𫟶	pycj
 𪟣	pycl
@@ -64079,6 +64079,8 @@
 艤	qsta
 轙	qsta
 𦪫	qstf
+襴	qstn
+𨏭	qstn
 䡾	qsua
 複	qsuj
 輹	qsuj
@@ -64105,8 +64107,6 @@
 𠙌	qsyj
 槧	qsym
 𱻋	qsym
-襴	qsyn
-𨏭	qsyn
 𦨊	qtae
 䡯	qtal
 𪙠	qtca
@@ -64168,6 +64168,7 @@
 𫺚	qtlx
 𰚍	qtmm
 𧘧	qtna
+𱺧	qtnb
 軤	qtnp
 𮎇	qtnp
 𦩆	qtoa
@@ -64190,6 +64191,7 @@
 𨋱	qtti
 缒	qttj
 𮖦	qttj
+襕	qttn
 𰹚	qttp
 裰	qttt
 缀	qttt
@@ -64217,7 +64219,6 @@
 𮕧	qtyi
 凤	qtyj
 𠘫	qtyj
-襕	qtyn
 𩫆	qtzc
 𮕭	qtzc
 輧	qtzz
@@ -64704,7 +64705,6 @@
 頁	qy11
 页	qy11
 ⻚	qy11
-𱺧	qyan
 𦩚	qyap
 𧛉	qyap
 𫋿	qyap
@@ -68195,6 +68195,10 @@
 燦	rstf
 璨	rstf
 爘	rsth
+爛	rstn
+䪍	rstn
+瓓	rstn
+爛	rstn
 㻯	rstp
 𤨪	rsty
 𬋁	rsty
@@ -68227,10 +68231,6 @@
 𤩡	rsyg
 𩊑	rsyg
 烊	rsyh
-爛	rsyn
-䪍	rsyn
-瓓	rsyn
-爛	rsyn
 珜	rsyw
 𪸰	rtak
 璁	rtal
@@ -68327,9 +68327,13 @@
 𰡺	rtlw
 焖	rtlx
 𪹠	rtmi
+瑓	rtnb
+煉	rtnb
+煉	rtnb
 㻝	rtnd
 𤊶	rtnd
 𩋷	rtnd
+𬋆	rtnh
 𪸲	rtnk
 烀	rtnp
 珴	rtoa
@@ -68355,6 +68359,8 @@
 㷟	rttj
 𤧫	rttj
 𩌝	rttj
+𬎑	rttn
+𱁽	rttn
 㷆	rttp
 𤦞	rttp
 𬊷	rttr
@@ -68380,8 +68386,6 @@
 𠭁	rtyb
 𰆱	rtyb
 𤆌	rtyh
-𬎑	rtyn
-𱁽	rtyn
 𪻍	rtyw
 𭐟	rtyx
 𤆭	rtzc
@@ -69077,10 +69081,6 @@
 ⽛	ry11
 㸦	ry11
 𧹇	ryaa
-𬋆	ryah
-瑓	ryan
-煉	ryan
-煉	ryan
 𩍆	ryar
 𤦥	ryat
 𧵡	rycb
@@ -71683,6 +71683,7 @@
 殩	sstf
 𩾍	sstf
 𬆝	ssth
+𣩼	sstn
 殤	ssuf
 鳆	ssuj
 𦎭	ssuj
@@ -71704,7 +71705,6 @@
 𦍲	ssyd
 𣩝	ssym
 𭪴	ssym
-𣩼	ssyn
 鲜	ssyv
 𫅓	ssyy
 鲿	sszy
@@ -71777,6 +71777,10 @@
 𨴖	stms
 𢧶	stna
 𱿓	stna
+𬶠	stnb
+㱫	stnb
+闌	stnb
+𨐤	stnb
 𨝞	stnb
 𬶟	stnd
 𩨉	stnd
@@ -72286,10 +72290,6 @@
 𦍋	sy11
 𦍌	sy11
 𦍍	sy11
-𬶠	syan
-闌	syan
-㱫	syan
-𨐤	syan
 𢿧	syap
 𢿵	syap
 𢿶	syap
@@ -73438,6 +73438,7 @@
 𦉂	tnal
 𦔉	tnal
 𬎮	tnal
+㪝	tnap
 𠬴	tnas
 𪙭	tnau
 𰿼	tnau
@@ -73447,6 +73448,7 @@
 𦓧	tnbl
 罇	tnbo
 乊	tnbp
+柬	tnbs
 阐	tncp
 𠂞	tnda
 𠠚	tndc
@@ -73454,16 +73456,20 @@
 㓡	tndf
 𠛺	tndf
 阕	tndi
+𧡴	tndj
 𠛨	tndl
 剌	tnds
 𠚫	tndy
 𥻌	tnfm
+𢒞	tnfs
 𬮹	tngd
+鶫	tngn
 𮤸	tnhm
 𪙒	tnhu
 𬮦	tnid
 𪙅	tnit
 乥	tnki
+𫌫	tnkj
 齠	tnkk
 𮋧	tnkk
 阅	tnkr
@@ -73502,7 +73508,11 @@
 𰿨	tnre
 𪈎	tnrg
 𪈐	tnrg
+㼑	tnsg
+𬮔	tnsg
 𪘼	tntc
+𣞰	tnty
+𣍃	tnuh
 𰭄	tnvb
 𫊫	tnvc
 𱿴	tnvc
@@ -73819,6 +73829,7 @@
 𠬽	ttly
 𨹇	ttmo
 𱁃	ttmp
+阑	ttnb
 𠚿	ttnd
 𠠅	ttnd
 𫡱	ttne
@@ -74204,7 +74215,6 @@
 齴	txuf
 又	ty11
 ⼜	ty11
-阑	tyan
 𥡤	tybr
 𥡱	tybr
 𠂥	tycp
@@ -75909,6 +75919,7 @@
 𫨎	uhta
 𭗅	uhtf
 𰌮	uhtf
+朄	uhtn
 𭺽	uhtp
 叟	uhty
 𭦘	uhtz
@@ -75936,7 +75947,6 @@
 𡻓	uhxk
 𡸏	uhxl
 𭥶	uhym
-朄	uhyn
 𣌾	uhyu
 䯎	uhzg
 䯎	uhzg
@@ -77721,6 +77731,7 @@
 㬢	usta
 嶬	usta
 𰏀	usth
+𰖻	ustn
 𡻻	ustp
 𣋩	usts
 巘	usua
@@ -77743,7 +77754,6 @@
 𫨇	usyc
 𭨈	usye
 𭧴	usym
-𰖻	usyn
 𱢂	usyr
 㟄	usys
 𭖓	usys
@@ -77799,6 +77809,7 @@
 𭖮	utlr
 𭦋	utlr
 𰖠	utmi
+暕	utnb
 峨	utoa
 峩	utoa
 𠩙	utoa
@@ -77822,6 +77833,7 @@
 𩨽	utti
 𩪀	uttj
 𬩫	uttj
+𬁘	uttn
 𡸠	uttp
 𡽷	uttr
 𡿢	uttr
@@ -77848,7 +77860,6 @@
 𣆅	utxi
 反	utyc
 𬴲	utyg
-𬁘	utyn
 𫵴	utys
 𭖀	utys
 𪠧	utyx
@@ -78652,7 +78663,6 @@
 由	uy11
 ⽈	uy11
 嶘	uyaa
-暕	uyan
 𢿁	uyap
 𣈕	uyap
 㕐	uyar
@@ -79521,6 +79531,7 @@
 砻	vdsl
 𰦱	vdsm
 𰘦	vdsp
+𫋨	vdtn
 𦖄	vdua
 赡	vdud
 蟾	vdud
@@ -79559,7 +79570,6 @@
 尮	vdym
 𧊱	vdym
 𬟼	vdym
-𫋨	vdyn
 𧥧	vdyx
 蚈	vdzc
 𧊞	vdzn
@@ -81215,6 +81225,7 @@
 𧓳	vssr
 蟻	vsta
 𧒷	vstf
+𧕗	vstn
 𬠦	vstp
 𧓩	vstr
 𰳡	vsts
@@ -81237,7 +81248,6 @@
 蛘	vsyc
 䖹	vsyc
 蝆	vsyc
-𧕗	vsyn
 𦕮	vtaa
 𧋙	vtaj
 𫑍	vtaj
@@ -81301,6 +81311,7 @@
 𮓳	vtmc
 𣷗	vtms
 𱏱	vtmu
+𧍴	vtnb
 蝲	vtnd
 䏀	vtnd
 𠓧	vtnp
@@ -82031,7 +82042,6 @@
 尢	vy11
 𧉹	vyae
 𱼨	vyae
-𧍴	vyan
 𰨲	vybh
 𧒺	vycc
 𦖙	vyda
@@ -85448,6 +85458,10 @@
 𨮏	wstf
 𪞆	wstf
 𫱼	wstf
+孄	wstn
+鑭	wstn
+𠓖	wstn
+𦧼	wstn
 嫭	wstp
 鏬	wstp
 钀	wsua
@@ -85484,10 +85498,6 @@
 䥜	wsym
 鏿	wsym
 𡡢	wsym
-孄	wsyn
-鑭	wsyn
-𠓖	wsyn
-𦧼	wsyn
 𫰧	wsyn
 𫅧	wsyv
 𡢥	wsyy
@@ -85656,6 +85666,10 @@
 𫱞	wtmi
 𱙅	wtmn
 𢑗	wtms
+鍊	wtnb
+媡	wtnb
+鍊	wtnb
+𠒵	wtnb
 𡞸	wtnd
 𡝾	wtnj
 駑	wtnm
@@ -85700,6 +85714,7 @@
 𡜥	wtti
 鎚	wttj
 𡟴	wttj
+𫝮	wttn
 𮢌	wttp
 𡣒	wtts
 娺	wttt
@@ -85739,7 +85754,6 @@
 𨥁	wtyj
 娴	wtym
 奴	wtyn
-𫝮	wtyn
 𡛈	wtzc
 𦐒	wtzc
 𦧌	wtzc
@@ -86525,10 +86539,6 @@
 ⾴	wy11
 𨥼	wyae
 𡞭	wyaj
-鍊	wyan
-媡	wyan
-鍊	wyan
-𠒵	wyan
 𨨦	wyap
 𭒥	wycc
 銏	wycj
@@ -90426,19 +90436,9 @@
 𣙪	yamm
 𪳜	yamr
 𰞽	yamr
-㪝	yana
-柬	yanb
-𧡴	yand
-𢒞	yanf
-鶫	yang
-𬮔	yang
-𣍃	yanh
 𣑌	yank
-𫌫	yank
 𣑟	yanq
-㼑	yans
 𣙢	yanw
-𣞰	yany
 杓	yaod
 棝	yaog
 𫛠	yaon
@@ -93003,6 +93003,8 @@
 𪴒	ysss
 檥	ysta
 𱤝	ystf
+欄	ystn
+欄	ystn
 㯉	ystp
 𬅀	ysts
 𣡌	ysua
@@ -93030,8 +93032,6 @@
 椞	ysym
 橖	ysym
 𣖪	ysym
-欄	ysyn
-欄	ysyn
 𣟬	ysyu
 𪪸	yszc
 𱣘	ytag
@@ -93120,6 +93120,7 @@
 𣗙	ytmi
 𭩛	ytmm
 𣐰	ytna
+楝	ytnb
 楋	ytnd
 㭔	ytnp
 𪲘	ytoa
@@ -93142,6 +93143,7 @@
 𣜖	ytth
 桘	ytti
 槌	yttj
+𱤚	yttn
 𫞌	yttr
 𣝬	ytts
 𬄸	ytts
@@ -93172,7 +93174,6 @@
 𣑔	ytym
 𰗒	ytym
 𱣡	ytym
-𱤚	ytyn
 𣡡	ytyo
 𣡸	ytyo
 𬅍	ytyo
@@ -93689,7 +93690,6 @@
 𦦁	yyae
 𬩊	yyaj
 𰙆	yyal
-楝	yyan
 𱤈	yyao
 㪔	yyap
 𢽳	yyap
@@ -97052,6 +97052,7 @@
 𦳸	zmtk
 𦿞	zmtl
 劐	zmtn
+𮑔	zmtn
 𮶹	zmtn
 𬜧	zmto
 𣤨	zmtp
@@ -97122,7 +97123,6 @@
 莯	zmym
 蘗	zmym
 𦺴	zmym
-𮑔	zmyn
 𦱈	zmyo
 𧂙	zmyr
 𦴬	zmzc
@@ -97990,6 +97990,8 @@
 𧂊	zstd
 薒	zstf
 𮐏	zstg
+蘭	zstn
+蘭	zstn
 蔖	zsud
 薚	zsuf
 𰱦	zsuj
@@ -98011,8 +98013,6 @@
 䔵	zsym
 𦸯	zsym
 𦼕	zsym
-蘭	zsyn
-蘭	zsyn
 𦸳	zszc
 𫉑	zszg
 𦯭	ztae
@@ -98084,6 +98084,7 @@
 蔺	ztmi
 𬝴	ztmi
 𧄡	ztmy
+萰	ztnb
 䓶	ztnd
 𧄃	ztnm
 苸	ztnp
@@ -98115,6 +98116,7 @@
 𪎃	zttl
 㔑	zttn
 𠟝	zttn
+𬞕	zttn
 𦰺	zttp
 𭣕	zttp
 𦷊	zttr
@@ -98140,7 +98142,6 @@
 𦭈	ztwc
 䒦	ztxi
 𦫿	ztyc
-𬞕	ztyn
 𦬱	ztzc
 𦱱	ztzc
 𦭊	ztzo
@@ -98840,7 +98841,6 @@
 𠫓	zy11
 𠫔	zy11
 𦱉	zyae
-萰	zyan
 𦯪	zyao
 𢽫	zyap
 𢾣	zyap
