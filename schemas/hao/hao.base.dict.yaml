@@ -727,8 +727,8 @@ columns:
 帙	atg	160
 麽	ati	1997
 穾	ati	0
-窗	atj	100	at1
 狅	atj	0
+窗	atk	100	at1
 獢	atk	0
 鱎	atk	0
 窸	atl	181
@@ -10189,6 +10189,7 @@ columns:
 劈	mnd	3875
 碆	mnd	0
 濹	mne	0
+渊	mnf	2896
 溯	mnf	1228
 粱	mnf	537
 洕	mnf	0
@@ -10494,7 +10495,6 @@ columns:
 汑	mtc	0
 糱	mtf	0
 泆	mtg	104
-渊	mth	2896
 洫	mth	106
 孼	mth	0
 澳	mti	5015
@@ -15506,7 +15506,6 @@ columns:
 币	taj	9464
 遫	taj	0
 整	tal	100	ta1
-悤	tal	0
 慗	tal	0
 瓼	tal	0
 齺	tam	0
@@ -15644,6 +15643,7 @@ columns:
 囟	tkl	169
 恖	tkl	104
 囪	tkl	0
+悤	tkl	0
 齞	tkn	0
 顖	tkw	0
 鄅	tkx	104
