@@ -15,11 +15,23 @@ schema:
     - leopard_sentence
 
 __patch:
-  - switches/@0/reset: 0    # GB2312字集
-  - switches/@6/reset: 0    # 注解
-  - switches/@9/reset: 0    # lazy_clock
-  - engine/translators/@after 2: script_translator@smart
-  - engine/filters/@before 0: lua_filter@*leopard.mark_smart_filter
+  switches/@0/reset: 0    # GB2312字集
+  switches/@6/reset: 0    # 注解
+  switches/@9/reset: 0    # lazy_clock
+  engine/translators/@after 2: script_translator@smart
+  engine/filters/@before 0: lua_filter@*leopard.mark_smart_filter
+  switches/@next:
+    name: emoji_suggestion
+    reset: 1
+    states: [ "🈚︎", "🈶️" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: none
+    inherit_comment: false
+
 speller:
   alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
   max_code_length: 5
