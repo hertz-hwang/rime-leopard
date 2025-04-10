@@ -114,6 +114,7 @@ gen_schema() {
     cat "${HAO}/fullcode.txt" >>"${HAO}/hao.full.dict.yaml"
     #cat "${HAO}/hao.smart.txt" >"${HAO}/hao.smart.txt"
     cat "${HAO}/div.txt" >"${HAO}/opencc/hao_div.txt"
+    cat "${HAO}/div.txt" | sed "s/(/[/g" | sed "s/)/]/g" >>"${HAO}/leopard_spelling_pseudo.dict.yaml"
 
     # 生成词典
     log "生成词典..."
