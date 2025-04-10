@@ -15600,6 +15600,7 @@
 𡍈	ejaj
 𥅹	ejaj
 矈	ejam
+𤂟	ejam
 壔	ejao
 𥌆	ejao
 𰥧	ejap
@@ -15641,6 +15642,7 @@
 𭂿	ejdl
 䁻	ejdy
 𡒺	ejdy
+𧩾	ejdy
 䰣	ejee
 𡒽	ejee
 𱗱	ejef
@@ -15785,6 +15787,7 @@
 𥊎	ejoy
 𰅱	ejps
 𫭡	ejpt
+𨍒	ejqc
 䁃	ejqi
 𭎫	ejqi
 𠙓	ejqj
@@ -15830,6 +15833,9 @@
 㙔	ejwt
 𫩃	ejwt
 垹	ejxe
+𥪡	ejxl
+𩈵	ejxm
+𣔿	ejym
 㙮	ejzk
 𪾾	ejzk
 可	ek11
@@ -17092,22 +17098,15 @@
 壋	esct
 𰦄	esct
 𨢒	esdb
-𧩾	esdd
 𥊇	esde
 𪇖	esdg
 𡦋	esdh
-𥃉	esdh
 坵	esdi
 𥅔	esdi
-𤂟	esdm
-𨍒	esdq
 𡮻	esdt
 𥇸	esdu
 𱗀	esdu
-𥪡	esdx
-𩈵	esdx
 壛	esdy
-𣔿	esdy
 𥌸	esdy
 𢆪	esea
 𱝁	esea
@@ -17228,6 +17227,7 @@
 𡊻	esnd
 𥆁	esnd
 矘	esnh
+𥃉	esnh
 𭾋	esnh
 𰋆	esnh
 墡	esnk
@@ -37372,6 +37372,7 @@
 籉	jjkg
 𤗿	jjkg
 𱋓	jjkg
+𩏛	jjkh
 𪎉	jjkj
 𠔽	jjkk
 𠕄	jjkk
@@ -38689,7 +38690,6 @@
 𤗾	jsct
 𨟭	jscx
 𱸐	jsda
-𩏛	jsdh
 𥬨	jsdi
 𪽽	jsdi
 𬋿	jsdp
@@ -59087,6 +59087,7 @@
 𢱥	owgt
 𫾉	owgx
 摎	owhf
+𭢢	owhl
 拟	owhr
 掾	owhs
 攭	owhv
@@ -59148,7 +59149,6 @@
 揩	owwj
 𠁰	owwj
 𢬞	owwj
-𭢢	owwl
 𫼣	owwp
 𢺚	owxa
 𩑶	owyg
@@ -86209,6 +86209,7 @@
 𮋀	wwhg
 𬫓	wwhi
 𮊿	wwhl
+𮣎	wwhl
 𡟼	wwho
 姒	wwhr
 鉯	wwhr
@@ -86369,7 +86370,6 @@
 鍇	wwwj
 𠨒	wwwj
 𠨕	wwwj
-𮣎	wwwl
 姦	wwwn
 𡛗	wwwn
 𩤦	wwwn
@@ -93526,6 +93526,7 @@
 樛	ywhf
 豂	ywhf
 𣟇	ywhh
+𣚉	ywhl
 𮲯	ywhr
 椽	ywhs
 欚	ywhv
@@ -93572,7 +93573,6 @@
 枇	ywwb
 梐	ywwe
 楷	ywwj
-𣚉	ywwl
 𫖒	ywwp
 𮲰	ywwp
 榋	ywww

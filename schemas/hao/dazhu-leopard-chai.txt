@@ -42058,7 +42058,7 @@
 木⺮干,YmJuZg	𣔼
 癶一大木,NbDiIdYm	𣔽
 木丷豕,YmNbHs	𣔾
-臣𠂉一木,EcStDiYm	𣔿
+臣木,EcJuYm	𣔿
 木厶厶厶,YmIsIsOs	𣕀
 女土土木,WnEtEtYm	𣕁
 木丷夫巾,YmNbGfAj	𣕂
@@ -42388,7 +42388,7 @@
 木一一一,YmDiMcMc	𣚆
 十口冖勹巳木,PsKkGgYm	𣚇
 木厶厶厶人⺗,YmIsIsLx	𣚈
-木彐彐人⺗,YmWjWjLx	𣚉
+木羽人⺗,YmWvHrLx	𣚉
 木而而,YmKeKe	𣚊
 木⺿耳阝,YmZcVeXe	𣚋
 木冖巾口,YmXlGgKk	𣚌
@@ -44970,7 +44970,7 @@
 氵瓜瓜瓜,MsSgSgSg	𤂜
 氵雨水,MsXvMs	𤂝
 尸火日勹水,FsRhUrMs	𤂞
-臣𠂉一囗口水,EcStDiMs	𤂟
+臣囗口水,EcJuAkMs	𤂟
 氵土厶皿土厶,MsEtIsIs	𤂠
 氵艹土八一日厶,MsZcEtIs	𤂡
 氵一鹿,MsDiRhIl	𤂢
@@ -49108,7 +49108,7 @@
 臣罒皿,EcJuBsHm	𥃆
 田田田皿,CtCtCtHm	𥃇
 虍囗皿,ShAkFmHm	𥃈
-臣𠂉一一心丿皿,EcStDiHm	𥃉
+臣𠂉二心丿皿,EcStNeHm	𥃉
 幺大攵皿,DyIdSyHm	𥃊
 亼口皿虍与,ZiKkHmNy	𥃋
 辛木人人皿,SxYmHrHm	𥃌
@@ -51628,7 +51628,7 @@
 竜冂人,VlJkHr	𥪞
 立冖巾,XlXlGgAj	𥪟
 立冖車,XlGgQc	𥪠
-臣𠂉一立,EcStDiXl	𥪡
+臣立,EcJuXl	𥪡
 立里八,XlAlNb	𥪢
 立厶龶夂,XlIsJfJi	𥪣
 立耂日,XlRlUr	𥪤
@@ -59785,7 +59785,7 @@
 言㇏一大,DyJfOdId	𧩻
 言至攵,DyGiAp	𧩼
 言子,DyQgHi	𧩽
-臣𠂉一言,EcStDiDy	𧩾
+臣言,EcJuDy	𧩾
 言弓弓,DyCgCgNb	𧩿
 言己工工,DyBjLgLg	𧪀
 言𠂉也辶,DyStEyJc	𧪁
@@ -62045,7 +62045,7 @@
 車广廿又,QcBgPnTy	𨍏
 車疋⺼,QcEsFy	𨍐
 車音,QcWy	𨍑
-臣𠂉一車,EcStDiQc	𨍒
+臣車,EcJuQc	𨍒
 車人車,QcHrQc	𨍓
 士車屮,JsMcQcMc	𨍔
 車廿㇗木,QcPnAeYm	𨍕
@@ -65856,7 +65856,7 @@
 面面,XmXm	𩈲
 面面,XmXm	𩈳
 面音,XmWy	𩈴
-臣𠂉一面,EcStDiXm	𩈵
+臣面,EcJuXm	𩈵
 面木示,XmYmLs	𩈶
 面龷八巳,XmPnNbVs	𩈷
 面自犬,XmViAq	𩈸
@@ -66278,7 +66278,7 @@
 韋山隹,JwUsMi	𩏘
 韋巛田木,JwKcCtYm	𩏙
 韋丰丰,JwJfJfWj	𩏚
-韋𠂉一口皿,JwStDiHm	𩏛
+韋口皿,JwJuKkHm	𩏛
 士殳韋,JsFsRsJw	𩏜
 韋口丨女,JwNuKkWn	𩏝
 韋田糸,JwCtFs	𩏞
@@ -83831,7 +83831,7 @@
 扌衣夕夕,OsQiVxVx	𭢟
 扌亠月月木,OsLtFyYm	𭢠
 扌氺辶,OsWjMsJc	𭢡
-扌彐彐人⺗,OsWjWjLx	𭢢
+扌羽人⺗,OsWvHrLx	𭢢
 扌歹⺁十目,OsSdUcEm	𭢣
 扌覀貝,OsUxRb	𭢤
 扌艹氵各,OsZcMsKg	𭢥
@@ -87971,7 +87971,7 @@
 氵日一勹金,MsUrDiWj	𮣋
 金尸米女,WjFsFmWn	𮣌
 金川页,WjKcQy	𮣍
-金彐彐人⺗,WjWjWjLx	𮣎
+金羽人⺗,WjWvHrLx	𮣎
 金白冫木,WjJbGbYm	𮣏
 金衣八井一,WjQiNbDi	𮣐
 金士口一口寸,WjJsKkOc	𮣑

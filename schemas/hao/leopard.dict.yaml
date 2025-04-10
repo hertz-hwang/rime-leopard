@@ -24723,6 +24723,7 @@ encoder:
 𡍈	ejaj	0.000000
 𥅹	ejaj	0.000000
 矈	ejam	0.000000
+𤂟	ejam	0.000000
 壔	ejao	0.000000
 𥌆	ejao	0.000000
 𰥧	ejap	0.000000
@@ -24758,6 +24759,7 @@ encoder:
 𭂿	ejdl	0.000000
 䁻	ejdy	0.000000
 𡒺	ejdy	0.000000
+𧩾	ejdy	0.000000
 䰣	eje	0.000000
 𡒽	ejee	0.000000
 𱗱	ejef	0.000000
@@ -24892,7 +24894,8 @@ encoder:
 𥊎	ejoy	0.000000
 𰅱	ejp	0.000000
 𫭡	ejpt	0.000000
-䁃	ejq	0.000000
+𨍒	ejq	0.000000
+䁃	ejqi	0.000000
 𭎫	ejqi	0.000000
 𠙓	ejqj	0.000000
 瞔	ejrb	0.000000
@@ -24932,6 +24935,9 @@ encoder:
 㙔	ejwt	0.000000
 𫩃	ejwt	0.000000
 垹	ejx	0.000000
+𥪡	ejxl	0.000000
+𩈵	ejxm	0.000000
+𣔿	ejy	0.000000
 㙮	ejz	0.000000
 𪾾	ejzk	0.000000
 𡍗	eka	0.000000
@@ -26050,22 +26056,15 @@ encoder:
 壋	esct	0.000000
 𰦄	esct	0.000000
 𨢒	esd	0.000000
-𧩾	esdd	0.000000
 𥊇	esde	0.000000
 𪇖	esdg	0.000000
 𡦋	esdh	0.000000
-𥃉	esdh	0.000000
 坵	esdi	0.000000
 𥅔	esdi	0.000000
-𤂟	esdm	0.000000
-𨍒	esdq	0.000000
 𡮻	esdt	0.000000
 𥇸	esdu	0.000000
 𱗀	esdu	0.000000
-𥪡	esdx	0.000000
-𩈵	esdx	0.000000
 壛	esdy	0.000000
-𣔿	esdy	0.000000
 𥌸	esdy	0.000000
 𢆪	esea	0.000000
 𱝁	esea	0.000000
@@ -26177,6 +26176,7 @@ encoder:
 𡊻	esnd	0.000000
 𥆁	esnd	0.000000
 矘	esnh	0.000000
+𥃉	esnh	0.000000
 𭾋	esnh	0.000000
 𰋆	esnh	0.000000
 𥊳	esnk	0.000000
@@ -44513,6 +44513,7 @@ encoder:
 籉	jjkg	0.000000
 𤗿	jjkg	0.000000
 𱋓	jjkg	0.000000
+𩏛	jjkh	0.000000
 𪎉	jjkj	0.000000
 𠔽	jjkk	0.000000
 𠕄	jjkk	0.000000
@@ -45719,7 +45720,6 @@ encoder:
 𤗾	jsct	0.000000
 𨟭	jscx	0.000000
 𱸐	jsd	0.000000
-𩏛	jsdh	0.000000
 𥬨	jsdi	0.000000
 𪽽	jsdi	0.000000
 𬋿	jsdp	0.000000
@@ -63665,6 +63665,7 @@ encoder:
 𢱥	owgt	0.000000
 𫾉	owgx	0.000000
 摎	owhf	0.000000
+𭢢	owhl	0.000000
 攭	owhv	0.000000
 𧑝	owhv	0.000000
 𢭼	owi	0.000000
@@ -63712,7 +63713,6 @@ encoder:
 𭠷	owwe	0.000000
 𠁰	owwj	0.000000
 𢬞	owwj	0.000000
-𭢢	owwl	0.000000
 𫼣	owwp	0.000000
 𢺚	owx	0.000000
 𩑶	owyg	0.000000
@@ -87676,6 +87676,7 @@ encoder:
 𮋀	wwhg	0.000000
 𬫓	wwhi	0.000000
 𮊿	wwhl	0.000000
+𮣎	wwhl	0.000000
 𡟼	wwho	0.000000
 鉯	wwhr	0.000000
 𲇆	wwhr	0.000000
@@ -87820,7 +87821,6 @@ encoder:
 鍇	wwwj	0.000000
 𠨒	wwwj	0.000000
 𠨕	wwwj	0.000000
-𮣎	wwwl	0.000000
 𡛗	wwwn	0.000000
 𩤦	wwwn	0.000000
 𰋾	wwwp	0.000000
@@ -94218,6 +94218,7 @@ encoder:
 𭏷	ywhe	0.000000
 豂	ywhf	0.000000
 𣟇	ywhh	0.000000
+𣚉	ywhl	0.000000
 𮲯	ywhr	0.000000
 欚	ywhv	0.000000
 𭬧	ywhv	0.000000
@@ -94253,7 +94254,6 @@ encoder:
 𭩯	ywty	0.000000
 栺	ywu	0.000000
 𭬐	ywwa	0.000000
-𣚉	ywwl	0.000000
 𫖒	ywwp	0.000000
 𮲰	ywwp	0.000000
 榋	ywww	0.000000
@@ -114741,6 +114741,7 @@ encoder:
 𡍈	ejaj
 𥅹	ejaj
 矈	ejam
+𤂟	ejam
 壔	ejao
 𥌆	ejao
 𰥧	ejap
@@ -114782,6 +114783,7 @@ encoder:
 𭂿	ejdl
 䁻	ejdy
 𡒺	ejdy
+𧩾	ejdy
 䰣	ejee
 𡒽	ejee
 𱗱	ejef
@@ -114926,6 +114928,7 @@ encoder:
 𥊎	ejoy
 𰅱	ejps
 𫭡	ejpt
+𨍒	ejqc
 䁃	ejqi
 𭎫	ejqi
 𠙓	ejqj
@@ -114971,6 +114974,9 @@ encoder:
 㙔	ejwt
 𫩃	ejwt
 垹	ejxe
+𥪡	ejxl
+𩈵	ejxm
+𣔿	ejym
 㙮	ejzk
 𪾾	ejzk
 可	ekkk
@@ -116233,22 +116239,15 @@ encoder:
 壋	esct
 𰦄	esct
 𨢒	esdb
-𧩾	esdd
 𥊇	esde
 𪇖	esdg
 𡦋	esdh
-𥃉	esdh
 坵	esdi
 𥅔	esdi
-𤂟	esdm
-𨍒	esdq
 𡮻	esdt
 𥇸	esdu
 𱗀	esdu
-𥪡	esdx
-𩈵	esdx
 壛	esdy
-𣔿	esdy
 𥌸	esdy
 𢆪	esea
 𱝁	esea
@@ -116369,6 +116368,7 @@ encoder:
 𡊻	esnd
 𥆁	esnd
 矘	esnh
+𥃉	esnh
 𭾋	esnh
 𰋆	esnh
 墡	esnk
@@ -136513,6 +136513,7 @@ encoder:
 籉	jjkg
 𤗿	jjkg
 𱋓	jjkg
+𩏛	jjkh
 𪎉	jjkj
 𠔽	jjkk
 𠕄	jjkk
@@ -137830,7 +137831,6 @@ encoder:
 𤗾	jsct
 𨟭	jscx
 𱸐	jsda
-𩏛	jsdh
 𥬨	jsdi
 𪽽	jsdi
 𬋿	jsdp
@@ -158228,6 +158228,7 @@ encoder:
 𢱥	owgt
 𫾉	owgx
 摎	owhf
+𭢢	owhl
 拟	owhr
 掾	owhs
 攭	owhv
@@ -158289,7 +158290,6 @@ encoder:
 揩	owwj
 𠁰	owwj
 𢬞	owwj
-𭢢	owwl
 𫼣	owwp
 𢺚	owxa
 𩑶	owyg
@@ -185350,6 +185350,7 @@ encoder:
 𮋀	wwhg
 𬫓	wwhi
 𮊿	wwhl
+𮣎	wwhl
 𡟼	wwho
 姒	wwhr
 鉯	wwhr
@@ -185510,7 +185511,6 @@ encoder:
 鍇	wwwj
 𠨒	wwwj
 𠨕	wwwj
-𮣎	wwwl
 姦	wwwn
 𡛗	wwwn
 𩤦	wwwn
@@ -192667,6 +192667,7 @@ encoder:
 樛	ywhf
 豂	ywhf
 𣟇	ywhh
+𣚉	ywhl
 𮲯	ywhr
 椽	ywhs
 欚	ywhv
@@ -192713,7 +192714,6 @@ encoder:
 枇	ywwb
 梐	ywwe
 楷	ywwj
-𣚉	ywwl
 𫖒	ywwp
 𮲰	ywwp
 榋	ywww
