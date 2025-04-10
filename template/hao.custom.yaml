@@ -84,11 +84,15 @@ patch:
   #       expr: return tostring(os.time())
   hao/macros/+:
     repo:
-      - type: tip
-        name: 訪問倉庫
       - type: shell
-        name: ⚛豹碼
+        name: ⚛豹碼源码
         cmd: url="https://github.com/hertz-hwang/rime-hao" &&
+          type open && open "${url}" ||
+          type xdg-open && xdg-open "${url}" ||
+          echo "${url}"
+      - type: shell
+        name: ⚛字统
+        cmd: url="https://zi.tools/" &&
           type open && open "${url}" ||
           type xdg-open && xdg-open "${url}" ||
           echo "${url}"
