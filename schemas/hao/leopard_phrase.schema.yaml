@@ -1,0 +1,125 @@
+# Rime schema settings
+# encoding: utf-8
+
+__include: leopard.schema:/
+
+schema:
+  schema_id: leopard_phrase
+  name: 豹码·智
+  version: "2025-04-04"
+  author:
+    - 發明人 荒
+  description: |
+    豹码整句
+  dependencies:
+    - leopard_smart
+
+__patch:
+  switches/@0/reset: 0    # GB2312字集
+  switches/@6/reset: 0    # 注解
+  switches/@9/reset: 0    # lazy_clock
+  engine/translators/@after 2: script_translator@smartfixed
+  engine/translators/@after 3: script_translator@smartuser
+  engine/filters/@after 0: lua_filter@*leopard.mark_smart_filter
+  switches/@next:
+    name: emoji_suggestion
+    reset: 1
+    states: [ "🈚︎", "🈶️" ]
+  'engine/filters/@before 0':
+    simplifier@emoji_suggestion
+  emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: none
+    inherit_comment: false
+
+speller:
+  alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
+  max_code_length: 5
+
+fixed:
+  dictionary: leopard
+  prism: leopard
+  enable_user_dict: false
+  enable_sentence: false
+  max_phrase_length: 4
+  initial_quality: 1000
+  preedit_format:
+    - xform/_//
+translator:
+  dictionary: leopard
+  prism: leopard
+  enable_sentence: true
+  enable_user_dict: false
+  enable_encoder: true
+  encode_commit_history: false
+  max_phrase_length: 5
+  preedit_format:
+    - xform/_//
+smartuser:
+  __include: /smartfixed
+  enable_user_dict: true
+  initial_quality: 0
+smartfixed:
+  dictionary: leopard_smart
+  prism: leopard_smart
+  enable_user_dict: false
+  enable_encoder: true
+  encode_commit_history: false
+  max_phrase_length: 5
+  initial_quality: -1
+  preedit_format:
+    - xform/_//
+
+menu:
+  page_size: 5
+
+style:
+  horizontal: false
+  inline_preedit: true
+
+key_binder:
+  bindings:
+    __append:
+      - { when: has_menu, accept: " ", send: "_" }
+      - { when: has_menu, accept: "Tab", send: " " }
+
+recognizer:
+  patterns:
+    #punct: '^/([0-9]0?|[A-Za-z]+)$'
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup:     "^`([a-z]+'?)*$"
+    hao_pinyin_lookup: "^`P([a-z]+'?)*$"
+    stroke_lookup:      "^`B([a-z]+'?)*$"
+    os_env: '^env/\w+'
+    os_run: '^run/\w+'
+    helper: '^help/$'
+
+__include: octagram
+#语法模型
+octagram:
+  __patch:
+    grammar:
+      language: wanxiang-lts-zh-hans
+      collocation_max_length: 3
+      collocation_min_length: 1
+      collocation_penalty: -8
+      non_collocation_penalty: -11
+      weak_collocation_penalty: -24
+      rear_penalty: -18
+    fixed/+:
+      contextual_suggestions: false
+      max_homophones: 5
+      max_homographs: 5
+    translator/+:
+      contextual_suggestions: true
+      max_homophones: 7
+      max_homographs: 7
+    smart/+:
+      contextual_suggestions: true
+      max_homophones: 2
+      max_homographs: 2
+    smartuser/+:
+      contextual_suggestions: true
+      max_homophones: 2
+      max_homographs: 2

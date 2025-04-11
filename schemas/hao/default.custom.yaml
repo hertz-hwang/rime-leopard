@@ -4,7 +4,7 @@
 patch:
   schema_list:
     - schema: leopard         # 好碼四定·常规
-    - schema: leopard_smart   # 好碼四定·整句
+    - schema: leopard_phrase  # 好碼四定·整句
     - schema: leopard_typeR   # 好碼四定·竞速
     - schema: hao             # 好碼三定
     - schema: qr-code         # 整活：二维码

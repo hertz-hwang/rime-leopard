@@ -171,7 +171,7 @@ translator:
   dictionary: leopard
   prism: leopard
   enable_sentence: true
-  enable_user_dict: true
+  enable_user_dict: false
   enable_encoder: true
   encode_commit_history: false  # 对连续上屏的词自动成词
   max_phrase_length: 5  # 自动成词的最大词长

@@ -8,6 +8,8 @@ local function filter(input, env)
         if (cand.type == "sentence") then
             -- 在注释后添加闪电图标
             cand.comment = (cand.comment or "") .. "⚡"
+        elseif (cand.type == "user_phrase") then
+            cand.comment = (cand.comment or "") .. "🎯️"
         end
         yield(cand)
     end
