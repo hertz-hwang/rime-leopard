@@ -22,6 +22,10 @@
                 {
                     "type": "text",
                     "file": "emoji_category.txt"
+                },
+                {
+                    "type": "text",
+                    "file": "emoji_hao.txt"
                 }
             ]
         }
