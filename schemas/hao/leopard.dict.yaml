@@ -8,6 +8,7 @@ version: "beta"
 sort: by_weight
 import_tables:
   - leopard.extended
+  - leopard.personal
 use_preset_vocabulary: false
 columns:
   - text
@@ -198254,9 +198255,3 @@ $	k	0
 【	x	0
 〔	x	0
 ·	y	0
-
-#----------个性化----------#
-Excel	exce
-Word	word
-PowerPoint	powe
-Text	txt

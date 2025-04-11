@@ -1,0 +1,72 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: leopard.personal
+version: "beta"
+sort: original
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+...
+
+#----------个性化----------#
+Excel	exce
+Word	word
+PowerPoint	powe
+Text	txt
+OK	ok
+Yes	yes
+No	no
+Gentoo	gent
+NixOS	nix
+ArchLinux	arch
+VoidLinux	void
+Qubes	qube
+Nitrux	nitr
+LFS	lfs
+LinuxMint	mint
+Pop!OS	pop
+Zorin	zori
+Kali	kali
+AlmaLinux	alma
+RockyLinux	rock
+CentOS	cent
+RedHat	redh
+Debian	debi
+Proxmox	prox
+Ubuntu	ubun
+Fedora	fedo
+Solus	solu
+Manjaro	manj
+Slackware	slck
+OpenSUSE	opsu
+EndeavourOS	ende
+Deepin	dpin
+DeepSeek	dpsk
+FreeBSD	frbs
+Windows	wind
+Linux	linu
+MacOS	mac
+Android	andr
+iOS	ios
+Esxi	esxi
+PVE	pve
+RouterOS	ros
+Chrome	chro
+Rust	rust
+Go	go
+Golang	gola
+Python	pyth
+Ruby	ruby
+Perl	perl
+PHP	php
+NodeJS	node
+Obsidian	obsi
+Notion	noti
+Anytype	anyt
+SiYuan	siyu

@@ -29,13 +29,13 @@ style:
   color_scheme_dark: hertz-leopard-light #purity_of_form_custom #hertz-leopard-dark
 
   # #候选字体
-  font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  font_face: "Arial, Segoe UI Emoji, TumanPUA, 苹方-简, 思源黑体, 遍黑体P1, 遍黑体P1"
   font_point: 20 #主字体字号
   # #滤镜内容字体
-  comment_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  comment_font_face: "Arial, Segoe UI Emoji, TumanPUA, 苹方-简, 思源黑体, 遍黑体P1, 遍黑体P1"
   comment_font_point: 12 # 滤镜内容字号
   # #候选前编号标志字体
-  label_font_face: "Segoe UI Emoji, LXGW WenKai GB Screen, 98WB-0, 98WB-1, 98WB-2, 98WB-3, 98WB-U, 98WB-V"
+  label_font_face: "Arial, Segoe UI Emoji, TumanPUA, 苹方-简, 思源黑体, 遍黑体P1, 遍黑体P1"
   label_font_point: 18 #候选前编号标志字号
 
   corner_radius: 8

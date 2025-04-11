@@ -6,6 +6,9 @@
 name: leopard_smart
 version: "beta"
 sort: by_weight
+import_tables:
+  - leopard.extended
+  - leopard.personal
 use_preset_vocabulary: false
 columns:
   - text
