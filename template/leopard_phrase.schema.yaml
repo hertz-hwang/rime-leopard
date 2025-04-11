@@ -19,7 +19,7 @@ __patch:
   switches/@6/reset: 0    # 注解
   switches/@9/reset: 0    # lazy_clock
   engine/translators/@after 2: script_translator@smartfixed
-  engine/translators/@after 3: script_translator@smartuser
+  engine/translators/@after 2: script_translator@smartuser
   engine/filters/@after 0: lua_filter@*leopard.mark_smart_filter
   switches/@next:
     name: emoji_suggestion
@@ -43,7 +43,7 @@ fixed:
   enable_user_dict: false
   enable_sentence: false
   max_phrase_length: 4
-  initial_quality: 1000
+  initial_quality: 0
   preedit_format:
     - xform/_//
 translator:
@@ -54,12 +54,13 @@ translator:
   enable_encoder: true
   encode_commit_history: false
   max_phrase_length: 5
+  initial_quality: -10
   preedit_format:
     - xform/_//
 smartuser:
   __include: /smartfixed
   enable_user_dict: true
-  initial_quality: 0
+  initial_quality: 100
 smartfixed:
   dictionary: leopard_smart
   prism: leopard_smart
@@ -67,7 +68,7 @@ smartfixed:
   enable_encoder: true
   encode_commit_history: false
   max_phrase_length: 5
-  initial_quality: -1
+  initial_quality: 10
   preedit_format:
     - xform/_//
 

@@ -52,11 +52,12 @@ jobs:
           sudo apt-get install -y zsh lua5.4
           touch ~/.zshrc
           chmod +x deploy/deploy_hao.sh
-          mkdir -p deploy/hao schemas/releases
+          mkdir -p deploy/hao schemas/releases schemas/hao
+          wget -O schemas/hao/wanxiang-lts-zh-hans.gram https://huggingface.co/hertz-hwang/amz-v1-5-zh-hans/resolve/main/wanxiang-lts-zh-hans.gram
           conda activate rime
           lua ./table/gen_freq.lua ./table/freq_simp.txt ./table/freq_simp.txt 9:1 > ./deploy/hao/freq.txt
           lua ./table/gen_freq.lua ./table/freq_trad.txt ./table/freq_trad.txt 9:1 > ./deploy/hao/freq_tc.txt
-          ./deploy/deploy_hao.sh && ./deploy/deploy_hao.sh
+          ./deploy/deploy_hao.sh
       
       - name: Release
         uses: softprops/action-gh-release@v2

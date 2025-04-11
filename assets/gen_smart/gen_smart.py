@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+import os
+import sys
+
 def read_minimal_set(filename):
     """读取最小字集文件"""
     with open(filename, 'r', encoding='utf-8') as f:
@@ -48,10 +51,14 @@ def process_dict_file(input_file, output_file, minimal_set):
 
 def main():
     minimal_set = read_minimal_set('minimalset.txt')
-    process_dict_file('../../schemas/hao/leopard_smart_temp.dict.yaml', 
-                     '../../schemas/hao/leopard_smart.dict.yaml',
+    schemas_dir = os.environ.get('SCHEMAS_DIR')
+    if not schemas_dir:
+        print("错误：未设置SCHEMAS_DIR环境变量")
+        sys.exit(1)
+    process_dict_file(f"{schemas_dir}/leopard_smart_temp.dict.yaml", 
+                     f"{schemas_dir}/leopard_smart.dict.yaml",
                      minimal_set)
-    print("处理完成！新文件已保存为 ../../leopard_smart.dict.yaml")
+    print(f"处理完成！新文件已保存为 {schemas_dir}/leopard_smart.dict.yaml")
 
 if __name__ == '__main__':
     main() 

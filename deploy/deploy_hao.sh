@@ -108,9 +108,9 @@ gen_schema() {
         || error "生成简化字码表失败"
 
     # 合并词典文件
-    log "合并词典文件..."
-    cat "${HAO}/char.txt" >>"${HAO}/hao.base.dict.yaml"
-    grep -v '#' "${HAO}/hao_quick.txt" >>"${HAO}/hao.base.dict.yaml"
+    #log "合并词典文件..."
+    #cat "${HAO}/char.txt" >>"${HAO}/hao.base.dict.yaml"
+    #grep -v '#' "${HAO}/hao_quick.txt" >>"${HAO}/hao.base.dict.yaml"
     cat "${HAO}/fullcode.txt" >>"${HAO}/hao.full.dict.yaml"
     #cat "${HAO}/hao.smart.txt" >"${HAO}/hao.smart.txt"
     cat "${HAO}/div.txt" >"${HAO}/opencc/hao_div.txt"
@@ -168,12 +168,6 @@ gen_schema() {
         fi
     done
 
-    # 生成大竹词提
-    log "生成大竹词提..."
-    export INPUT_DIR="${HAO}"
-    export OUTPUT_DIR="${HAO}"
-    bash ../assets/gen_dazhu.sh || error "生成大竹词提失败"
-
     # 处理词典文件
     if [ -f "${HAO}/leopard.dict.yaml" ]; then
         cat "${HAO}/leopard.dict.yaml" | \
@@ -181,8 +175,7 @@ gen_schema() {
             sed 's/\t/{TAB}/g' | \
             grep '.*{TAB}[a-z]\{1,2\}$' | \
             sed 's/{TAB}/\t/g' | \
-            sed 's/$/1/g' \
-            > "../deploy/hao/hao_simp.txt"
+            sed 's/$/1/g' | tee "${HAO}/hao_simp.txt" "../deploy/hao/hao_simp.txt" >/dev/null
         log "重新生成简化字码表..."
         ./generator -q \
             -d "${HAO}/hao_div.txt" \
@@ -192,11 +185,26 @@ gen_schema() {
             -w "${HAO}/cjkext_whitelist.txt" \
             -c "${HAO}/char.txt" \
             -u "${HAO}/fullcode.txt" \
-            -o "${HAO}/div.txt" \
+            -o "${HAO}/div.txt"
+        log "合并词典文件..."
+        cat "${HAO}/char.txt" >>"${HAO}/hao.base.dict.yaml"
+        grep -v '#' "${HAO}/hao_quick.txt" >>"${HAO}/hao.base.dict.yaml" \
         || error "生成简化字码表失败"
     else
         error "leopard.dict.yaml 文件不存在"
     fi
+
+    # 运行智能整句简码生成脚本
+    log "智能整句简码生成..."
+    pushd ${WD}/../assets/gen_smart || error "无法切换到 gen_smart 目录"
+        python gen_smart.py
+    popd
+
+    # 生成大竹词提
+    log "生成大竹词提..."
+    export INPUT_DIR="${HAO}"
+    export OUTPUT_DIR="${HAO}"
+    bash ../assets/gen_dazhu.sh || error "生成大竹词提失败"
 
     # 将最终文件复制到目标目录
     log "复制最终文件到目标目录..."
@@ -214,12 +222,6 @@ gen_schema() {
               --exclude='/hao_*.txt' \
               --exclude='/map.txt' \
               "${HAO}/" "${SCHEMAS}/${NAME}/" || error "复制文件失败"
-
-    # 运行智能整句简码生成脚本
-    log "智能整句简码生成..."
-    pushd ${WD}/../assets/gen_smart || error "无法切换到 gen_smart 目录"
-        python gen_smart.py
-    popd
 
     # 删除临时目录
     log "删除临时目录、文件..."
