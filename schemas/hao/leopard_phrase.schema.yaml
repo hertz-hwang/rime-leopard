@@ -83,7 +83,8 @@ key_binder:
   bindings:
     __append:
       - { when: has_menu, accept: " ", send: "_" }
-      - { when: has_menu, accept: "Tab", send: " " }
+      - { when: has_menu, accept: ",", send: " " }
+      - { when: has_menu, accept: ".", send: " " }
 
 recognizer:
   patterns:

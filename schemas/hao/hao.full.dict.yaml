@@ -704,6 +704,7 @@ columns:
 ㇕	ae11
 ㇖	ae11
 ㇗	ae11
+㇗	ae11
 ㇙	ae11
 ㇛	ae11
 ㇜	ae11
@@ -714,7 +715,6 @@ columns:
 ㇤	ae11
 ㇥	ae11
 乁	ae11
-𠃊	ae11
 𠃋	ae11
 𠃌	ae11
 𠃍	ae11
@@ -11270,6 +11270,7 @@ columns:
 𤕺	djgs
 䃯	djgy
 㪅	djha
+𫠥	djha
 𬌾	djha
 𬍈	djha
 𭤓	djha
@@ -11312,6 +11313,7 @@ columns:
 邴	djhx
 𨜦	djhx
 𨟫	djhx
+𲆐	djhx
 𭫒	djhy
 奂	djid
 詇	djid
@@ -11383,9 +11385,7 @@ columns:
 𠭠	djnt
 碙	djnu
 𭦚	djnu
-𫠥	djnw
 𫰗	djnw
-𲆐	djnx
 𣗸	djny
 𢍅	djnz
 𪿞	djoc
@@ -26895,7 +26895,7 @@ columns:
 𪧤	gxap
 𫹘	gxap
 军	gxcg
-𡩊	gxdn
+𡩊	gxda
 郖	gxed
 邞	gxef
 郅	gxei
@@ -32357,6 +32357,7 @@ columns:
 𪜛	ihaa
 𫯧	ihaa
 乳	ihae
+𠫙	ihae
 𥇽	ihae
 𨀳	ihag
 𬋲	ihah
@@ -33645,7 +33646,6 @@ columns:
 𬧖	invj
 𮨎	invq
 𨃰	inwr
-𠫙	inws
 𮛇	inwu
 𨆵	inwy
 𨁃	inxf
@@ -39485,6 +39485,7 @@ columns:
 笧	jycu
 𥬰	jycu
 䉓	jycy
+𬕢	jyda
 𬕣	jyda
 𱷿	jyde
 𥱓	jydh
@@ -39492,7 +39493,6 @@ columns:
 𱸏	jydj
 𫂊	jydl
 籅	jydn
-𬕢	jydn
 𰪇	jydn
 𡴡	jydp
 𮅹	jydr
@@ -39963,12 +39963,12 @@ columns:
 𠼪	kbvv
 𭉬	kbvw
 啰	kbvx
+𭉍	kbwa
 𫬏	kbwf
 𱓒	kbwh
 𠶏	kbwj
 𠻞	kbwm
 唩	kbwn
-𭉍	kbwn
 𰌑	kbwn
 𱔏	kbwv
 𠳓	kbww
@@ -43008,7 +43008,7 @@ columns:
 𠿙	kxav
 𪠳	kxck
 𡀂	kxct
-𠸳	kxdn
+𠸳	kxda
 㘊	kxdy
 𠽏	kxdy
 𠻱	kxej
@@ -51531,10 +51531,10 @@ columns:
 泐	mxcl
 𣽻	mxcq
 㵢	mxct
+𪶾	mxda
 𣶊	mxdj
 𣽾	mxdj
 𰝋	mxdl
-𪶾	mxdn
 𣼻	mxdp
 𤁳	mxdy
 邡	mxef
@@ -52643,6 +52643,7 @@ columns:
 鄈	ndix
 𣔽	ndiy
 𣚱	ndiy
+𤵿	ndja
 𩤳	ndja
 𩧊	ndja
 𭼬	ndja
@@ -52659,7 +52660,6 @@ columns:
 瘓	ndji
 𪽲	ndji
 𠃇	ndjj
-𤵿	ndjn
 䮠	ndkc
 𬳃	ndkc
 𩢲	ndke
@@ -56293,12 +56293,12 @@ columns:
 𢴐	obvv
 𫽋	obvx
 𱠌	obvx
+𢱅	obwa
 𫽶	obwg
 掶	obwh
 㨀	obwj
 𢳧	obwm
 捼	obwn
-𢱅	obwn
 𰌅	obwn
 𢴄	obwv
 𱠙	obww
@@ -82752,6 +82752,7 @@ columns:
 妳	wdix
 鉨	wdix
 𠤨	wdiz
+𨦖	wdja
 銆	wdjb
 𰋿	wdjb
 𨒎	wdjc
@@ -82766,7 +82767,6 @@ columns:
 𰽒	wdjj
 𨩮	wdjk
 娊	wdjn
-𨦖	wdjn
 𨨄	wdjv
 嫓	wdjw
 𲇚	wdjw
@@ -87322,6 +87322,8 @@ columns:
 竫	xdiv
 霋	xdiw
 𨹷	xdiw
+陋	xdja
+陋	xdja
 竡	xdjb
 陌	xdjb
 𬰊	xdjc
@@ -87334,8 +87336,6 @@ columns:
 𤯽	xdji
 𮥮	xdjj
 靦	xdjm
-陋	xdjn
-陋	xdjn
 𤙧	xdjn
 䨘	xdjv
 𮥫	xdjy
@@ -93607,7 +93607,7 @@ columns:
 𣒤	yxbj
 𭬵	yxcc
 檑	yxct
-𰘄	yxdn
+𰘄	yxda
 𨚿	yxec
 𮟰	yxec
 郤	yxeg
@@ -94945,6 +94945,7 @@ columns:
 蘐	zdit
 𧄬	zdit
 𦿫	zdiu
+𦭯	zdja
 𧁰	zdja
 莧	zdjc
 𤲱	zdjc
@@ -94953,7 +94954,6 @@ columns:
 藑	zdjj
 蘷	zdjj
 𦳭	zdjj
-𦭯	zdjn
 𱽴	zdjn
 𬡼	zdjs
 䓣	zdjv

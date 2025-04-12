@@ -25470,7 +25470,7 @@
 阝小,XeCqIx	陈
 阝ス工,XeTyLg	陉
 阝夕夕,XeVxVx	陊
-阝一冂亾,XeDiJkNw	陋
+阝一冂人㇗,XeDiJkAe	陋
 阝一白,XeDiJb	陌
 阝夂㐄,XeJiLk	降
 阝丿未,XeTpVw	陎
@@ -28036,7 +28036,7 @@
 氵尸雨,MsFsXv	漏
 田糸,CtFs	累
 糹口丨女,FsNuKkWn	縷
-阝一冂亾,XeDiJkNw	陋
+阝一冂人㇗,XeDiJkAe	陋
 革力,RgCl	勒
 月力,FyCl	肋
 冫亠囗口禾,GbLtAkBh	凜
@@ -28343,7 +28343,7 @@
 广田⺿,BgCtZcNb	廙
 丿米彡,TpFmFs	彩
 彳爫干凵,GcIaZgJk	徭
-忄冂䒑亾,LxJkNbNw	惘
+忄冂䒑兦,LxJkNbNw	惘
 忄十且八,LxPsHqNb	慎
 亼⺝刂心,ZiFyNdLx	愈
 忄丷囗⺌曰,LxNbAkUy	憎
@@ -28629,7 +28629,6 @@
 千一白一白,NqDiJbJb	𠃇
 一屮一儿屮一儿屮一儿,OsDiMcRe	𠃈
 𠃉,Ki	𠃉
-㇗,Ae	𠃊
 ㄥ,Ae	𠃋
 𠃌,Ae	𠃌
 ヿ,Ae	𠃍
@@ -31204,7 +31203,7 @@
 厶乚,IsAe	𠫖
 几厶,QjIs	𠫗
 厶十,IsPs	𠫘
-厶亾,IsNw	𠫙
+厶人㇗,IsHrAe	𠫙
 厶,IsOs	𠫚
 厶{云变},IsZy	𠫛
 厶⺄力,IsAeCl	𠫜
@@ -32062,7 +32061,7 @@
 口幺力欠,KkDyClPq	𠸰
 {双口}丨示,PxHsLs	𠸱
 {云变}厶冂八口,ZyIsJkKk	𠸲
-口阝一冂亾,KkXeDiNw	𠸳
+口阝一冂人㇗,KkXeDiAe	𠸳
 口戈工八,KkAgLgNb	𠸴
 口目一川,KkEmDiKc	𠸵
 {双口}犬亡,PxAqNw	𠸶
@@ -35157,7 +35156,7 @@
 宀目㇗,GgEmAeKc	𡩇
 宀目木,GgEmYm	𡩈
 宀心日一,GgLxUrDi	𡩉
-宀阝一冂亾,GgXeDiNw	𡩊
+宀阝一冂人㇗,GgXeDiAe	𡩊
 宀心冂土,GgLxJkEt	𡩋
 宀聿廴,GgIvRy	𡩌
 宀乃戊𠃌,GgDnMuAe	𡩍
@@ -39760,7 +39759,7 @@
 扌大丷手,OsIdNbOs	𢱂
 扌禾斗,OsBhLd	𢱃
 扌爫又,OsIaWjTy	𢱄
-扌广亾,OsBgWjNw	𢱅
+扌广人㇗,OsBgWjAe	𢱅
 扌冫欠口,OsGbPqKk	𢱆
 扌穴乂乂,OsAxEiEi	𢱇
 扌二コ又,OsFsNeTy	𢱈
@@ -48266,7 +48265,7 @@
 疒丿冂口,NbTpJkKk	𤵼
 疒艹乂,NbZcEi	𤵽
 疒宀丿七,NbGgTpCq	𤵾
-疒一冂亾,NbDiJkNw	𤵿
+疒一冂人㇗,NbDiJkAe	𤵿
 疒六乂,NbMlEi	𤶀
 疒老,NbRl	𤶁
 疒子口,NbHiKk	𤶂
@@ -55930,7 +55929,7 @@
 ⺿冖巾,ZcGgAj	𦭬
 ⺿工阝,ZcLgXe	𦭭
 ⺿一囗人,ZcDiAkHr	𦭮
-⺿一冂亾,ZcDiJkNw	𦭯
+⺿一冂人㇗,ZcDiJkAe	𦭯
 ⺿氵女,ZcMsWn	𦭰
 龷,PnSy	𦭱
 ⺿弓弓,ZcCgCg	𦭲
@@ -63649,7 +63648,7 @@
 金入土丶,WjVuEtOd	𨦓
 女口金,WnKkWj	𨦔
 金井刂,WjVjNd	𨦕
-金一冂亾,WjDiJkNw	𨦖
+金一冂人㇗,WjDiJkAe	𨦖
 金𠂇火,WjPsRh	𨦗
 金大弓,WjIdCg	𨦘
 金歹刂,WjSdNd	𨦙
@@ -72873,7 +72872,7 @@
 氵冫欠⺝,MsGbPqFy	𪶻
 氵小丿士口,MsIxTpKk	𪶼
 氵又又又木,MsTyTyYm	𪶽
-氵阝一冂亾,MsXeDiNw	𪶾
+氵阝一冂人㇗,MsXeDiAe	𪶾
 氵矢欠,MsWbGsPq	𪶿
 艹言十斤,ZcDyPsSj	𪷀
 氵山王攵,MsUsRwAp	𪷁
@@ -75528,7 +75527,7 @@
 ⺊一丁,FbDiPd	𫠢
 ,CqIx	𫠣
 龶刀,JfNd	𫠤
-一冂亾,DiJkNw	𫠥
+一冂人㇗,DiJkHrAe	𫠥
 一丨,DiHsNdJu	𫠦
 𠂉十一卜,StPsDiFb	𫠧
 丿㠯一,TpTiDi	𫠨
@@ -78917,7 +78916,7 @@
 ⺮一巾辶,JuDiAjJc	𬕟
 ⺮氵一日一,JuMsDiDi	𬕠
 ⺮糹工,JuFsLg	𬕡
-⺮木一冂亾,JuYmDiNw	𬕢
+⺮木一冂人㇗,JuYmDiAe	𬕢
 ⺮木一匚巾,JuYmDiAj	𬕣
 ⺮木艮,JuYmPg	𬕤
 ⺮亻禾女,JuHrBhWn	𬕥
@@ -82210,7 +82209,7 @@
 口冫欠口,KkGbPqKk	𭉊
 口⺶㇏丷,KkSyOdNb	𭉋
 口礻氏,KkLsZs	𭉌
-口广亾,KkBgWjNw	𭉍
+口广人㇗,KkBgWjAe	𭉍
 口亠弓,KkLtRhCg	𭉎
 口女又心,KkWnTyLx	𭉏
 口女至,KkWnGi	𭉐
@@ -91462,7 +91461,7 @@
 木氵𠂒儿,YmMsXnRe	𰘁
 木米大,YmFmId	𰘂
 木予丿予,YmOvTpOv	𰘃
-木阝一冂亾,YmXeDiNw	𰘄
+木阝一冂人㇗,YmXeDiAe	𰘄
 木纟各,YmQsKg	𰘅
 木乃日子,YmDnUrHi	𰘆
 木鬲,YmUg	𰘇
@@ -98509,7 +98508,7 @@
 丿皿束辶,TpHmHsJc	𲆍
 ㇗尸氺牛辶,FgNbAeJc	𲆎
 勹丶阝,AkOdXe	𲆏
-一冂亾阝,DiJkNwXe	𲆐
+一冂人㇗阝,DiJkHrXe	𲆐
 工廾阝,LgZcXe	𲆑
 土方阝,EtMfXe	𲆒
 火廾阝,RhZcXe	𲆓
