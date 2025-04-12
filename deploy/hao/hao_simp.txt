@@ -681,6 +681,7 @@
 岭	uz1
 铭	pv1
 匠	vs1
+荆	zd1
 硕	dq1
 贞	fv1
 丸	lo1
@@ -690,7 +691,6 @@
 稣	sb1
 塘	eb1
 锻	po1
-芦	zd1
 鲸	sq1
 尬	vh1
 靶	rb1

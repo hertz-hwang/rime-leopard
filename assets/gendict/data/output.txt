@@ -7356,7 +7356,7 @@
 小鸟	ixon
 手法	osme
 南海	pjms
-荆棘	pzyj
+荆棘	zdyj
 前所未有	ndvp
 聚焦	vtmr
 坏事	erdk
@@ -11729,7 +11729,7 @@
 痛恨	nilp
 合计	zkcp
 地表	eejq
-荆州	pzkk
+荆州	zdkk
 笨拙	jyom
 鬼神	eglu
 声息	jfvl
@@ -17659,7 +17659,7 @@
 落差	zmsl
 老式	rlxl
 来之不易	vxru
-茉莉	pyzb
+茉莉	zdzb
 格格不入	yyrv
 无损	cuok
 计数	cpfw
@@ -20625,7 +20625,7 @@
 人烟	hrra
 毒辣	jpst
 天资	digp
-披荆斩棘	opxy
+披荆斩棘	ozxy
 造物	xkxa
 奴仆	wthf
 孤僻	hshm
@@ -22581,7 +22581,7 @@
 闲时	tyuo
 子夜	hilh
 旌旗	msms
-荆轲	pzxe
+荆轲	zdxe
 缓存	qiph
 歹徒	sdgi
 海盗	msgp
@@ -26573,7 +26573,7 @@
 经济法	qmme
 居安思危	fgcd
 布鞋	pare
-荆门	pztm
+荆门	zdtm
 出借	mjhp
 心血来潮	ltvm
 美玉	siro
@@ -27764,7 +27764,7 @@
 主菜	orzi
 拿住	zkho
 斯人	fnhr
-蔫了	plel
+蔫了	zdel
 母马	pmsm
 值得一看	hgdo
 喜羊羊	essy
@@ -28100,7 +28100,7 @@
 娇笑	wtjt
 战鹰	fkbh
 墨索里尼	npaf
-蕙质兰心	punl
+蕙质兰心	zunl
 亚文化	dlhw
 萌新	zuxy
 弄弄	rzrz
@@ -30172,7 +30172,7 @@
 单元格	nnyk
 心领	lxzi
 那谁	aocm
-茉莉花	pzzh
+茉莉花	zzzh
 淡蓝	mrzn
 部族	xkms
 一气之下	dixd
@@ -35732,7 +35732,7 @@
 简单的	jnja
 咳咳	kxkx
 吹拂	kpox
-魔芋	aepp
+魔芋	aezd
 卡住	fdho
 青木	jfym
 扑火	ofrh
@@ -39635,7 +39635,7 @@
 配料	bbfl
 晨练	usqc
 手语	oscu
-紫荆	lwpz
+紫荆	lwzd
 受益匪浅	imvm
 障碍物	xdxa
 余款	hbjl
@@ -43958,7 +43958,7 @@
 梦龙	yyvl
 名爵	vkib
 语嫣	cuwd
-香芋	bupp
+香芋	buzd
 魔盒	aezk
 交稿	mebq
 鸡同鸭讲	tjhc
@@ -47349,7 +47349,7 @@
 套语	iicu
 肥分	fbnn
 哀矜	qkot
-蔫头耷脑	poif
+蔫头耷脑	zoif
 颦蹙	llmf
 录屏	wmfn
 宴厅	guup
@@ -49448,7 +49448,7 @@
 溃决	mvgv
 窑姐	atwh
 反逆	utnm
-打蔫	oppl
+打蔫	opzd
 地覆天翻	eudt
 鞋舌	rews
 比绍	wwqn
@@ -50769,7 +50769,7 @@
 火砖	rhdn
 药面	zqxm
 陪绑	xxqj
-发蔫	mtpl
+发蔫	mtzd
 七古	cqog
 药料	zqfl
 相除	yexh
@@ -53753,7 +53753,7 @@
 雷恩	xcai
 再按	rjog
 日安	urgw
-蕙兰	pcna
+蕙兰	zpna
 笋干	jwzg
 红云	qlzy
 藏香	zmbu
@@ -56172,7 +56172,7 @@
 开排	dzol
 出饭	mjnu
 未填	vwep
-萎蔫	zbpl
+萎蔫	zbzd
 落生	zmis
 辚辚	xfxf
 记诵	cbci
@@ -56707,7 +56707,7 @@
 环志	rrjl
 疲塌	nneu
 秋令	brzi
-识荆	ckpz
+识荆	ckzd
 中幡	khat
 洪量	mpud
 翻砂	tfdi
@@ -56828,7 +56828,7 @@
 潜亏	mgna
 贼星	vaui
 橙皮	ynnp
-蔫不唧	prkp
+蔫不唧	zrkp
 出乘	mjbj
 渔叉	msto
 嵌镶	ufpq
@@ -57305,7 +57305,7 @@
 臭腺	vafj
 哂纳	kuqj
 骨库	ugbx
-蔫巴	plbb
+蔫巴	zdbb
 受旱	iguz
 瓜代	sghx
 赔错	vxpp
@@ -57814,7 +57814,7 @@
 转瞬之间	xext
 非婚生子女	lwiw
 罗尔	bvdi
-萋萋	pipi
+萋萋	zdzd
 突出贡献	amlp
 工作性质	lhlu
 发生于	midp
@@ -59282,7 +59282,7 @@
 年事已高	sdbq
 通俗易懂	ihul
 圆点	akfk
-芋头	ppoo
+芋头	zdoo
 鹿角	ildg
 琳达	ryij
 人民出版社	hvml
@@ -59469,7 +59469,7 @@
 马尔代夫	sdhg
 电话亭	ucqp
 碉堡	djhk
-山芋	uspp
+山芋	uszd
 寿星	joui
 曾于	nadp
 反日	utur
@@ -69140,7 +69140,7 @@
 白头翁	joni
 转寄	xngi
 日影	uruq
-负荆请罪	dpcb
+负荆请罪	dzcb
 蓬蓬勃勃	zzpp
 印堂	kdse
 结党营私	qszb
@@ -75904,7 +75904,7 @@
 复旧	suhu
 砸锅	dvpk
 片甲不留	jhrr
-荆条	pzjy
+荆条	zdjy
 巧劲	ldtl
 路不拾遗	irov
 柔细	otqc
@@ -75921,7 +75921,7 @@
 术数	yofw
 汽灯	mirp
 不知轻重	rgxn
-负荆	dvpz
+负荆	dvzd
 幽邃	udan
 谪居	cxfo
 足赤	iuer
@@ -77917,7 +77917,7 @@
 电算化	ujhw
 圣诞夜	tclh
 法商	mexj
-荆楚	pzyy
+荆楚	zdyy
 李俊	yhhi
 冀东	jwci
 投币	orta
@@ -78529,7 +78529,7 @@
 有息	pfvl
 心贴心	lvlx
 下顾	dfuw
-拙荆	ompz
+拙荆	omzd
 爱机	igyq
 诈死	casw
 黄黑	ehnh
@@ -79963,7 +79963,7 @@
 差得远	sgnr
 形态各异	dikv
 教育工作者	rzlr
-烫手山芋	moup
+烫手山芋	mouz
 熊熊烈火	iisr
 芭蕉扇	zzdw
 贸易保护主义	ruho
@@ -80287,7 +80287,7 @@
 精盐	fjef
 告官	xkgt
 重典	nayn
-洋芋	mspp
+洋芋	mszd
 质料	upfl
 瓦工	twlg
 送风	niqe
@@ -81100,7 +81100,7 @@
 仙游	humm
 砂土	diet
 实足	goiu
-米芾	fmpa
+米芾	fmzd
 偏废	hdbm
 良医	opvg
 卡尼	fdfw
@@ -81907,7 +81907,7 @@
 不减当年	rgis
 保用	hkgy
 课内	ccjh
-紫荆花	lpzh
+紫荆花	lzzh
 时逢	uojj
 精算	fjje
 纸花	qzzh
@@ -86857,7 +86857,7 @@
 这不是	lrue
 你和	hdbk
 种人	bkhr
-兰质蕙心	nupl
+兰质蕙心	nuzl
 众位	hhhx
 本部门	yxtm
 运筹	zjjj
@@ -89638,7 +89638,7 @@
 吓阻	kdxh
 纱网	qije
 公服	nifw
-芋艿	ppzd
+芋艿	zdzd
 迷魂药	fzzq
 龟兔	ggat
 爱立信	ixhd
@@ -91228,7 +91228,7 @@
 目无全牛	echx
 罪不容诛	brgc
 羿射九日	wxlu
-荆钗布裙	pppq
+荆钗布裙	zppq
 蓝精灵	zfwr
 软件园	xhan
 过而能改	okib
@@ -101520,7 +101520,7 @@
 支走	riiz
 半挂	nooe
 首字	nvgh
-荆芥	pzzh
+荆芥	zdzh
 染黑	mlnh
 成指	maow
 料库	flbx
@@ -105266,7 +105266,7 @@
 缠脚	qbfe
 轰趴	xtin
 桥板	ytyu
-杨千嬅	ynwp
+杨千嬅	ynwz
 鹅头	tooo
 略贵	ckvv
 内路	jhik
@@ -114840,7 +114840,7 @@
 赠金	vnwj
 氡气	ijiq
 永遇乐	ocki
-荆江	pzml
+荆江	zdml
 破片	dnjp
 扰码	ovds
 篱下	jldf
@@ -118135,7 +118135,7 @@
 鞍山市	rula
 八段	nbod
 超级计算机	iqcy
-荆门市	ptla
+荆门市	ztla
 主观性	otli
 以和为贵	wbov
 可取之处	evxj
@@ -118497,7 +118497,7 @@
 相类似	yfhw
 王熙凤	reqt
 丰子恺	jhlu
-荆棘丛生	pyhi
+荆棘丛生	zyhi
 体肤	hyfg
 中郎	khop
 接取	oxvt
@@ -119760,7 +119760,7 @@
 没嘛	mrka
 王悦	rwln
 施一公	mdni
-荆南	pzpj
+荆南	zdpj
 老鸡	rlto
 邓莎	txzm
 杨君	yawt
@@ -122153,7 +122153,7 @@
 安部未华子	gxvh
 米仓穗香	fhbb
 广濑里绪菜	bmaz
-白石茉莉奈	jdpi
+白石茉莉奈	jdzi
 神咲诗织	lkcq
 篠田步美	jcls
 吉川爱美	jkis
@@ -122166,7 +122166,7 @@
 美园和花	sabz
 阿部乃美久	xxdd
 冬月枫	jfyq
-桐谷茉莉	yypz
+桐谷茉莉	yyzz
 成濑心美	mmls
 香苗玲音	bzrw
 妃月留衣	wfrq
@@ -122519,7 +122519,7 @@
 时代周刊	uhjz
 多管齐下	vjod
 门头沟区	tomv
-荆州市	pkla
+荆州市	zkla
 稍嫌	biwn
 配置文件	bblh
 背景色	judb
@@ -131237,7 +131237,7 @@
 没怎么样	maty
 没有下文	mpdl
 火锅底料	rpbf
-烫手的山芋	mojp
+烫手的山芋	mojz
 白云生处有人家	jzig
 白费功夫	jxlg
 百岁老人	durh
@@ -134189,7 +134189,7 @@
 艳照门	jutm
 英文原版	zluj
 英文缩写	zlqg
-荆轲刺秦王	pxyr
+荆轲刺秦王	zxyr
 莆田系	zctf
 蒙娜丽莎的微笑	zwdj
 西安交大	ugmi
@@ -134448,7 +134448,7 @@
 耳机孔	vyha
 腾讯大王卡	fcif
 花儿都谢了	zrre
-芳草萋萋鹦鹉洲	zzpm
+芳草萋萋鹦鹉洲	zzzm
 苍天在上	zdpf
 英雄大会	zpih
 萝卜白菜	zfjz
