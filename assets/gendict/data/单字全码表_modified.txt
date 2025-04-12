@@ -4737,7 +4737,6 @@
 𥡼	bddk
 䤒	bddo
 穖	bddo
-𰏾	bddr
 𢇨	bddy
 𥝮	bddy
 𨠀	bddy
@@ -7100,6 +7099,7 @@
 𮃜	buwg
 𮩮	buwj
 𫘃	buwp
+𰏾	buwr
 醌	buww
 䅙	buww
 䫝	buwy
@@ -9683,12 +9683,10 @@
 ⺈	dddd
 𠂊	dddd
 𭙌	ddaa
-𰻷	ddab
 畿	ddac
 𤳀	ddac
 𥓛	ddad
 𧩦	ddad
-㐆	ddae
 𠂏	ddae
 𠂣	ddae
 𢆸	ddae
@@ -9696,15 +9694,12 @@
 𧦯	ddaf
 𧗇	ddah
 𢁴	ddaj
-𫐺	ddaj
-慇	ddal
 𢨂	ddal
 𨤣	ddal
 𢻽	ddap
 𲁴	ddap
 𥓎	ddaq
 𧩈	ddaq
-殷	ddar
 𧎶	ddav
 𫷣	ddaw
 𫿙	ddba
@@ -9745,7 +9740,6 @@
 𪜆	dddo
 𭅩	dddp
 𲁱	dddp
-磤	dddr
 𬋠	dddr
 斷	ddds
 磊	ddds
@@ -13143,6 +13137,7 @@
 𣢪	duwp
 𬱟	duwq
 㩻	duwr
+磤	duwr
 𠨜	duwr
 𠨪	duwr
 𧷪	duwr
@@ -23812,7 +23807,6 @@
 𧰁	gdde
 㝟	gddj
 𪅹	gddo
-𫳪	gddr
 𢓎	gddy
 𱗪	gdet
 㣧	gdfa
@@ -26578,6 +26572,7 @@
 宴	guwn
 𱈪	guwn
 𡪻	guwo
+𫳪	guwr
 𧰂	guwv
 𤑎	guww
 𩭭	guww
@@ -27578,7 +27573,6 @@
 饑	hddo
 僟	hddo
 𩜆	hddq
-𪝛	hddr
 𩚞	hddy
 𬿍	hdee
 𬿽	hdeh
@@ -30412,6 +30406,7 @@
 𩜝	huwn
 𪜿	huwn
 𬲘	huwn
+𪝛	huwr
 傝	huwv
 𩝣	huwv
 倱	huww
@@ -35666,7 +35661,6 @@
 𣤰	jddp
 𠒴	jddr
 𦉭	jddr
-𪾄	jddr
 𰙂	jddr
 籪	jdds
 𫿾	jdds
@@ -39024,6 +39018,7 @@
 𥳣	juvt
 𫂝	juvx
 𱸍	juwn
+𪾄	juwr
 䈳	juwv
 䪚	juwv
 箟	juww
@@ -43840,7 +43835,6 @@
 禨	lddo
 𢡧	lddo
 𰨆	lddq
-𢟝	lddr
 𥘢	lddy
 𭟆	ldee
 𭝳	ldeh
@@ -46551,6 +46545,7 @@
 愰	luwg
 𭜒	luwj
 𢞅	luwn
+𢟝	luwr
 禢	luwv
 𢞠	luwv
 惃	luww
@@ -47661,7 +47656,6 @@
 溼	mdde
 𮭋	mddg
 𱧱	mddk
-溵	mddr
 𭳹	mddv
 𬈖	mddx
 𣲑	mddy
@@ -51223,6 +51217,7 @@
 㴗	muwn
 𢧦	muwn
 𰃥	muwn
+溵	muwr
 𣽙	muwr
 𦧥	muws
 溻	muwv
@@ -52580,7 +52575,6 @@
 𩦋	nddo
 𤹎	nddr
 𭵝	nddr
-𱄬	nddr
 甆	nddt
 兹	nddy
 𤵋	nddy
@@ -55345,6 +55339,7 @@
 𪽳	nuwn
 𪾈	nuwn
 𰣭	nuwn
+𱄬	nuwr
 𤹀	nuwv
 𩥑	nuwv
 𬳉	nuwv
@@ -61851,7 +61846,6 @@
 𨌡	qddh
 𣰈	qddo
 𧝞	qddo
-𨍪	qddr
 𠙬	qddv
 𦨠	qddy
 𧘛	qddy
@@ -64383,6 +64377,7 @@
 𬡉	quwj
 䙅	quwn
 𬘱	quwn
+𨍪	quwr
 褟	quwv
 𦈖	quwv
 㲩	quwv
@@ -65423,7 +65418,6 @@
 𱯠	rdde
 璣	rddo
 鞿	rddo
-𬎀	rddr
 䩘	rddy
 𤤈	rddy
 𧵇	rddy
@@ -68688,6 +68682,7 @@
 嫑	ruwn
 𤧄	ruwn
 𬎗	ruwp
+𬎀	ruwr
 翥	ruwv
 𤌙	ruwv
 𩌇	ruwv
@@ -74877,9 +74872,7 @@
 歞	uddp
 𬱮	uddq
 㬎	uddr
-𣉥	uddr
 𩎍	uddr
-𰆤	uddr
 𩪽	udds
 𧖙	uddv
 𫶹	uddv
@@ -78191,6 +78184,8 @@
 𱛉	uuwj
 崾	uuwn
 𣉋	uuwn
+𣉥	uuwr
+𰆤	uuwr
 𣇗	uuwt
 崐	uuww
 崑	uuww
@@ -78360,7 +78355,12 @@
 𮪳	uvzk
 𢤃	uvzl
 𪩞	uwaa
+𰻷	uwab
+㐆	uwae
 覅	uwaf
+𫐺	uwaj
+慇	uwal
+殷	uwar
 𠨬	uwbc
 𠨬	uwbc
 㫐	uwbr
@@ -94893,7 +94893,6 @@
 𬹪	zddj
 慈	zddl
 𦺬	zddo
-蒑	zddr
 𤮀	zddt
 𧁅	zddw
 茲	zddy
@@ -98382,6 +98381,7 @@
 葽	zuwn
 𡝪	zuwn
 𦰇	zuwn
+蒑	zuwr
 𦶑	zuwv
 𮒮	zuwv
 菎	zuww

@@ -2029,7 +2029,6 @@ columns:
 誢	ddj	0
 讂	ddj	0
 砨	ddk	0
-慇	ddl	104
 硜	ddl	0
 碔	ddl	0
 証	ddl	0
@@ -2043,9 +2042,7 @@ columns:
 磯	ddo	0
 譏	ddo	0
 訏	ddp	0
-殷	ddr	2899
 矹	ddr	0
-磤	ddr	0
 斷	dds	104
 砳	dds	104
 蠿	ddv	0
@@ -2790,6 +2787,7 @@ columns:
 磹	dup	104
 譚	dup	104
 碳	dur	1267
+磤	dur	0
 礘	dur	0
 磃	dus	0
 訕	dus	0
@@ -9682,7 +9680,6 @@ columns:
 浗	mdo	0
 汙	mdp	0
 滸	mdp	0
-溵	mdr	104
 漹	mdr	104
 烕	mdr	0
 沯	mds	0
@@ -10589,6 +10586,7 @@ columns:
 派	muq	100	mu1
 沓	mur	444
 汨	mur	325
+溵	mur	104
 燙	mur	104
 湠	mur	0
 濕	mur	0
@@ -16666,6 +16664,7 @@ columns:
 崯	uwj	0
 曃	uwj	0
 峮	uwk	0
+慇	uwl	104
 曜	uwm	369
 要	uwn	100	uw1
 妟	uwn	0
@@ -16676,6 +16675,7 @@ columns:
 顾	uwq	22057
 嶶	uwq	0
 毾	uwq	0
+殷	uwr	2899
 翮	uwv	115
 昆	uww	5450
 巓	uww	0
@@ -20737,7 +20737,6 @@ columns:
 藹	zdn	0
 萈	zdo	0
 萯	zdr	0
-蒑	zdr	0
 蔎	zdr	0
 蘐	zdt	0
 藷	zdu	0
@@ -21533,6 +21532,7 @@ columns:
 蕈	zup	115
 草	zup	100	zu1
 昏	zur	7236
+蒑	zur	0
 蓦	zus	2049
 蔓	zut	1472
 蕞	zut	111

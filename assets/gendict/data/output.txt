@@ -13311,7 +13311,7 @@
 盛大	maid
 采集	iymy
 钟情	pklj
-殷勤	ddpk
+殷勤	uwpk
 门里	tmal
 分钱	nnpd
 跨出	iimj
@@ -17231,7 +17231,7 @@
 定都	geru
 斗法	ldme
 着墨	sene
-殷红	ddql
+殷红	uwql
 家政	ghdl
 网址	jeel
 敢问	avtk
@@ -26098,7 +26098,7 @@
 升为	tzoc
 大名鼎鼎	ivee
 行不通	prig
-殷切	ddcn
+殷切	uwcn
 避讳	mjcy
 点菜	fkzi
 掌权	soyt
@@ -28638,7 +28638,7 @@
 二万	nedn
 棺木	ygym
 外因	vfai
-殷殷	dddd
+殷殷	uwuw
 分店	nnbf
 压根儿	uyre
 别给	kcqz
@@ -29241,7 +29241,7 @@
 涂鸦	mhro
 野人	aohr
 应验	bmsz
-殷实	ddgo
+殷实	uwgo
 排便	olhd
 不速之客	rtxg
 小心眼	ilep
@@ -40738,7 +40738,7 @@
 取乐	vtki
 抄送	oini
 如梦初醒	wyqb
-献殷勤	pdpk
+献殷勤	pupk
 脚板	feyu
 累人	cfhr
 口若悬河	kzhm
@@ -48891,7 +48891,7 @@
 眼浅	epmd
 玄理	ldra
 灾患	grph
-殷富	ddgd
+殷富	uwgd
 鸩毒	grjp
 毛蚴	qmvd
 垂吊	nzka
@@ -60213,7 +60213,7 @@
 三十而立	apkx
 军纪	gxqb
 躲躲闪闪	xxtt
-殷商	ddxj
+殷商	uwxj
 泣鬼神	melu
 女红	wnql
 盛年	masl
@@ -82618,7 +82618,7 @@
 防护林	xoyy
 骤增	sven
 搭售	ozmk
-殷墟	ddes
+殷墟	uwes
 穷国	acar
 登山队	nuxh
 楹联	ydvn
@@ -90488,7 +90488,7 @@
 参赛队	igxh
 周期表	jfjq
 大为改观	iobt
-大献殷勤	ipdp
+大献殷勤	ipup
 字节跳动	gziz
 存在主义	ppoo
 存贷款	phjl
@@ -92870,7 +92870,7 @@
 木雕泥塑	yjmn
 椎心泣血	ylmt
 欢乐谷	tkyg
-殷鉴不远	dnrn
+殷鉴不远	unrn
 民胞物与	vfxn
 气冲霄汉	igxm
 漫步者	mlru
@@ -107161,7 +107161,7 @@
 已对	bito
 非有	lfpf
 两起	zlib
-殷桃	ddyr
+殷桃	uwyr
 盗抢	gpoh
 名女	vkwn
 说用	cngy
@@ -112456,7 +112456,7 @@
 细白	qcjb
 上轿	fdxt
 跑一跑	idia
-殷都	ddru
+殷都	uwru
 男与女	cnwn
 书经	aaqt
 地刷	eefa
@@ -114791,7 +114791,7 @@
 秘要	bluw
 卸船	twqq
 露光	xiwg
-殷周	ddje
+殷周	uwje
 暂告	xsxk
 前松后紧	nyun
 造表	xkjq
@@ -115218,7 +115218,7 @@
 精警	fjze
 忽明	afuf
 囚房	kqdm
-殷朝	ddpu
+殷朝	uwpu
 管板	jgyu
 盲孔	neha
 尹明善	wusn
@@ -126440,7 +126440,7 @@
 有情况	plgk
 有时能	puif
 核心人物	ylhx
-殷切期望	dcfn
+殷切期望	ucfn
 永远都要	onru
 混口饭吃	mknk
 点个赞	fhxr
@@ -132495,7 +132495,7 @@
 每天一个	sddh
 往自己脸上贴金	gvbw
 彩月七绪	ifcq
-殷夫人	dghr
+殷夫人	ughr
 明码	ufds
 恩施土家族苗族自治州	amek
 赵元任	inht
