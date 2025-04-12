@@ -55,11 +55,18 @@ switches:
   - name: lazy_clock
     reset: 1
     states: [ 懒钟下班, ㍡开工 ]
+  - name: emoji_suggestion
+    reset: 1
+    states: [ "🈚︎", "🈶️" ]
+  - name: super_tips
+    states: [ off, tips ]
+    reset: 1
 
 engine:
   processors:
     - ascii_composer
     - recognizer
+    - lua_processor@*amz.super_tips*S
     - lua_processor@*ace.leopard_spelling*processor
     - key_binder
     - speller
@@ -89,7 +96,9 @@ engine:
     - lua_translator@*ace.os_tools*os_run_translator
     - lua_translator@*ace.helper
   filters:
+    - lua_filter@*leopard.mark_smart_filter
     - lua_filter@*ace.single_char_only
+    - simplifier@emoji_suggestion
     - charset_filter@gb2312
     - charset_filter@gbk
     - charset_filter@big5
@@ -102,6 +111,7 @@ engine:
     - lua_filter@*ace.leopard_spelling*filter@xmsp_for_rvlk
     - lua_filter@*ace.leopard_postpone_fullcode
     - lua_filter@*ace.os_tools*lazy_clock_filter
+    - lua_filter@*amz.super_tips*M
     - uniquifier
     # - lua_filter@debug_filter
 
@@ -184,7 +194,12 @@ history:
   size: 1
   initial_quality: 2000
 
-# 用于混输
+emoji_suggestion:
+    opencc_config: emoji.json
+    option_name: emoji_suggestion
+    tips: none
+    inherit_comment: false
+
 hao_pinyin:
   tag: hao_pinyin
   dictionary: hao.pinyin
@@ -248,6 +263,7 @@ punctuator:
 # 本节点仅用于被 __patch 指令引用
 key_bindings:
   __append:
+    - { when: has_menu, accept: "Control+Shift+T", toggle: super_tips }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: composing, accept: "Control+s", toggle: single_char_only }
     - { when: composing, accept: "Control+t", toggle: lazy_clock }
@@ -255,6 +271,7 @@ key_bindings:
     - { when: has_menu, accept: apostrophe, send: 3 }  # 引号三选
 
 key_binder:
+  tips_key: "bracketright"
   bindings:
     __patch:
       - key_bindings:/emacs_editing?

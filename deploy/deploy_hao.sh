@@ -67,7 +67,7 @@ gen_schema() {
     log "开始生成方案: ${NAME}"
     
     local HAO="${RAMDISK}/${NAME}"
-    mkdir -p "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/leopard" "${HAO}/opencc" || error "无法创建必要目录"
+    mkdir -p "${HAO}/lua/amz" "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/leopard" "${HAO}/opencc" || error "无法创建必要目录"
     
     # 复制基础文件到内存
     log "复制基础文件到内存..."
@@ -79,6 +79,7 @@ gen_schema() {
     cp ../template/weasel.yaml "${HAO}" || error "复制 weasel 配置失败"
     cp ../template/lua/leopard/*.lua "${HAO}/lua/leopard" || error "复制 Lua 脚本失败"
     cp ../template/lua/hao/*.lua "${HAO}/lua/hao" || error "复制 Lua 脚本失败"
+    cp ../template/lua/amz/*.lua "${HAO}/lua/amz" || error "复制 Lua 脚本失败"
     cp -r ../template/lua/ace/* "${HAO}/lua/ace" || error "复制 Lua 脚本失败"
     cp ../template/opencc/*.json ../template/opencc/*.txt "${HAO}/opencc" || error "复制 OpenCC 配置失败"
     cp ../template/leopard*.yaml "${HAO}" || error "复制豹码配置失败"

@@ -14,10 +14,11 @@ schema:
     豹码简繁通打
 
 __patch:
-  - switches/@0/reset: 1    # GBK字集
-  - switches/@6/reset: 0    # 注解
-  - switches/@9/reset: 0    # lazy_clock
-
+  - switches/@0/reset:  1   # GBK字集
+  - switches/@6/reset:  0   # 注解 off
+  - switches/@9/reset:  0   # lazy_clock off
+  - switches/@10/reset: 0   # emoji_suggestion off
+  - switches/@11/reset: 0   # super_tips off
 speller:
   auto_clear: max_length
 
