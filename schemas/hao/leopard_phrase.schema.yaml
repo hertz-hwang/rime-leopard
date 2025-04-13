@@ -18,9 +18,14 @@ __patch:
   switches/@0/reset: 0    # GB2312字集
   switches/@6/reset: 0    # 注解
   switches/@9/reset: 0    # lazy_clock
+  engine/processors/@after 1:  chord_composer
   engine/translators/@after 2: script_translator@smartuser
   engine/translators/@after 3: script_translator@smartfixed
 
+chord_composer:
+  alphabet: ',.'
+  algebra:
+    - xform=(,.)=_=
 
 speller:
   alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
@@ -71,9 +76,9 @@ style:
 key_binder:
   bindings:
     __append:
-      - { when: has_menu, accept: " ", send: "_" }
-      - { when: has_menu, accept: ",", send: " " }
-      - { when: has_menu, accept: ".", send: " " }
+      #- { when: has_menu, accept: " ", send: "_" }
+      #- { when: has_menu, accept: ",", send: " " }
+      #- { when: has_menu, accept: ".", send: " " }
 
 recognizer:
   patterns:

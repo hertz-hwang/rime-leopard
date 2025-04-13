@@ -58,9 +58,9 @@ switches:
   - name: emoji_suggestion
     reset: 1
     states: [ "🈚︎", "🈶️" ]
-  - name: super_tips
-    states: [ off, tips ]
-    reset: 1
+  #- name: super_tips
+  #  states: [ off, tips ]
+  #  reset: 1
 
 engine:
   processors:

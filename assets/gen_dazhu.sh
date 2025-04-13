@@ -74,6 +74,14 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
         sed "s/3/'/g" \
         >"${OUTPUT_DIR}/dazhu-leopard.txt"
     
+    cat "${INPUT_DIR}/leopard.personal.dict.yaml" | \
+        sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
+        sed 's/\t/{TAB}/g' | \
+        grep '.*{TAB}.*' | \
+        sed 's/{TAB}/\t/g' | \
+        awk '{print $2 "\t" $1}' \
+        >>"${OUTPUT_DIR}/dazhu-leopard.txt"
+    
     cat "${INPUT_DIR}/hao.symbols.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
