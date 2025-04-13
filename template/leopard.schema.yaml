@@ -66,7 +66,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
-    - lua_processor@*amz.super_tips*S
+    #- lua_processor@*amz.super_tips*S
     - lua_processor@*ace.leopard_spelling*processor
     - key_binder
     - speller
@@ -111,7 +111,7 @@ engine:
     - lua_filter@*ace.leopard_spelling*filter@xmsp_for_rvlk
     - lua_filter@*ace.leopard_postpone_fullcode
     - lua_filter@*ace.os_tools*lazy_clock_filter
-    - lua_filter@*amz.super_tips*M
+    #- lua_filter@*amz.super_tips*M
     - uniquifier
     # - lua_filter@debug_filter
 
