@@ -27849,9 +27849,9 @@
 𠂇⺝立⺝{龍右},PsFyXlDa	龓
 立⺝{龍右}龷八,XlFyDaNb	龔
 亼口立⺝{龍右},ZiKkXlDa	龕
-{龍右}立⺝{龍右},DaXlFyDa	龖
+立⺝{龍右}立⺝{龍右},XlFyDaDa	龖
 ⻗口{双口}立⺝{龍右},XvKkPxDa	龗
-{龍右}{龍右}立⺝{龍右},DaDaXlDa	龘
+立⺝{龍右}立⺝{龍右}立⺝{龍右},XlFyDaDa	龘
 龙,Vl	龙
 龙龷八,VlPnNb	龚
 亼口龙,ZiKkVl	龛
@@ -59113,7 +59113,7 @@
 衤未丷未丷未丷未丷,QiVwNbNb	𧟜
 衤金目目隹又,QiWjEmTy	𧟝
 衤立臼乚立臼乚衣,QiXlYjQi	𧟞
-{龍右}立⺝{龍右}衣,DaXlFyQi	𧟟
+立⺝{龍右}立⺝{龍右}衣,XlFyDaQi	𧟟
 襾一,UxDi	𧟠
 覀一,UxDi	𧟡
 ⺄西,AeUx	𧟢
@@ -60083,7 +60083,7 @@
 言言言言,DyDyDyDy	𧮦
 言艹門束丷,DyZcSmNb	𧮧
 言衣{双口}己工乂乂,DyQiPxEi	𧮨
-{龍右}立⺝{龍右}言,DaXlFyDy	𧮩
+立⺝{龍右}立⺝{龍右}言,XlFyDaDy	𧮩
 讠⺊口,CyFbKk	𧮪
 人人口,HrHrKk	𧮫
 谷⺄十,YgAePs	𧮬

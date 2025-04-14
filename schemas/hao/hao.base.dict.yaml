@@ -2016,7 +2016,6 @@ columns:
 諨	ddc	0
 磊	ddd	645
 礓	ddd	104
-龘	ddd	104
 譫	ddd	0
 譶	ddd	0
 硬	dde	13015
@@ -2872,7 +2871,6 @@ columns:
 砗	dxc	147
 礌	dxc	104
 礲	dxd	0
-龖	dxd	0
 礵	dxe	104
 砩	dxf	160
 諺	dxf	0
@@ -18930,8 +18928,10 @@ columns:
 阤	xey	0
 站	xf1	42592	xf1
 龍	xfd	104
+龘	xfd	104
 礱	xfd	0
 讋	xfd	0
+龖	xfd	0
 壟	xfe	0
 弗	xff	8970
 轳	xff	152

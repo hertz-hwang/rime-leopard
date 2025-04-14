@@ -9913,7 +9913,6 @@
 𥑗	ddwo
 謆	ddwv
 𥔱	ddwv
-龘	ddxd
 𨚏	ddxe
 碔	ddxl
 碥	ddyc
@@ -13447,9 +13446,6 @@
 䂙	dxes
 𫑟	dxey
 礲	dxfd
-龖	dxfd
-𧮩	dxfd
-𧟟	dxfq
 砩	dxfs
 䛍	dxfy
 碲	dxga
@@ -87476,9 +87472,12 @@
 𪚑	xfda
 𫿤	xfda
 𱟡	xfda
+龘	xfdd
 𪚥	xfdd
 礱	xfdd
 讋	xfdd
+龖	xfdd
+𧮩	xfdd
 壟	xfde
 壟	xfde
 𤙐	xfdf
@@ -87504,6 +87503,7 @@
 𢸭	xfdo
 襲	xfdq
 𦪿	xfdq
+𧟟	xfdq
 𪚤	xfdr
 𤮨	xfdt
 𨺏	xfdt
