@@ -1,9 +1,9 @@
 version: '0.1'
-source: huma
+source: null
 info:
   name: 豹码-Leopard_Code
   author: 荒
-  version: v1
+  version: Beta
   description: 26 键、低重码的高性能中文输入方案
 data:
   character_set: general
