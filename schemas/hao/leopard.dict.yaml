@@ -20797,7 +20797,6 @@ encoder:
 䃯	djgy	0.000000
 㪅	djha	0.000000
 𫠥	djha	0.000000
-𬌾	djha	0.000000
 𬍈	djha	0.000000
 𭤓	djha	0.000000
 𰕏	djha	0.000000
@@ -20809,7 +20808,6 @@ encoder:
 𥒩	djhg	0.000000
 𪈹	djhg	0.000000
 𢩌	djhh	0.000000
-𧰼	djhh	0.000000
 𭅾	djhh	0.000000
 𰀕	djhh	0.000000
 𡥗	djhi	0.000000
@@ -20879,6 +20877,7 @@ encoder:
 𧪒	djms	0.000000
 敻	djna	0.000000
 𢿌	djna	0.000000
+𬌾	djna	0.000000
 𠢒	djnc	0.000000
 䛁	djne	0.000000
 𠕂	djne	0.000000
@@ -20886,6 +20885,7 @@ encoder:
 𡚥	djne	0.000000
 𪿶	djnf	0.000000
 𪄢	djng	0.000000
+𧰼	djnh	0.000000
 奐	djni	0.000000
 𧩶	djni	0.000000
 𡕫	djnj	0.000000
@@ -57921,7 +57921,6 @@ encoder:
 𤵿	ndja	0.000000
 𩤳	ndja	0.000000
 𩧊	ndja	0.000000
-𭼬	ndja	0.000000
 𤶻	ndjb	0.000000
 𩢷	ndjb	0.000000
 𤶮	ndjc	0.000000
@@ -58660,6 +58659,7 @@ encoder:
 𤶖	nihi	0.000000
 𬐕	nihi	0.000000
 𬲺	nihi	0.000000
+𭼬	nihj	0.000000
 瘱	nihl	0.000000
 𭁎	nihq	0.000000
 𡙼	niib	0.000000
@@ -110391,7 +110391,6 @@ encoder:
 䃯	djgy
 㪅	djha
 𫠥	djha
-𬌾	djha
 𬍈	djha
 𭤓	djha
 𰕏	djha
@@ -110403,7 +110402,6 @@ encoder:
 𥒩	djhg
 𪈹	djhg
 𢩌	djhh
-𧰼	djhh
 𭅾	djhh
 𰀕	djhh
 𡥗	djhi
@@ -110479,6 +110477,7 @@ encoder:
 𧪒	djms
 敻	djna
 𢿌	djna
+𬌾	djna
 𠢒	djnc
 㓦	djnd
 䛁	djne
@@ -110487,6 +110486,7 @@ encoder:
 𡚥	djne
 𪿶	djnf
 𪄢	djng
+𧰼	djnh
 碶	djni
 奐	djni
 𧩶	djni
@@ -151726,7 +151726,6 @@ encoder:
 𤵿	ndja
 𩤳	ndja
 𩧊	ndja
-𭼬	ndja
 𤶻	ndjb
 𩢷	ndjb
 𤶮	ndjc
@@ -152547,6 +152546,7 @@ encoder:
 𤶖	nihi
 𬐕	nihi
 𬲺	nihi
+𭼬	nihj
 瘱	nihl
 𭁎	nihq
 𡙼	niib

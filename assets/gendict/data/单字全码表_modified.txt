@@ -11248,7 +11248,6 @@
 䃯	djgy
 㪅	djha
 𫠥	djha
-𬌾	djha
 𬍈	djha
 𭤓	djha
 𰕏	djha
@@ -11260,7 +11259,6 @@
 𥒩	djhg
 𪈹	djhg
 𢩌	djhh
-𧰼	djhh
 𭅾	djhh
 𰀕	djhh
 𡥗	djhi
@@ -11336,6 +11334,7 @@
 𧪒	djms
 敻	djna
 𢿌	djna
+𬌾	djna
 𠢒	djnc
 㓦	djnd
 䛁	djne
@@ -11344,6 +11343,7 @@
 𡚥	djne
 𪿶	djnf
 𪄢	djng
+𧰼	djnh
 碶	djni
 奐	djni
 𧩶	djni
@@ -52583,7 +52583,6 @@
 𤵿	ndja
 𩤳	ndja
 𩧊	ndja
-𭼬	ndja
 𤶻	ndjb
 𩢷	ndjb
 𤶮	ndjc
@@ -53404,6 +53403,7 @@
 𤶖	nihi
 𬐕	nihi
 𬲺	nihi
+𭼬	nihj
 瘱	nihl
 𭁎	nihq
 𡙼	niib

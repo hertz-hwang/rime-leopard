@@ -58376,7 +58376,7 @@
 虫虍田心,VcShCtLx	𧓻
 虫广𠂉卌一灬,VcBgStRh	𧓼
 厂⺿田⽱虫,UcZcCtVc	𧓽
-虫⺈冂人罒攴,VcDdJkAp	𧓾
+虫⺈冂八罒攴,VcDdJkAp	𧓾
 ⺿予丿虫虫,ZcOvTpVc	𧓿
 虫匕穴瓦,VcJpWbTw	𧔀
 二口丨口虫虫,NeKkHsVc	𧔁
@@ -60230,7 +60230,7 @@
 豕屮凵,HsMcJk	𧰹
 彑冖豕,WjGgHs	𧰺
 豕亼龴,HsZiIs	𧰻
-⺈冂人,DdJkHrHs	𧰼
+⺈冂八,DdJkNbHs	𧰼
 一,JkDiHs	𧰽
 豕亼龴,HsZiIs	𧰾
 豕⺿乂,HsZcEi	𧰿
@@ -78368,7 +78368,7 @@
 犭⺈貝,AqDdRb	𬌻
 犭刀田力,AqNdCtCl	𬌼
 犭辰寸,AqScOc	𬌽
-⺈冂人匕犬,DdJkHrAq	𬌾
+⺈冂八匕犬,DdJkNbAq	𬌾
 犭冖方,AqXlGgMf	𬌿
 犭衣龷,AqQiPn	𬍀
 犭車辶,AqQcJc	𬍁
@@ -85502,9 +85502,9 @@
 疒幺幺戈ㄅ,NbDyDyAe	𭼧
 疒歹戈戈,NbSdAgAg	𭼨
 疒日月犬,NbUrFyAq	𭼩
-疒⺜⺝戈,NbUrFyAg	𭼪
+疒日⺝戈,NbUrFyAg	𭼪
 疒隹木,NbMiYm	𭼫
-疒⺈冂八目攵,NbDdJkAp	𭼬
+疒⺥丨日夂,NbIaHsJi	𭼬
 疒阝人镸,NbXeHrIc	𭼭
 疒目火火,NbEmRhRh	𭼮
 疒矢隹,NbGsMi	𭼯
@@ -94327,7 +94327,7 @@
 馬一人人人人大,NmDiHrId	𱄳
 月丷夫゛馬,FyNbGfNm	𱄴
 馬镸聿,NmIcIv	𱄵
-馬⺈冂人見,NmDdJkDj	𱄶
+馬⺈冂八見,NmDdJkDj	𱄶
 馬日龷八⺗,NmUrPnLx	𱄷
 馬禾人⺗,NmBhNdLx	𱄸
 馬走⺊日十,NmIzFbPs	𱄹
@@ -98582,7 +98582,7 @@
 釒艹氵亡,WjZcMsNw	𲇗
 釒艹女二ㄅ,WjZcWnAe	𲇘
 釒自犬,WjViAq	𲇙
-釒⺈冂人匕,WjDdJkWb	𲇚
+釒⺈冂八匕,WjDdJkWb	𲇚
 釒⺷心,WjSyLx	𲇛
 釒氵𠂉母,WjMsStPm	𲇜
 釒田各,WjCtKg	𲇝
