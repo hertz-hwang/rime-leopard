@@ -7661,6 +7661,7 @@ encoder:
 憺	ldu	0.000001
 㤘	ldw	0.000001
 赟	ldxv	0.000001
+𨭉	ldxw	0.000001
 惼	ldyc	0.000001
 訄	ldyj	0.000001
 禮	legd	0.000001
@@ -8505,6 +8506,7 @@ encoder:
 𬬺	phq	0.000001
 𬭤	phv	0.000001
 𬬰	phwj	0.000001
+𬭯	pia	0.000001
 𬬮	pic	0.000001
 锾	pid	0.000001
 锜	pie	0.000001
@@ -8594,7 +8596,6 @@ encoder:
 嚴	puaa	0.000001
 镘	pubt	0.000001
 钽	pud	0.000001
-荁	pudi	0.000001
 锝	pudo	0.000001
 镚	puf	0.000001
 𬬹	puh	0.000001
@@ -9757,7 +9758,6 @@ encoder:
 𧒽	vxc	0.000001
 尢	vyy	0.000001
 螋	vyh	0.000001
-𨭉	vyn	0.000001
 蠛	vzb	0.000001
 蝓	vzf	0.000001
 虷	vzgc	0.000001
@@ -9817,7 +9817,6 @@ encoder:
 彖	whsj	0.000001
 劙	whvn	0.000001
 𫰡	whw	0.000001
-𬭯	wia	0.000001
 婍	wie	0.000001
 銷	wif	0.000001
 㛚	wigy	0.000001
@@ -10549,6 +10548,7 @@ encoder:
 菼	zrr	0.000001
 蓍	zrur	0.000001
 蔊	zruz	0.000001
+荁	zsd	0.000001
 苽	zsg	0.000001
 蘧	zsh	0.000001
 薤	zsl	0.000001
@@ -64526,7 +64526,7 @@ encoder:
 𨱂	phwb	0.000000
 𬭘	phws	0.000000
 𬭇	phz	0.000000
-𬬲	pia	0.000000
+𬬲	piaj	0.000000
 䥕	piap	0.000000
 𤰍	pib	0.000000
 𧁡	pibf	0.000000
@@ -83822,7 +83822,7 @@ encoder:
 𠓼	vymp	0.000000
 𣜟	vymq	0.000000
 𡯐	vymy	0.000000
-𦖌	vynb	0.000000
+𦖌	vyn	0.000000
 𧌎	vynb	0.000000
 𧹖	vynb	0.000000
 㓷	vynd	0.000000
@@ -85284,7 +85284,7 @@ encoder:
 𮡰	whzg	0.000000
 𮣆	whzg	0.000000
 𫰢	whzy	0.000000
-𨮯	wiae	0.000000
+𨮯	wia	0.000000
 釽	wiaj	0.000000
 𨥝	wiaj	0.000000
 𨯙	wiaj	0.000000
@@ -98091,7 +98091,7 @@ encoder:
 𧃢	zscn	0.000000
 𮑊	zscn	0.000000
 𦼲	zsct	0.000000
-𦬿	zsd	0.000000
+𦬿	zsdc	0.000000
 𦽪	zsdc	0.000000
 𧃁	zsdg	0.000000
 茊	zsdi	0.000000
@@ -143116,6 +143116,7 @@ encoder:
 𣁦	ldxr
 𭞎	ldxr
 赟	ldxv
+𨭉	ldxw
 惼	ldyc
 斒	ldyc
 𥚹	ldyc
@@ -159285,6 +159286,7 @@ encoder:
 𬭘	phws
 𬭇	phzy
 𬬲	piaj
+𬭯	piap
 䥕	piap
 𤰍	pibf
 𧁡	pibf
@@ -160144,7 +160146,6 @@ encoder:
 𰽝	pucl
 䘗	pudf
 钽	pudi
-荁	pudi
 𬭅	pudk
 䥿	pudn
 锝	pudo
@@ -181146,7 +181147,6 @@ encoder:
 𧹖	vynb
 㓷	vynd
 蜙	vyni
-𨭉	vynw
 𧉱	vyod
 𧐄	vypq
 聣	vyre
@@ -182730,7 +182730,6 @@ encoder:
 釽	wiaj
 𨥝	wiaj
 𨯙	wiaj
-𬭯	wiap
 𡡹	wiap
 𦒐	wiap
 䥁	wias
@@ -197039,6 +197038,7 @@ encoder:
 𦬿	zsdc
 𦽪	zsdc
 𧃁	zsdg
+荁	zsdi
 茊	zsdi
 𧂄	zsdy
 𦼠	zsdz

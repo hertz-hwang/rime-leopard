@@ -20596,7 +20596,7 @@
 艹一廾,ZcDiZc	茾
 艹工几丶,ZcLgQjOd	茿
 艹勹日,ZcAkUr	荀
-龷日一,PnUrDi	荁
+艹{凬字心}一,ZcScDi	荁
 艹大二ㄅ,ZcIdNeAe	荂
 艹人王,ZcHrRw	荃
 艹亥,ZcXh	荄
@@ -64083,7 +64083,7 @@
 金黑,WjNh	𨭆
 金丿人人人人土,WjTpHrEt	𨭇
 金犭艹由,WjAqZcUy	𨭈
-耳𠕁金,VeYcNbWj	𨭉
+文一弋止金,LwDiXiWj	𨭉
 金火火冖几,WjRhRhQj	𨭊
 金宀一丿皿丁,WjGgDiPd	𨭋
 金壴彡,WjEuFs	𨭌
@@ -80465,7 +80465,7 @@
 钅丰丰彐,PjJfJfWj	𬭬
 钅戊⺊一小,PjMuFbIx	𬭭
 钅艹两,PjZcZl	𬭮
-金㡀攵,WjIbAp	𬭯
+钅㡀攵,PjIbAp	𬭯
 钅宀一由八,PjGgDiNb	𬭰
 钅火口心,PjRhKkLx	𬭱
 钅巛田木,PjKcCtYm	𬭲

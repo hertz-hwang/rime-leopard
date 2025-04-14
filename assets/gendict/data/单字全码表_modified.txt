@@ -43973,6 +43973,7 @@
 𣁦	ldxr
 𭞎	ldxr
 赟	ldxv
+𨭉	ldxw
 惼	ldyc
 斒	ldyc
 𥚹	ldyc
@@ -60142,6 +60143,7 @@
 𬭘	phws
 𬭇	phzy
 𬬲	piaj
+𬭯	piap
 䥕	piap
 𤰍	pibf
 𧁡	pibf
@@ -61001,7 +61003,6 @@
 𰽝	pucl
 䘗	pudf
 钽	pudi
-荁	pudi
 𬭅	pudk
 䥿	pudn
 锝	pudo
@@ -82003,7 +82004,6 @@
 𧹖	vynb
 㓷	vynd
 蜙	vyni
-𨭉	vynw
 𧉱	vyod
 𧐄	vypq
 聣	vyre
@@ -83587,7 +83587,6 @@
 釽	wiaj
 𨥝	wiaj
 𨯙	wiaj
-𬭯	wiap
 𡡹	wiap
 𦒐	wiap
 䥁	wias
@@ -97896,6 +97895,7 @@
 𦬿	zsdc
 𦽪	zsdc
 𧃁	zsdg
+荁	zsdi
 茊	zsdi
 𧂄	zsdy
 𦼠	zsdz
