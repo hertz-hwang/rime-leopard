@@ -178,13 +178,14 @@
 表	jq1
 原	uj1
 女	wn1
-更	du1
+更	se1
 己	bj1
 名	vk1
 立	xl1
 比	ww1
 四	bs1
 世	pa1
+便	hs1
 听	ks1
 提	ou1
 做	ho1
@@ -414,7 +415,6 @@
 节	zw1
 云	zy1
 钱	pd1
-伤	hs1
 母	pm1
 苏	zc1
 维	qm1
@@ -502,6 +502,7 @@
 富	gd1
 优	hv1
 姑	wo1
+宣	gs1
 草	zu1
 妈	ws1
 洲	mk1
@@ -509,6 +510,7 @@
 露	xi1
 犯	aw1
 尚	ss1
+危	du1
 魔	ae1
 屋	fg1
 临	nj1
@@ -547,7 +549,6 @@
 猛	ah1
 测	mv1
 饭	nu1
-堂	se1
 庄	be1
 顶	pq1
 乡	rx1
@@ -634,7 +635,6 @@
 赖	td1
 彭	ef1
 戒	az1
-冯	gs1
 乏	tx1
 燃	rf1
 韦	yw1

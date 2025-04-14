@@ -429,6 +429,7 @@ Ry	㸦
 Ry	廴
 Ry	牙
 Sc	辰
+Sc	{凬字心}
 Sd	歹
 Sd	歺
 Sd	鬥

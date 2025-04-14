@@ -1091,7 +1091,7 @@
 女大人人,WnIdHrHr	㛍
 女{双口},WnPx	㛎
 女一氺丶,WnDiMsOd	㛏
-女一日,WnDiUrEi	㛐
+女{凬字心},WnScEi	㛐
 歺又女,SdTyWn	㛑
 女豆,WnGd	㛒
 女㐅𠂇巾,WnEiPsAj	㛓
@@ -1132,7 +1132,7 @@
 女山𠂇火,WnUsPsRh	㛶
 禾尤女,BhVyWn	㛷
 女壴,WnEu	㛸
-女亻一日,WnHrDiEi	㛹
+女亻{凬字心},WnHrScEi	㛹
 女音,WnWy	㛺
 女大土土,WnIdEtEt	㛻
 女千臼,WnNqYj	㛼
@@ -2121,7 +2121,7 @@
 日𠂉乙,UrStKi	㫓
 日⺊一,UrFbDi	㫔
 日一儿,UrDiRe	㫕
-⺊一日,FbDiUr	㫖
+⺊{凬字心},FbSc	㫖
 日子,UrHi	㫗
 不日,RbUr	㫘
 日夫,UrGf	㫙
@@ -2213,7 +2213,7 @@
 日{赢框}羊,UrOiSy	㬯
 曰人,UyHr	㬰
 𠂒儿𠂒儿曰,XnReXnUy	㬱
-一日皿,DiUrEiHm	㬲
+{凬字心}皿,ScEiMsHm	㬲
 月𠂉十,FyStPs	㬳
 月龷八,FyPnNb	㬴
 月六乂,FyMlEi	㬵
@@ -3047,7 +3047,7 @@
 犭足,AqIu	㹱
 犭耂子,AqRlHi	㹲
 犭五口,AqUuKk	㹳
-犭一日,AqDiUrEi	㹴
+犭{凬字心},AqScEi	㹴
 犭一巛工,AqDiKcLg	㹵
 犭丿士廴,AqTpJsRy	㹶
 㐅𠂇巾犬,EiPsAjAq	㹷
@@ -3339,7 +3339,7 @@
 疒辛,NbSx	㾕
 疒里,NbAl	㾖
 疒丶艮,NbOdPg	㾗
-疒一日,NbDiUrEi	㾘
+疒{凬字心},NbScEi	㾘
 疒㐅𠂇巾,NbEiPsAj	㾙
 疒止匕二,NbLiWbNe	㾚
 疒彐冖又,NbWjGgTy	㾛
@@ -5054,7 +5054,7 @@
 衤亻矢,QiHrVkGs	䙈
 衤⺁十目,QiUcPsEm	䙉
 衤卅冖巾,QiQsGgAj	䙊
-衤宀一日一,QiGgDiDi	䙋
+衤宀{凬字心}一,QiGgScDi	䙋
 衤虫贝,QiVcVb	䙌
 衤飛,QiGf	䙍
 衤爫幺大,QiIaDyId	䙎
@@ -5132,7 +5132,7 @@
 ⻗口{双口}工人人見,XvKkPxDj	䚖
 ⺈用八厶,DdGyNbIs	䚗
 行⺈用,PxDdGy	䚘
-⺈用一日一,DdGyDiDi	䚙
+⺈用{凬字心}一,DdGyScDi	䚙
 ⺈用𠂒儿,DdGyXnRe	䚚
 ⺈用𠂒口,DdGyXnKk	䚛
 ⺈用白丿十,DdGyJbPs	䚜
@@ -5645,7 +5645,7 @@
 曲辶,EqJc	䢗
 宀寸辶,GgOcJc	䢘
 貝辶,RbJc	䢙
-一日辶,DiUrEiJc	䢚
+{凬字心}辶,ScEiJc	䢚
 冂八口辶,JkNbKkJc	䢛
 彐冖巾辶,WjGgAjJc	䢜
 一辶,DiOyJc	䢝
@@ -6593,7 +6593,7 @@
 魚龷八,AvPnNb	䱋
 魚,AvEc	䱌
 魚一月一,AvDiFyDi	䱍
-魚一日一,AvDiUrDi	䱎
+魚{凬字心}一,AvScDi	䱎
 魚豆,AvGd	䱏
 魚爫子,AvIaHi	䱐
 魚扌斤,AvOsSj	䱑
@@ -6631,7 +6631,7 @@
 魚冖巾,AvXlGgAj	䱱
 魚彑,AvWjHs	䱲
 魚厂里,AvUcAl	䱳
-魚忄一日一,AvLxDiDi	䱴
+魚忄{凬字心}一,AvLxScDi	䱴
 魚八厶羽,AvNbIsWv	䱵
 魚丶阝,AvOdPgXe	䱶
 虍魚攵,ShAvAp	䱷
@@ -6745,7 +6745,7 @@
 十戈刀鳥,PsAgNdGn	䳣
 㡀鳥,IbGn	䳤
 山亽龴鳥,UsZiIsGn	䳥
-宀一日一鳥,GgDiUrGn	䳦
+宀{凬字心}一鳥,GgScDiGn	䳦
 鳥亻矢,GnHrVkGs	䳧
 白王鳥,JbRwGn	䳨
 覀女鳥,UxWnGn	䳩
@@ -7115,7 +7115,7 @@
 井,Vj	井
 二二,NeNe	亖
 山二,UsNe	亗
-一日一,DiUrDi	亘
+{凬字心}一,ScDi	亘
 一⺼一,DiFyDi	亙
 一业,DiOy	亚
 止匕二,LiWbNe	些
@@ -7410,7 +7410,7 @@
 亻十冖子,HrPsGgHi	侼
 亻田力,HrCtCl	侽
 亻耂子,HrRlHi	侾
-亻一日,HrDiUrEi	便
+亻{凬字心},HrScEi	便
 亻爫女,HrIaWn	俀
 亻口㇞大,HrKkAeId	俁
 亻丿糸,HrTpFs	係
@@ -7967,7 +7967,7 @@
 几木,QjYm	凩
 几止,QjLi	凪
 鸟几,OnQj	凫
-几一日,QjDiUr	凬
+几{凬字心},QjSc	凬
 亻丿士几,HrTpJsQj	凭
 几一白,QjDiJb	凮
 山己几,UsBjQj	凯
@@ -8034,7 +8034,7 @@
 一戈刂,DiAgNd	刬
 ス工刂,TyLgNd	刭
 舌刂,WsNd	刮
-一日一刂,DiUrDiNd	刯
+{凬字心}一刂,ScDiNd	刯
 至刂,GiNd	到
 井刀八,VjNdNb	刱
 土土刂,EtEtNd	刲
@@ -8685,7 +8685,7 @@
 口儿冫,KkReGbGb	咷
 戊一口,MuDiKk	咸
 口宀女,KkGgWn	咹
-口一日一,KkDiUrDi	咺
+口{凬字心}一,KkScDi	咺
 口亻木,KkHrYm	咻
 冎口,UgKk	咼
 口囗大,KkAkId	咽
@@ -8752,7 +8752,7 @@
 口甫,KkBf	哺
 口日干,KkUrZg	哻
 口了,KkQgEl	哼
-口一日,KkDiUrEi	哽
+口{凬字心},KkScEi	哽
 口丷口儿,KkNbKkRe	哾
 力口可,ClKkEk	哿
 口禾乃,KkBhDn	唀
@@ -8922,7 +8922,7 @@
 口白王,KkJbRw	喤
 口广廿又,KkBgPnTy	喥
 口{双口}山,KkPxUs	喦
-口宀一日一,KkGgDiDi	喧
+口宀{凬字心}一,KkGgScDi	喧
 口几,KkQgQj	喨
 口亼⺝巜,KkZiFyKc	喩
 土{双口},EtPxQi	喪
@@ -9430,7 +9430,7 @@
 土艮,EtPg	垠
 亻戈土,HrAgEt	垡
 土⺁一口,EtUcDiKk	垢
-土一日一,EtDiUrDi	垣
+土{凬字心}一,EtScDi	垣
 土至,EtGi	垤
 土亼口,EtZiKk	垥
 艮土,PgEt	垦
@@ -9461,7 +9461,7 @@
 土广予,EtBgOv	垿
 千匕二,NqJpWbNe	埀
 土山亽ヿ,EtUsZiAe	埁
-土一日,EtDiUrEi	埂
+土{凬字心},EtScEi	埂
 土厶矢,EtIsGs	埃
 土夂丰,EtJiJf	埄
 阝方土,XeMfEt	埅
@@ -9564,7 +9564,7 @@
 土匕白,EtWbWbJb	堦
 土而大,EtKeId	堧
 土曰勹亾,EtUyAkNw	堨
-土忄一日一,EtLxDiDi	堩
+土忄{凬字心}一,EtLxScDi	堩
 土㇗,EtFgNbAe	堪
 土㐅凵八夂,EtEiJkJi	堫
 土亼⺝刂,EtZiFyNd	堬
@@ -9594,7 +9594,7 @@
 土罒方,EtBsMf	塄
 土一殳,EtOsDiRs	塅
 土亠弓,EtLtRhCg	塆
-土宀一日一,EtGgDiDi	塇
+土宀{凬字心}一,EtGgScDi	塇
 旡土,PgCuEt	塈
 土冫人⺝,EtGbGbFy	塉
 土鬼,EtEg	塊
@@ -10017,7 +10017,7 @@
 女臣,WnEc	姫
 女,WnEc	姬
 力力力女,ClClClWn	姭
-女一日一,WnDiUrDi	姮
+女{凬字心}一,WnScDi	姮
 女光,WnWg	姯
 女勹日,WnAkUr	姰
 女大二ㄅ,WnIdNeAe	姱
@@ -10186,7 +10186,7 @@
 女面,WnXm	媔
 女亼口廾,WnZiKkZc	媕
 女艹冂大,WnZcJkId	媖
-女宀一日一,WnGgDiDi	媗
+女宀{凬字心}一,WnGgScDi	媗
 女匕白,WnWbWbJb	媘
 女戊一女,WnMuDiWn	媙
 女目,WnFsEm	媚
@@ -10454,7 +10454,7 @@
 宀龙,GgVl	宠
 宀日丨,GgUrHs	审
 宀各,GgKg	客
-宀一日一,GgDiUrDi	宣
+宀{凬字心}一,GgScDi	宣
 宀至,GgGi	室
 宀𠂇⺝,GgPsFy	宥
 宀臣,GgEc	宦
@@ -10763,7 +10763,7 @@
 山亠日,UsLtUr	峕
 山宀女,UsGgWn	峖
 山⺈厂⺋,UsDdUcWj	峗
-山一日一,UsDiUrDi	峘
+山{凬字心}一,UsScDi	峘
 山土寸,UsEtOc	峙
 山大土,UsIdEt	峚
 山歹刂,UsSdNd	峛
@@ -10797,7 +10797,7 @@
 山辛,UsSx	峷
 山戊𠃌,UsMuAe	峸
 人禾山,HrBhUs	峹
-山一日,UsDiUrEi	峺
+山{凬字心},UsScEi	峺
 山厶八夂,UsIsNbJi	峻
 山𠂒口,UsXnKk	峼
 山大人人,UsIdHrHr	峽
@@ -11653,7 +11653,7 @@
 女子心,WnHiLx	恏
 工几丶心,LgQjOdLx	恐
 忄⺈厂⺋,LxDdUcWj	恑
-忄一日一,LxDiUrDi	恒
+忄{凬字心}一,LxScDi	恒
 忄西,LxUx	恓
 忄六乂,LxMlEi	恔
 女口心,WnKkLx	恕
@@ -11830,7 +11830,7 @@
 忄禾火,LxBhRh	愀
 禾火心,BhRhLx	愁
 十冖子力心,PsGgHiLx	愂
-忄宀一日一,LxGgDiDi	愃
+忄宀{凬字心}一,LxGgScDi	愃
 忄田一,LxCtDiQi	愄
 忄革,LxRg	愅
 行氵心,PxMsLx	愆
@@ -12124,7 +12124,7 @@
 ツ田十戈,MsCtPsAg	戦
 人口戈,HrDhKkAg	戧
 可可戈,EkEkAg	戨
-{云变}厶一日戈,ZyIsDiAg	戩
+一厶厶{凬字心}戈,DiIsIsAg	戩
 十戈隹,PsAgMi	截
 𠂇⺝戈口一,PsFyAgDi	戫
 一业日戈,DiOyUrAg	戬
@@ -12384,7 +12384,7 @@
 扌𠃌阝,OsAeOsXe	挪
 扌人人土,OsHrHrEt	挫
 扌十冖子,OsPsGgHi	挬
-扌一日,OsDiUrEi	挭
+扌{凬字心},OsScEi	挭
 扌丷𢎨,OsNbXf	挮
 扌辰,OsSc	振
 扌口王,OsKkRw	挰
@@ -12545,7 +12545,7 @@
 扌田一,OsCtDiQi	揋
 扌田心,OsCtLx	揌
 扌㇏一大,OsJfOdId	揍
-扌宀一日一,OsGgDiDi	揎
+扌宀{凬字心}一,OsGgScDi	揎
 扌艹田,OsZcCt	描
 扌日疋,OsUrEs	提
 扌臼工,OsYjLg	揑
@@ -12599,7 +12599,7 @@
 扌门各,OsTmKg	搁
 扌米女,OsFmWn	搂
 扌丷口心,OsNbKkLx	搃
-扌忄一日一,OsLxDiDi	搄
+扌忄{凬字心}一,OsLxScDi	搄
 扌⺍冖见,OsMsGgKj	搅
 扌井王冂,OsVjRwJk	搆
 扌亽ヿ衣,OsZiAeQi	搇
@@ -13100,7 +13100,7 @@
 日寸,UrOc	时
 日广,UrBg	旷
 日ㄋ,UrAeFs	旸
-屮一日,McDiUr	旹
+屮{凬字心},McSc	旹
 日王,UrRw	旺
 日文,UrLw	旻
 日文,UrLw	旼
@@ -13176,11 +13176,11 @@
 日土寸,UrEtOc	時
 日光,UrWg	晃
 日光,UrWg	晄
-日一日一,UrDiUrDi	晅
+日{凬字心}一,UrScDi	晅
 日土土,UrEtEt	晆
 日大二ㄅ,UrIdNeAe	晇
 日六乂,UrMlEi	晈
-{云变}厶一日,ZyIsDiUr	晉
+一厶厶{凬字心},DiIsIsSc	晉
 日至,UrGi	晊
 一业日,DiOyUr	晋
 日丿冂口,UrTpJkKk	晌
@@ -13239,8 +13239,8 @@
 日十龷儿,UrPsPnRe	暁
 斤日,XcSjUr	暂
 日非,UrLf	暃
-日宀一日一,UrGgDiDi	暄
-日忄一日一,UrLxDiDi	暅
+日宀{凬字心}一,UrGgScDi	暄
+日忄{凬字心}一,UrLxScDi	暅
 日方𠂉也,UrMfStEy	暆
 日二コ又,UrFsNeTy	暇
 日冖車,UrGgQc	暈
@@ -13351,7 +13351,7 @@
 甲,Hj	曱
 曲,Eq	曲
 曰㇂丿,UyAeTp	曳
-一日,DiUrEi	更
+{凬字心},ScEi	更
 曰㇂丿丶,UyAeTpOd	曵
 勹曰,AkFsUy	曶
 曰勹亾,UyAkNw	曷
@@ -13702,7 +13702,7 @@
 木冂一口,YmJkDiKk	桐
 又又又木,TyTyTyYm	桑
 十艹木,PsZcYm	桒
-木一日一,YmDiUrDi	桓
+木{凬字心}一,YmScDi	桓
 木士口,YmJsKk	桔
 木臼,YmYj	桕
 木丿皿,YmTpHm	桖
@@ -13770,7 +13770,7 @@
 木⺁一巴,YmUcDiBb	梔
 木刀丶心,YmNdOdLx	梕
 木貝,YmRb	梖
-木一日,YmDiUrEi	梗
+木{凬字心},YmScEi	梗
 木見,YmDj	梘
 木{双口}丨,YmPxHs	梙
 木儿,YmAtRe	梚
@@ -13977,10 +13977,10 @@
 木目,YmFsEm	楣
 木勹丶心,YmAkFsLx	楤
 木爫一𠂇又,YmIaDiTy	楥
-木宀一日一,YmGgDiDi	楦
+木宀{凬字心}一,YmGgScDi	楦
 木艹冂大,YmZcJkId	楧
 木⺊貝,YmFbRb	楨
-木亻一日,YmHrDiEi	楩
+木亻{凬字心},YmHrScEi	楩
 木廿㇗木,YmPnAeYm	楪
 木口耳,YmKkVe	楫
 木曰勹亾,YmUyAkNw	楬
@@ -14956,7 +14956,7 @@
 氵勹㐅凵,MsAkEiJk	洶
 氵至,MsGi	洷
 氵光,MsWg	洸
-氵一日一,MsDiUrDi	洹
+氵{凬字心}一,MsScDi	洹
 氵夕口,MsVxKk	洺
 氵舌,MsWs	活
 氵土土,MsEtEt	洼
@@ -15008,7 +15008,7 @@
 氵丶艮,MsOdPg	浪
 氵冖八干,MsGgNbZg	浫
 氵里,MsAl	浬
-氵一日,MsDiUrEi	浭
+氵{凬字心},MsScEi	浭
 氵爫子,MsIaHi	浮
 氵五口,MsUuKk	浯
 氵禾刂,MsBhNd	浰
@@ -15205,7 +15205,7 @@
 氵龷八巳,MsPnNbVs	港
 氵亼口廾,MsZiKkZc	渰
 氵虫工,MsVcLg	渱
-氵宀一日一,MsGgDiDi	渲
+氵宀{凬字心}一,MsGgScDi	渲
 氵弓耳,MsCgVe	渳
 氵曰勹亾,MsUyAkNw	渴
 氵艹田,MsZcCt	渵
@@ -15887,7 +15887,7 @@
 火各,RhKg	烙
 火亼口,RhZiKk	烚
 火虫,RhVc	烛
-火一日一,RhDiUrDi	烜
+火{凬字心}一,RhScDi	烜
 乛水一灬,AeMsDiRh	烝
 火木卜,RhYmFb	烞
 火囗大,RhAkId	烟
@@ -15997,7 +15997,7 @@
 火冖車,RhGgQc	煇
 火風,RhIf	煈
 火束丷,RhTsNb	煉
-火宀一日一,RhGgDiDi	煊
+火宀{凬字心}一,RhGgScDi	煊
 火日生,RhUrIs	煋
 火白王,RhJbRw	煌
 火禾火,RhBhRh	煍
@@ -16402,7 +16402,7 @@
 犭古,AqOg	狜
 犭⺈小,AqDdIx	狝
 犭宀丁,AqGgPd	狞
-犭一日一,AqDiUrDi	狟
+犭{凬字心}一,AqScDi	狟
 犭艮,AqPg	狠
 犭六乂,AqMlEi	狡
 犭各,AqKg	狢
@@ -16759,7 +16759,7 @@
 王⺜目,RwUrEm	瑁
 王目,RwFsEm	瑂
 王㇏日,RwJfOdUr	瑃
-王宀一日一,RwGgDiDi	瑄
+王宀{凬字心}一,RwGgScDi	瑄
 王日疋,RwUrEs	瑅
 王日生,RwUrIs	瑆
 王龶母,RwJfPm	瑇
@@ -16985,7 +16985,7 @@
 厂生,XlUcIs	産
 豕生,HsIs	甤
 生田力,IsCtCl	甥
-一日生,DiUrEiIs	甦
+{凬字心}生,ScEiIs	甦
 生生⺝,IsIsFy	甧
 用,Gy	用
 用乚,GyAe	甩
@@ -17582,7 +17582,7 @@
 目目,EmFsEm	睸
 目耂日,EmRlUr	睹
 目亻矢,EmHrVkGs	睺
-目宀一日一,EmGgDiDi	睻
+目宀{凬字心}一,EmGgScDi	睻
 目日疋,EmUrEs	睼
 目癶一大,EmNbDiId	睽
 丿罒土,TpBsEtSy	睾
@@ -17823,7 +17823,7 @@
 扌斤石,OsSjDs	硩
 石丿扌,DsTpOsAg	硪
 石,DsZyKc	硫
-石一日,DsDiUrEi	硬
+石{凬字心},DsScEi	硬
 石艹亡,DsZcNw	硭
 石⺈用,DsDdGy	确
 石見,DsDj	硯
@@ -17900,7 +17900,7 @@
 石丰刀大,DsJfNdId	碶
 石⺁十目,DsUcPsEm	碷
 石風,DsIf	碸
-石宀一日一,DsGgDiDi	碹
+石宀{凬字心}一,DsGgScDi	碹
 石冖隹,DsGgMi	確
 石高,DsQg	碻
 石馬,DsNm	碼
@@ -18236,7 +18236,7 @@
 禾{双口},BhPx	稆
 禾囗木,BhAkYm	稇
 禾日干,BhUrZg	稈
-禾一日,BhDiUrEi	稉
+禾{凬字心},BhScEi	稉
 禾丷𢎨,BhNbXf	稊
 禾口王,BhKkRw	程
 禾人禾,BhHrBh	稌
@@ -18606,7 +18606,7 @@
 ⺮日干,JuUrZg	筸
 ⺮寸,JuJfOc	筹
 ⺮匚王丶,JuVkRwOd	筺
-⺮一日,JuDiUrEi	筻
+⺮{凬字心},JuScEi	筻
 ⺮口贝,JuKkVb	筼
 ⺮口一大,JuKkDiId	筽
 ⺮亼⺍一,JuZiMsDi	签
@@ -18657,8 +18657,8 @@
 ⺮肀八,JuIvNdNb	箫
 ⺮艹𠂇口,JuZcPsKk	箬
 ⺮䒑⺝刂,JuNbFyNd	箭
-⺮宀一日一,JuGgDiDi	箮
-⺮亻一日,JuHrDiEi	箯
+⺮宀{凬字心}一,JuGgScDi	箮
+⺮亻{凬字心},JuHrScEi	箯
 ⺮勹日子,JuAkUrHi	箰
 ⺮木目,JuYmEm	箱
 ⺮氵𠂒儿,JuMsXnRe	箲
@@ -18918,7 +18918,7 @@
 米爫子,FmIaHi	粰
 氵刀八米,MsNdNbFm	粱
 歺又米,SdTyFm	粲
-米一日,FmDiUrEi	粳
+米{凬字心},FmScEi	粳
 米里,FmAl	粴
 丿冂丿米二ㄅ,TpJkTpAe	粵
 米氺,FmWjMs	粶
@@ -19084,7 +19084,7 @@
 糹光,FsWg	絖
 糹囗口,FsAkKk	絗
 糹冫欠,FsGbPq	絘
-糹一日一,FsDiUrDi	絙
+糹{凬字心}一,FsScDi	絙
 糹一月一,FsDiFyDi	絚
 亻丨夂糸,HrHsJiFs	絛
 丰刀糸,JfNdFs	絜
@@ -19129,7 +19129,7 @@
 糹⺌⺝,FsIxFy	綃
 糹宀二儿,FsGgNeRe	綄
 糹彐冖又,FsWjGgTy	綅
-糹一日,FsDiUrEi	綆
+糹{凬字心},FsScEi	綆
 糹酉,FsBy	綇
 糹丷𢎨,FsNbXf	綈
 糹禾乃,FsBhDn	綉
@@ -19241,7 +19241,7 @@
 广丰刀糸,BgJfNdFs	緳
 糹束丷,FsTsNb	練
 糹㐅凵八夂,FsEiJkJi	緵
-糹亻一日,FsHrDiEi	緶
+糹亻{凬字心},FsHrScEi	緶
 糹冖車,FsGgQc	緷
 糹覀土,FsUxEt	緸
 糹日疋,FsUrEs	緹
@@ -19257,8 +19257,8 @@
 糹疋⺝,FsEsFy	縃
 糹黾,FsUm	縄
 糹戊一女,FsMuDiWn	縅
-糹忄一日一,FsLxDiDi	縆
-糹宀一日一,FsGgDiDi	縇
+糹忄{凬字心}一,FsLxScDi	縆
+糹宀{凬字心}一,FsGgScDi	縇
 火火冖糸,RhRhGgFs	縈
 糹一业日,FsDiOyUr	縉
 糹皿,FsMsHm	縊
@@ -19475,7 +19475,7 @@
 纟⺈巴,QsDdBb	绝
 纟六乂,QsMlEi	绞
 纟儿,QsZyRe	统
-纟一日,QsDiUrEi	绠
+纟{凬字心},QsScEi	绠
 纟⺌⺝,QsIxFy	绡
 纟口⺝,QsKkFy	绢
 纟禾乃,QsBhDn	绣
@@ -19522,7 +19522,7 @@
 纟田心,QsCtLx	缌
 纟千艹士,QsNqZcJs	缍
 纟一殳,QsOsDiRs	缎
-纟亻一日,QsHrDiEi	缏
+纟亻{凬字心},QsHrScEi	缏
 纟白水,QsJbMs	缐
 纟亻矢,QsHrVkGs	缑
 纟丿㠯辶,QsTpTiJc	缒
@@ -19738,7 +19738,7 @@
 口𠕁羽,KkYcWv	翤
 耂日羽,RlUrWv	翥
 䒑⺝刂羽,NbFyNdWv	翦
-宀一日一羽,GgDiUrWv	翧
+宀{凬字心}一羽,GgScDiWv	翧
 羽日疋,WvUrEs	翨
 户𠕁羽,DhYcWv	翩
 羽㐅凵八夂,WvEiJkJi	翪
@@ -20836,7 +20836,7 @@
 艹亼⺝刂,ZcZiFyNd	萮
 艹⺈貝,ZcDdRb	萯
 艹束丷,ZcTsNb	萰
-艹宀一日一,ZcGgDiDi	萱
+艹宀{凬字心}一,ZcGgScDi	萱
 艹爫一𠂇又,ZcIaDiTy	萲
 艹十冂,ZcPsJkSy	萳
 艹貝刂,ZcRbNd	萴
@@ -21641,7 +21641,7 @@
 虫亼⺝刂,VcZiFyNd	蝓
 虫匕白,VcWbWbJb	蝔
 飠虫,HsVc	蝕
-虫宀一日一,VcGgDiDi	蝖
+虫宀{凬字心}一,VcGgScDi	蝖
 虫白王,VcJbRw	蝗
 虫匚日女,VcVkUrWn	蝘
 虫户𠕁,VcDhYc	蝙
@@ -22547,7 +22547,7 @@
 言疋⺝,DyEsFy	諝
 言户𠕁,DyDhYc	諞
 言日疋,DyUrEs	諟
-言宀一日一,DyGgDiDi	諠
+言宀{凬字心}一,DyGgScDi	諠
 言八一ㄅ皿,DyNbDiHm	諡
 言冖車,DyGgQc	諢
 言冎口,DyUgKk	諣
@@ -22969,7 +22969,7 @@
 豸白,HiJb	貃
 豸聿,HiIv	貄
 豸亻木,HiHrYm	貅
-豸一日一,HiDiUrDi	貆
+豸{凬字心}一,HiScDi	貆
 豸艮,HiPg	貇
 豸舟,HiQo	貈
 豸各,HiKg	貉
@@ -24083,7 +24083,7 @@
 土阝,EtRhXe	郝
 丶艮阝,OdPgXe	郞
 大人人阝,IdHrHrXe	郟
-一日阝,DiUrEiXe	郠
+{凬字心}阝,ScEiXe	郠
 丿口阝,WjTpKkXe	郡
 口王阝,KkRwXe	郢
 十冖子阝,PsGgHiXe	郣
@@ -24748,7 +24748,7 @@
 金田心,WjCtLx	鍶
 金大土土,WjIdEtEt	鍷
 金古月,WjOgFy	鍸
-金宀一日一,WjGgDiDi	鍹
+金宀{凬字心}一,WjGgScDi	鍹
 金耂日,WjRlUr	鍺
 金曰勹亾,WjUyAkNw	鍻
 金戊一口,WjMuDiKk	鍼
@@ -25800,7 +25800,7 @@
 革丿大,RgTpIdNd	鞒
 革口王,RgKkRw	鞓
 革儿,RgAtRe	鞔
-革一日,RgDiUrEi	鞕
+革{凬字心},RgScEi	鞕
 革爫女,RgIaWn	鞖
 亻丨夂革,HrHsJiRg	鞗
 革⺌⺝,RgIxFy	鞘
@@ -25824,7 +25824,7 @@
 予丿攵革,OvTpApRg	鞪
 革勹言,RgAkDy	鞫
 革聿廴,RgIvRy	鞬
-革亻一日,RgHrDiEi	鞭
+革亻{凬字心},RgHrScEi	鞭
 革日疋,RgUrEs	鞮
 革艹𠂇丨子,RgZcPsHi	鞯
 革日皿,RgUrHm	鞰
@@ -26609,7 +26609,7 @@
 骨大二ㄅ,UgIdNeAe	骻
 骨各,UgKg	骼
 骨爫女,UgIaWn	骽
-骨一日,UgDiUrEi	骾
+骨{凬字心},UgScEi	骾
 骨䒑廾,UgNbZc	骿
 骨白丿十,UgJbTpPs	髀
 骨田木,UgCtYm	髁
@@ -26868,7 +26868,7 @@
 魚爫女,AvIaWn	鮾
 魚耳㇗,AvVeAe	鮿
 魚丿糸,AvTpFs	鯀
-魚一日,AvDiUrEi	鯁
+魚{凬字心},AvScEi	鯁
 魚酉,AvBy	鯂
 魚五口,AvUuKk	鯃
 魚一氺丶,AvDiMsOd	鯄
@@ -26929,7 +26929,7 @@
 魚束刂,AvTsNd	鯻
 魚㐅凵八夂,AvEiJkJi	鯼
 魚卩,AvPgWj	鯽
-魚亻一日,AvHrDiEi	鯾
+魚亻{凬字心},AvHrScEi	鯾
 魚户𠕁,AvDhYc	鯿
 魚爫一𠂇又,AvIaDiTy	鰀
 魚白水,AvJbMs	鰁
@@ -26957,7 +26957,7 @@
 魚古月,AvOgFy	鰗
 魚宀至,AvGgGi	鰘
 魚艹𠂇口,AvZcPsKk	鰙
-魚宀一日一,AvGgDiDi	鰚
+魚宀{凬字心}一,AvGgScDi	鰚
 魚日皿,AvUrHm	鰛
 魚䒑,AvNbWjRh	鰜
 魚高,AvQg	鰝
@@ -27091,7 +27091,7 @@
 ⺶鱼,SySv	鲝
 丷夫鱼,NbGfSv	鲞
 鱼彐寸,SvWjOc	鲟
-鱼一日,SvDiUrEi	鲠
+鱼{凬字心},SvScEi	鲠
 鱼一,SvDiFyFy	鲡
 鱼车辶,SvXcJc	鲢
 鱼〢又土,SvNdTyEt	鲣
@@ -27956,7 +27956,7 @@
 土丶阝,EtOdPgXe	鿾
 甫人氺,BfHrMs	鿿
 山豆,UsGd	豈
-一日,DiUrEi	更
+{凬字心},ScEi	更
 车,Xc	車
 覀貝,UxRb	賈
 氵⾻,MsUg	滑
@@ -28056,7 +28056,7 @@
 田龷八,CtPnNb	異
 匕,JpWb	北
 石丿米田,DsTpFmCt	磻
-亻一日,HrDiUrEi	便
+亻{凬字心},HrScEi	便
 彳𠂉日夂,GcStUrJi	復
 不,Rb	不
 氵心丿,MsLxTp	泌
@@ -28661,7 +28661,7 @@
 ⺄凵,AeJkMc	𠃨
 九人彡,LjHrFs	𠃩
 曲乚,EqAe	𠃪
-一日丨𠃌,DiUrHsAe	𠃫
+{凬字心}丨𠃌,ScHsAe	𠃫
 己コ匚,BjVkVk	𠃬
 ⺥口乚,IaKkAe	𠃭
 乙尸水,KiFsMs	𠃮
@@ -28961,7 +28961,7 @@
 人⺊一䒑,HrFbDiNb	𠈔
 亻冎,HrUg	𠈕
 亻八夫,HrNbGf	𠈖
-亻一日一,HrDiUrDi	𠈗
+亻{凬字心}一,HrScDi	𠈗
 人土土,HrEtEt	𠈘
 亻二戈,HrNeAg	𠈙
 亻𠂇丨土,HrPsHsEt	𠈚
@@ -29129,7 +29129,7 @@
 亻覀廾,HrUxZc	𠊼
 亻民日,HrVmUr	𠊽
 亻癶一大,HrNbDiId	𠊾
-亻宀一日一,HrGgDiDi	𠊿
+亻宀{凬字心}一,HrGgScDi	𠊿
 亻龴用力,HrIsGyCl	𠋀
 人爫𠕁,HrIaYc	𠋁
 亻儿゛,HrAtReGb	𠋂
@@ -29169,7 +29169,7 @@
 亻宀至,HrGgGi	𠋤
 亻目,HrFsEm	𠋥
 亻甘木,HrFgYm	𠋦
-亻忄一日一,HrLxDiDi	𠋧
+亻忄{凬字心}一,HrLxScDi	𠋧
 亻{双口}一儿,HrPxDiRe	𠋨
 亻亠日夂,HrLtUrJi	𠋩
 亻宀臣,HrGgEc	𠋪
@@ -29312,7 +29312,7 @@
 龷人人丨人人丨,PnHrHrHs	𠍳
 亻一大一大心,HrDiIdLx	𠍴
 亻⺷丶水,HrSyOdMs	𠍵
-亻一日丨勹灬,HrDiUrRh	𠍶
+亻{凬字心}丨勹灬,HrScHsRh	𠍶
 亻木冂木冂,HrYmJkJk	𠍷
 亻自亻人人,HrViHrHr	𠍸
 亻⺮亼口,HrJuZiKk	𠍹
@@ -29678,7 +29678,7 @@
 入二,VuNeNd	𠓡
 入手,VuOs	𠓢
 入心,VuLx	𠓣
-入一日,VuDiUr	𠓤
+入{凬字心},VuSc	𠓤
 亼攴,ZiAp	𠓥
 入田,VuCt	𠓦
 入丿丷𬺰,VuTpNbPs	𠓧
@@ -29851,7 +29851,7 @@
 冖又又又又,GgTyTyTy	𠖎
 冖大可,GgIdEk	𠖏
 冖口田,GgKkCt	𠖐
-冖儿一日一,GgReDiDi	𠖑
+冖儿{凬字心}一,GgReScDi	𠖑
 冖几⺁,GgQjUcQi	𠖒
 冖田心,GgCtLx	𠖓
 冖一丷豕,GgDiNbHs	𠖔
@@ -29860,7 +29860,7 @@
 冖冖巾又,GgWjGgTy	𠖗
 冖糹冂人,GgFsJkHr	𠖘
 工耳冖儿,LgVeGgRe	𠖙
-冖丨日一日一,GgHsUrDi	𠖚
+冖丨日{凬字心}一,GgHsUrDi	𠖚
 冖耳卯,GgVeRm	𠖛
 冖弓丿土,GgCgTpEt	𠖜
 冖二儿彡亽龴,GgNeReIs	𠖝
@@ -30036,7 +30036,7 @@
 六乂几,MlEiQj	𠙇
 几缶,QjTf	𠙈
 臣几,EcQj	𠙉
-几一日丿,QjDiUrTp	𠙊
+几{凬字心}丿,QjScTp	𠙊
 丿㠯几,TpTiQj	𠙋
 几羊,QjSy	𠙌
 几虫,QjVc	𠙍
@@ -30333,7 +30333,7 @@
 ⺈厂⺋丿夫,DdUcWjGf	𠝰
 大丷木刂,IdNbYmNd	𠝱
 禾日刂,BhUrNd	𠝲
-宀一日一刂,GgDiUrNd	𠝳
+宀{凬字心}一刂,GgScDiNd	𠝳
 冂乂乂山刂,JkEiEiNd	𠝴
 丿丿干刀丶,TpZgTpOd	𠝵
 千艹士刂,NqZcJsNd	𠝶
@@ -30484,7 +30484,7 @@
 卯一刂,RmDiOyNd	𠠇
 ⺿人口刂,ZcHrDhNd	𠠈
 皮頁刂,NpWyNd	𠠉
-冂䒑山刂一日一,JkNbUsDi	𠠊
+冂䒑山刂{凬字心}一,JkNbUsDi	𠠊
 歺又貝刂,SdTyRbNd	𠠋
 巛刂,KcEsNd	𠠌
 禾人氺刂,BhNdHrNd	𠠍
@@ -30564,7 +30564,7 @@
 臣力,EcCl	𠡗
 力𠂇丨土,ClPsHsEt	𠡘
 力木卜,ClYmFb	𠡙
-一日一力,DiUrDiCl	𠡚
+{凬字心}一力,ScDiCl	𠡚
 囗大力,AkIdCl	𠡛
 儿力,ZyReCl	𠡜
 巛夕力,KcVxCl	𠡝
@@ -30573,7 +30573,7 @@
 未丷力,VwNbCl	𠡠
 歺又力,SdTyCl	𠡡
 巛歹力,KcSdCl	𠡢
-一日力,DiUrEiCl	𠡣
+{凬字心}力,ScEiCl	𠡣
 力,ZyKcCl	𠡤
 力,ClSjNb	𠡥
 千力力,NqClClOs	𠡦
@@ -30664,7 +30664,7 @@
 亠非日一力,LtLfUrCl	𠢻
 厶目力,IsEmJpCl	𠢼
 龶⺝辶力,JfFyJcCl	𠢽
-一日丨非一力,DiUrHsCl	𠢾
+{凬字心}丨非一力,ScHsLfCl	𠢾
 田田田力,CtCtCtCl	𠢿
 弓一田一田一力,CgDiCtCl	𠣀
 火火冖米力,RhRhGgCl	𠣁
@@ -30691,7 +30691,7 @@
 勹亠幺,AkLtDy	𠣖
 勹土厶,AkEtIs	𠣗
 勹舟,AkQo	𠣘
-勹一日一,AkDiUrDi	𠣙
+勹{凬字心}一,AkScDi	𠣙
 勹二日,AkNeUr	𠣚
 勹厶木,AkIsYm	𠣛
 勹虫,AkVc	𠣜
@@ -30889,7 +30889,7 @@
 廿廿,PnPn	𠦜
 十日十,PsUrPs	𠦝
 匕千,JpWbNq	𠦞
-一日丨凵,DiUrHsJk	𠦟
+{凬字心}丨凵,ScHsJk	𠦟
 十白一,PsJbDi	𠦠
 十廿十,PsPnPs	𠦡
 十刀刀刀,PsNdNdNd	𠦢
@@ -30907,7 +30907,7 @@
 一ㄅ灬大十,DiAeRhPs	𠦮
 丷艮,NbOsPg	𠦯
 十耳欠,PsVePq	𠦰
-一日丨一口,DiUrHsEi	𠦱
+{凬字心}丨一口,ScHsDiEi	𠦱
 ⺊日十丿廾,FbUrPsZc	𠦲
 厂彡千,XlUcFsNq	𠦳
 一廿㇗廿㇗十,DiPnAePs	𠦴
@@ -31241,7 +31241,7 @@
 厶厶厶二,IsIsIsNe	𠫼
 厶大三三,IsIdAsAs	𠫽
 土厶夕夕,EtIsVxVx	𠫾
-厶大一日,IsIdDiEi	𠫿
+厶大{凬字心},IsIdScEi	𠫿
 厶厶田{云变},IsIsCtZy	𠬀
 厶厶厶大土,IsIsIsEt	𠬁
 厶厶冖夕㐄,IsIsGgLk	𠬂
@@ -31956,13 +31956,13 @@
 口方𠂉也,KkMfStEy	𠷇
 口彳聿,KkGcIv	𠷈
 口力口辶,KkClKkJc	𠷉
-口亻一日,KkHrDiEi	𠷊
+口亻{凬字心},KkHrScEi	𠷊
 口厂日子,KkUcUrHi	𠷋
 口貝刂,KkRbNd	𠷌
 口氺㇗,KkWjMsAe	𠷍
 弓工工口,CgLgLgKk	𠷎
 丸冎口,LoUgKk	𠷏
-口忄一日一,KkLxDiDi	𠷐
+口忄{凬字心}一,KkLxScDi	𠷐
 口癶殳,KkNbRs	𠷑
 口爪目,KkIaEm	𠷒
 由一ㄅ口八,UyDiAeNb	𠷓
@@ -32314,7 +32314,7 @@
 口缶木一,KkTfYmDi	𠼭
 口亻丶丿ヿヿヿ灬,KkHrOdRh	𠼮
 口言𠂉十,KkDyStPs	𠼯
-口木一日,KkYmDiEi	𠼰
+口木{凬字心},KkYmScEi	𠼰
 口田糸,KkCtFs	𠼱
 口土隹,KkEtMi	𠼲
 口十日十𠂉乙,KkPsUrKi	𠼳
@@ -33409,7 +33409,7 @@
 千田八土,NqCtNbEt	𡍴
 阝厶儿夂土,XeIsReEt	𡍵
 至夂土,GiJiEt	𡍶
-土忄一日一,EtLxDiDi	𡍷
+土忄{凬字心}一,EtLxScDi	𡍷
 口{双口}土,KkPxEt	𡍸
 土一丰,EtOsDiJf	𡍹
 禾日土,BhUrEt	𡍺
@@ -33670,7 +33670,7 @@
 土弓工工灬,EtCgLgRh	𡑹
 镸夂㐄土,IcJiLkEt	𡑺
 木丷豕土,YmNbHsEt	𡑻
-一日丨{云变}攴土,DiUrHsEt	𡑼
+{凬字心}丨{云变}攴土,ScHsZyEt	𡑼
 土十乂乂乂乂大,EtPsEiId	𡑽
 土虍口一大,EtShKkId	𡑾
 土业䒑未,EtOyNbVw	𡑿
@@ -33821,7 +33821,7 @@
 土丰刀齒,EtJfNdTc	𡔐
 土臣罒見,EtEcJuDj	𡔑
 土日衣{双口}井一,EtUrQiDi	𡔒
-土一日一日鹿,EtDiUrIl	𡔓
+土{凬字心}{凬字心}鹿,EtScScIl	𡔓
 土⺿門束丷,EtZcSmNb	𡔔
 音十工貝土,WyPsLgEt	𡔕
 土言糹糹攵,EtDyFsAp	𡔖
@@ -34071,7 +34071,7 @@
 大由,IdUy	𡘊
 大一大一,IdDiIdDi	𡘋
 止匕大,LiWbId	𡘌
-大一日一,IdDiUrDi	𡘍
+大{凬字心}一,IdScDi	𡘍
 大丿,IdTpMs	𡘎
 大女子,IdWnHi	𡘏
 大亠日,IdLtUr	𡘐
@@ -34455,7 +34455,7 @@
 女丿大火,WnTpIdRh	𡞊
 女厶大彡,WnIsIdFs	𡞋
 女白廾,WnJbZc	𡞌
-女一日丨厶,WnDiUrIs	𡞍
+女{凬字心}丨厶,WnScHsIs	𡞍
 女靣,WnXm	𡞎
 女大示,WnIdLs	𡞏
 女口古,WnKkOg	𡞐
@@ -34478,7 +34478,7 @@
 女匚大人人,WnVkIdHr	𡞡
 女古儿刂,WnOgReNd	𡞢
 戊一口女,MuDiKkWn	𡞣
-女一日丨{云变},WnDiUrZy	𡞤
+女{凬字心}丨{云变},WnScHsZy	𡞤
 女⺈厂矢,WnDdUcGs	𡞥
 女勹日子,WnAkUrHi	𡞦
 女㐅凵八夂,WnEiJkJi	𡞧
@@ -34966,7 +34966,7 @@
 子虫文,HiVcLw	𡦉
 耂子子子,RlHiHiHi	𡦊
 臣𠂉一一子,EcStDiHi	𡦋
-子{云变}厶一日,HiZyIsUr	𡦌
+子一业日,HiDiOyUr	𡦌
 子文耳,HiLwVe	𡦍
 子气米,HiIqFm	𡦎
 子子子日,HiHiHiUr	𡦏
@@ -34977,7 +34977,7 @@
 冖巾乃子,XlGgAjHi	𡦔
 子十田寸,HiPsCtOc	𡦕
 子廿冂丨入入,HiPnJkVu	𡦖
-子一日丨勹灬,HiDiUrRh	𡦗
+子{凬字心}丨勹灬,HiScHsRh	𡦗
 子而而,HiKeKe	𡦘
 山山山宀子,UsUsUsHi	𡦙
 子束,QgHiTs	𡦚
@@ -35184,7 +35184,7 @@
 宀夕㐄木,GgVxLkYm	𡩣
 宀亻龷日,GgHrPnUr	𡩤
 穴厶羽,AxIsWv	𡩥
-宀一日日一,GgDiUrDi	𡩦
+宀{凬字心}日一,GgScUrDi	𡩦
 宀王缶,GgRwTf	𡩧
 宀丿米口,GgTpFmKk	𡩨
 宀爿亡口,GgJpNwKk	𡩩
@@ -35225,7 +35225,7 @@
 宀土攵,GgEtRhAp	𡪌
 宀十目灬,GgPsEmRh	𡪍
 宀木木夕,GgYmYmVx	𡪎
-宀一日一日一,GgDiUrDi	𡪏
+宀{凬字心}{凬字心}一,GgScScDi	𡪏
 宀大丸,GgIdSyLo	𡪐
 宀口{双口}一ㄅ,GgKkPxAe	𡪑
 宀巾巾田,GgAjAjCt	𡪒
@@ -35296,7 +35296,7 @@
 宀土丸土,GgEtSyEt	𡫓
 宀爿冖目,GgJpWjEm	𡫔
 宀鳥,GgWjGn	𡫕
-宀罒一日𧘇,GgBsDiQi	𡫖
+宀罒{凬字心}𧘇,GgBsScQi	𡫖
 宀人木,GgLfHrYm	𡫗
 宀丿米田力,GgTpFmCl	𡫘
 宀工工人人又,GgLgLgTy	𡫙
@@ -35670,7 +35670,7 @@
 丿丿,WjTpWjTp	𡱉
 尸𠃌水,FsAeMs	𡱊
 由尸,UyFs	𡱋
-尸一日一,FsDiUrDi	𡱌
+尸{凬字心}一,FsScDi	𡱌
 尸亥,FsXh	𡱍
 尸冂人人,FsJkHrHr	𡱎
 尸糸,FsFs	𡱏
@@ -36048,7 +36048,7 @@
 山勹云,UsAkZy	𡷃
 山勹王,UsAkRw	𡷄
 山土土,UsEtEt	𡷅
-一日一山,DiUrDiUs	𡷆
+{凬字心}一山,ScDiUs	𡷆
 {双口}山,PxUs	𡷇
 山山山,UsUsUs	𡷈
 山亽丷丨,UsZiNbHs	𡷉
@@ -36265,7 +36265,7 @@
 山八刀瓦,UsNbNdTw	𡺜
 山⺈厂矢,UsDdUcGs	𡺝
 山音,UsWy	𡺞
-山宀一日一,UsGgDiDi	𡺟
+山宀{凬字心}一,UsGgScDi	𡺟
 山冖車,UsGgQc	𡺠
 山乃又皿,UsDnTyHm	𡺡
 山貝刂,UsRbNd	𡺢
@@ -36295,7 +36295,7 @@
 山身弓,UsXsCg	𡺺
 山石又土,UsDsTyEt	𡺻
 山自木,UsViYm	𡺼
-山{云变}厶一日,UsZyIsUr	𡺽
+山一业日,UsDiOyUr	𡺽
 山隹十,UsMiPs	𡺾
 山阝土儿夂,UsXeEtJi	𡺿
 山山夂丰,UsUsJiJf	𡻀
@@ -36779,7 +36779,7 @@
 乂乂𠂇巾,EiEiPsAj	𢂞
 又コ巾,EjTyVkAj	𢂟
 亡巾,NwKcAj	𢂠
-巾一日一,AjDiUrDi	𢂡
+巾{凬字心}一,AjScDi	𢂡
 巾老,AjRl	𢂢
 巾𠂇丨子,AjPsHsHi	𢂣
 一巾𠂇又丶,DiAjPsOd	𢂤
@@ -38160,7 +38160,7 @@
 忄母,LxPm	𢘃
 忄囚,LxKq	𢘄
 予丿心,OvTpLx	𢘅
-忄一日,LxDiUr	𢘆
+忄{凬字心},LxSc	𢘆
 日一心,UrDiLx	𢘇
 亼忄卩,ZiLxWj	𢘈
 忄甲,LxHj	𢘉
@@ -38280,7 +38280,7 @@
 聿心力,IvLxCl	𢙻
 忄一巛工,LxDiKcLg	𢙼
 𠂉母心,StPmLx	𢙽
-忄一日,LxDiUrEi	𢙾
+忄{凬字心},LxScEi	𢙾
 忄山亼乛,LxUsZiAe	𢙿
 忄丿止廴,LxTpLiRy	𢚀
 忄己心,LxBjLx	𢚁
@@ -39448,7 +39448,7 @@
 扌丸土,OsLoEt	𢬋
 扌一𠂇又丶,OsDiPsOd	𢬌
 扌厂犬,OsUcAq	𢬍
-扌一日一,OsDiUrDi	𢬎
+扌{凬字心}一,OsScDi	𢬎
 扌又又又,OsTyTyTy	𢬏
 扌九日,OsLjUr	𢬐
 扌曲,OsEq	𢬑
@@ -39691,7 +39691,7 @@
 扌⺜目,OsUrEm	𢯾
 扌⺿勹巳,OsZcAkVs	𢯿
 扌⺿人小,OsZcHrIx	𢰀
-扌一日丨{云变},OsDiUrZy	𢰁
+扌{凬字心}丨{云变},OsScHsZy	𢰁
 扌斤示,OsSjLs	𢰂
 扌穴丿大,OsAxTpId	𢰃
 扌勹車,OsAkQc	𢰄
@@ -40759,7 +40759,7 @@
 戈口一忄㠯攴,AgKkDiAp	𣀪
 麻甘攴,AmFgAp	𣀫
 {双口}犬{双口}攵,PxAqPxAp	𣀬
-丨一日女攵,YjHsDiAp	𣀭
+丨{凬字心}女攵,YjHsScAp	𣀭
 衣{双口}井一攴,QiPxVjAp	𣀮
 麻耳攴,AmVeAp	𣀯
 米艹十龷八攴,FmZcPsAp	𣀰
@@ -41030,7 +41030,7 @@
 羽白旡,WvJbCu	𣄹
 旡爫丿ヿヿヿ灬,CuIaTpRh	𣄺
 日乙,UrKi	𣄻
-一日,DiUr	𣄼
+{凬字心},Sc	𣄼
 乙日,KiUr	𣄽
 日二,UrNe	𣄾
 日丁,UrPd	𣄿
@@ -41048,7 +41048,7 @@
 日䒑,UrNb	𣅋
 千日,NqUr	𣅌
 囗日,AkUr	𣅍
-㐅一日,EiDiUr	𣅎
+㐅{凬字心},EiSc	𣅎
 日㇗儿,UrAeRe	𣅏
 日一乂,UrDiEi	𣅐
 䒑日,NbUr	𣅑
@@ -41083,7 +41083,7 @@
 日丿廾,UrTpZc	𣅮
 一丨日丨一,DiHsUrDi	𣅯
 一⺊ㄅ日,DiFbAeUr	𣅰
-小一日,IxDiUr	𣅱
+小{凬字心},IxSc	𣅱
 手日,OsUr	𣅲
 日ㄅ大,UrAeId	𣅳
 日ヿ土,UrAeEt	𣅴
@@ -41149,7 +41149,7 @@
 日大弓,UrIdCg	𣆰
 日𠂇丨子,UrPsHsHi	𣆱
 日冖又,UrWjGgTy	𣆲
-日一日,UrDiUrEi	𣆳
+日{凬字心},UrScEi	𣆳
 日丿止廴,UrTpLiRy	𣆴
 日,UrYj	𣆵
 儿日,AtReUr	𣆶
@@ -41232,7 +41232,7 @@
 日爫子乚,UrIaHiAe	𣈃
 日爫木,UrIaYm	𣈄
 木木日,YmYmUr	𣈅
-一{双口}一日,DiPxDiUr	𣈆
+一{双口}{凬字心},DiPxSc	𣈆
 不日月,RbUrFy	𣈇
 日爿斤,UrJpSj	𣈈
 ⺊一小又日,FbDiIxUr	𣈉
@@ -41312,7 +41312,7 @@
 日一幺幺土,UrDiDyEt	𣉓
 日又丶丶虫,UrTyOdVc	𣉔
 日又又又木,UrTyTyYm	𣉕
-日火一日一,UrRhDiDi	𣉖
+日火{凬字心}一,UrRhScDi	𣉖
 日冂大皿,UrJkIdHm	𣉗
 厶⺼匕日,IsFyWbUr	𣉘
 十日十人日,PsUrPsUr	𣉙
@@ -41322,10 +41322,10 @@
 日勹戈𠂇,UrAkFsPs	𣉝
 日高,UrQg	𣉞
 日老日,UrRlUr	𣉟
-一日一勹,SjDiUrFs	𣉠
+{凬字心}一勹,SjScDiFs	𣉠
 日干丿士廴,UrZgTpRy	𣉡
 日米辶,UrFmJc	𣉢
-丶水一日日,OdMsDiUr	𣉣
+丶水{凬字心}日,OdMsScUr	𣉣
 日言川,UrDyKc	𣉤
 日⺁彐𠃌殳,UrUcWjRs	𣉥
 日片爿一,UrJpJpDi	𣉦
@@ -41553,7 +41553,7 @@
 丷コ丨日人,NbVkHsHr	𣍄
 龶𧘇曲,JfQiEq	𣍅
 士殳曰,JsFsRsUy	𣍆
-一日耳又,DiUrEiTy	𣍇
+{凬字心}耳又,ScEiVeTy	𣍇
 丰丰日䒑,JfJfUrNb	𣍈
 曰子阝,UyQgHiXe	𣍉
 日勹亾尸丶゛,UrAkNwGb	𣍊
@@ -41561,7 +41561,7 @@
 歹歹歹曰,SdSdSdUy	𣍌
 冖兔曲,GgAtEq	𣍍
 丷囗⺌曰二儿,NbAkIxRe	𣍎
-一日⺶工,DiUrEiLg	𣍏
+{凬字心}⺶工,ScEiSyLg	𣍏
 勹亼囗⺌曰,AkFsZiUy	𣍐
 曰乡白巾弋,UyRxJbXi	𣍑
 水日一幺幺土,MsUrDiEt	𣍒
@@ -41571,9 +41571,9 @@
 一曲日木日,DiEqUrUr	𣍖
 人亠㐅凵禸曲,HrLtEiEq	𣍗
 木日木日日,YmUrYmUr	𣍘
-一日广䒑,DiUrEiRh	𣍙
+{凬字心}广䒑,ScEiBgRh	𣍙
 曰糹土八夂,IvUyFsJi	𣍚
-一日一ㄅ丨車,DiUrEiQc	𣍛
+{凬字心}一ㄅ丨車,ScEiYjQc	𣍛
 曰乂乂冖黄,IvUyYjEh	𣍜
 丿⺝,TpFy	𣍝
 月人,FyHr	𣍞
@@ -42108,7 +42108,7 @@
 木木亼龴,YmYmZiIs	𣕯
 王禾木,RwBhYm	𣕰
 木目木,YmEmYm	𣕱
-木忄一日一,YmLxDiDi	𣕲
+木忄{凬字心}一,YmLxScDi	𣕲
 木囗米,YmAkFm	𣕳
 木山厂火,YmUsUcRh	𣕴
 木⺿亼龴,YmZcZiIs	𣕵
@@ -42257,7 +42257,7 @@
 木言丿七,YmDyTpCq	𣘄
 木一{双口}夂,YmDiPxJi	𣘅
 木糹冂人,YmFsJkHr	𣘆
-木⺿一日一,YmZcDiDi	𣘇
+木⺿{凬字心}一,YmZcScDi	𣘇
 丿未侖,TpVwFl	𣘈
 木犭亽ヿ口,YmAqZiKk	𣘉
 木彳走,YmGcIz	𣘊
@@ -42394,7 +42394,7 @@
 木立口丨口,YmXlKkKk	𣚍
 木厶厶厶糸,YmIsIsFs	𣚎
 亠目目木,LtEmEmYm	𣚏
-木一日丨勹灬,YmDiUrRh	𣚐
+木{凬字心}丨勹灬,YmScHsRh	𣚐
 木弓工工口,YmCgLgKk	𣚑
 木王王巴,YmRwRwBb	𣚒
 木糹厶⺝,YmFsIsFy	𣚓
@@ -42553,7 +42553,7 @@
 木爫冖心夂,YmIaGgJi	𣜬
 木䒑⺝刂灬,YmNbFyRh	𣜭
 木氵自小丿,YmMsViTp	𣜮
-木艹宀一日一,YmZcGgDi	𣜯
+木艹宀{凬字心}一,YmZcGgDi	𣜯
 木广䒑,YmBgNbRh	𣜰
 丿未山侖,TpVwUsFl	𣜱
 木⺁十目辶,YmUcPsJc	𣜲
@@ -44294,7 +44294,7 @@
 氵丿大水,MsTpIdMs	𣷹
 氵羽又,MsWvTy	𣷺
 氵一冂巳一一,MsDiJkDi	𣷻
-氵一日丨{云变},MsDiUrZy	𣷼
+氵{凬字心}丨{云变},MsScHsZy	𣷼
 氵亻冖又,MsHrWjTy	𣷽
 氵車九,MsQcLj	𣷾
 氵𠂇工⺼,MsPsLgFy	𣷿
@@ -44305,7 +44305,7 @@
 氵夂卜日,MsJiFbUr	𣸄
 氵扌舌,MsOsWs	𣸅
 氵⺿止匕,MsZcLiWb	𣸆
-氵亻一日,MsHrDiEi	𣸇
+氵亻{凬字心},MsHrScEi	𣸇
 氵宀火又,MsGgRhTy	𣸈
 氵土羊,MsEtSy	𣸉
 氵亽ヿ云,MsZiAeZy	𣸊
@@ -44577,7 +44577,7 @@
 氵日爫子,MsUrIaHi	𣼔
 氵亼口𠕁,MsZiKkYc	𣼕
 氵禾刂木,MsBhNdYm	𣼖
-氵冖一日六,MsGgDiMl	𣼗
+氵冖{凬字心}六,MsGgScMl	𣼗
 士水,JsFsFjMs	𣼘
 白彐夕水,JbWjVxMs	𣼙
 氵耳冂土,MsVeJkEt	𣼚
@@ -44627,7 +44627,7 @@
 氵⺮工几丶,MsJuLgOd	𣽆
 氵⺿耳又,MsZcVeTy	𣽇
 氵而而,MsKeKe	𣽈
-氵一日丨勹灬,MsDiUrRh	𣽉
+氵{凬字心}丨勹灬,MsScHsRh	𣽉
 氵谷,MsSdYg	𣽊
 氵目𠂒口,MsEmXnKk	𣽋
 氵⺈臼欠,MsDdYjPq	𣽌
@@ -44971,7 +44971,7 @@
 尸火日勹水,FsRhUrMs	𤂞
 臣囗口水,EcJuAkMs	𤂟
 氵土厶皿土厶,MsEtIsIs	𤂠
-氵艹土八一日厶,MsZcEtIs	𤂡
+氵艹土八{凬字心}厶,MsZcEtIs	𤂡
 氵一鹿,MsDiRhIl	𤂢
 氵⺿肀米,MsZcIvNd	𤂣
 氵大牛牜牛,MsIdXnXn	𤂤
@@ -45438,7 +45438,7 @@
 丿罒一ㄅ灬,TpBsDiRh	𤉱
 木日火,YmUrRh	𤉲
 火宀示,RhGgLs	𤉳
-火攵一日,RhApDiUr	𤉴
+火攵{凬字心},RhApSc	𤉴
 口句火,KkEjRh	𤉵
 火㐅𠂇⺝,RhEiPsFy	𤉶
 犬火,FyAqRh	𤉷
@@ -45597,7 +45597,7 @@
 火龴囗,RhIsAkSy	𤌐
 幺一火,YjDyDiRh	𤌑
 火罒土土,RhBsEtEt	𤌒
-火一日一木,RhDiUrYm	𤌓
+火{凬字心}一木,RhScDiYm	𤌓
 冂人人犬灬,JkHrHrRh	𤌔
 火𠂇口𠂇口,RhPsKkKk	𤌕
 火田母,RhCtPm	𤌖
@@ -45872,7 +45872,7 @@
 火目,RhEmJpJp	𤐣
 火巳灬,RhEcVsRh	𤐤
 火火艹冖火,RhRhZcRh	𤐥
-{云变}厶一日戈火,ZyIsDiRh	𤐦
+一业日戈火,DiOyUrRh	𤐦
 禾一口田火,BhDiKkRh	𤐧
 火一,RhDiIb	𤐨
 火⺿土厶皿,RhZcEtHm	𤐩
@@ -46497,7 +46497,7 @@
 牜宀火又,XnGgRhTy	𤚔
 牜覀土,XnUxEt	𤚕
 牜⺷女,XnSyWn	𤚖
-牜宀一日一,XnGgDiDi	𤚗
+牜宀{凬字心}一,XnGgScDi	𤚗
 牜覀女,XnUxWn	𤚘
 牜⺈冂八大,XnDdJkId	𤚙
 牜龶母,XnJfPm	𤚚
@@ -46857,7 +46857,7 @@
 犭勹言,AqAkDy	𤟼
 犭方𠂉也,AqMfStEy	𤟽
 犭冖巾,AqXlGgAj	𤟾
-犭宀一日一,AqGgDiDi	𤟿
+犭宀{凬字心}一,AqGgScDi	𤟿
 犭了口又凵,AqElKkJk	𤠀
 犭䒑自,AqNbVi	𤠁
 犭艹厶口,AqZcIsKk	𤠂
@@ -46868,7 +46868,7 @@
 犭革,AqRg	𤠇
 犭臼廾,AqYjZc	𤠈
 犭艹冂大,AqZcJkId	𤠉
-宀一日一犬,GgDiUrAq	𤠊
+宀{凬字心}一犬,GgScDiAq	𤠊
 犭米女,AqFmWn	𤠋
 犭止匕木,AqLiWbYm	𤠌
 犭舟殳,AqQoRs	𤠍
@@ -47460,7 +47460,7 @@
 王覀米,RwUxFm	𤩗
 王王木日,RwRwYmUr	𤩘
 王王王心,RwRwRwLx	𤩙
-王一日丨凵殳,RwDiUrRs	𤩚
+王{凬字心}山殳,RwScUsRs	𤩚
 王曰耳又,RwUyVeTy	𤩛
 王日日日,RwUrUrUr	𤩜
 王丿大口冂口,RwTpIdKk	𤩝
@@ -47480,8 +47480,8 @@
 王山鬼,RwUsEg	𤩫
 王乡丶艮阝,RwRxOdXe	𤩬
 王口一ㄅ虎,RwKkDiSh	𤩭
-王一日丨{云变}殳,RwDiUrRs	𤩮
-一日丨{云变}殳王丶,DiUrHsOd	𤩯
+王{凬字心}丨{云变}殳,RwScHsRs	𤩮
+{凬字心}丨{云变}殳王丶,ScHsZyOd	𤩯
 王⺊龱木,RwFbKlYm	𤩰
 尸龷八殳王丶,FsPnNbOd	𤩱
 王⺿曰勹亾,RwZcUyNw	𤩲
@@ -48087,7 +48087,7 @@
 巛田丿丿干,KcCtTpZg	𤳊
 人人人人人田,HrHrHrCt	𤳋
 田广廿灬,CtBgPnRh	𤳌
-田田一日乚,CtCtDiAe	𤳍
+田田{凬字心}乚,CtCtScAe	𤳍
 田龶貝,CtJfRb	𤳎
 田田田一,CtCtCtDi	𤳏
 由广廿灬,UyBgPnRh	𤳐
@@ -48433,7 +48433,7 @@
 疒,NbHs	𤸤
 疒丁,NbQgPd	𤸥
 疒子子子,NbHiHiHi	𤸦
-疒宀一日一,NbGgDiDi	𤸧
+疒宀{凬字心}一,NbGgScDi	𤸧
 疒儿冫小,NbReGbIx	𤸨
 疒儿力,NbAtReCl	𤸩
 疒丰刀手,NbJfNdOs	𤸪
@@ -48621,7 +48621,7 @@
 疒廿人人虫,NbPnHrVc	𤻠
 疒士口冖至,NbJsKkGi	𤻡
 疒匚矢几口又,NbVkGsTy	𤻢
-疒人人人人丨一日,NbHrHrUr	𤻣
+疒人人人人丨{凬字心},NbHrHrSc	𤻣
 疒禾禾止,NbBhBhLi	𤻤
 疒⺮宀㠯,NbJuGgTi	𤻥
 疒自心戈,NbViLxAg	𤻦
@@ -49241,7 +49241,7 @@
 虫目,VcEm	𥅌
 亼龴目,ZiIsEm	𥅍
 目八二ㄅ,EmNbNeAe	𥅎
-目一日,EmDiUr	𥅏
+目{凬字心},EmSc	𥅏
 一又目,DiNdTyEm	𥅐
 目㠯,EmTi	𥅑
 目千凵,EmNqJk	𥅒
@@ -49266,7 +49266,7 @@
 目宀女,EmGgWn	𥅥
 目⽾,EmTl	𥅦
 目丿皿,EmTpHm	𥅧
-目一日一,EmDiUrDi	𥅨
+目{凬字心}一,EmScDi	𥅨
 目亻戈,EmHrAg	𥅩
 目丩攵,EmEjAp	𥅪
 罒刀刀刀,BsNdNdNd	𥅫
@@ -50558,7 +50558,7 @@
 礻氏口,LsZsKk	𥙱
 礻水土,LsMsEt	𥙲
 示甫,LsBf	𥙳
-礻一日,LsDiUrEi	𥙴
+礻{凬字心},LsScEi	𥙴
 礻儿,LsAtRe	𥙵
 礻艹干,LsZcZg	𥙶
 礻甫,LsBf	𥙷
@@ -51070,7 +51070,7 @@
 丿木酉灬,TpYmByRh	𥡱
 禾广肀用,BhBgIvGy	𥡲
 禾尤⺊一日,BhVyFbUr	𥡳
-禾尤⺊一日,BhVyFbUr	𥡴
+禾尤⺊{凬字心},BhVyFbSc	𥡴
 禾十田寸,BhPsCtOc	𥡵
 禾山宀示,BhUsGgLs	𥡶
 禾一止彐心,BhDiLiLx	𥡷
@@ -51309,7 +51309,7 @@
 穴⺈厂⺋,AxDdUcWj	𥥠
 穴龷八,AxPnNb	𥥡
 穴王丨丶,AxRwHsOd	𥥢
-穴一日一,AxDiUrDi	𥥣
+穴{凬字心}一,AxScDi	𥥣
 穴夕㐄,AxVxLk	𥥤
 穴一口,AxDiKkEi	𥥥
 穴又火,AxTyRh	𥥦
@@ -52580,7 +52580,7 @@
 米阝也,FmXeEy	𥹗
 米一冂人,FmDiJkHr	𥹘
 米刀口,FmNdKk	𥹙
-米一日一,FmDiUrDi	𥹚
+米{凬字心}一,FmScDi	𥹚
 九攵米,LjApFm	𥹛
 米六乂,FmMlEi	𥹜
 米丿冂口,FmTpJkKk	𥹝
@@ -53738,7 +53738,7 @@
 罒糹寸,BsFsOc	𦋝
 罒⺌⺝刂,BsIxFyNd	𦋞
 冂乂乂糸亾,JkEiEiNw	𦋟
-罒宀一日一,BsGgDiDi	𦋠
+罒宀{凬字心}一,BsGgScDi	𦋠
 罒甘木,BsFgYm	𦋡
 冂乂亼⺝刂,JkEiZiNd	𦋢
 罒了口又凵,BsElKkJk	𦋣
@@ -53762,7 +53762,7 @@
 冂乂氵爫子,JkEiMsHi	𦋵
 罒囗一,BsAkFmDi	𦋶
 罒日了攵,BsUrElAp	𦋷
-罒日一日乚,BsUrDiAe	𦋸
+罒日{凬字心}乚,BsUrScAe	𦋸
 罒罒罒,BsBsBs	𦋹
 罒火火刂,BsRhRhNd	𦋺
 冂乂乂馬,JkEiEiNm	𦋻
@@ -53894,7 +53894,7 @@
 夕夕羊,VxVxSy	𦍹
 ⺶宀子,SyGgHi	𦍺
 ⺶冂一口,SyJkDiKk	𦍻
-⺶一日一,SyDiUrDi	𦍼
+⺶{凬字心}一,SyScDi	𦍼
 彐彐羊,WjWjSy	𦍽
 ⺶自,SyVi	𦍾
 ⺶勹一幺,SyAkDiDy	𦍿
@@ -54093,7 +54093,7 @@
 羽白儿,WvJbRe	𦑀
 羽厶八夂,WvIsNbJi	𦑁
 厶八夂羽,IsNbJiWv	𦑂
-一日羽,DiUrEiWv	𦑃
+{凬字心}羽,ScEiWv	𦑃
 羽匚矢,WvVkGs	𦑄
 一冂丨入入羽,DiJkHsWv	𦑅
 戊𠃌羽,MuAeWv	𦑆
@@ -54152,7 +54152,7 @@
 韋羽,JwWv	𦑻
 羽⺜羽,WvUrWv	𦑼
 𠂇口冂口羽,PsKkJkWv	𦑽
-羽一日一日,WvDiUrUr	𦑾
+羽一日日,WvDiUrUr	𦑾
 羽冖木日,WvGgYmUr	𦑿
 山豆羽,UsGdWv	𦒀
 羽⺶工,WvSyLg	𦒁
@@ -54722,7 +54722,7 @@
 ⺼西,FyUx	𦚵
 亼口⺼,ZiKkFy	𦚶
 亼口冂人人,ZiKkJkHr	𦚷
-月一日一,FyDiUrDi	𦚸
+月{凬字心}一,FyScDi	𦚸
 月一月一,FyDiFyDi	𦚹
 月止廴,FyLiRy	𦚺
 月,FyYc	𦚻
@@ -54761,7 +54761,7 @@
 月亽ヿ口,FyZiAeKk	𦛜
 人禾冂人人,HrBhJkHr	𦛝
 月口巴,FyKkBb	𦛞
-月一日,FyDiUrEi	𦛟
+月{凬字心},FyScEi	𦛟
 月日土,FyUrEt	𦛠
 月犭火,FyAqRh	𦛡
 月囗王,FyAkRw	𦛢
@@ -54849,7 +54849,7 @@
 月殳⺝,FyRsFy	𦜴
 月夂卜口,FyJiFbKk	𦜵
 月亠勹方,FyLtAkMf	𦜶
-月忄一日,FyLxDiUr	𦜷
+月忄{凬字心},FyLxSc	𦜷
 月宀豕,FyGgHs	𦜸
 戶攴⺼,DhApFy	𦜹
 月彐𠂇又丶,FyWjPsOd	𦜺
@@ -54917,7 +54917,7 @@
 十彡月勹,PsFsFyFs	𦝸
 月门㐅木,FyTmEiYm	𦝹
 ⺼⺷大,FySyId	𦝺
-⺼宀一日一,FyGgDiDi	𦝻
+⺼宀{凬字心}一,FyGgScDi	𦝻
 ⺼米女,FyFmWn	𦝼
 不一止⺼,RbDiLiFy	𦝽
 ⺼巳冂人人,FyVsJkHr	𦝾
@@ -54934,7 +54934,7 @@
 冂人人匕白,JkHrHrJb	𦞉
 冂人人丷夫巾,JkHrHrAj	𦞊
 彐彐一力冂人人,WjWjDiHr	𦞋
-月忄一日一,FyLxDiDi	𦞌
+月忄{凬字心}一,FyLxScDi	𦞌
 言十冂人人,DyPsJkHr	𦞍
 月厂彡,FyXlUcFs	𦞎
 戊一女冂人人,MuDiWnHr	𦞏
@@ -56161,7 +56161,7 @@
 艹月匕,ZcFyWbWb	𦱔
 ⺿口可,ZcKkEk	𦱕
 ⺿阝亻寸,ZcXeHrOc	𦱖
-⺿屮一日,ZcMcDiUr	𦱗
+⺿屮{凬字心},ZcMcSc	𦱗
 ⺿亠勹方,ZcLtAkMf	𦱘
 ⺿⺼ヿ土,ZcFyAeEt	𦱙
 ⺿云云,ZcZyZy	𦱚
@@ -56270,7 +56270,7 @@
 ⺿禾毛,ZcBhQm	𦳁
 ⺿氵大弓,ZcMsIdCg	𦳂
 ⺿耳阝,ZcVeXe	𦳃
-⺿亻一日,ZcHrDiEi	𦳄
+⺿亻{凬字心},ZcHrScEi	𦳄
 ⺿广日,ZcBgUrEi	𦳅
 ⺿六口儿,ZcMlKkRe	𦳆
 ⺿忄舌,ZcLxWs	𦳇
@@ -56453,7 +56453,7 @@
 ⺿耳火,ZcVeRh	𦵸
 ⺿火火刂,ZcRhRhNd	𦵹
 ⺿罒,ZcBsMs	𦵺
-⺿{云变}厶一日,ZcZyIsUr	𦵻
+⺿一业日,ZcDiOyUr	𦵻
 ⺿丿口阝,ZcWjTpXe	𦵼
 ⺿日光,ZcUrWg	𦵽
 ⺿冫人⺼,ZcGbGbFy	𦵾
@@ -56483,7 +56483,7 @@
 ⺿厶厶厶木,ZcIsIsYm	𦶖
 ⺿土人,ZcEtSyHr	𦶗
 ⺿丷夫斤,ZcNbGfSj	𦶘
-⺿木一日一,ZcYmDiDi	𦶙
+⺿木{凬字心}一,ZcYmScDi	𦶙
 ⺿米八刀,ZcFmNbNd	𦶚
 艸日艸,ZcUrZc	𦶛
 艹氵,ZcMsEc	𦶜
@@ -57789,7 +57789,7 @@
 亻丿虫,HrWjTpVc	𧊰
 虫乃木,VcDnYm	𧊱
 虫人王,VcHrRw	𧊲
-虫一日一,VcDiUrDi	𧊳
+虫{凬字心}一,VcScDi	𧊳
 虫乛水一,VcAeMsDi	𧊴
 虫夂㐄,VcJiLk	𧊵
 虫几木,VcQjYm	𧊶
@@ -57819,7 +57819,7 @@
 虫里,VcAl	𧋎
 虫山及,VcUsFj	𧋏
 虫束,VcTs	𧋐
-虫一日,VcDiUrEi	𧋑
+虫{凬字心},VcScEi	𧋑
 虫土,VcEtRh	𧋒
 虫𠂒口,VcXnKk	𧋓
 工水虫,LgMsVc	𧋔
@@ -57980,7 +57980,7 @@
 虫風,VcIf	𧍯
 虫夂一生,VcJiDiIs	𧍰
 虫宀至,VcGgGi	𧍱
-虫亻一日,VcHrDiEi	𧍲
+虫亻{凬字心},VcHrScEi	𧍲
 虫臼人,VcYjHr	𧍳
 虫束丷,VcTsNb	𧍴
 古⺼虫,OgFyVc	𧍵
@@ -57989,7 +57989,7 @@
 夂虫虫,JiVcVc	𧍸
 虫一自凵,VcDiViJk	𧍹
 虫丨厂彐,VcWjHsWj	𧍺
-亻一日虫,HrDiUrVc	𧍻
+亻{凬字心}虫,HrScEiVc	𧍻
 虫巛歹刂,VcKcSdNd	𧍼
 广夕虫土,BgVxVcEt	𧍽
 古冖八虫,OgGgNbVc	𧍾
@@ -58055,7 +58055,7 @@
 虫可可,VcEkEk	𧎺
 予丿夂力虫,OvTpJiVc	𧎻
 虫⺼缶,VcFyTf	𧎼
-虫{云变}厶一日,VcZyIsUr	𧎽
+虫一业日,VcDiOyUr	𧎽
 虫小曰小,VcIxUyIx	𧎾
 疒矢虫,NbGsVc	𧎿
 虫丿龱心,VcTpKlLx	𧏀
@@ -58958,7 +58958,7 @@
 衤罒羽,QiBsWv	𧝁
 衤力口貝,QiClKkRb	𧝂
 衤予丿冂八口,QiOvTpKk	𧝃
-衤一日丨勹灬,QiDiUrRh	𧝄
+衤{凬字心}丨勹灬,QiScHsRh	𧝄
 衤亼口羽,QiZiKkWv	𧝅
 衤旡旡曰,QiCuCuUy	𧝆
 衤弗貝,QiXfRb	𧝇
@@ -59244,7 +59244,7 @@
 䒑业見,NbOyDj	𧡟
 凵丨一火見,JkHsDiDj	𧡠
 冖車見,GgQcDj	𧡡
-宀一日一見,GgDiUrDj	𧡢
+宀{凬字心}一見,GgScDiDj	𧡢
 禾火見,BhRhDj	𧡣
 戶𠕁見,DhYcDj	𧡤
 龷八巳見,PnNbVsDj	𧡥
@@ -59388,7 +59388,7 @@
 扌斤⺈用,OsSjDdGy	𧣯
 ⺈用一冂巳一,DdGyDiDi	𧣰
 ⺈用戈幺,DdGyAgDy	𧣱
-⺈用一日,DdGyDiEi	𧣲
+⺈用{凬字心},DdGyScEi	𧣲
 ⺈用谷,DdGyYg	𧣳
 ⺈用戈戈,DdGyAgAg	𧣴
 ⺈用侖,DdGyFl	𧣵
@@ -59416,7 +59416,7 @@
 ⺈用幺幺廾,DdGyDyZc	𧤋
 ⺈用大夕夕,DdGyIdVx	𧤌
 ⺈用冖巾,DdGyXlAj	𧤍
-⺈用宀一日一,DdGyGgDi	𧤎
+⺈用宀{凬字心}一,DdGyGgDi	𧤎
 ⺈用口耳,DdGyKkVe	𧤏
 ⺈用冎口,DdGyUgKk	𧤐
 臼大⺈用,YjIdDdGy	𧤑
@@ -59676,7 +59676,7 @@
 言冖且,DyGgHq	𧨏
 言文女,DyLwWn	𧨐
 言了,DyQgEl	𧨑
-言一日,DyDiUrEi	𧨒
+言{凬字心},DyScEi	𧨒
 言日廴,DyUrRy	𧨓
 言⺿亡,DyZcNw	𧨔
 言儿,DyAtRe	𧨕
@@ -59895,7 +59895,7 @@
 言虍人,DyShOsHr	𧫪
 言彐月殳,DyWjFyRs	𧫫
 木㇗攵厂言,YmAeApDy	𧫬
-言大大一日,DyIdIdUr	𧫭
+言大大{凬字心},DyIdIdSc	𧫭
 言尸丿丿干,DyFsTpZg	𧫮
 匕广工言,JpWbBgDy	𧫯
 言广一龰,DyBgDiLi	𧫰
@@ -60236,7 +60236,7 @@
 豕⺿乂,HsZcEi	𧰿
 豕𠂒儿,HsXnRe	𧱀
 豕冂一口,HsJkDiKk	𧱁
-豕一日一,HsDiUrDi	𧱂
+豕{凬字心}一,HsScDi	𧱂
 一豕,JkDiHs	𧱃
 {双口}豕,PxHs	𧱄
 豕大弓,HsIdCg	𧱅
@@ -60275,7 +60275,7 @@
 豕丶豕,HsOdHs	𧱦
 豕丶尸毛,HsOdFsQm	𧱧
 豕田一,HsCtDiQi	𧱨
-豕亻一日,HsHrDiEi	𧱩
+豕亻{凬字心},HsHrScEi	𧱩
 豕㇏一大,HsJfOdId	𧱪
 豕𠂇工⺼,HsPsLgFy	𧱫
 豕亼月刂,HsZiFyNd	𧱬
@@ -60900,7 +60900,7 @@
 走戊一,IzMuDi	𧻗
 走丰刀,IzJfNd	𧻘
 走一白,IzDiJb	𧻙
-走一日一,IzDiUrDi	𧻚
+走{凬字心}一,IzScDi	𧻚
 走勹日,IzAkUr	𧻛
 走⺈厂⺋,IzDdUcWj	𧻜
 走𠂉支,IzStRi	𧻝
@@ -61266,7 +61266,7 @@
 ⻊辛,IuSx	𨁅
 ⻊丿止廴,IuTpLiRy	𨁆
 ⻊一大口,IuDiIdKk	𨁇
-⻊一日,IuDiUrEi	𨁈
+⻊{凬字心},IuScEi	𨁈
 ⻊囗木,IuAkYm	𨁉
 ⻊山亼乛,IuUsZiAe	𨁊
 ⻊豆,IuGd	𨁋
@@ -61369,7 +61369,7 @@
 十冖田足,PsGgCtIu	𨂬
 ⻊龶母,IuJfPm	𨂭
 亼囗⺌足,ZiAkIxIu	𨂮
-⻊亻一日,IuHrDiEi	𨂯
+⻊亻{凬字心},IuHrScEi	𨂯
 ⻊丰刀大,IuJfNdId	𨂰
 ⻊冖車,IuGgQc	𨂱
 ⻊尸䒑廾,IuFsNbZc	𨂲
@@ -61868,7 +61868,7 @@
 言糹糹身,DyFsFsXs	𨊟
 車⺋,QcWj	𨊠
 車丁,QcPd	𨊡
-一日丨{云变},DiUrHsZy	𨊢
+{凬字心}丨{云变},ScHsZy	𨊢
 車卜,QcFb	𨊣
 車人,QcHr	𨊤
 車凵,QcJk	𨊥
@@ -62070,7 +62070,7 @@
 車冖方,QcXlGgMf	𨍩
 車⺁彐𠃌殳,QcUcWjRs	𨍪
 車覀木,QcUxYm	𨍫
-車{云变}厶一日,QcZyIsUr	𨍬
+車一业日,QcDiOyUr	𨍬
 車甫寸,QcBfOc	𨍭
 車鬲,QcUg	𨍮
 日龷八車,UrPnNbQc	𨍯
@@ -62218,7 +62218,7 @@
 車一一鹿,QcDiFyIl	𨏽
 虍鬲犬車,ShUgAqQc	𨏾
 車車車車,QcQcQcQc	𨏿
-車一日一日鹿,QcDiUrIl	𨐀
+車{凬字心}{凬字心}鹿,QcScScIl	𨐀
 車田田田冖且,QcCtCtHq	𨐁
 車爫厂⺽白八夂,QcIaUcJi	𨐂
 金金金車,WjWjWjQc	𨐃
@@ -62595,7 +62595,7 @@
 户二殳辶,DhNeRsJc	𨕶
 艹夂巾辶,ZcJiAjJc	𨕷
 卝口土辶,ZcKkEtJc	𨕸
-木一日一辶,YmDiUrJc	𨕹
+木{凬字心}一辶,YmScDiJc	𨕹
 大言辶,IdDyJc	𨕺
 日艮辶,UrPgJc	𨕻
 彡龰亻火又,FsLiHrTy	𨕼
@@ -63104,7 +63104,7 @@
 止匕貝阝,LiWbRbXe	𨝳
 黃阝,EhXe	𨝴
 木木夕㐄,YmYmVxLk	𨝵
-一{双口}一日阝,DiPxDiXe	𨝶
+一{双口}{凬字心}阝,DiPxScXe	𨝶
 大丷日小阝,IdNbUrXe	𨝷
 覀日十阝,UxUrPsXe	𨝸
 虍业阝,ShOyXe	𨝹
@@ -63421,7 +63421,7 @@
 矢口酉二ㄅ,GsKkByAe	𨢰
 矢口子酉,GsKkHiBy	𨢱
 酉宀亻一白,ByGgHrJb	𨢲
-酉尤⺊一日,ByVyFbUr	𨢳
+酉尤⺊{凬字心},ByVyFbSc	𨢳
 酉亼口皿,ByZiKkHm	𨢴
 酉示,ByNbLs	𨢵
 酉了灬,ByQgElRh	𨢶
@@ -63861,7 +63861,7 @@
 金木日一,WjYmUrDi	𨩨
 金⺜目,WjUrEm	𨩩
 金山虫,WjUsVc	𨩪
-金亻一日,WjHrDiEi	𨩫
+金亻{凬字心},WjHrScEi	𨩫
 金丿龱大,WjTpKlId	𨩬
 金食,WjHs	𨩭
 金户冂口,WjDhJkKk	𨩮
@@ -63958,7 +63958,7 @@
 金日土寸,WjUrEtOc	𨫉
 金覀木,WjUxYm	𨫊
 金工貝,WjLgRb	𨫋
-金{云变}厶一日,WjZyIsUr	𨫌
+金一业日,WjDiOyUr	𨫌
 金一由心,WjDiUyLx	𨫍
 金王丶王丶,WjRwOdOd	𨫎
 金亠幺冫十,WjLtDyPs	𨫏
@@ -64642,7 +64642,7 @@
 門大丶皿,SmIdOdHm	𨵵
 門日一勹,SmUrDiFs	𨵶
 門日皿,SmUrHm	𨵷
-門亻一日,SmHrDiEi	𨵸
+門亻{凬字心},SmHrScEi	𨵸
 門臼廾,SmYjZc	𨵹
 門亻丿糸,SmHrTpFs	𨵺
 門爫丨日,SmIaHsUr	𨵻
@@ -64785,7 +64785,7 @@
 门艮,TmPg	𨸄
 门至,TmGi	𨸅
 门一口田,TmDiKkCt	𨸆
-门亻一日,TmHrDiEi	𨸇
+门亻{凬字心},TmHrScEi	𨸇
 门⺷大,TmSyId	𨸈
 门艹亼口,TmZcZiKk	𨸉
 门缶人,TmTfVkHr	𨸊
@@ -65298,7 +65298,7 @@
 彑隹,WjHsMi	𩀅
 穴犬隹,AxAqMi	𩀆
 {双口}二ㄅ隹,PxNeAeMi	𩀇
-宀一日一隹,GgDiUrMi	𩀈
+宀{凬字心}一隹,GgScDiMi	𩀈
 古⺼隹,OgFyMi	𩀉
 匕白隹,WbWbJbMi	𩀊
 而大隹,KeIdMi	𩀋
@@ -65478,7 +65478,7 @@
 彳殳,XvGcRs	𩂹
 束,XvTs	𩂺
 耳㇗,XvVeAe	𩂻
-一日,XvDiUrEi	𩂼
+{凬字心},XvScEi	𩂼
 王廾,XvRwZc	𩂽
 由一ㄅ,XvUyDiAe	𩂾
 丿口,XvWjTpKk	𩂿
@@ -65546,7 +65546,7 @@
 广龷八,BgPnNbXv	𩃽
 二儿虫,XvNeReVc	𩃾
 丨厂彐,XvWjHsWj	𩃿
-大一日乚,XvIdDiAe	𩄀
+大{凬字心}乚,XvIdScAe	𩄀
 一儿虫,XvDiReVc	𩄁
 ⻗氵⺁,XvMsUcQi	𩄂
 木勹巳,XvYmAkVs	𩄃
@@ -66028,7 +66028,7 @@
 革𠂉日夂,RgStUrJi	𩋟
 革面,RgXm	𩋠
 革宀至,RgGgGi	𩋡
-革宀一日一,RgGgDiDi	𩋢
+革宀{凬字心}一,RgGgScDi	𩋢
 革冖巾,RgXlGgAj	𩋣
 革田⺼,RgCtFy	𩋤
 革二コ又,RgFsNeTy	𩋥
@@ -66181,7 +66181,7 @@
 ⺮土勹革,JuEtSyRg	𩍸
 革宀丰罒心,RgGgJfLx	𩍹
 革山隹,RgUsMiJk	𩍺
-鬲一日一革,UgDiUrRg	𩍻
+鬲{凬字心}一革,UgScDiRg	𩍻
 革虍田皿,RgShCtHm	𩍼
 革屮凵,RgMcJkIl	𩍽
 革人貝,RgYjHrRb	𩍾
@@ -66226,7 +66226,7 @@
 韋曰㇂丿,JwUyAeTp	𩎥
 韋六乂,JwMlEi	𩎦
 韋亻犬,JwHrAq	𩎧
-韋一日一,JwDiUrDi	𩎨
+韋{凬字心}一,JwScDi	𩎨
 韋木马,JwYmSm	𩎩
 韋囗大,JwAkId	𩎪
 韋几木,JwQjYm	𩎫
@@ -66256,7 +66256,7 @@
 韋彳皮,JwGcNp	𩏃
 韋夂田,JwJiCt	𩏄
 韋爫一𠂇又,JwIaDiTy	𩏅
-韋宀一日一,JwGgDiDi	𩏆
+韋宀{凬字心}一,JwGgScDi	𩏆
 韋一殳,JwOsDiRs	𩏇
 韋六口儿,JwMlKkRe	𩏈
 亠囗韋夂,LtAkJwJi	𩏉
@@ -66476,7 +66476,7 @@
 爫九頁,IaLjWy	𩒟
 一大頁,WbDiIdWy	𩒠
 缶頁,TfWy	𩒡
-一日一頁,DiUrDiWy	𩒢
+{凬字心}一頁,ScDiWy	𩒢
 厂亽ヿ頁,UcZiAeWy	𩒣
 一八土頁,DiNbEtWy	𩒤
 匚亽ヿ頁,VkZiAeWy	𩒥
@@ -66693,7 +66693,7 @@
 艹千言頁,ZcNqDyWy	𩕸
 艹人口頁,ZcHrDhWy	𩕹
 辛豕頁,SxHsWy	𩕺
-䒑一日巛頁,NbMcDiWy	𩕻
+䒑{凬字心}巛頁,NbMcScWy	𩕻
 頁火火夕㐄,WyRhRhLk	𩕼
 宀一丨㇗𠃌貝頁,GgDiHsWy	𩕽
 罒厂罒大頁,BsUcBsWy	𩕾
@@ -66844,7 +66844,7 @@
 風廿㇗木,IfPnAeYm	𩘏
 風彑,IfWjHs	𩘐
 風⺿冂大,IfZcJkId	𩘑
-宀一日一風,GgDiUrIf	𩘒
+宀{凬字心}一風,GgScDiIf	𩘒
 風方𠂉子,IfMfStHi	𩘓
 西土風,UxEtIf	𩘔
 ⺿冂大風,ZcJkIdIf	𩘕
@@ -67163,7 +67163,7 @@
 飠儿゛,HsAtReGb	𩝎
 飠⺷大,HsSyId	𩝏
 飠䒑幺幺,HsNbDyDy	𩝐
-飠宀一日一,HsGgDiDi	𩝑
+飠宀{凬字心}一,HsGgScDi	𩝑
 飠宀缶,HsGgTf	𩝒
 宀缶食,GgTfHs	𩝓
 飠疋⺝,HsEsFy	𩝔
@@ -67627,7 +67627,7 @@
 馬冖八木,NmGgNbYm	𩤞
 馬日一勹,NmUrDiFs	𩤟
 馬匕白,NmWbWbJb	𩤠
-宀一日一馬,GgDiUrNm	𩤡
+宀{凬字心}一馬,GgScDiNm	𩤡
 馬冖巾,NmXlGgAj	𩤢
 馬一殳,NmOsDiRs	𩤣
 面馬,XmNm	𩤤
@@ -68075,13 +68075,13 @@
 高彑,QgWjHs	𩫞
 高夕㐄土,QgVxLkEt	𩫟
 口十人,QgKkPsHr	𩫠
-高木一日一,QgYmDiDi	𩫡
+高木{凬字心}一,QgYmScDi	𩫡
 高工貝,QgLgRb	𩫢
 高口貝,QgKkRb	𩫣
 高夕㐄木,QgVxLkYm	𩫤
 巛田木高,KcCtYmQg	𩫥
 高厶厶厶人彡,QgIsIsFs	𩫦
-口十一日一,QgKkPsDi	𩫧
+口十{凬字心}一,QgKkPsDi	𩫧
 口十戊𠃌,QgKkPsAe	𩫨
 口古巴,QgKkOgBb	𩫩
 口十白丿十,QgKkPsPs	𩫪
@@ -68415,7 +68415,7 @@
 弓弓鬲,CgCgUg	𩰲
 鬲土土,UgEtEt	𩰳
 鬲而,UgKe	𩰴
-鬲一日一,UgDiUrDi	𩰵
+鬲{凬字心}一,UgScDi	𩰵
 鬲亥,UgXh	𩰶
 鬲㐅凵儿,UgEiJkRe	𩰷
 鬲彐彐,UgWjWj	𩰸
@@ -69017,7 +69017,7 @@
 魚廿㇗冖巾,AvPnAeAj	𩺌
 魚米辶,AvFmJc	𩺍
 魚彐水寸,AvWjMsOc	𩺎
-魚一日一日,AvDiUrUr	𩺏
+魚{凬字心}{凬字心},AvScSc	𩺏
 魚丿口阝,AvWjTpXe	𩺐
 魚{双口}方,AvPxMf	𩺑
 魚人゛,AvAtHrGb	𩺒
@@ -69601,7 +69601,7 @@
 ⺿民鳥,ZcVmGn	𪃔
 氵各鳥,MsKgGn	𪃕
 ⺿氏一鳥,ZcZsDiGn	𪃖
-鳥宀一日一,GnGgDiDi	𪃗
+鳥宀{凬字心}一,GnGgScDi	𪃗
 十戈口鳥,PsAgKkGn	𪃘
 耂日鳥,RlUrGn	𪃙
 止示鳥,LiLsGn	𪃚
@@ -70063,7 +70063,7 @@
 鹿矢,IlGs	𪊢
 鹿目,IlEm	𪊣
 鹿匚コ,IlVkVk	𪊤
-鹿一日一,IlDiUrDi	𪊥
+鹿{凬字心}一,IlScDi	𪊥
 鹿囗大,IlAkId	𪊦
 鹿土土,IlEtEt	𪊧
 鹿匕日,IlWbUr	𪊨
@@ -71735,7 +71735,7 @@
 未大,VwId	𪥊
 大未,IdVw	𪥋
 丿冂人大,TpJkHrId	𪥌
-大一日乚,IdDiUrAe	𪥍
+大{凬字心}乚,IdScAe	𪥍
 匚王大,VkRwId	𪥎
 大方人,IdMfHr	𪥏
 ㇏亠巾,JfOdLtAj	𪥐
@@ -72191,7 +72191,7 @@
 攵心,ApPgLx	𪬒
 木氵亍心,YmMsGcLx	𪬓
 忄歹丿未,LxSdTpVw	𪬔
-忄{云变}厶一日,LxZyIsUr	𪬕
+忄一业日,LxDiOyUr	𪬕
 忄門人,LxSmHr	𪬖
 忄千匕二,LxNqJpNe	𪬗
 忄皿,LxMsHm	𪬘
@@ -72375,7 +72375,7 @@
 疒儿力攵⺈亅,NbAtReHs	𪯊
 夫丷攴,GfNbAp	𪯋
 丿㠯攵,TpTiAp	𪯌
-一日攵,DiUrEiAp	𪯍
+{凬字心}攵,ScEiAp	𪯍
 土攵,EtSyAp	𪯎
 勹心攵,AkFsLxAp	𪯏
 冖巾攵,XlGgAjAp	𪯐
@@ -72736,7 +72736,7 @@
 ⺿亻隹又欠,ZcHrMiPq	𪴳
 ⺷灬凵匕欠,SyRhFmPq	𪴴
 勹止,AkFsLi	𪴵
-止一日一,LiDiUrDi	𪴶
+止{凬字心}一,LiScDi	𪴶
 止龴用,LiIsGy	𪴷
 止土心丿,LiEtLxTp	𪴸
 一止氵土厶,DiLiMsIs	𪴹
@@ -72847,7 +72847,7 @@
 氵亻人禾,MsHrHrBh	𪶢
 氵丿田廾,MsTpCtZc	𪶣
 氵亻⺶㇏,MsHrSyOd	𪶤
-氵忄一日一,MsLxDiDi	𪶥
+氵忄{凬字心}一,MsLxScDi	𪶥
 氵衣口,MsQiKk	𪶦
 氵亠子,MsLtRhHi	𪶧
 氵女又心,MsWnTyLx	𪶨
@@ -72981,7 +72981,7 @@
 火乃木,RhDnYm	𪸨
 火冖车,RhGgXc	𪸩
 火羽,RhWv	𪸪
-火一日,RhDiUrEi	𪸫
+火{凬字心},RhScEi	𪸫
 火戈口,RhAgKk	𪸬
 火貝,RhRb	𪸭
 火日大,RhUrId	𪸮
@@ -73154,7 +73154,7 @@
 王古,RwOg	𪻕
 王人二ㄅ,RwHrNeAe	𪻖
 王大土,RwIdEt	𪻗
-王一日一,RwDiUrDi	𪻘
+王{凬字心}一,RwScDi	𪻘
 王弋工,RwXiLg	𪻙
 王艹乂,RwZcEi	𪻚
 王冂一口,RwJkDiKk	𪻛
@@ -73175,7 +73175,7 @@
 王日月,RwUrFy	𪻪
 王冂䒑亡,RwJkNbNw	𪻫
 王一山,RwSjDiUs	𪻬
-王冖一日一,RwGgDiDi	𪻭
+王冖{凬字心}一,RwGgScDi	𪻭
 王火王,RwRhRw	𪻮
 王方攵,RwMfAp	𪻯
 王厶儿攵,RwIsReAp	𪻰
@@ -73218,7 +73218,7 @@
 王方𠂉矢,RwMfStGs	𪼕
 王宀臼人,RwGgYjHr	𪼖
 王⻗文,RwXvLw	𪼗
-王艹冖一日一,RwZcGgDi	𪼘
+王艹冖{凬字心}一,RwZcGgDi	𪼘
 王門王,RwSmRw	𪼙
 王⺜儿,RwUrAtRe	𪼚
 王隹木,RwMiYm	𪼛
@@ -73738,7 +73738,7 @@
 纟弓丨,QsCgHs	𫄝
 纟不一,QsRbDi	𫄞
 纟𠂉也,QsStEy	𫄟
-纟一日一,QsDiUrDi	𫄠
+纟{凬字心}一,QsScDi	𫄠
 纟冂一口,QsJkDiKk	𫄡
 纟亻犬,QsHrAq	𫄢
 纟冖𧘇,QsGgQi	𫄣
@@ -73811,7 +73811,7 @@
 䒑羽,NbMcWv	𫅦
 羽羊,WvSy	𫅧
 羽車,WvQc	𫅨
-羽一日,WvDiUrEi	𫅩
+羽{凬字心},WvScEi	𫅩
 羽非,WvLf	𫅪
 一丰羽,OsDiJfWv	𫅫
 音羽,WyWv	𫅬
@@ -74475,7 +74475,7 @@
 車田各,QcCtKg	𫏾
 車𠂉十車,QcStPsQc	𫏿
 車氵匚コ木,QcMsVkYm	𫐀
-一日丨{云变}殳車,DiUrHsQc	𫐁
+{凬字心}丨{云变}殳車,ScHsZyQc	𫐁
 宀口丨女車,GgNuKkQc	𫐂
 車田車田爫幺又,QcCtQcTy	𫐃
 车一儿,XcDiRe	𫐄
@@ -74631,7 +74631,7 @@
 金亠,WjLtRh	𫒚
 金宀子,WjGgHi	𫒛
 金亡土,WjNwEt	𫒜
-金一日,WjDiUrEi	𫒝
+金{凬字心},WjScEi	𫒝
 金戈廾,WjAgZc	𫒞
 金人禾,WjHrBh	𫒟
 金丿糸,WjTpFs	𫒠
@@ -74807,7 +74807,7 @@
 阝爫幺又,XeIaDyTy	𫕊
 阝爫冂土,XeIaJkEt	𫕋
 阝戶𠕁,XeDhYc	𫕌
-阝宀一日一,XeGgDiDi	𫕍
+阝宀{凬字心}一,XeGgScDi	𫕍
 阝厶羽,XeNbIsWv	𫕎
 阝禾尸二,XeBhFsNe	𫕏
 阝大乂乂乂乂,XeIdEiEi	𫕐
@@ -75149,7 +75149,7 @@
 鱼丷夫⺋,SvNbGfWj	𫚠
 鱼彐冖巾,SvWjGgAj	𫚡
 鱼匚日女,SvVkUrWn	𫚢
-鱼亻一日,SvHrDiEi	𫚣
+鱼亻{凬字心},SvHrScEi	𫚣
 鱼䒑幺幺,SvNbDyDy	𫚤
 鱼二コ又,SvFsNeTy	𫚥
 鱼宀谷,SvGgYg	𫚦
@@ -75256,7 +75256,7 @@
 鹿力,IlCl	𫜋
 鹿欠,IlPq	𫜌
 鹿各,IlKg	𫜍
-鹿⺊一日,IlFbDiUr	𫜎
+鹿⺊{凬字心},IlFbSc	𫜎
 米夕㐄鹿,FmVxLkIl	𫜏
 ⿆虎,LmSh	𫜐
 龶夂丰,JfJiJf	𫜑
@@ -75368,7 +75368,7 @@
 方⺷大,MfSyId	𫞁
 日王丶,UrRwOd	𫞂
 日丷口,UrNbKk	𫞃
-一人人一日,DiHrHrUr	𫞄
+一人人{凬字心},DiHrHrSc	𫞄
 月彐寸,FyWjOc	𫞅
 月口矢,FyKkGs	𫞆
 月鼡,FyEs	𫞇
@@ -75539,7 +75539,7 @@
 至一卜,GiDiFb	𫠮
 王廾一卜,RwZcDiFb	𫠯
 一卜丿扌,DiFbTpAg	𫠰
-一日一止,DiUrDiLi	𫠱
+{凬字心}一止,ScDiLi	𫠱
 不曲,RbEq	𫠲
 一卜侖,DiFbFl	𫠳
 一人云,SjDiHrZy	𫠴
@@ -75955,7 +75955,7 @@
 匚止,VkLi	𫧎
 匚人人,VkHrHr	𫧏
 匚目,VkEm	𫧐
-匚一日一,VkDiUrDi	𫧑
+匚{凬字心}一,VkScDi	𫧑
 匚冂一口,VkJkDiKk	𫧒
 匚甫,VkBf	𫧓
 丶匚爿士,OdVkJpJs	𫧔
@@ -76042,7 +76042,7 @@
 厂日月犬气米,UcUrFyFm	𫨥
 厶卜,IsFb	𫨦
 厶女𠃌一,IsWnAeDi	𫨧
-一日厶,DiUrEiIs	𫨨
+{凬字心}厶,ScEiIs	𫨨
 厶口匕匕,IsKkWbWb	𫨩
 厶女𠃌一口,IsWnAeKk	𫨪
 厶⺊貝,IsFbRb	𫨫
@@ -76253,7 +76253,7 @@
 革亻口,RgHrWbKk	𫫸
 一大口厂彡,DiIdKkFs	𫫹
 口耳由一ㄅ,KkVeUyAe	𫫺
-口艹宀一日一,KkZcGgDi	𫫻
+口艹宀{凬字心}一,KkZcGgDi	𫫻
 口罒大日乚,KkBsIdAe	𫫼
 ⺊冖谷又土,FbGgYgEt	𫫽
 口止页,KkLiLiQy	𫫾
@@ -76639,7 +76639,7 @@
 女壴支,WnEuRi	𫱺
 女艹句攵,WnZcEjAp	𫱻
 女歺又米,WnSdTyFm	𫱼
-女艹宀一日一,WnZcGgDi	𫱽
+女艹宀{凬字心}一,WnZcGgDi	𫱽
 女囗口貝,WnAkKkRb	𫱾
 齿可女,DcEkWn	𫱿
 月丷夫土女,FyNbGfWn	𫲀
@@ -76894,8 +76894,8 @@
 山又寸,UsTyOc	𫵹
 山⺈巴,UsDdBb	𫵺
 山宀女,UsGgWn	𫵻
-山一日,UsDiUrEi	𫵼
-山几一日,UsQjDiUr	𫵽
+山{凬字心},UsScEi	𫵼
+山几{凬字心},UsQjSc	𫵽
 𠂉母山,StPmUs	𫵾
 山禾乃,UsBhDn	𫵿
 山宀木,UsGgYm	𫶀
@@ -77228,7 +77228,7 @@
 钅氏口心,PjZsKkLx	𫻇
 女又心亽ヿ口,WnTyLxKk	𫻈
 刀丶心⺈貝,NdOdLxRb	𫻉
-忄艹宀一日一,LxZcGgDi	𫻊
+忄艹宀{凬字心}一,LxZcGgDi	𫻊
 忄白一口,LxJbDiIv	𫻋
 忄䒑幺幺心,LxNbDyLx	𫻌
 米女攵心,FmWnApLx	𫻍
@@ -77627,7 +77627,7 @@
 日生宀牛,UrIsGgXn	𬁖
 日宀一口田,UrGgDiCt	𬁗
 日门束丷,UrTmTsNb	𬁘
-日艹宀一日一,UrZcGgDi	𬁙
+日艹宀{凬字心}一,UrZcGgDi	𬁙
 日生臼人,UrIsYjHr	𬁚
 日广䒑,UrBgNbRh	𬁛
 日艹罒冖夕,UrZcBsVx	𬁜
@@ -77916,7 +77916,7 @@
 刀止,NdLi	𬅷
 ⺊一止,FbDiLi	𬅸
 一巾止,DiAjLi	𬅹
-一日止,DiUrLi	𬅺
+{凬字心}止,ScLi	𬅺
 土厶止,EtIsLi	𬅻
 木冂止,YmJkLi	𬅼
 冫⺊了止,GbFbElLi	𬅽
@@ -78731,7 +78731,7 @@
 石艹宀谷,DsZcGgYg	𬒦
 石皮臼工,DsNpYjLg	𬒧
 石髟𠂇又,DsGbPsTy	𬒨
-石一日冖方,DsDiUrMf	𬒩
+石{凬字心}冖方,DsScEiMf	𬒩
 石止艹田⽱,DsLiZcAr	𬒪
 石⺮僉,DsJuVq	𬒫
 礻工,LsLg	𬒬
@@ -78914,7 +78914,7 @@
 ⺮片爿一,JuJpJpDi	𬕝
 ⺮衣口,JuQiKk	𬕞
 ⺮一巾辶,JuDiAjJc	𬕟
-⺮氵一日一,JuMsDiDi	𬕠
+⺮氵{凬字心}一,JuMsScDi	𬕠
 ⺮糹工,JuFsLg	𬕡
 ⺮木一冂人㇗,JuYmDiAe	𬕢
 ⺮木一匚巾,JuYmDiAj	𬕣
@@ -79127,7 +79127,7 @@
 纟大夕夕,QsIdVxVx	𬘲
 纟彡页,QsFsQy	𬘳
 纟禾火,QsBhRh	𬘴
-纟忄一日一,QsLxDiDi	𬘵
+纟忄{凬字心}一,QsLxScDi	𬘵
 纟丷酉,QsNbBy	𬘶
 纟⺶工,QsSyLg	𬘷
 纟尸木,QsFsWbYm	𬘸
@@ -79416,7 +79416,7 @@
 艹人文口,ZcHrLwKk	𬝓
 艹禾⺁又,ZcBhUcTy	𬝔
 艹丿田廾,ZcTpCtZc	𬝕
-艹忄一日一,ZcLxDiDi	𬝖
+艹忄{凬字心}一,ZcLxScDi	𬝖
 艹忄衣,ZcLxQi	𬝗
 艹䒑幺幺,ZcNbDyDy	𬝘
 艹冖白匕,ZcGgJbWb	𬝙
@@ -79769,7 +79769,7 @@
 言冫欠女,DyGbPqWn	𬢴
 言⺊貝,DyFbRb	𬢵
 言八刀皿,DyNbNdHm	𬢶
-言亻一日,DyHrDiEi	𬢷
+言亻{凬字心},DyHrScEi	𬢷
 言丿米又,DyTpFmTy	𬢸
 言厶辛,DyIsSx	𬢹
 十日十𠂉言,PsUrPsDy	𬢺
@@ -79856,7 +79856,7 @@
 讠勹丶心,CyAkFsLx	𬤋
 讠千臼,CyNqYj	𬤌
 讠白王,CyJbRw	𬤍
-讠宀一日一,CyGgDiDi	𬤎
+讠宀{凬字心}一,CyGgScDi	𬤎
 讠广廿又,CyBgPnTy	𬤏
 讠可可,CyEkEk	𬤐
 讠鬲,CyUg	𬤑
@@ -80036,7 +80036,7 @@
 ⻊亻言,IuHrDy	𬦿
 ⻊丬夕寸,IuJpVxOc	𬧀
 氵⺁足,MsUcQiIu	𬧁
-⻊宀一日一,IuGgDiDi	𬧂
+⻊宀{凬字心}一,IuGgScDi	𬧂
 ⻊丷夫马,IuNbGfSm	𬧃
 ⻊工貝,IuLgRb	𬧄
 ⻊甫寸,IuBfOc	𬧅
@@ -80134,7 +80134,7 @@
 册辶,YcJc	𬨡
 立辶,XlJc	𬨢
 丶水辶,OdMsJc	𬨣
-一日一辶,DiUrDiJc	𬨤
+{凬字心}一辶,ScDiJc	𬨤
 㐅木辶,EiYmJc	𬨥
 一大口辶,DiIdKkJc	𬨦
 一幺幺辶,DiDyDyJc	𬨧
@@ -80809,7 +80809,7 @@
 饣十冂,NsPsJkSy	𬳄
 饣𠂇工月,NsPsLgFy	𬳅
 饣行氵,NsPxMs	𬳆
-饣宀一日一,NsGgDiDi	𬳇
+饣宀{凬字心}一,NsGgScDi	𬳇
 饣虫㠯,NsVcTi	𬳈
 饣⺜羽,NsUrWv	𬳉
 饣爫臼,NsIaYj	𬳊
@@ -80846,7 +80846,7 @@
 馬攴,NmAp	𬳩
 丿馬,WjTpNm	𬳪
 馬力力力,NmClClCl	𬳫
-馬一日,NmDiUrEi	𬳬
+馬{凬字心},NmScEi	𬳬
 冂䒑山馬,JkNbUsNm	𬳭
 馬小,NmQgIx	𬳮
 馬厶大彡,NmIsIdFs	𬳯
@@ -80898,7 +80898,7 @@
 高土土土一儿,QgEtEtRe	𬴝
 高龸足,QgSsIu	𬴞
 高⺮聿,QgJuIv	𬴟
-一日一,QgQgDiDi	𬴠
+{凬字心}一,QgQgScDi	𬴠
 戊𠃌,QgQgMuAe	𬴡
 耂日,QgQgRlUr	𬴢
 田⽱,QgQgCtAr	𬴣
@@ -81312,15 +81312,15 @@
 戸十,DhPs	𬻉
 一大一卜,DiIdDiFb	𬻊
 艹艹丶,ZcZcOd	𬻋
-一日卜,DiUrFb	𬻌
-一日丨丿,DiUrHsTp	𬻍
+{凬字心}卜,ScFb	𬻌
+{凬字心}丨丿,ScHsTp	𬻍
 七力口,CqClKk	𬻎
 弓丨⺊一,CgHsFbDi	𬻏
 一日丁,DiUrPd	𬻐
 ⺈丶コ卜,DdOdVkFb	𬻑
 弋コ冖𠃌,XiVkGgAe	𬻒
 龙一卜,VlDiFb	𬻓
-一日竹,DiUrJu	𬻔
+一冂二,DiJkNeJu	𬻔
 一八囗二,DiNbAkNe	𬻕
 丁⺈巴,PdDdBb	𬻖
 丁⺈,PdDdIv	𬻗
@@ -81574,7 +81574,7 @@
 亻巛言,HrKcDy	𬿏
 亻寸一弋止,HrOcDiLi	𬿐
 亻覀亽龴,HrUxZiIs	𬿑
-亻一日攵,HrDiUrAp	𬿒
+亻{凬字心}攵,HrScEiAp	𬿒
 亻囗戈口一,HrAkAgDi	𬿓
 亻丨㐅木殳,HrHsEiRs	𬿔
 亻山厂土土,HrUsUcEt	𬿕
@@ -81736,7 +81736,7 @@
 冂土火土,JkEtRhEt	𭁱
 夫夫巾人人人人,GfGfAjHr	𭁲
 冖巳,GgVs	𭁳
-冖一日一,GgDiUrDi	𭁴
+冖{凬字心}一,GgScDi	𭁴
 冖二儿攵,GgNeReAp	𭁵
 月日一儿,FyUrDiRe	𭁶
 冖目,GgEmNb	𭁷
@@ -81810,7 +81810,7 @@
 凵千凵,JkNqJk	𭂻
 凵巜巜巜巜,JkKcKcKc	𭂼
 屮凵㐅木,McJkEiYm	𭂽
-一日八凵女,DiUrNbWn	𭂾
+{凬字心}八凵女,ScNbJkWn	𭂾
 㐅凵一业心,EiJkDiLx	𭂿
 屮凵一业心,McJkDiLx	𭃀
 屮凵一心,McJkDiLx	𭃁
@@ -82158,7 +82158,7 @@
 口㐅木刂,KkEiYmNd	𭈗
 口牜勹,KkXnAkFs	𭈘
 口月巴,KkFyBb	𭈙
-口亻一日一,KkHrDiDi	𭈚
+口亻{凬字心}一,KkHrScDi	𭈚
 口禾子,KkBhHi	𭈛
 口夂田,KkJiCt	𭈜
 戶斤口,DhSjKk	𭈝
@@ -82182,7 +82182,7 @@
 口土亥,KkEtXh	𭈯
 一口冖业,DiKkGgOy	𭈰
 士口老,JsKkRl	𭈱
-口土一日一,KkEtDiDi	𭈲
+口土{凬字心}一,KkEtScDi	𭈲
 口耳巳,KkVeVs	𭈳
 口木丶王,KkYmOdRw	𭈴
 口扌巛夕,KkOsKcVx	𭈵
@@ -82250,7 +82250,7 @@
 口冖日六,KkGgUrMl	𭉳
 口氵日工,KkMsUrLg	𭉴
 八厂匕工口,NbUcWbKk	𭉵
-口广一日,KkBgDiEi	𭉶
+口广{凬字心},KkBgScEi	𭉶
 口礻且,KkLsHq	𭉷
 口礻氏丶,KkLsZsOd	𭉸
 口弓丿虫,KkCgTpVc	𭉹
@@ -82323,7 +82323,7 @@
 氵酉口丿七,MsByKkCq	𭊼
 口糹各,KkFsKg	𭊽
 口糹至,KkFsGi	𭊾
-口糹一日一,KkFsDiDi	𭊿
+口糹{凬字心}一,KkFsScDi	𭊿
 口糸厶⺝,KkFsIsFy	𭋀
 口厶厶厶人⺗,KkIsIsLx	𭋁
 口十龶貝,KkPsJfRb	𭋂
@@ -82549,7 +82549,7 @@
 土豆,EtGd	𭎞
 土不口,EtRbKk	𭎟
 土不土,EtRbEt	𭎠
-土⺊一日,EtFbDiUr	𭎡
+土⺊{凬字心},EtFbSc	𭎡
 田厶土,CtIsEt	𭎢
 土足,EtIu	𭎣
 土𠂉日一,EtStUrDi	𭎤
@@ -82583,7 +82583,7 @@
 千艹士一大,NqZcJsId	𭏀
 土爫几,EtIaQjOs	𭏁
 忄艮土,LxPgEt	𭏂
-忄一日一土,LxDiUrEt	𭏃
+忄{凬字心}一土,LxScDiEt	𭏃
 氵亼口土,MsZiKkEt	𭏄
 土冖巾,EtXlGgAj	𭏅
 土宀儿冫,EtGgReGb	𭏆
@@ -83091,9 +83091,9 @@
 山千匕土,UsNqWbEt	𭖼
 禾火山,BhRhUs	𭖽
 山⺷儿丶,UsSyReOd	𭖾
-山忄一日一,UsLxDiDi	𭖿
+山忄{凬字心}一,UsLxScDi	𭖿
 山扌斤口,UsOsSjKk	𭗀
-山木一日一,UsYmDiDi	𭗁
+山木{凬字心}一,UsYmScDi	𭗁
 山冂㐅光,UsJkEiWg	𭗂
 山山,UsGnUs	𭗃
 山爪幺夂,UsIaDyJi	𭗄
@@ -83123,7 +83123,7 @@
 山糹⺈巴,UsFsDdBb	𭗜
 山隹辶,UsMiJc	𭗝
 山广田⺝,UsBgCtFy	𭗞
-山一日六乂,UsDiUrEi	𭗟
+山{凬字心}六乂,UsScEiEi	𭗟
 山十日十人干,UsPsUrZg	𭗠
 山艹土厶皿,UsZcEtHm	𭗡
 山犭言犬,UsAqDyAq	𭗢
@@ -83248,7 +83248,7 @@
 广彐戈,BgWjAg	𭙙
 广大弓,BgIdCg	𭙚
 广光,BgWg	𭙛
-广一日,BgDiUrEi	𭙜
+广{凬字心},BgScEi	𭙜
 广𠂉母,BgStPm	𭙝
 广亽ヿ口,BgZiAeKk	𭙞
 广人人大,BgHrHrId	𭙟
@@ -83453,7 +83453,7 @@
 二口心,NeKkLx	𭜦
 八土心,NbEtLx	𭜧
 歹匕心,SdWbLx	𭜨
-一日一心,DiUrDiLx	𭜩
+{凬字心}一心,ScDiLx	𭜩
 心,KlLx	𭜪
 虫心,VcLx	𭜫
 忄日十,LxUrPs	𭜬
@@ -83515,7 +83515,7 @@
 耳阝心,VeXeLx	𭝤
 束刂心,TsNdLx	𭝥
 木丶王心,YmOdRwLx	𭝦
-忄土一日一,LxEtDiDi	𭝧
+忄土{凬字心}一,LxEtScDi	𭝧
 臣巳心,EcVsLx	𭝨
 忄艹古,LxZcOg	𭝩
 忄艹夕⺋,LxZcVxWj	𭝪
@@ -83578,7 +83578,7 @@
 忄冂古,LxXlJkOg	𭞣
 予丿夂力心,OvTpJiLx	𭞤
 忄虍勹丶,LxShAkOd	𭞥
-一日口旡心,DiUrKkLx	𭞦
+{凬字心}口旡心,ScKkCuLx	𭞦
 木冂木冂心,YmJkYmLx	𭞧
 厂䒑月心,UcNbMcLx	𭞨
 忄艹口冖月,LxZcKkFy	𭞩
@@ -83656,7 +83656,7 @@
 八厂戈,NbUcAg	𭟱
 人人戈,HrHrAg	𭟲
 冂口戈,JkKkAg	𭟳
-戈⺊一日,AgFbDiUr	𭟴
+戈⺊{凬字心},AgFbSc	𭟴
 戈⺈用,AgDdGy	𭟵
 口乚⺝戈,KkAeFyAg	𭟶
 又又示戈,TyTyLsAg	𭟷
@@ -84077,7 +84077,7 @@
 巳攵日,VsApUr	𭦖
 日皿刀,UrHmNd	𭦗
 日丨丿干丿干,UrHsTpZg	𭦘
-一幺幺一日,DiDyDyUr	𭦙
+一幺幺{凬字心},DiDyDySc	𭦙
 一白八日,DiJbNbUr	𭦚
 日大示,UrIdLs	𭦛
 日干人干,UrZgHrZg	𭦜
@@ -84094,7 +84094,7 @@
 日彑氺,UrWjMs	𭦧
 二儿日刀口,NeReUrKk	𭦨
 日土儿二儿,UrEtReRe	𭦩
-覀⺊一日,UxFbDiUr	𭦪
+覀⺊{凬字心},UxFbSc	𭦪
 覀女日,UxWnUr	𭦫
 日十目,UrPsEmNb	𭦬
 日大土土,UrIdEtEt	𭦭
@@ -84623,7 +84623,7 @@
 立木殳,XlYmRs	𭮸
 十冖糸殳,PsGgFsRs	𭮹
 尸龷八口又,FsPnNbTy	𭮺
-一日丨{云变}口又,DiUrHsTy	𭮻
+{凬字心}丨{云变}口又,ScHsZyTy	𭮻
 車{双口}又,QcPxTy	𭮼
 士冖夕㐄殳,JsGgVxRs	𭮽
 士殳力口,JsFsRsKk	𭮾
@@ -84765,7 +84765,7 @@
 氵車刂,MsQcNd	𭱆
 氵土厶丿大,MsEtIsId	𭱇
 氵而寸,MsKeOc	𭱈
-一氺丶一日,DiMsOdEi	𭱉
+一氺丶{凬字心},DiMsOdEi	𭱉
 氵工页,MsLgQy	𭱊
 氵云冂土,MsZyJkEt	𭱋
 氵耳干,MsVeZg	𭱌
@@ -85233,7 +85233,7 @@
 犭日业,AqUrOy	𭸚
 犭⺜目,AqUrEm	𭸛
 犭豸人,AqHiHr	𭸜
-犭亻一日,AqHrDiEi	𭸝
+犭亻{凬字心},AqHrScEi	𭸝
 犭一殳,AqOsDiRs	𭸞
 犭可,AqXlEk	𭸟
 犭聿廴,AqIvRy	𭸠
@@ -85385,7 +85385,7 @@
 口生,KkIs	𭺲
 生丸,IsLo	𭺳
 生立,IsXl	𭺴
-生一日,IsDiUrEi	𭺵
+生{凬字心},IsScEi	𭺵
 艹戊一女生,ZcMuDiIs	𭺶
 生僉,IsVq	𭺷
 尸用,FsGy	𭺸
@@ -85407,7 +85407,7 @@
 土厶甲,EtIsHj	𭻈
 𠂉口田,StKkCt	𭻉
 田㇢人,CtFsAeHr	𭻊
-彐一日亅丿,WjDiUrTp	𭻋
+ヿ三日亅丿,AeAsUrTp	𭻋
 覀田,UxCt	𭻌
 一业田,DiOyCt	𭻍
 甲歹刂,HjSdNd	𭻎
@@ -85459,7 +85459,7 @@
 田田止大一大夕夕,CtCtLiVx	𭻼
 田匕艹白幺幺木,CtWbWbYm	𭻽
 𠂉疋,StEs	𭻾
-一日止,DiUrLi	𭻿
+{凬字心}龰,ScLi	𭻿
 疋皮,EsNp	𭼀
 工口疋,LgKkEs	𭼁
 亼罒疋,ZiBsEs	𭼂
@@ -85718,7 +85718,7 @@
 火矢,RhGs	𭿿
 矢且,GsHq	𮀀
 矢臣,GsEc	𮀁
-矢一日一,GsDiUrDi	𮀂
+矢{凬字心}一,GsScDi	𮀂
 矢一弋止,GsDiXiLi	𮀃
 矢阝可,GsXeEk	𮀄
 矢山而,GsUsKe	𮀅
@@ -85766,7 +85766,7 @@
 白攵石,JbApDs	𮀯
 石斤石,DsSjDs	𮀰
 白王石,JbRwDs	𮀱
-石忄一日一,DsLxDiDi	𮀲
+石忄{凬字心}一,DsLxScDi	𮀲
 石宀匚王,DsGgVkRw	𮀳
 石聿廴,DsIvRy	𮀴
 石厶大木,DsIsIdYm	𮀵
@@ -85825,7 +85825,7 @@
 示斤丶,LsSjOd	𮁪
 示宀丁,LsGgPd	𮁫
 示力口,LsClKk	𮁬
-示一日一,LsDiUrDi	𮁭
+示{凬字心}一,LsScDi	𮁭
 示而,LsKe	𮁮
 示大二ㄅ,LsIdNeAe	𮁯
 示𠂇⺝,LsPsFy	𮁰
@@ -86343,7 +86343,7 @@
 𠂉艹十山,StZcPsUs	𮉰
 缶夫,TfGf	𮉱
 缶皮,TfNp	𮉲
-缶一日,TfDiUrEi	𮉳
+缶{凬字心},TfScEi	𮉳
 缶人人土,TfHrHrEt	𮉴
 缶丶不口,TfOdRbKk	𮉵
 丷酉缶,NbByTf	𮉶
@@ -86377,7 +86377,7 @@
 罒厶⺝厶丿丿,BsIsFyTp	𮊒
 冂㐅厶⺝匕,JkEiIsWb	𮊓
 冂㐅忄隹,JkEiLxMi	𮊔
-罒羽一日,BsWvDiUr	𮊕
+罒羽{凬字心},BsWvSc	𮊕
 冂乂乂二又火,JkEiEiRh	𮊖
 冂八巛田木,JkNbKcYm	𮊗
 冂乂乂尸示寸,JkEiEiOc	𮊘
@@ -86432,7 +86432,7 @@
 白丰羽,JbJfWv	𮋉
 ⺈厂矢羽,DdUcGsWv	𮋊
 白王羽,JbRwWv	𮋋
-羽宀一日一,WvGgDiDi	𮋌
+羽宀{凬字心}一,WvGgScDi	𮋌
 十田心羽,PsCtIsWv	𮋍
 羽鬲,WvUg	𮋎
 罒一水羽,BsDiMsWv	𮋏
@@ -86449,7 +86449,7 @@
 屮凵光羽隹,McJkWgMi	𮋚
 老可,RlEk	𮋛
 老士口,RlJsKk	𮋜
-老⺊一日,RlFbDiUr	𮋝
+老⺊{凬字心},RlFbSc	𮋝
 老口未,RlKkVw	𮋞
 山而丿𠂇又,UsKeTpTy	𮋟
 氵而,MsZyKcKe	𮋠
@@ -86506,7 +86506,7 @@
 月未丶,FyVwOd	𮌓
 月,QgFy	𮌔
 冂人人龶夂,JkHrHrJi	𮌕
-月⺊一日,FyFbDiUr	𮌖
+月⺊{凬字心},FyFbSc	𮌖
 月山匕,FyUsWbWb	𮌗
 月足,FyIu	𮌘
 户⺝大,DhFyId	𮌙
@@ -87009,7 +87009,7 @@
 虫两,VcZl	𮔊
 虫扌片,VcOsJp	𮔋
 虫山巴,VcUsBb	𮔌
-虫⺊一日,VcFbDiUr	𮔍
+虫⺊{凬字心},VcFbSc	𮔍
 虫冖且,VcGgHq	𮔎
 丿虫亻木,TpVcHrYm	𮔏
 虫,VcSjNb	𮔐
@@ -87277,7 +87277,7 @@
 言𠃌阝,DyAeOsXe	𮘖
 言㇏,DyJfOdOs	𮘗
 言止小丿,DyLiIxTp	𮘘
-言冖一日一,DyGgDiDi	𮘙
+言冖{凬字心}一,DyGgScDi	𮘙
 言月月,DyFyFy	𮘚
 言穴二ㄅ,DyAxNeAe	𮘛
 言穴工,DyAxLg	𮘜
@@ -87591,7 +87591,7 @@
 車舌,QcWs	𮝐
 車人⺗,QcHrLx	𮝑
 車豆,QcGd	𮝒
-車一日,QcDiUrEi	𮝓
+車{凬字心},QcScEi	𮝓
 車大十廾,QcIdPsZc	𮝔
 户攵車,DhApQc	𮝕
 車龷日,QcPnUr	𮝖
@@ -87755,7 +87755,7 @@
 亠幺阝,LtDyXe	𮟴
 丷阝,NbOsXe	𮟵
 力{双口}巴,ClPxBb	𮟶
-一日一阝,DiUrDiXe	𮟷
+{凬字心}一阝,ScDiXe	𮟷
 王冂阝,RwJkXe	𮟸
 口{双口}巴,KkPxBb	𮟹
 亼{双口}巴,ZiPxBb	𮟺
@@ -88345,7 +88345,7 @@
 ⻞豆八,HsGdNb	𮩂
 ⻞句火,HsEjRh	𮩃
 行干食,PxZgHs	𮩄
-⻞亻一日,HsHrDiEi	𮩅
+⻞亻{凬字心},HsHrScEi	𮩅
 食门䒑大,HsTmNbId	𮩆
 ⻞立木,HsXlYm	𮩇
 ⻞艹乛水一,HsZcAeDi	𮩈
@@ -88447,7 +88447,7 @@
 骨生,UgIs	𮪨
 骨衣,UgQi	𮪩
 骨大人人,UgIdHrHr	𮪪
-骨⺊一日,UgFbDiUr	𮪫
+骨⺊{凬字心},UgFbSc	𮪫
 骨亠夕匕,UgLtVxWb	𮪬
 骨禾女,UgBhWn	𮪭
 骨侖,UgFl	𮪮
@@ -89210,7 +89210,7 @@
 艹忄龷日,ZcLxPnUr	𮶲
 艹纟隹,ZcQsMi	𮶳
 艹隹心,ZcMiLx	𮶴
-艹氵宀一日一,ZcMsGgDi	𮶵
+艹氵宀{凬字心}一,ZcMsGgDi	𮶵
 艹氵䒑,ZcMsNbRh	𮶶
 艹氵艹两,ZcMsZcZl	𮶷
 艹王廿口龶,ZcRwPnJf	𮶸
@@ -89941,7 +89941,7 @@
 丿土厶𬺰丿,TpEtIsTp	𰀑
 一冂亼冂人,DiJkZiHr	𰀒
 一里几,DiAlQj	𰀓
-一日几土,DiUrQjEt	𰀔
+{凬字心}几土,ScQjEt	𰀔
 一冂人一冂人,DiJkHrHr	𰀕
 一囗戈口一,DiAkAgDi	𰀖
 ⺊一⺊一⺊一⺊一,FbDiFbDi	𰀗
@@ -90884,7 +90884,7 @@
 山歺又食,UsSdTyHs	𰏀
 山𠂒儿𠂒儿贝,UsXnReVb	𰏁
 山山{双口}厂工耳攵,UsUsPxAp	𰏂
-川一日一,KcDiUrDi	𰏃
+川{凬字心}一,KcScDi	𰏃
 巛日十,KcUrPs	𰏄
 一巛工爫子,DiKcLgHi	𰏅
 巛田冖用,KcCtGgGy	𰏆
@@ -91084,7 +91084,7 @@
 忄子阝,LxQgHiXe	𰒈
 忄宀耳又,LxGgVeTy	𰒉
 言𠂉十心,DyStPsLx	𰒊
-忄石一日,LxDsDiEi	𰒋
+忄石{凬字心},LxDsScEi	𰒋
 耳㐅凵儿心,VeEiJkLx	𰒌
 士冖口殳心,JsGgKkLx	𰒍
 忄隹木,LxMiYm	𰒎
@@ -91335,7 +91335,7 @@
 人人人日,HrHrHrUr	𰖃
 日一卩,UrKkDiWj	𰖄
 日𠂒儿,UrXnRe	𰖅
-乛水一日,AeMsDiUr	𰖆
+乛水{凬字心},AeMsSc	𰖆
 日古儿,UrOgRe	𰖇
 日一厂,UrDiRhUc	𰖈
 日豆,UrGd	𰖉
@@ -91393,7 +91393,7 @@
 日𠂒儿𠂒儿貝,UrXnReRb	𰖽
 日㇏日虫虫,UrJfOdVc	𰖾
 曰彳丶王,UyGcOdRw	𰖿
-丷田一日,NbCtDiUr	𰗀
+丷田{凬字心},NbCtSc	𰗀
 曲十目一,EqPsEmDi	𰗁
 曰龶⺝,IvUyJfFy	𰗂
 丷囗⺌曰魚日,NbAkIxUr	𰗃
@@ -91670,7 +91670,7 @@
 氵小,MsCqIx	𰛒
 氵龴,MsOsIs	𰛓
 氵大゛,MsIdGb	𰛔
-一日水,DiUrMs	𰛕
+{凬字心}水,ScMs	𰛕
 大丷氺,IdNbMs	𰛖
 氵匕,MsJpWb	𰛗
 水口,MsKkEi	𰛘
@@ -91999,7 +91999,7 @@
 片一戈,JpDiAg	𰠛
 片心丿,JpLxTp	𰠜
 片又丶,JpMcTyOd	𰠝
-片一日,JpDiUrEi	𰠞
+片{凬字心},JpScEi	𰠞
 片龶円,JpJfFy	𰠟
 牙一卜,RyDiFb	𰠠
 牙丿夫,RyTpGf	𰠡
@@ -92407,7 +92407,7 @@
 石耳,DsVe	𰦳
 石一业,DsDiOy	𰦴
 石大寸,DsIdOc	𰦵
-石一日一,DsDiUrDi	𰦶
+石{凬字心}一,DsScDi	𰦶
 艹冖石,ZcGgDs	𰦷
 石日十,DsUrPs	𰦸
 石臼,DsYj	𰦹
@@ -92468,7 +92468,7 @@
 礻ㄋ,LsAeFs	𰧰
 礻冂二,LsJkNe	𰧱
 亻示,HrWbLs	𰧲
-礻一日,LsDiUr	𰧳
+礻{凬字心},LsSc	𰧳
 礻匚丶,LsVkDdOd	𰧴
 礻羊,LsSy	𰧵
 礻弋工,LsXiLg	𰧶
@@ -93295,7 +93295,7 @@
 言未,DyVw	𰴫
 歺言,SdDy	𰴬
 一囗人言,DiAkHrDy	𰴭
-言一日一,DyDiUrDi	𰴮
+言{凬字心}一,DyScDi	𰴮
 艹冖言,ZcGgDy	𰴯
 言{双口},DyPx	𰴰
 月言又,FyDyTy	𰴱
@@ -93800,7 +93800,7 @@
 釒一木,WjDiYm	𰼤
 釒⺊尸,WjFbFs	𰼥
 釒又丶,WjMcTyOd	𰼦
-釒一日一,WjDiUrDi	𰼧
+釒{凬字心}一,WjScDi	𰼧
 釒小大,WjIxId	𰼨
 夕弋金,VxXiWj	𰼩
 厶牛金,IsXnWj	𰼪
@@ -94313,7 +94313,7 @@
 馬禾龷,NmBhPn	𱄥
 馬㐅凵小又,NmEiJkTy	𱄦
 馬音,NmWy	𱄧
-馬宀一日一,NmGgDiDi	𱄨
+馬宀{凬字心}一,NmGgScDi	𱄨
 馬龶糸,NmJfFs	𱄩
 馬覀心,NmUxLx	𱄪
 馬𠂇口冂口,NmPsKkKk	𱄫
@@ -94396,10 +94396,10 @@
 一止髙,DiLiQg	𱅸
 高日丨,QgUrHs	𱅹
 高尸又,QgFsTy	𱅺
-高一日一,QgDiUrDi	𱅻
+高{凬字心}一,QgScDi	𱅻
 高大土,QgIdEt	𱅼
 艹句攵高,ZcEjApQg	𱅽
-高⺸一日一,QgSyDiDi	𱅾
+高⺸{凬字心}一,QgSyScDi	𱅾
 髟力口,GbClKk	𱅿
 髟门日,GbTmUr	𱆀
 髟门月,GbTmFy	𱆁
@@ -94502,7 +94502,7 @@
 鱼亠幺,SvLtDy	𱇢
 鱼又丶,SvMcTyOd	𱇣
 鱼幺力,SvDyCl	𱇤
-鱼一日一,SvDiUrDi	𱇥
+鱼{凬字心}一,SvScDi	𱇥
 鱼大二ㄅ,SvIdNeAe	𱇦
 鱼大弓,SvIdCg	𱇧
 鱼⺊一小,SvFbDiIx	𱇨
@@ -94537,7 +94537,7 @@
 鱼㐅凵八夂,SvEiJkJi	𱈅
 鱼米女,SvFmWn	𱈆
 鱼忄一月一,SvLxDiDi	𱈇
-鱼忄一日一,SvLxDiDi	𱈈
+鱼忄{凬字心}一,SvLxScDi	𱈈
 鱼虍文,SvShLw	𱈉
 鱼卯田,SvRmCt	𱈊
 鱼高,SvQg	𱈋
@@ -95861,7 +95861,7 @@
 止匕冖巾,LiWbXlAj	𱜶
 舟殳𠂇巾,QoRsPsAj	𱜷
 巾豕,AjQgHs	𱜸
-一日艹之彐冖巾,DiUrZcAj	𱜹
+{凬字心}艹丿乀彐冖巾,ScZcTpAj	𱜹
 巾夫夫貝,AjGfGfRb	𱜺
 巾{双口}田古,AjPxCtOg	𱜻
 巾立⺝{龍右},AjXlFyDa	𱜼
@@ -95985,7 +95985,7 @@
 钅勹冫心,PjAkGbLx	𱞲
 忄儿幺⺝,LxReDyFy	𱞳
 忄犭艮,LxAqPg	𱞴
-⺈亅忄一日一,DdHsLxDi	𱞵
+⺈亅忄{凬字心}一,DdHsLxDi	𱞵
 忄⺍冖见,LxMsGgKj	𱞶
 忄冖巾,LxXlGgAj	𱞷
 忄⺷大,LxSyId	𱞸
@@ -96084,7 +96084,7 @@
 扌而女,OsKeWn	𱠕
 扌一白夂,OsDiJbJi	𱠖
 扌石又又,OsDsTyTy	𱠗
-扌丁一日,OsPdDiEi	𱠘
+扌丁{凬字心},OsPdScEi	𱠘
 扌罒匕匕,OsBsWbWb	𱠙
 扌日业,OsUrOy	𱠚
 扌禾口丨,OsBhKkHs	𱠛
@@ -96221,7 +96221,7 @@
 日丶月,UrOdPgFy	𱢞
 日广禾刂,UrBgBhNd	𱢟
 日阝人禾,UrXeHrBh	𱢠
-日一勹一日一,UrDiAkDi	𱢡
+日一勹{凬字心}一,UrDiAkDi	𱢡
 日艹爿士,UrZcJpJs	𱢢
 日〢丿十,UrNdTpOs	𱢣
 日門𬺰丿,UrSmPsTp	𱢤
@@ -97479,7 +97479,7 @@
 禾二冂,BhNeJkOs	𱶈
 禾,GnBh	𱶉
 禾,BhZyKc	𱶊
-禾九一日,BhLjDiUr	𱶋
+禾九{凬字心},BhLjSc	𱶋
 禾龶贝,BhJfVb	𱶌
 禾一⺌井,BhDiIxVj	𱶍
 禾虎,BhSh	𱶎
@@ -97488,7 +97488,7 @@
 禾⺈臼,BhDdYj	𱶑
 禾丿㠯十,BhTpTiPs	𱶒
 禾尤目,BhVyEm	𱶓
-禾犬一日,BhAqDiUr	𱶔
+禾犬{凬字心},BhAqSc	𱶔
 禾土八⺝,BhEtNbFy	𱶕
 禾田𠂇又,BhCtPsTy	𱶖
 禾宀𠂇⺝,BhGgPsFy	𱶗
@@ -97806,7 +97806,7 @@
 ⺷大一,SyIdSjDi	𱻏
 ⺷大匚コ,SyIdVkVk	𱻐
 亼口羊乛丿人,ZiKkSyHr	𱻑
-⺷皿一日,SyHmDiEi	𱻒
+⺷皿{凬字心},SyHmScEi	𱻒
 六月羊几二,MlFySyNe	𱻓
 ⺷大又又又冖且,SyIdTyHq	𱻔
 亡罒⺶月丿几二,NwBsSyNe	𱻕
@@ -98200,7 +98200,7 @@
 冖方见,XlGgMfKj	𲁙
 ⺈用可,DdGyEk	𲁚
 ⺈用厶口,DdGyIsKk	𲁛
-一日⺈用,DiUrEiGy	𲁜
+{凬字心}⺈用,ScEiDdGy	𲁜
 爫女⺈用,IaWnDdGy	𲁝
 ⺈用門木,DdGySmYm	𲁞
 戈口一戈口一⺈用,AgKkDiGy	𲁟
@@ -98433,7 +98433,7 @@
 车尸木,XcFsYm	𲅂
 金金金车,WjWjWjXc	𲅃
 辛丿,SxTp	𲅄
-辛一日一,SxDiUrDi	𲅅
+辛{凬字心}一,SxScDi	𲅅
 辛羽,SxWv	𲅆
 尸龶立,FsJfXlOs	𲅇
 自辛古,ViSxOg	𲅈
@@ -98634,7 +98634,7 @@
 钅古月,PjOgFy	𲈋
 钅大土土,PjIdEtEt	𲈌
 钅耳阝,PjVeXe	𲈍
-钅宀一日一,PjGgDiDi	𲈎
+钅宀{凬字心}一,PjGgScDi	𲈎
 钅丁,PjQgPd	𲈏
 钅米大,PjFmId	𲈐
 钅龴用力,PjIsGyCl	𲈑
@@ -98698,7 +98698,7 @@
 阝⺊一卜,XeFbDiFb	𲉋
 阝白,XeJb	𲉌
 阝厶口,XeIsKk	𲉍
-阝一日一,XeDiUrDi	𲉎
+阝{凬字心}一,XeScDi	𲉎
 阝聿,XeIv	𲉏
 ㇗丿㠯耒,AeTpTiTl	𲉐
 阝𠂇工又,XePsLgTy	𲉑
