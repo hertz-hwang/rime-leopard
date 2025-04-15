@@ -165,7 +165,7 @@ encoder:
 因	ai	0.001814
 定	ge	0.001808
 部	xk	0.001794
-与	ny	0.001780
+与	da	0.001780
 将	jv	0.001724
 日	ur	0.001722
 长	ic	0.001707
@@ -527,7 +527,7 @@ encoder:
 陈	xci	0.000447
 价	hhn	0.000446
 约	qa	0.000444
-写	gny	0.000443
+写	gd	0.000443
 包	av	0.000441
 另	kcl	0.000440
 级	qf	0.000440
@@ -850,7 +850,7 @@ encoder:
 块	evh	0.000234
 卡	fd	0.000234
 策	jyj	0.000234
-富	gd	0.000233
+富	gdk	0.000233
 配	bbj	0.000232
 判	non	0.000232
 征	gdl	0.000231
@@ -1450,7 +1450,7 @@ encoder:
 障	xwp	0.000089
 桥	yti	0.000089
 讯	cap	0.000088
-幻	da	0.000088
+幻	dae	0.000088
 赫	ere	0.000088
 孟	hhm	0.000088
 仁	hne	0.000088
@@ -1826,7 +1826,7 @@ encoder:
 恼	lle	0.000053
 浅	mda	0.000053
 亏	nae	0.000053
-瘦	nyh	0.000053
+瘦	ny	0.000053
 搭	ozz	0.000053
 纠	qej	0.000053
 惑	akdl	0.000052
@@ -2845,7 +2845,7 @@ encoder:
 吱	kri	0.000015
 嘟	kru	0.000015
 汹	mej	0.000015
-泻	mgny	0.000015
+泻	mgdd	0.000015
 沮	mhq	0.000015
 滔	miy	0.000015
 澡	mkp	0.000015
@@ -2918,7 +2918,7 @@ encoder:
 歹	sdd	0.000014
 虔	slw	0.000014
 阀	tha	0.000014
-屿	uny	0.000014
+屿	udad	0.000014
 晤	uuk	0.000014
 骸	uxh	0.000014
 娥	wto	0.000014
@@ -4012,6 +4012,7 @@ encoder:
 谙	cwy	0.000004
 诰	cxk	0.000004
 谀	cyh	0.000004
+欤	dad	0.000004
 戾	daq	0.000004
 斛	dgl	0.000004
 奂	dji	0.000004
@@ -4149,7 +4150,6 @@ encoder:
 痣	njl	0.000004
 迢	nkj	0.000004
 疵	nlw	0.000004
-欤	npqy	0.000004
 瘢	nqr	0.000004
 痞	nrk	0.000004
 癞	ntd	0.000004
@@ -4810,7 +4810,7 @@ encoder:
 诜	cxr	0.000002
 夥	cyv	0.000002
 讦	czg	0.000002
-硗	dad	0.000002
+硗	dadr	0.000002
 砀	daf	0.000002
 龅	dav	0.000002
 硎	ddzn	0.000002
@@ -5236,7 +5236,7 @@ encoder:
 馔	nvvn	0.000002
 瘿	nvvw	0.000002
 疖	nwjb	0.000002
-馊	nyht	0.000002
+馊	nyh	0.000002
 痨	nzg	0.000002
 撺	oaph	0.000002
 掴	oaro	0.000002
@@ -6850,7 +6850,7 @@ encoder:
 亍	gccc	0.000001
 矧	gch	0.000001
 規	gdjf	0.000001
-徑	gdk	0.000001
+徑	gdkl	0.000001
 賓	gdlr	0.000001
 戭	gdua	0.000001
 冱	gdw	0.000001
@@ -8843,6 +8843,7 @@ encoder:
 玏	rclw	0.000001
 鹠	rco	0.000001
 畑	rct	0.000001
+玙	rda	0.000001
 韁	rdc	0.000001
 靿	rdcl	0.000001
 琤	rdiv	0.000001
@@ -8972,7 +8973,6 @@ encoder:
 靽	rno	0.000001
 鞁	rnpg	0.000001
 賺	rnw	0.000001
-玙	rny	0.000001
 瑖	rodr	0.000001
 玊	rodw	0.000001
 煳	rofy	0.000001
@@ -18943,16 +18943,28 @@ encoder:
 䛪	dac	0.000000
 𥓰	dacg	0.000000
 𢂏	dada	0.000000
+𰀇	dada	0.000000
+𱶟	dadb	0.000000
 𭁢	dadd	0.000000
+𭟸	dadh	0.000000
 𢆵	dadi	0.000000
 𥐝	dadi	0.000000
 𰏰	dadi	0.000000
 𧠎	dadj	0.000000
 𬹿	dadk	0.000000
+𢗓	dadl	0.000000
+𭚤	dadl	0.000000
+𱍟	dadl	0.000000
+𡴃	dadm	0.000000
+𢪓	dado	0.000000
+𢮠	dado	0.000000
 𱌰	dadr	0.000000
 𥔀	dady	0.000000
 𰵀	dady	0.000000
-𥑪	dae	0.000000
+𢌱	dadz	0.000000
+𢌱	dadz	0.000000
+𢌱	dadz	0.000000
+𥑪	daea	0.000000
 𧦷	daea	0.000000
 𧨙	daee	0.000000
 𧩖	daee	0.000000
@@ -20519,6 +20531,7 @@ encoder:
 𤰳	dict	0.000000
 䛫	dicy	0.000000
 𧭕	dida	0.000000
+𮘊	didd	0.000000
 𬻊	didf	0.000000
 戻	didh	0.000000
 謑	didi	0.000000
@@ -20642,7 +20655,6 @@ encoder:
 𬒕	dinn	0.000000
 𭽹	dinp	0.000000
 𱭌	dinw	0.000000
-𮘊	diny	0.000000
 𰦵	dioc	0.000000
 𢩍	diog	0.000000
 𥔐	dioh	0.000000
@@ -23479,6 +23491,7 @@ encoder:
 魓	eczo	0.000000
 𭿑	eczo	0.000000
 𥈂	edad	0.000000
+𪾟	edad	0.000000
 㘭	edae	0.000000
 䀎	edae	0.000000
 𥄠	edae	0.000000
@@ -25444,7 +25457,6 @@ encoder:
 𡍪	eny	0.000000
 𥈊	enyj	0.000000
 㮂	enym	0.000000
-𪾟	enym	0.000000
 垪	enzc	0.000000
 𪕒	enzc	0.000000
 𭎎	enzg	0.000000
@@ -32117,7 +32129,8 @@ encoder:
 𧰆	gczo	0.000000
 𡫾	gczz	0.000000
 ⾖	gddd	0.000000
-𫴟	gda	0.000000
+㝍	gda	0.000000
+𫴟	gdad	0.000000
 𭂆	gdae	0.000000
 𱈝	gdae	0.000000
 𡧤	gdaf	0.000000
@@ -33895,8 +33908,7 @@ encoder:
 𪁩	gnxf	0.000000
 𬑳	gnxf	0.000000
 𤘰	gnxn	0.000000
-㝍	gnyg	0.000000
-𲅢	gnyj	0.000000
+𲅢	gny	0.000000
 罙	gnym	0.000000
 𣮥	gnyq	0.000000
 𮰅	gnyy	0.000000
@@ -35568,7 +35580,8 @@ encoder:
 𩞫	hczn	0.000000
 饆	hczo	0.000000
 𠌫	hczo	0.000000
-𠇢	hda	0.000000
+𠇐	hda	0.000000
+𠇢	hdae	0.000000
 𥀿	hdae	0.000000
 𫢆	hdae	0.000000
 𠈇	hdah	0.000000
@@ -36198,6 +36211,7 @@ encoder:
 傖	hhdk	0.000000
 𩝞	hhdk	0.000000
 𠠃	hhdn	0.000000
+𭁕	hhdn	0.000000
 𠇉	hhdo	0.000000
 𰏤	hhdz	0.000000
 𰕔	hhea	0.000000
@@ -36369,7 +36383,6 @@ encoder:
 𨤨	hhna	0.000000
 㜾	hhnd	0.000000
 𥇮	hhne	0.000000
-𭁕	hhnn	0.000000
 𩚭	hho	0.000000
 𬽵	hhoc	0.000000
 𮙨	hhoc	0.000000
@@ -37220,7 +37233,6 @@ encoder:
 𠊍	hny	0.000000
 偛	hnyj	0.000000
 𣐗	hnym	0.000000
-𠇐	hnyr	0.000000
 𧳉	hnzc	0.000000
 𩜀	hnzj	0.000000
 𭀐	hnzr	0.000000
@@ -39073,6 +39085,7 @@ encoder:
 䬛	iczo	0.000000
 𪋜	iczo	0.000000
 ⼤	idd	0.000000
+𰷱	idad	0.000000
 𲁦	idad	0.000000
 𤓳	idae	0.000000
 𥙧	idae	0.000000
@@ -41019,7 +41032,6 @@ encoder:
 𢋪	iny	0.000000
 𨂵	inyj	0.000000
 𠝱	inyn	0.000000
-𰷱	inyz	0.000000
 𢌾	inzc	0.000000
 𧻓	inzc	0.000000
 𧼦	inzc	0.000000
@@ -42869,6 +42881,8 @@ encoder:
 篳	jczo	0.000000
 韠	jczo	0.000000
 韠	jczo	0.000000
+𤽗	jdad	0.000000
+𥫣	jdad	0.000000
 𩏊	jdad	0.000000
 𰠛	jdag	0.000000
 䇧	jdah	0.000000
@@ -42890,6 +42904,7 @@ encoder:
 𥸄	jdcu	0.000000
 𣀝	jdda	0.000000
 𥶲	jddd	0.000000
+𰄒	jddd	0.000000
 𪇱	jddg	0.000000
 𣡳	jddk	0.000000
 𥳏	jddo	0.000000
@@ -42994,7 +43009,6 @@ encoder:
 𥴜	jdnk	0.000000
 𩡿	jdnm	0.000000
 𬔬	jdnu	0.000000
-𰄒	jdny	0.000000
 𣤼	jdo	0.000000
 𥰸	jdou	0.000000
 𥮳	jdoy	0.000000
@@ -45198,12 +45212,10 @@ encoder:
 𩑞	jnwy	0.000000
 𨙻	jnx	0.000000
 㸷	jnxn	0.000000
-𤽗	jny	0.000000
-𠕢	jnyc	0.000000
+𠕢	jny	0.000000
 牐	jnyj	0.000000
 𥯥	jnyj	0.000000
 栔	jnym	0.000000
-𥫣	jnyu	0.000000
 皏	jnz	0.000000
 䈂	jnzc	0.000000
 𢍆	jnzc	0.000000
@@ -47888,6 +47900,7 @@ encoder:
 𭈜	kjct	0.000000
 𡅎	kjcu	0.000000
 𡅨	kjdd	0.000000
+𱓡	kjdd	0.000000
 𠱃	kjdi	0.000000
 𠷶	kjdi	0.000000
 嚛	kjdy	0.000000
@@ -47962,7 +47975,6 @@ encoder:
 囓	kjnt	0.000000
 𭌰	kjnt	0.000000
 𠵹	kjnu	0.000000
-𱓡	kjny	0.000000
 𠱾	kjoc	0.000000
 𱒦	kjoc	0.000000
 𠸫	kjoi	0.000000
@@ -48345,6 +48357,7 @@ encoder:
 𡃮	kncu	0.000000
 𠯋	knda	0.000000
 𠚴	kndc	0.000000
+𭇩	kndd	0.000000
 𦓎	knde	0.000000
 㓢	kndg	0.000000
 𭉃	kndh	0.000000
@@ -48405,7 +48418,6 @@ encoder:
 嚑	knnh	0.000000
 𠴮	knnl	0.000000
 𠶵	knnn	0.000000
-𭇩	knny	0.000000
 𠯄	kno	0.000000
 𠴍	knol	0.000000
 𠽼	knol	0.000000
@@ -50207,6 +50219,7 @@ encoder:
 𪍪	lczo	0.000000
 ⽃	ldd	0.000000
 䛒	ldad	0.000000
+𫹮	ldad	0.000000
 𪋽	ldae	0.000000
 𪫝	ldae	0.000000
 𫹫	ldae	0.000000
@@ -51750,7 +51763,6 @@ encoder:
 𰒑	lnwr	0.000000
 𢗅	lnwx	0.000000
 祶	lnxf	0.000000
-𫹮	lny	0.000000
 恲	lnz	0.000000
 䴵	lnzc	0.000000
 𢛉	lnzj	0.000000
@@ -53732,9 +53744,9 @@ encoder:
 𱨌	mdkw	0.000000
 𨜋	mdkx	0.000000
 𣶉	mdld	0.000000
+𬇵	mdld	0.000000
 泟	mdli	0.000000
 𣳋	mdli	0.000000
-𬇵	mdln	0.000000
 𱩌	mdlp	0.000000
 𣸔	mdls	0.000000
 𣄩	mdlw	0.000000
@@ -54218,13 +54230,13 @@ encoder:
 𢽾	mgha	0.000000
 𣻄	mghb	0.000000
 𱦿	mghc	0.000000
+𱧿	mghd	0.000000
 𭓓	mghe	0.000000
 𬇤	mghi	0.000000
 㴼	mghj	0.000000
 漎	mghl	0.000000
 𩀨	mghl	0.000000
 𬈑	mghn	0.000000
-𱧿	mghn	0.000000
 𣹞	mgho	0.000000
 𱊉	mgho	0.000000
 𣶺	mghq	0.000000
@@ -56081,6 +56093,7 @@ encoder:
 𣸶	msda	0.000000
 𬀂	msda	0.000000
 𬀐	msda	0.000000
+𭤰	msdd	0.000000
 𤃒	msde	0.000000
 㳋	msdi	0.000000
 𪯶	msdi	0.000000
@@ -56224,7 +56237,6 @@ encoder:
 𱩶	msnr	0.000000
 𬀆	msnu	0.000000
 海	msnu	0.000000
-𭤰	msny	0.000000
 𤂴	msoa	0.000000
 泝	msod	0.000000
 𬀇	msog	0.000000
@@ -57466,7 +57478,6 @@ encoder:
 𪑥	naem	0.000000
 𡈤	naeq	0.000000
 𮪠	naes	0.000000
-𰀇	naey	0.000000
 騘	nafl	0.000000
 𫜚	nafl	0.000000
 𭼙	nafl	0.000000
@@ -57844,6 +57855,7 @@ encoder:
 𩡸	ndaj	0.000000
 𤺡	ndal	0.000000
 𫤰	ndan	0.000000
+𭁉	ndan	0.000000
 𰃝	ndao	0.000000
 𣢍	ndap	0.000000
 䵥	ndb	0.000000
@@ -58697,7 +58709,6 @@ encoder:
 𤷈	nils	0.000000
 忩	nilx	0.000000
 𤻵	nim	0.000000
-𭟸	nimh	0.000000
 𤹩	nimi	0.000000
 𪒥	nimu	0.000000
 𪽸	nimu	0.000000
@@ -58783,7 +58794,6 @@ encoder:
 𨜺	niwx	0.000000
 𮟭	nixe	0.000000
 𱏸	nixk	0.000000
-𭚤	nixl	0.000000
 𣕙	niy	0.000000
 𩥅	niyj	0.000000
 𬳊	niyj	0.000000
@@ -59240,7 +59250,6 @@ encoder:
 忎	nlxq	0.000000
 𰑓	nlxu	0.000000
 㤀	nlxw	0.000000
-𢗓	nlxy	0.000000
 𦥲	nly	0.000000
 𩤋	nlym	0.000000
 ⾺	nmmm	0.000000
@@ -59253,7 +59262,6 @@ encoder:
 騨	nmcp	0.000000
 𭻑	nmct	0.000000
 𰣲	nmct	0.000000
-𡴃	nmcy	0.000000
 𥀋	nmd	0.000000
 𩣊	nmdi	0.000000
 黬	nmdk	0.000000
@@ -59357,7 +59365,6 @@ encoder:
 𪒟	nnau	0.000000
 𠔁	nnb	0.000000
 𤴭	nnbb	0.000000
-𱶟	nnbb	0.000000
 刅	nnbd	0.000000
 𩡩	nnbm	0.000000
 𮪛	nnbq	0.000000
@@ -59485,7 +59492,6 @@ encoder:
 𱥷	nnms	0.000000
 𩢣	nnn	0.000000
 𥤡	nnnb	0.000000
-𭁉	nnnb	0.000000
 刕	nnnd	0.000000
 䭻	nnnd	0.000000
 䭼	nnnd	0.000000
@@ -59508,7 +59514,6 @@ encoder:
 𩡲	nnod	0.000000
 𤶝	nnol	0.000000
 𱉑	nnon	0.000000
-𢮠	nnos	0.000000
 𩢔	nnos	0.000000
 𱃷	nnos	0.000000
 𩤀	nnoy	0.000000
@@ -59671,7 +59676,6 @@ encoder:
 𪟶	noss	0.000000
 𪒸	nost	0.000000
 䯁	nosy	0.000000
-𢪓	nosy	0.000000
 𤼘	nosy	0.000000
 𩧣	nosy	0.000000
 𩤝	not	0.000000
@@ -60828,7 +60832,6 @@ encoder:
 𩠈	nzal	0.000000
 𪑡	nzal	0.000000
 𭃮	nzal	0.000000
-𱍟	nzal	0.000000
 𢼩	nzap	0.000000
 𢼶	nzap	0.000000
 𣢲	nzap	0.000000
@@ -60854,9 +60857,6 @@ encoder:
 𩤱	nzct	0.000000
 𤻹	nzcv	0.000000
 𤼚	nzcv	0.000000
-𢌱	nzcy	0.000000
-𢌱	nzcy	0.000000
-𢌱	nzcy	0.000000
 艵	nzd	0.000000
 𪑿	nzdd	0.000000
 𪪃	nzdh	0.000000
@@ -61286,6 +61286,7 @@ encoder:
 ㇏	oddd	0.000000
 ㇔	oddd	0.000000
 ㇝	oddd	0.000000
+𱟩	odad	0.000000
 抝	odae	0.000000
 𢩨	odae	0.000000
 𢬆	odae	0.000000
@@ -62573,7 +62574,6 @@ encoder:
 𨞲	onx	0.000000
 挮	onxf	0.000000
 揷	onyj	0.000000
-𱟩	onys	0.000000
 𢶚	onzc	0.000000
 𢬠	ooa	0.000000
 𢰴	ooap	0.000000
@@ -64205,7 +64205,8 @@ encoder:
 㮣	pcym	0.000000
 槩	pcym	0.000000
 𡁘	pcz	0.000000
-㕺	pda	0.000000
+𲇮	pda	0.000000
+㕺	pdae	0.000000
 𢃋	pdaj	0.000000
 𬭜	pdaq	0.000000
 𱿾	pdav	0.000000
@@ -64393,7 +64394,8 @@ encoder:
 𣓑	pgcy	0.000000
 𢍚	pgcz	0.000000
 𤱿	pgcz	0.000000
-𬭰	pgd	0.000000
+䥾	pgd	0.000000
+𬭰	pgdn	0.000000
 𣪺	pgdr	0.000000
 𣫂	pgdr	0.000000
 𣫠	pgdr	0.000000
@@ -64451,7 +64453,6 @@ encoder:
 𡜌	pgnw	0.000000
 鴴	pgnx	0.000000
 鵆	pgnx	0.000000
-䥾	pgny	0.000000
 𰾉	pgnz	0.000000
 𣕣	pgo	0.000000
 𬬾	pgpd	0.000000
@@ -64987,7 +64988,6 @@ encoder:
 𱒛	pnwx	0.000000
 𩒓	pnwy	0.000000
 𰺅	pnxc	0.000000
-𲇮	pnyj	0.000000
 㭟	pnym	0.000000
 𱽭	pnzc	0.000000
 𱍓	poa	0.000000
@@ -65760,6 +65760,7 @@ encoder:
 襅	qczo	0.000000
 𣯴	qczo	0.000000
 𧛘	qdad	0.000000
+𨊮	qdad	0.000000
 𧘟	qdaj	0.000000
 𫥞	qdaj	0.000000
 𧘾	qdaq	0.000000
@@ -67225,7 +67226,6 @@ encoder:
 𬡜	qnxf	0.000000
 𤙟	qnxn	0.000000
 𠙘	qny	0.000000
-𨊮	qnyc	0.000000
 𬡩	qnyd	0.000000
 䙄	qnyj	0.000000
 𦩿	qnyj	0.000000
@@ -68896,7 +68896,7 @@ encoder:
 熚	rczo	0.000000
 鞸	rczo	0.000000
 𤒹	rczz	0.000000
-𠁙	rda	0.000000
+𠁙	rdaa	0.000000
 𩉷	rdae	0.000000
 𬁥	rdae	0.000000
 𱭢	rdae	0.000000
@@ -70596,7 +70596,7 @@ encoder:
 𭺌	rnwy	0.000000
 焍	rnx	0.000000
 珶	rnxf	0.000000
-𤦆	rnyj	0.000000
+𤦆	rny	0.000000
 𧶵	rnyj	0.000000
 賆	rnz	0.000000
 㻂	rnzc	0.000000
@@ -72791,6 +72791,7 @@ encoder:
 歹	sddd	0.000000
 𨐷	sdaa	0.000000
 𦎢	sdad	0.000000
+𫚈	sdad	0.000000
 𭮉	sdad	0.000000
 㱙	sdae	0.000000
 𭭿	sdae	0.000000
@@ -74062,7 +74063,6 @@ encoder:
 𤫼	snxf	0.000000
 𬶕	snxf	0.000000
 𭩶	sny	0.000000
-𫚈	snyv	0.000000
 䦕	snzc	0.000000
 𦍰	snzc	0.000000
 𨴂	snzc	0.000000
@@ -75524,8 +75524,8 @@ encoder:
 𪚌	tfmv	0.000000
 䶞	tfn	0.000000
 𦓿	tfnb	0.000000
+𨤒	tfnd	0.000000
 𪙆	tfnf	0.000000
-𨤒	tfnn	0.000000
 𬆣	tfnr	0.000000
 𦉇	tfnz	0.000000
 𪙕	tfp	0.000000
@@ -77272,6 +77272,7 @@ encoder:
 𲇃	udac	0.000000
 𡹪	udad	0.000000
 𭨎	udad	0.000000
+𱛇	udad	0.000000
 𱢡	udad	0.000000
 甹	udae	0.000000
 𡵿	udae	0.000000
@@ -77288,6 +77289,7 @@ encoder:
 昁	udaj	0.000000
 逿	udaj	0.000000
 𢂸	udaj	0.000000
+𨓂	udaj	0.000000
 𨔄	udaj	0.000000
 𭘑	udaj	0.000000
 𮞏	udaj	0.000000
@@ -79174,8 +79176,7 @@ encoder:
 嵡	uniw	0.000000
 暡	uniw	0.000000
 𡻐	uniw	0.000000
-𨓂	unj	0.000000
-𫨔	unje	0.000000
+𫨔	unj	0.000000
 𫶊	unjh	0.000000
 𡶣	unji	0.000000
 𠩄	unju	0.000000
@@ -79278,8 +79279,7 @@ encoder:
 晜	unx	0.000000
 𬀹	unxf	0.000000
 𣋥	unxx	0.000000
-𣌃	unyh	0.000000
-𱛇	unys	0.000000
+𣌃	uny	0.000000
 骿	unz	0.000000
 𪠆	unzc	0.000000
 厜	unzj	0.000000
@@ -81450,6 +81450,7 @@ encoder:
 𨞳	vczx	0.000000
 𪖦	vczx	0.000000
 𪖯	vczy	0.000000
+𱻷	vdad	0.000000
 𦔲	vdae	0.000000
 𰲳	vdag	0.000000
 蜧	vdaq	0.000000
@@ -82663,7 +82664,6 @@ encoder:
 𬩾	vnx	0.000000
 𧋘	vnxf	0.000000
 𠉙	vny	0.000000
-𱻷	vnye	0.000000
 𧌤	vnyj	0.000000
 聠	vnz	0.000000
 蛢	vnzc	0.000000
@@ -84344,6 +84344,8 @@ encoder:
 𫿦	wdaa	0.000000
 𫿫	wdaa	0.000000
 𫿬	wdaa	0.000000
+𮡤	wdad	0.000000
+𱙄	wdad	0.000000
 𮰷	wdae	0.000000
 𬗧	wdaf	0.000000
 𧬣	wdag	0.000000
@@ -84355,6 +84357,7 @@ encoder:
 𢑔	wdak	0.000000
 𫬫	wdak	0.000000
 𮢑	wdak	0.000000
+𮢃	wdao	0.000000
 錑	wdaq	0.000000
 𡝢	wdaq	0.000000
 𬋝	wdar	0.000000
@@ -86210,7 +86213,6 @@ encoder:
 𡟂	wno	0.000000
 釰	wnod	0.000000
 釼	wnod	0.000000
-𮢃	wnog	0.000000
 𡝖	wnol	0.000000
 𡡟	wnol	0.000000
 𨧟	wnol	0.000000
@@ -86258,9 +86260,7 @@ encoder:
 鍤	wny	0.000000
 㛼	wnyj	0.000000
 𦑣	wnyj	0.000000
-𮡤	wnyj	0.000000
 㛼	wnyj	0.000000
-𱙄	wnyn	0.000000
 鉼	wnzc	0.000000
 娷	wnzj	0.000000
 錘	wnzj	0.000000
@@ -91670,6 +91670,7 @@ encoder:
 𪴿	ydal	0.000000
 𩁕	ydam	0.000000
 𩦡	ydan	0.000000
+𫟋	ydan	0.000000
 㼂	ydao	0.000000
 擧	ydao	0.000000
 𤪐	ydao	0.000000
@@ -92160,9 +92161,11 @@ encoder:
 𣛡	ygc	0.000000
 𣠣	ygcl	0.000000
 𬂿	ygcl	0.000000
+𰗚	ygdd	0.000000
 𣗳	ygdf	0.000000
 𪳘	ygdh	0.000000
 𭬉	ygdj	0.000000
+𮗜	ygdk	0.000000
 𣔥	ygdl	0.000000
 梪	ygdm	0.000000
 𪲓	ygdm	0.000000
@@ -92223,7 +92226,6 @@ encoder:
 䳎	ygnj	0.000000
 䳔	ygnj	0.000000
 䳎	ygnj	0.000000
-𮗜	ygnk	0.000000
 樢	ygnm	0.000000
 𣖒	ygno	0.000000
 𬃧	ygno	0.000000
@@ -92232,7 +92234,6 @@ encoder:
 𪴎	ygnr	0.000000
 棎	ygny	0.000000
 𬃩	ygny	0.000000
-𰗚	ygny	0.000000
 𰗯	ygnz	0.000000
 𬛻	ygo	0.000000
 𡬾	ygoc	0.000000
@@ -93198,8 +93199,7 @@ encoder:
 榪	ynmm	0.000000
 𣖬	ynmp	0.000000
 柡	ynms	0.000000
-𫟋	ynn	0.000000
-𪴚	ynnc	0.000000
+𪴚	ynn	0.000000
 枌	ynnd	0.000000
 𧮱	ynnd	0.000000
 櫄	ynnh	0.000000
@@ -94305,6 +94305,7 @@ encoder:
 𬅛	yydi	0.000000
 𣟱	yydj	0.000000
 𬃴	yydj	0.000000
+𦦲	yydn	0.000000
 櫸	yydo	0.000000
 欅	yydo	0.000000
 𥓙	yyds	0.000000
@@ -94424,7 +94425,6 @@ encoder:
 𰘘	yynl	0.000000
 𩤆	yynm	0.000000
 𦦫	yynn	0.000000
-𦦲	yynn	0.000000
 𣏕	yyo	0.000000
 𣔈	yyp	0.000000
 𮨴	yyqe	0.000000
@@ -96819,12 +96819,12 @@ encoder:
 𭬟	zkgy	0.000000
 𮐪	zkgy	0.000000
 㪘	zkha	0.000000
+𥃋	zkhd	0.000000
 𡦸	zkhh	0.000000
 𪦻	zkhi	0.000000
 蒕	zkhm	0.000000
 剣	zkhn	0.000000
 𠝏	zkhn	0.000000
-𥃋	zkhn	0.000000
 剱	zkho	0.000000
 𫝇	zkho	0.000000
 㰸	zkhp	0.000000
@@ -108376,18 +108376,32 @@ encoder:
 䛪	dacg
 𥓰	dacg
 𢂏	dada
+𰀇	dada
+𱶟	dadb
 𭁢	dadd
+𭟸	dadh
+与	dadi
 𢆵	dadi
 𥐝	dadi
 𰏰	dadi
 𧠎	dadj
 詞	dadk
 𬹿	dadk
+𢗓	dadl
+𭚤	dadl
+𱍟	dadl
+𡴃	dadm
+𢪓	dado
+𢮠	dado
+欤	dadp
 硗	dadr
 𱌰	dadr
 礳	dads
 𥔀	dady
 𰵀	dady
+𢌱	dadz
+𢌱	dadz
+𢌱	dadz
 𥑪	daea
 𧦷	daea
 𧨙	daee
@@ -110077,6 +110091,7 @@ encoder:
 𤰳	dict
 䛫	dicy
 𧭕	dida
+𮘊	didd
 𬻊	didf
 戻	didh
 天	didi
@@ -110212,7 +110227,6 @@ encoder:
 𬒕	dinn
 𭽹	dinp
 𱭌	dinw
-𮘊	diny
 𰦵	dioc
 𱳪	diod
 𢩍	diog
@@ -113366,6 +113380,7 @@ encoder:
 魓	eczo
 𭿑	eczo
 𥈂	edad
+𪾟	edad
 㘭	edae
 䀎	edae
 𥄠	edae
@@ -115546,7 +115561,6 @@ encoder:
 𡍪	enyj
 𥈊	enyj
 㮂	enym
-𪾟	enym
 垪	enzc
 𪕒	enzc
 𭎎	enzg
@@ -122883,6 +122897,8 @@ encoder:
 𡫾	gczz
 豆	gddd
 ⾖	gddd
+写	gdad
+㝍	gdad
 𫴟	gdad
 𭂆	gdae
 𱈝	gdae
@@ -124799,8 +124815,6 @@ encoder:
 𪁩	gnxf
 𬑳	gnxf
 𤘰	gnxn
-写	gnyg
-㝍	gnyg
 𲅢	gnyj
 罙	gnym
 𣮥	gnyq
@@ -126648,6 +126662,7 @@ encoder:
 𩞫	hczn
 饆	hczo
 𠌫	hczo
+𠇐	hdad
 𠇢	hdae
 𥀿	hdae
 𫢆	hdae
@@ -127360,6 +127375,7 @@ encoder:
 傖	hhdk
 𩝞	hhdk
 𠠃	hhdn
+𭁕	hhdn
 𠇉	hhdo
 𰏤	hhdz
 𰕔	hhea
@@ -127549,7 +127565,6 @@ encoder:
 价	hhnd
 㜾	hhnd
 𥇮	hhne
-𭁕	hhnn
 𩚭	hhoc
 𬽵	hhoc
 𮙨	hhoc
@@ -128521,7 +128536,6 @@ encoder:
 𠊍	hnyd
 偛	hnyj
 𣐗	hnym
-𠇐	hnyr
 餅	hnzc
 併	hnzc
 𧳉	hnzc
@@ -130614,6 +130628,7 @@ encoder:
 𪋜	iczo
 大	iddd
 ⼤	iddd
+𰷱	idad
 𲁦	idad
 𤓳	idae
 𥙧	idae
@@ -132726,7 +132741,6 @@ encoder:
 𢋪	inye
 𨂵	inyj
 𠝱	inyn
-𰷱	inyz
 跰	inzc
 𢌾	inzc
 𧻓	inzc
@@ -134731,6 +134745,8 @@ encoder:
 篳	jczo
 韠	jczo
 韠	jczo
+𤽗	jdad
+𥫣	jdad
 𩏊	jdad
 笺	jdag
 𰠛	jdag
@@ -134755,6 +134771,7 @@ encoder:
 𥸄	jdcu
 𣀝	jdda
 𥶲	jddd
+𰄒	jddd
 𪇱	jddg
 𣡳	jddk
 𥳏	jddo
@@ -134863,7 +134880,6 @@ encoder:
 𥴜	jdnk
 𩡿	jdnm
 𬔬	jdnu
-𰄒	jdny
 𣤼	jdop
 𥰸	jdou
 𥮳	jdoy
@@ -137255,12 +137271,10 @@ encoder:
 𩑞	jnwy
 𨙻	jnxe
 㸷	jnxn
-𤽗	jnyb
 𠕢	jnyc
 牐	jnyj
 𥯥	jnyj
 栔	jnym
-𥫣	jnyu
 皏	jnzc
 䈂	jnzc
 𢍆	jnzc
@@ -140252,6 +140266,7 @@ encoder:
 𭈜	kjct
 𡅎	kjcu
 𡅨	kjdd
+𱓡	kjdd
 𠱃	kjdi
 𠷶	kjdi
 哃	kjdk
@@ -140341,7 +140356,6 @@ encoder:
 囓	kjnt
 𭌰	kjnt
 𠵹	kjnu
-𱓡	kjny
 嗪	kjob
 𠱾	kjoc
 𱒦	kjoc
@@ -140770,6 +140784,7 @@ encoder:
 𠯋	knda
 𠚴	kndc
 嗞	kndd
+𭇩	kndd
 𦓎	knde
 㓢	kndg
 𭉃	kndh
@@ -140844,7 +140859,6 @@ encoder:
 嚑	knnh
 𠴮	knnl
 𠶵	knnn
-𭇩	knny
 𠯄	knod
 𠴍	knol
 𠽼	knol
@@ -142904,6 +142918,7 @@ encoder:
 斗	lddd
 ⽃	lddd
 䛒	ldad
+𫹮	ldad
 巧	ldae
 𪋽	ldae
 𪫝	ldae
@@ -144600,7 +144615,6 @@ encoder:
 𢗅	lnwx
 悌	lnxf
 祶	lnxf
-𫹮	lnyx
 恲	lnzc
 䴵	lnzc
 𢛉	lnzj
@@ -146865,9 +146879,9 @@ encoder:
 𱨌	mdkw
 𨜋	mdkx
 𣶉	mdld
+𬇵	mdld
 泟	mdli
 𣳋	mdli
-𬇵	mdln
 𱩌	mdlp
 漹	mdlr
 𣸔	mdls
@@ -147394,6 +147408,7 @@ encoder:
 𣵈	mgda
 𧯛	mgdc
 𪷛	mgdc
+泻	mgdd
 𣼂	mgde
 𰴣	mgdg
 溕	mgdh
@@ -147433,6 +147448,7 @@ encoder:
 𢽾	mgha
 𣻄	mghb
 𱦿	mghc
+𱧿	mghd
 𭓓	mghe
 学	mghi
 𬇤	mghi
@@ -147440,7 +147456,6 @@ encoder:
 漎	mghl
 𩀨	mghl
 𬈑	mghn
-𱧿	mghn
 𣹞	mgho
 𱊉	mgho
 𣶺	mghq
@@ -147513,7 +147528,6 @@ encoder:
 𩿰	mgnu
 𱧐	mgnv
 𣸦	mgnw
-泻	mgny
 深	mgny
 浫	mgnz
 㴻	mgoc
@@ -149598,6 +149612,7 @@ encoder:
 𣸶	msda
 𬀂	msda
 𬀐	msda
+𭤰	msdd
 𤃒	msde
 洹	msdi
 㳋	msdi
@@ -149767,7 +149782,6 @@ encoder:
 𱩶	msnr
 𬀆	msnu
 海	msnu
-𭤰	msny
 𤂴	msoa
 溽	msoc
 泝	msod
@@ -151219,7 +151233,6 @@ encoder:
 𪑥	naem
 𡈤	naeq
 𮪠	naes
-𰀇	naey
 騘	nafl
 𫜚	nafl
 𭼙	nafl
@@ -151643,6 +151656,7 @@ encoder:
 𩡸	ndaj
 𤺡	ndal
 𫤰	ndan
+𭁉	ndan
 𰃝	ndao
 𣢍	ndap
 䵥	ndbb
@@ -152589,7 +152603,6 @@ encoder:
 𤷈	nils
 忩	nilx
 𤻵	nima
-𭟸	nimh
 𤹩	nimi
 𪒥	nimu
 𪽸	nimu
@@ -152688,7 +152701,6 @@ encoder:
 郑	nixe
 𮟭	nixe
 𱏸	nixk
-𭚤	nixl
 𣕙	niyi
 𩥅	niyj
 𬳊	niyj
@@ -153182,7 +153194,6 @@ encoder:
 𰑓	nlxu
 忘	nlxw
 㤀	nlxw
-𢗓	nlxy
 𦥲	nlyj
 𩤋	nlym
 馬	nmmm
@@ -153196,7 +153207,6 @@ encoder:
 騨	nmcp
 𭻑	nmct
 𰣲	nmct
-𡴃	nmcy
 𥀋	nmdc
 𩣊	nmdi
 黬	nmdk
@@ -153313,7 +153323,6 @@ encoder:
 𪒟	nnau
 𠔁	nnbb
 𤴭	nnbb
-𱶟	nnbb
 刅	nnbd
 𩡩	nnbm
 𮪛	nnbq
@@ -153452,7 +153461,6 @@ encoder:
 𱥷	nnms
 𩢣	nnna
 𥤡	nnnb
-𭁉	nnnb
 刕	nnnd
 䭻	nnnd
 䭼	nnnd
@@ -153476,7 +153484,6 @@ encoder:
 𤶝	nnol
 𱉑	nnon
 𢪘	nnos
-𢮠	nnos
 𩢔	nnos
 𱃷	nnos
 𩤀	nnoy
@@ -153653,7 +153660,6 @@ encoder:
 𪟶	noss
 𪒸	nost
 䯁	nosy
-𢪓	nosy
 𤼘	nosy
 𩧣	nosy
 𩤝	nota
@@ -153791,7 +153797,6 @@ encoder:
 𮩹	npqm
 饮	npqs
 𣢅	npqw
-欤	npqy
 𪑀	nprh
 𰅭	npsb
 䭴	npsm
@@ -154843,7 +154848,6 @@ encoder:
 𭚾	nxzi
 𪒝	nxzy
 癊	nxzz
-与	nyyy
 𤵦	nyae
 𬏹	nyaj
 敮	nyap
@@ -154874,8 +154878,8 @@ encoder:
 𧸋	nyhr
 𱄤	nyhr
 𫤮	nyhs
-馊	nyht
 瘦	nyht
+馊	nyht
 騪	nyht
 𠭦	nyht
 𰯻	nyir
@@ -154945,7 +154949,6 @@ encoder:
 𩠈	nzal
 𪑡	nzal
 𭃮	nzal
-𱍟	nzal
 𢼩	nzap
 𢼶	nzap
 𣢲	nzap
@@ -154972,9 +154975,6 @@ encoder:
 𩤱	nzct
 𤻹	nzcv
 𤼚	nzcv
-𢌱	nzcy
-𢌱	nzcy
-𢌱	nzcy
 艵	nzdb
 𪑿	nzdd
 𪪃	nzdh
@@ -155461,6 +155461,7 @@ encoder:
 ㇏	oddd
 ㇔	oddd
 ㇝	oddd
+𱟩	odad
 抝	odae
 𢩨	odae
 𢬆	odae
@@ -156955,7 +156956,6 @@ encoder:
 挮	onxf
 插	onyj
 揷	onyj
-𱟩	onys
 拼	onzc
 𢶚	onzc
 捶	onzj
@@ -158885,6 +158885,7 @@ encoder:
 槩	pcym
 𡁘	pczp
 丁	pddd
+𲇮	pdad
 㕺	pdae
 钱	pdag
 𢃋	pdaj
@@ -159120,6 +159121,7 @@ encoder:
 𣓑	pgcy
 𢍚	pgcz
 𤱿	pgcz
+䥾	pgdd
 𬭰	pgdn
 𣪺	pgdr
 𣫂	pgdr
@@ -159189,7 +159191,6 @@ encoder:
 𡜌	pgnw
 鴴	pgnx
 鵆	pgnx
-䥾	pgny
 𰾉	pgnz
 𣕣	pgoy
 𬬾	pgpd
@@ -159862,7 +159863,6 @@ encoder:
 䢼	pnxe
 锑	pnxf
 锸	pnyj
-𲇮	pnyj
 㭟	pnym
 𰽼	pnzc
 𱽭	pnzc
@@ -160843,6 +160843,7 @@ encoder:
 襅	qczo
 𣯴	qczo
 𧛘	qdad
+𨊮	qdad
 线	qdag
 𧘟	qdaj
 𫥞	qdaj
@@ -162523,7 +162524,6 @@ encoder:
 𬡜	qnxf
 𤙟	qnxn
 𠙘	qnyc
-𨊮	qnyc
 𬡩	qnyd
 䙄	qnyj
 𦩿	qnyj
@@ -164406,6 +164406,7 @@ encoder:
 鞸	rczo
 𤒹	rczz
 𠁙	rdaa
+玙	rdad
 考	rdae
 𩉷	rdae
 𬁥	rdae
@@ -166327,7 +166328,6 @@ encoder:
 珶	rnxf
 𤦆	rnyj
 𧶵	rnyj
-玙	rnyw
 賆	rnzc
 㻂	rnzc
 𩊖	rnzc
@@ -168792,6 +168792,7 @@ encoder:
 歹	sddd
 𨐷	sdaa
 𦎢	sdad
+𫚈	sdad
 𭮉	sdad
 㱙	sdae
 𭭿	sdae
@@ -170240,7 +170241,6 @@ encoder:
 𤫼	snxf
 𬶕	snxf
 𭩶	snym
-𫚈	snyv
 骈	snzc
 䦕	snzc
 𦍰	snzc
@@ -171900,8 +171900,8 @@ encoder:
 𪚌	tfmv
 䶞	tfnb
 𦓿	tfnb
+𨤒	tfnd
 𪙆	tfnf
-𨤒	tfnn
 𬆣	tfnr
 𦉇	tfnz
 𪙕	tfpq
@@ -173864,8 +173864,10 @@ encoder:
 𠢃	udac
 𮡛	udac
 𲇃	udac
+屿	udad
 𡹪	udad
 𭨎	udad
+𱛇	udad
 𱢡	udad
 甹	udae
 𡵿	udae
@@ -173882,6 +173884,7 @@ encoder:
 昁	udaj
 逿	udaj
 𢂸	udaj
+𨓂	udaj
 𨔄	udaj
 𭘑	udaj
 𮞏	udaj
@@ -175966,7 +175969,6 @@ encoder:
 嵡	uniw
 暡	uniw
 𡻐	uniw
-𨓂	unjc
 𫨔	unje
 𫶊	unjh
 𡶣	unji
@@ -176080,8 +176082,6 @@ encoder:
 𬀹	unxf
 𣋥	unxx
 𣌃	unyh
-屿	unys
-𱛇	unys
 骿	unzc
 𪠆	unzc
 厜	unzj
@@ -178486,6 +178486,7 @@ encoder:
 𪖦	vczx
 𪖯	vczy
 鼾	vczz
+𱻷	vdad
 𦔲	vdae
 贱	vdag
 𰲳	vdag
@@ -179858,7 +179859,6 @@ encoder:
 𬩾	vnxe
 𧋘	vnxf
 𠉙	vnyc
-𱻷	vnye
 𧌤	vnyj
 聠	vnzc
 蛢	vnzc
@@ -181713,6 +181713,8 @@ encoder:
 𫿦	wdaa
 𫿫	wdaa
 𫿬	wdaa
+𮡤	wdad
+𱙄	wdad
 𮰷	wdae
 𬗧	wdaf
 𧬣	wdag
@@ -181724,6 +181726,7 @@ encoder:
 𢑔	wdak
 𫬫	wdak
 𮢑	wdak
+𮢃	wdao
 錑	wdaq
 𡝢	wdaq
 𬋝	wdar
@@ -183744,7 +183747,6 @@ encoder:
 𡟂	wnoa
 釰	wnod
 釼	wnod
-𮢃	wnog
 𡝖	wnol
 𡡟	wnol
 𨧟	wnol
@@ -183795,9 +183797,7 @@ encoder:
 鍤	wnyj
 㛼	wnyj
 𦑣	wnyj
-𮡤	wnyj
 㛼	wnyj
-𱙄	wnyn
 姘	wnzc
 鉼	wnzc
 娷	wnzj
@@ -189759,6 +189759,7 @@ encoder:
 𩁕	ydam
 與	ydan
 𩦡	ydan
+𫟋	ydan
 舉	ydao
 㼂	ydao
 擧	ydao
@@ -190314,10 +190315,12 @@ encoder:
 𣛡	ygca
 𣠣	ygcl
 𬂿	ygcl
+𰗚	ygdd
 𣗳	ygdf
 𪳘	ygdh
 槻	ygdj
 𭬉	ygdj
+𮗜	ygdk
 𣔥	ygdl
 梪	ygdm
 𪲓	ygdm
@@ -190384,7 +190387,6 @@ encoder:
 䳎	ygnj
 䳔	ygnj
 䳎	ygnj
-𮗜	ygnk
 檫	ygnl
 樢	ygnm
 𣖒	ygno
@@ -190394,7 +190396,6 @@ encoder:
 𪴎	ygnr
 棎	ygny
 𬃩	ygny
-𰗚	ygny
 𰗯	ygnz
 𬛻	ygoa
 𡬾	ygoc
@@ -191496,7 +191497,6 @@ encoder:
 榪	ynmm
 𣖬	ynmp
 柡	ynms
-𫟋	ynnb
 𪴚	ynnc
 枌	ynnd
 𧮱	ynnd
@@ -192777,6 +192777,7 @@ encoder:
 𬅛	yydi
 𣟱	yydj
 𬃴	yydj
+𦦲	yydn
 櫸	yydo
 欅	yydo
 𥓙	yyds
@@ -192903,7 +192904,6 @@ encoder:
 𩤆	yynm
 棼	yynn
 𦦫	yynn
-𦦲	yynn
 𣏕	yyod
 𣔈	yyps
 𮨴	yyqe
@@ -195599,13 +195599,13 @@ encoder:
 𭬟	zkgy
 𮐪	zkgy
 㪘	zkha
+𥃋	zkhd
 𡦸	zkhh
 𪦻	zkhi
 盒	zkhm
 蒕	zkhm
 剣	zkhn
 𠝏	zkhn
-𥃋	zkhn
 剱	zkho
 𫝇	zkho
 㰸	zkhp

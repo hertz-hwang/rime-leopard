@@ -99,7 +99,7 @@
 因	ai1
 定	ge1
 部	xk1
-与	ny1
+与	da1
 将	jv1
 日	ur1
 长	ic1
@@ -352,6 +352,7 @@
 照	un1
 复	su1
 约	qa1
+写	gd1
 包	av1
 级	qf1
 称	bd1
@@ -499,7 +500,6 @@
 摇	oi1
 室	gg1
 卡	fd1
-富	gd1
 优	hv1
 姑	wo1
 宣	gs1
@@ -626,7 +626,6 @@
 穷	ac1
 粗	fh1
 羊	sy1
-幻	da1
 辛	sx1
 翼	wc1
 躲	xq1
@@ -656,6 +655,7 @@
 旨	wu1
 稿	bq1
 睁	ed1
+瘦	ny1
 戈	ag1
 饰	ns1
 耗	tq1
