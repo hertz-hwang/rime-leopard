@@ -1808,8 +1808,8 @@ encoder:
 哀	qkk	0.000054
 鞋	ree	0.000054
 厌	uaq	0.000054
-昌	uur	0.000054
 晶	uuu	0.000054
+昌	uuy	0.000054
 辉	wgx	0.000054
 牲	xis	0.000054
 柱	yor	0.000054
@@ -4140,8 +4140,8 @@ encoder:
 泾	mtlg	0.000004
 湮	muet	0.000004
 湍	muk	0.000004
-沓	mur	0.000004
 汕	mus	0.000004
+沓	muys	0.000004
 泯	mvm	0.000004
 淞	myn	0.000004
 痔	neo	0.000004
@@ -4486,7 +4486,7 @@ encoder:
 浜	msn	0.000003
 洌	msnd	0.000003
 濑	mtd	0.000003
-汨	murs	0.000003
+汨	mur	0.000003
 涔	muz	0.000003
 涞	mvn	0.000003
 汐	mvx	0.000003
@@ -5520,7 +5520,7 @@ encoder:
 峤	uti	0.000002
 峄	utos	0.000002
 崾	uuw	0.000002
-岫	uuy	0.000002
+岫	uuys	0.000002
 崃	uvnb	0.000002
 遢	uwjc	0.000002
 嶂	uwp	0.000002
@@ -7264,9 +7264,9 @@ encoder:
 踶	iue	0.000001
 蹰	iug	0.000001
 踬	iup	0.000001
+書	iur	0.000001
 氙	ius	0.000001
 赸	iusz	0.000001
-書	iuy	0.000001
 趕	iuz	0.000001
 肀	ivvv	0.000001
 贠	ivb	0.000001
@@ -8407,9 +8407,9 @@ encoder:
 揾	ouhm	0.000001
 摽	oul	0.000001
 攜	oumk	0.000001
-抇	our	0.000001
 搋	oush	0.000001
 鋬	outw	0.000001
+抇	ouys	0.000001
 蠃	ovci	0.000001
 拋	ovcl	0.000001
 𫛞	ovhr	0.000001
@@ -9578,7 +9578,7 @@ encoder:
 壓	uufe	0.000001
 昃	uuhr	0.000001
 峿	uukk	0.000001
-昍	uurr	0.000001
+昍	uur	0.000001
 旵	uus	0.000001
 屾	uuss	0.000001
 昄	uut	0.000001
@@ -12096,10 +12096,10 @@ encoder:
 𨄬	aium	0.000000
 𮮢	aium	0.000000
 㹱	aiuq	0.000000
+圕	aiur	0.000000
 𭥴	aiur	0.000000
 𱬄	aiur	0.000000
 𬵔	aiuv	0.000000
-圕	aiuy	0.000000
 𱮇	aiv	0.000000
 𰭼	aive	0.000000
 𤠧	aivn	0.000000
@@ -19558,8 +19558,8 @@ encoder:
 𧩩	ddug	0.000000
 𥖷	dduk	0.000000
 𨍃	dduq	0.000000
+𣌳	ddur	0.000000
 詭	dduw	0.000000
-𣌳	dduy	0.000000
 𨳇	ddv	0.000000
 𥔹	ddvj	0.000000
 𲁲	ddvj	0.000000
@@ -20698,11 +20698,11 @@ encoder:
 𢡰	diul	0.000000
 𪓿	dium	0.000000
 昋	diur	0.000000
+𬣄	diur	0.000000
 𥒭	dius	0.000000
 𨀂	dius	0.000000
 𫯬	diuw	0.000000
 䛤	diuy	0.000000
-𬣄	diuy	0.000000
 蠒	divc	0.000000
 𫊱	divc	0.000000
 𧪇	dive	0.000000
@@ -21399,10 +21399,10 @@ encoder:
 旾	dmu	0.000000
 䂿	dmur	0.000000
 誻	dmur	0.000000
+𢩎	dmur	0.000000
 𡵭	dmus	0.000000
 𢩤	dmut	0.000000
 䛋	dmuy	0.000000
-𢩎	dmuy	0.000000
 𱟢	dmvr	0.000000
 𲆁	dmwj	0.000000
 𫡹	dmy	0.000000
@@ -22436,10 +22436,10 @@ encoder:
 𰀛	duue	0.000000
 𰧛	duue	0.000000
 𮞸	duuj	0.000000
+曺	duur	0.000000
 誯	duur	0.000000
 𥓥	duur	0.000000
 𥐳	duus	0.000000
-曺	duuy	0.000000
 硸	duuz	0.000000
 𰴾	duv	0.000000
 𱴸	duvq	0.000000
@@ -28535,8 +28535,8 @@ encoder:
 𫃦	fhty	0.000000
 𡱚	fhtz	0.000000
 𦆊	fhu	0.000000
-𦟢	fhur	0.000000
 𫂻	fhur	0.000000
+𦟢	fhuy	0.000000
 𧌢	fhvc	0.000000
 緱	fhvg	0.000000
 𦞈	fhvg	0.000000
@@ -31067,7 +31067,6 @@ encoder:
 𦆡	furq	0.000000
 𡰶	furs	0.000000
 𣅩	furs	0.000000
-𥿀	furs	0.000000
 𦁽	furw	0.000000
 䶵	fush	0.000000
 𦃇	fush	0.000000
@@ -31126,6 +31125,7 @@ encoder:
 𥺰	fuym	0.000000
 𦃊	fuym	0.000000
 𦞰	fuym	0.000000
+𥿀	fuys	0.000000
 𫆚	fuyy	0.000000
 糲	fuz	0.000000
 𦆨	fuza	0.000000
@@ -33007,8 +33007,8 @@ encoder:
 𧯩	giud	0.000000
 𪧎	giug	0.000000
 𪧛	giui	0.000000
+𦥌	giur	0.000000
 𫳁	gius	0.000000
-𦥌	giuy	0.000000
 冿	givb	0.000000
 𩬶	givb	0.000000
 律	givc	0.000000
@@ -38047,7 +38047,6 @@ encoder:
 𩞗	hurb	0.000000
 児	hure	0.000000
 𡥌	huri	0.000000
-𧲥	huri	0.000000
 𠊂	hurj	0.000000
 𠋍	hurj	0.000000
 𪝧	hurr	0.000000
@@ -38095,6 +38094,7 @@ encoder:
 𬾌	huww	0.000000
 価	hux	0.000000
 𥣃	huyb	0.000000
+𧲥	huyi	0.000000
 𧲹	huyi	0.000000
 𬾛	huym	0.000000
 伷	huyr	0.000000
@@ -41924,13 +41924,13 @@ encoder:
 𮓫	iups	0.000000
 𬦱	iuq	0.000000
 𠫮	iuqj	0.000000
-㸓	iur	0.000000
+㸓	iura	0.000000
 𡭪	iure	0.000000
-䫻	iurf	0.000000
 氜	iurq	0.000000
 𤑀	iurr	0.000000
 𭥎	iurs	0.000000
 𧿭	iuru	0.000000
+書	iurv	0.000000
 𨂈	iurw	0.000000
 𫴸	iurx	0.000000
 𧺝	iurz	0.000000
@@ -41967,13 +41967,13 @@ encoder:
 𧼺	iuxl	0.000000
 氥	iuxq	0.000000
 跴	iuxu	0.000000
-𡘊	iuyd	0.000000
+𡘊	iuy	0.000000
 𣍜	iuye	0.000000
+䫻	iuyf	0.000000
 麜	iuym	0.000000
 𨃙	iuym	0.000000
 𩘟	iuym	0.000000
 𲃛	iuyu	0.000000
-書	iuyv	0.000000
 𧻉	iuyz	0.000000
 𢆅	iuza	0.000000
 𨁊	iuza	0.000000
@@ -45183,8 +45183,8 @@ encoder:
 𡬼	jnuo	0.000000
 𪮚	jnuo	0.000000
 𠕙	jnur	0.000000
+牐	jnur	0.000000
 𤭛	jnut	0.000000
-牐	jnuy	0.000000
 蛪	jnv	0.000000
 𠜵	jnvh	0.000000
 𧑨	jnvv	0.000000
@@ -47850,8 +47850,8 @@ encoder:
 𣝚	kity	0.000000
 𱕯	kiug	0.000000
 哫	kiuk	0.000000
+𫫒	kiur	0.000000
 𡄼	kius	0.000000
-𫫒	kiuy	0.000000
 𠸊	kive	0.000000
 𦖩	kive	0.000000
 𬼏	kivf	0.000000
@@ -57820,8 +57820,8 @@ encoder:
 𰕰	ncud	0.000000
 黖	ncuh	0.000000
 𮩷	ncum	0.000000
+曽	ncur	0.000000
 𤼰	ncur	0.000000
-曽	ncuy	0.000000
 𥀒	ncv	0.000000
 㾧	ncym	0.000000
 騍	ncym	0.000000
@@ -60338,12 +60338,12 @@ encoder:
 㿂	nur	0.000000
 𣅆	nurb	0.000000
 𣅑	nurb	0.000000
-𤵖	nurb	0.000000
 𰕲	nurd	0.000000
 馹	nurm	0.000000
 𤃄	nurm	0.000000
 𩤶	nurm	0.000000
 𤺗	nurn	0.000000
+𢆍	nurq	0.000000
 𣅌	nurq	0.000000
 𤻃	nuru	0.000000
 𪪰	nury	0.000000
@@ -60392,11 +60392,11 @@ encoder:
 𪓂	nuxz	0.000000
 㾄	nuy	0.000000
 𠔍	nuyb	0.000000
+𤵖	nuyb	0.000000
 𰢷	nuyb	0.000000
 𭼰	nuyl	0.000000
 駎	nuym	0.000000
 𮪕	nuym	0.000000
-𢆍	nuyq	0.000000
 𩧃	nuz	0.000000
 𢍋	nuzc	0.000000
 𪑜	nuzc	0.000000
@@ -60966,8 +60966,8 @@ encoder:
 𩦞	nzun	0.000000
 騲	nzup	0.000000
 痻	nzur	0.000000
+𩣙	nzur	0.000000
 𪑕	nzur	0.000000
-𩣙	nzuy	0.000000
 𱄟	nzv	0.000000
 𫥻	nzw	0.000000
 𦐵	nzwv	0.000000
@@ -63493,7 +63493,7 @@ encoder:
 𢫵	oups	0.000000
 挀	ouq	0.000000
 撔	ouqi	0.000000
-𭢤	ourb	0.000000
+𭢤	our	0.000000
 𢮉	ourg	0.000000
 𢱾	ourh	0.000000
 𭡧	ourm	0.000000
@@ -73492,8 +73492,8 @@ encoder:
 閹	siua	0.000000
 𬶖	siua	0.000000
 𬟮	siui	0.000000
+𬮑	siur	0.000000
 䟫	sius	0.000000
-𬮑	siuy	0.000000
 肂	siv	0.000000
 𦘖	sivd	0.000000
 𱻐	sivv	0.000000
@@ -74515,10 +74515,10 @@ encoder:
 𣩼	sstn	0.000000
 殤	ssuf	0.000000
 𦎭	ssuj	0.000000
-䖜	ssur	0.000000
 𨶭	ssur	0.000000
 𬶳	ssur	0.000000
 𭮣	ssur	0.000000
+䖜	ssuy	0.000000
 𰷮	ssvb	0.000000
 𬆙	ssvd	0.000000
 𦎄	ssw	0.000000
@@ -78243,13 +78243,13 @@ encoder:
 𡺵	uhpt	0.000000
 𣅣	uhqr	0.000000
 𭖍	uhqs	0.000000
+㬰	uhrr	0.000000
 𣅁	uhrr	0.000000
 㞤	uhrs	0.000000
 𣌁	uhru	0.000000
 𣌂	uhru	0.000000
 峑	uhrw	0.000000
 𪰡	uhrw	0.000000
-㬰	uhry	0.000000
 𠩸	uhs	0.000000
 㼔	uhsg	0.000000
 𩩒	uhsg	0.000000
@@ -78465,11 +78465,11 @@ encoder:
 𬦭	uiux	0.000000
 𧋯	uivc	0.000000
 𱥇	uivl	0.000000
+𣌦	uivr	0.000000
 峍	uivs	0.000000
 䙴	uivs	0.000000
 𡷏	uivs	0.000000
 𦒘	uivw	0.000000
-𣌦	uivy	0.000000
 𪄷	uiw	0.000000
 𮰑	uiwj	0.000000
 𰖂	uiwj	0.000000
@@ -78479,7 +78479,7 @@ encoder:
 𩓌	uiwy	0.000000
 𲊷	uiwy	0.000000
 𭨅	uixa	0.000000
-𣌢	uixy	0.000000
+𣌢	uixr	0.000000
 𬁚	uiy	0.000000
 𡺫	uiyj	0.000000
 𭧏	uiyj	0.000000
@@ -78691,7 +78691,6 @@ encoder:
 𦓞	ukbf	0.000000
 𫪸	ukbs	0.000000
 𢢸	ukc	0.000000
-𡿯	ukcr	0.000000
 𣅕	ukcr	0.000000
 𡵅	ukcs	0.000000
 崰	ukct	0.000000
@@ -78699,6 +78698,7 @@ encoder:
 𤲇	ukct	0.000000
 旤	ukcu	0.000000
 𡻝	ukcy	0.000000
+𡿯	ukcy	0.000000
 𩪑	ukcy	0.000000
 㞻	ukda	0.000000
 𩨴	ukda	0.000000
@@ -79080,10 +79080,10 @@ encoder:
 暆	umse	0.000000
 𡻬	umsg	0.000000
 𡾧	umsm	0.000000
-𭥚	umsr	0.000000
 𡵰	umss	0.000000
 𣳳	umsx	0.000000
 𱦆	umsx	0.000000
+𭥚	umsy	0.000000
 𲌍	umt	0.000000
 㫞	umty	0.000000
 𣉲	umty	0.000000
@@ -79487,8 +79487,8 @@ encoder:
 𠩰	upps	0.000000
 䯉	upq	0.000000
 𭧓	upqq	0.000000
-欥	upqr	0.000000
 㰞	upqs	0.000000
+欥	upqy	0.000000
 𢾋	upra	0.000000
 𢾡	upra	0.000000
 貭	uprb	0.000000
@@ -79503,11 +79503,11 @@ encoder:
 𣂑	ups	0.000000
 𮪦	upsg	0.000000
 𭥡	upsk	0.000000
-旪	upsr	0.000000
 𠦆	upsr	0.000000
 𫵱	upss	0.000000
 𫶣	upsv	0.000000
 𭗯	upsv	0.000000
+旪	upsy	0.000000
 𠪟	upt	0.000000
 𬀵	uptg	0.000000
 䯋	upto	0.000000
@@ -80266,11 +80266,11 @@ encoder:
 𬊘	uurh	0.000000
 𣁗	uurl	0.000000
 𤏒	uurr	0.000000
+𭥗	uurr	0.000000
 㞱	uurs	0.000000
 龧	uuru	0.000000
 𤦉	uurw	0.000000
 𣆛	uurx	0.000000
-𭥗	uury	0.000000
 𡻌	uusc	0.000000
 𣊐	uusc	0.000000
 𤬆	uusg	0.000000
@@ -83272,8 +83272,7 @@ encoder:
 𣣤	vupq	0.000000
 䖰	vuq	0.000000
 𧑊	vuqi	0.000000
-蚎	vur	0.000000
-𣆊	vurc	0.000000
+𣆊	vur	0.000000
 𧌚	vurh	0.000000
 𫧍	vurk	0.000000
 昬	vurm	0.000000
@@ -83326,6 +83325,7 @@ encoder:
 𦕩	vuxe	0.000000
 䗑	vuxl	0.000000
 𬡸	vuxy	0.000000
+蚎	vuyc	0.000000
 𮶐	vuye	0.000000
 蠣	vuz	0.000000
 䘈	vuzc	0.000000
@@ -92591,7 +92591,7 @@ encoder:
 𪦵	yitw	0.000000
 㭺	yiu	0.000000
 𧯈	yiui	0.000000
-𪳛	yiuy	0.000000
+𪳛	yiur	0.000000
 𣑵	yiv	0.000000
 檶	yivp	0.000000
 𣑿	yivs	0.000000
@@ -93974,8 +93974,6 @@ encoder:
 㭛	yuqi	0.000000
 𬄣	yuqi	0.000000
 檟	yurb	0.000000
-𣆑	yurc	0.000000
-𣆩	yurc	0.000000
 𣠽	yurf	0.000000
 𪳒	yurg	0.000000
 樮	yurh	0.000000
@@ -94023,6 +94021,8 @@ encoder:
 𪴘	yuxz	0.000000
 𨣹	yuyb	0.000000
 𨤈	yuyb	0.000000
+𣆑	yuyc	0.000000
+𣆩	yuyc	0.000000
 𣌧	yuyc	0.000000
 䜬	yuyg	0.000000
 𦥪	yuyj	0.000000
@@ -96582,8 +96582,8 @@ encoder:
 莡	ziuc	0.000000
 𧿍	ziui	0.000000
 𨘎	ziuj	0.000000
+𦶕	ziur	0.000000
 𡷺	zius	0.000000
-𦶕	ziuy	0.000000
 茟	ziv	0.000000
 𮎨	zivs	0.000000
 𦳡	zivt	0.000000
@@ -96923,8 +96923,8 @@ encoder:
 𱰊	zktw	0.000000
 𰰭	zkty	0.000000
 𱔋	zku	0.000000
+𣌭	zkur	0.000000
 𰂅	zkus	0.000000
-𣌭	zkuy	0.000000
 𮷎	zkvb	0.000000
 𧊧	zkvc	0.000000
 𮏲	zkvc	0.000000
@@ -100757,10 +100757,10 @@ encoder:
 𨄬	aium
 𮮢	aium
 㹱	aiuq
+圕	aiur
 𭥴	aiur
 𱬄	aiur
 𬵔	aiuv
-圕	aiuy
 𱮇	aivc
 𰭼	aive
 𤠧	aivn
@@ -109037,9 +109037,9 @@ encoder:
 𧩩	ddug
 𥖷	dduk
 𨍃	dduq
+𣌳	ddur
 硊	dduw
 詭	dduw
-𣌳	dduy
 𨳇	ddvh
 𥔹	ddvj
 𲁲	ddvj
@@ -110274,11 +110274,11 @@ encoder:
 𢡰	diul
 𪓿	dium
 昋	diur
+𬣄	diur
 𥒭	dius
 𨀂	dius
 𫯬	diuw
 䛤	diuy
-𬣄	diuy
 蚕	divc
 蠒	divc
 𫊱	divc
@@ -111054,10 +111054,10 @@ encoder:
 旾	dmur
 䂿	dmur
 誻	dmur
+𢩎	dmur
 𡵭	dmus
 𢩤	dmut
 䛋	dmuy
-𢩎	dmuy
 𱟢	dmvr
 磲	dmvy
 𲆁	dmwj
@@ -112211,10 +112211,10 @@ encoder:
 𮞸	duuj
 譚	duup
 磹	duup
+曺	duur
 誯	duur
 𥓥	duur
 𥐳	duus
-曺	duuy
 硸	duuz
 𰴾	duvf
 𱴸	duvq
@@ -118968,8 +118968,8 @@ encoder:
 𫃦	fhty
 𡱚	fhtz
 𦆊	fhua
-𦟢	fhur
 𫂻	fhur
+𦟢	fhuy
 𧌢	fhvc
 糇	fhvg
 緱	fhvg
@@ -121735,7 +121735,6 @@ encoder:
 𦆡	furq
 𡰶	furs
 𣅩	furs
-𥿀	furs
 𦁽	furw
 䶵	fush
 𦃇	fush
@@ -121801,6 +121800,7 @@ encoder:
 𦞰	fuym
 紬	fuys
 届	fuys
+𥿀	fuys
 𫆚	fuyy
 糲	fuza
 𦆨	fuza
@@ -123836,8 +123836,8 @@ encoder:
 𧯩	giud
 𪧎	giug
 𪧛	giui
+𦥌	giur
 𫳁	gius
-𦥌	giuy
 冿	givb
 𩬶	givb
 律	givc
@@ -129460,7 +129460,6 @@ encoder:
 𩞗	hurb
 児	hure
 𡥌	huri
-𧲥	huri
 𠊂	hurj
 𠋍	hurj
 𪝧	hurr
@@ -129515,6 +129514,7 @@ encoder:
 𬾌	huww
 価	huxr
 𥣃	huyb
+𧲥	huyi
 𧲹	huyi
 傈	huym
 𬾛	huym
@@ -133703,11 +133703,12 @@ encoder:
 𠫮	iuqj
 㸓	iura
 𡭪	iure
-䫻	iurf
 氜	iurq
 𤑀	iurr
 𭥎	iurs
 𧿭	iuru
+書	iurv
+書	iurv
 𨂈	iurw
 𫴸	iurx
 𧺝	iurz
@@ -133749,12 +133750,11 @@ encoder:
 跴	iuxu
 𡘊	iuyd
 𣍜	iuye
+䫻	iuyf
 麜	iuym
 𨃙	iuym
 𩘟	iuym
 𲃛	iuyu
-書	iuyv
-書	iuyv
 𧻉	iuyz
 𢆅	iuza
 𨁊	iuza
@@ -137237,10 +137237,10 @@ encoder:
 𡬼	jnuo
 𪮚	jnuo
 𠕙	jnur
+牐	jnur
 毐	jnus
 岡	jnus
 𤭛	jnut
-牐	jnuy
 蛪	jnvc
 𠜵	jnvh
 𧑨	jnvv
@@ -140205,8 +140205,8 @@ encoder:
 唵	kiua
 𱕯	kiug
 哫	kiuk
+𫫒	kiur
 𡄼	kius
-𫫒	kiuy
 唢	kivb
 𠸊	kive
 𦖩	kive
@@ -150274,7 +150274,6 @@ encoder:
 𣽄	murn
 𬈦	murn
 汨	murs
-沓	murs
 濐	muru
 𣶪	murw
 𪶁	murw
@@ -150330,6 +150329,7 @@ encoder:
 𤃅	muxz
 𤁋	muyl
 溧	muym
+沓	muys
 汩	muys
 油	muys
 涔	muza
@@ -151612,8 +151612,8 @@ encoder:
 𰕰	ncud
 黖	ncuh
 𮩷	ncum
+曽	ncur
 𤼰	ncur
-曽	ncuy
 𥀒	ncvc
 馃	ncym
 㾧	ncym
@@ -154398,12 +154398,12 @@ encoder:
 㿂	nura
 𣅆	nurb
 𣅑	nurb
-𤵖	nurb
 𰕲	nurd
 馹	nurm
 𤃄	nurm
 𩤶	nurm
 𤺗	nurn
+𢆍	nurq
 𣅌	nurq
 𤻃	nuru
 𪪰	nury
@@ -154455,11 +154455,11 @@ encoder:
 𪓂	nuxz
 㾄	nuyb
 𠔍	nuyb
+𤵖	nuyb
 𰢷	nuyb
 𭼰	nuyl
 駎	nuym
 𮪕	nuym
-𢆍	nuyq
 𩧃	nuza
 𢍋	nuzc
 𪑜	nuzc
@@ -155094,8 +155094,8 @@ encoder:
 𩦞	nzun
 騲	nzup
 痻	nzur
+𩣙	nzur
 𪑕	nzur
-𩣙	nzuy
 𱄟	nzvs
 𫥻	nzwj
 𦐵	nzwv
@@ -156932,7 +156932,7 @@ encoder:
 𱠎	ontn
 𠬼	onty
 𢪩	onty
-挿	onuy
+挿	onur
 𠄅	onva
 掼	onvb
 𢳰	onvc
@@ -158026,7 +158026,6 @@ encoder:
 𢮉	ourg
 𢱾	ourh
 𭡧	ourm
-抇	ours
 𢪏	ours
 𣅲	ours
 𢲽	ousa
@@ -158069,6 +158068,7 @@ encoder:
 𢳕	ouyf
 𫾐	ouyl
 搮	ouym
+抇	ouys
 抽	ouys
 𢫲	ouza
 𢭞	ouza
@@ -169591,8 +169591,8 @@ encoder:
 閹	siua
 𬶖	siua
 𬟮	siui
+𬮑	siur
 䟫	sius
-𬮑	siuy
 肂	sivd
 𦘖	sivd
 𱻐	sivv
@@ -170755,10 +170755,10 @@ encoder:
 殤	ssuf
 鳆	ssuj
 𦎭	ssuj
-䖜	ssur
 𨶭	ssur
 𬶳	ssur
 𭮣	ssur
+䖜	ssuy
 𰷮	ssvb
 𬆙	ssvd
 鲝	ssvy
@@ -173750,7 +173750,7 @@ encoder:
 𠩾	ubrh
 𡺘	ubrh
 曙	ubru
-𣌬	ubsy
+𣌬	ubsr
 𢿕	ubta
 𢿜	ubta
 𠢝	ubtc
@@ -174951,13 +174951,13 @@ encoder:
 岨	uhqs
 𭖍	uhqs
 仄	uhrc
+㬰	uhrr
 𣅁	uhrr
 㞤	uhrs
 𣌁	uhru
 𣌂	uhru
 峑	uhrw
 𪰡	uhrw
-㬰	uhry
 𠩸	uhsc
 㼔	uhsg
 𩩒	uhsg
@@ -175190,11 +175190,11 @@ encoder:
 𧋯	uivc
 遷	uivj
 𱥇	uivl
+𣌦	uivr
 峍	uivs
 䙴	uivs
 𡷏	uivs
 𦒘	uivw
-𣌦	uivy
 𪄷	uiwg
 𮰑	uiwj
 𰖂	uiwj
@@ -175205,7 +175205,7 @@ encoder:
 𲊷	uiwy
 𭨅	uixa
 𪨶	uixc
-𣌢	uixy
+𣌢	uixr
 𬁚	uiyh
 𡺫	uiyj
 𭧏	uiyj
@@ -175439,7 +175439,6 @@ encoder:
 𦓞	ukbf
 𫪸	ukbs
 𢢸	ukcl
-𡿯	ukcr
 𣅕	ukcr
 𡵅	ukcs
 崰	ukct
@@ -175447,6 +175446,7 @@ encoder:
 𤲇	ukct
 旤	ukcu
 𡻝	ukcy
+𡿯	ukcy
 𩪑	ukcy
 㞻	ukda
 𩨴	ukda
@@ -175865,11 +175865,11 @@ encoder:
 暆	umse
 𡻬	umsg
 𡾧	umsm
-𭥚	umsr
 汖	umss
 𡵰	umss
 𣳳	umsx
 𱦆	umsx
+𭥚	umsy
 𲌍	umto
 㫞	umty
 𣉲	umty
@@ -176310,8 +176310,8 @@ encoder:
 𠩰	upps
 䯉	upqg
 𭧓	upqq
-欥	upqr
 㰞	upqs
+欥	upqy
 𢾋	upra
 𢾡	upra
 貭	uprb
@@ -176328,11 +176328,11 @@ encoder:
 𮪦	upsg
 𭥡	upsk
 早	upsr
-旪	upsr
 𠦆	upsr
 𫵱	upss
 𫶣	upsv
 𭗯	upsv
+旪	upsy
 𠪟	uptf
 𬀵	uptg
 䯋	upto
@@ -177163,13 +177163,12 @@ encoder:
 𬊘	uurh
 𣁗	uurl
 昍	uurr
-昌	uurr
 𤏒	uurr
+𭥗	uurr
 㞱	uurs
 龧	uuru
 𤦉	uurw
 𣆛	uurx
-𭥗	uury
 𡻌	uusc
 𣊐	uusc
 𤬆	uusg
@@ -177262,6 +177261,7 @@ encoder:
 㟳	uuym
 𣈁	uuym
 𭧅	uuym
+昌	uuyr
 岫	uuys
 峀	uuys
 峀	uuys
@@ -180546,7 +180546,6 @@ encoder:
 𣣤	vupq
 䖰	vuqi
 𧑊	vuqi
-蚎	vurc
 𣆊	vurc
 𧌚	vurh
 𫧍	vurk
@@ -180605,6 +180604,7 @@ encoder:
 䗑	vuxl
 𬡸	vuxy
 蚰	vuyc
+蚎	vuyc
 𮶐	vuye
 蠣	vuza
 䘈	vuzc
@@ -190796,7 +190796,7 @@ encoder:
 𪦵	yitw
 㭺	yiua
 𧯈	yiui
-𪳛	yiuy
+𪳛	yiur
 𣑵	yivm
 檶	yivp
 𣑿	yivs
@@ -192386,8 +192386,6 @@ encoder:
 㭛	yuqi
 𬄣	yuqi
 檟	yurb
-𣆑	yurc
-𣆩	yurc
 𣠽	yurf
 𪳒	yurg
 樮	yurh
@@ -192442,6 +192440,8 @@ encoder:
 𪴘	yuxz
 𨣹	yuyb
 𨤈	yuyb
+𣆑	yuyc
+𣆩	yuyc
 𣌧	yuyc
 䜬	yuyg
 𦥪	yuyj
@@ -195331,8 +195331,8 @@ encoder:
 莡	ziuc
 𧿍	ziui
 𨘎	ziuj
+𦶕	ziur
 𡷺	zius
-𦶕	ziuy
 茟	zivc
 𮎨	zivs
 𦳡	zivt
@@ -195714,8 +195714,8 @@ encoder:
 𱰊	zktw
 𰰭	zkty
 𱔋	zkud
+𣌭	zkur
 𰂅	zkus
-𣌭	zkuy
 蕺	zkva
 𮷎	zkvb
 𧊧	zkvc

@@ -7089,6 +7089,7 @@ columns:
 鹌	iuo	217
 蹰	iuo	142
 蹶	iup	274
+書	iur	104
 氜	iur	0
 氙	ius	129
 赸	ius	104
@@ -7101,7 +7102,6 @@ columns:
 蹋	iuw	476
 氥	iux	0
 跴	iux	0
-書	iuy	104
 麜	iuy	0
 趕	iuz	104
 距	iv1	11956	iv1
@@ -10578,7 +10578,6 @@ columns:
 潭	mup	1653
 灏	muq	180
 派	muq	100	mu1
-沓	mur	444
 汨	mur	325
 溵	mur	104
 燙	mur	104
@@ -10602,6 +10601,7 @@ columns:
 灦	muw	0
 洒	mux	3043
 油	muy	15975
+沓	muy	444
 汩	muy	215
 溧	muy	169
 涆	muz	0
@@ -12368,7 +12368,6 @@ columns:
 撢	oup	0
 擨	oup	0
 挀	ouq	0
-抇	our	104
 岛	ous	20112
 搋	ous	104
 扳	out	1162
@@ -12383,6 +12382,7 @@ columns:
 搨	ouw	0
 拪	oux	0
 抽	ouy	12336
+抇	ouy	104
 搮	ouy	0
 捍	ouz	786
 予	ov1	15334	ov1
@@ -16567,7 +16567,6 @@ columns:
 嶡	uup	0
 嶥	uup	0
 曋	uup	0
-昌	uur	5423
 昍	uur	104
 焸	uur	0
 屾	uus	104
@@ -16588,6 +16587,7 @@ columns:
 暥	uuw	0
 晒	uux	1704
 靨	uux	0
+昌	uuy	5423
 岫	uuy	222
 峀	uuy	0
 檿	uuy	0
@@ -17358,7 +17358,6 @@ columns:
 蟩	vup	0
 蠍	vup	0
 昬	vur	0
-蚎	vur	0
 屳	vus	0
 螔	vus	0
 贩	vut	2016
@@ -17369,6 +17368,7 @@ columns:
 蜫	vuw	0
 郾	vux	151
 蚰	vuy	140
+蚎	vuy	0
 多	vv1	238976	vv1
 巪	vva	0
 螑	vva	0
