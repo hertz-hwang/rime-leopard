@@ -12793,11 +12793,11 @@ encoder:
 𢄃	amuq	0.000000
 𩹘	amuq	0.000000
 𭸀	amuq	0.000000
-㹺	amur	0.000000
-𢃕	amur	0.000000
-𩷽	amur	0.000000
 㞼	amus	0.000000
 𬵇	amuv	0.000000
+㹺	amuy	0.000000
+𢃕	amuy	0.000000
+𩷽	amuy	0.000000
 𮄇	amv	0.000000
 𤡷	amvy	0.000000
 𥧲	amw	0.000000
@@ -16176,8 +16176,8 @@ encoder:
 𢊄	bmty	0.000000
 𩡍	bmu	0.000000
 𥣣	bmuo	0.000000
-䍝	bmur	0.000000
-𨡍	bmur	0.000000
+䍝	bmuy	0.000000
+𨡍	bmuy	0.000000
 𦑲	bmw	0.000000
 穕	bmy	0.000000
 𮃲	bnaa	0.000000
@@ -18414,7 +18414,7 @@ encoder:
 𬣥	cmty	0.000000
 弢	cmty	0.000000
 𢏌	cmu	0.000000
-𰵸	cmur	0.000000
+𰵸	cmuy	0.000000
 𩱮	cmv	0.000000
 㣄	cmvy	0.000000
 𩱣	cmx	0.000000
@@ -21409,12 +21409,12 @@ encoder:
 謢	dmty	0.000000
 𮀺	dmty	0.000000
 旾	dmu	0.000000
-䂿	dmur	0.000000
-誻	dmur	0.000000
 𢩎	dmur	0.000000
 𡵭	dmus	0.000000
 𢩤	dmut	0.000000
+䂿	dmuy	0.000000
 䛋	dmuy	0.000000
+誻	dmuy	0.000000
 𱟢	dmvr	0.000000
 𲆁	dmwj	0.000000
 𫡹	dmy	0.000000
@@ -25203,7 +25203,7 @@ encoder:
 𬑠	emty	0.000000
 眓	emum	0.000000
 𪾤	emum	0.000000
-𡌩	emur	0.000000
+𡌩	emuy	0.000000
 𪡑	emw	0.000000
 𩓁	emwy	0.000000
 𩓊	emwy	0.000000
@@ -33687,7 +33687,7 @@ encoder:
 𩬕	gmu	0.000000
 𩿠	gmun	0.000000
 𢕚	gmuo	0.000000
-𩭣	gmur	0.000000
+𩭣	gmuy	0.000000
 𩭶	gmuy	0.000000
 𪆫	gmv	0.000000
 𱳦	gmvy	0.000000
@@ -37060,8 +37060,8 @@ encoder:
 𠑊	hmu	0.000000
 𠎯	hmuf	0.000000
 𠇘	hmur	0.000000
-𠉤	hmur	0.000000
 𮨹	hmus	0.000000
+𠉤	hmuy	0.000000
 䝣	hmv	0.000000
 𠍲	hmvy	0.000000
 𡠓	hmw	0.000000
@@ -45036,11 +45036,11 @@ encoder:
 𭷂	jmup	0.000000
 𮆨	jmup	0.000000
 𥯠	jmuq	0.000000
-䈋	jmur	0.000000
-𩎽	jmur	0.000000
 𣻮	jmuu	0.000000
 𫁸	jmuu	0.000000
 𩎙	jmuw	0.000000
+䈋	jmuy	0.000000
+𩎽	jmuy	0.000000
 𱸊	jmuy	0.000000
 𮆒	jmv	0.000000
 笵	jmw	0.000000
@@ -48322,8 +48322,8 @@ encoder:
 𠾾	kmuo	0.000000
 𱕛	kmup	0.000000
 𠸁	kmuq	0.000000
-𠴲	kmur	0.000000
 𠽞	kmuw	0.000000
+𠴲	kmuy	0.000000
 𠶢	kmuy	0.000000
 𧐌	kmv	0.000000
 𭈣	kmvw	0.000000
@@ -51614,9 +51614,9 @@ encoder:
 𢟗	lmu	0.000000
 𪌙	lmum	0.000000
 𪌝	lmum	0.000000
-𣥾	lmur	0.000000
 𮁥	lmus	0.000000
 怴	lmux	0.000000
+𣥾	lmuy	0.000000
 𧊯	lmv	0.000000
 𧋔	lmvc	0.000000
 𱟏	lmvy	0.000000
@@ -55406,9 +55406,9 @@ encoder:
 𱾲	mmth	0.000000
 䨇	mmtt	0.000000
 𣺦	mmty	0.000000
-涾	mmu	0.000000
-泧	mmus	0.000000
+泧	mmu	0.000000
 𣳡	mmus	0.000000
+涾	mmuy	0.000000
 𪷙	mmw	0.000000
 㵈	mmwo	0.000000
 𣾙	mmxv	0.000000
@@ -59333,11 +59333,11 @@ encoder:
 𪒳	nmui	0.000000
 䮅	nmum	0.000000
 𩥜	nmuq	0.000000
-䵬	nmur	0.000000
-𩣯	nmur	0.000000
-𭼖	nmur	0.000000
 𭆯	nmut	0.000000
 𦒂	nmuw	0.000000
+䵬	nmuy	0.000000
+𩣯	nmuy	0.000000
+𭼖	nmuy	0.000000
 𫅦	nmw	0.000000
 𩑿	nmwy	0.000000
 𩒕	nmwy	0.000000
@@ -62422,9 +62422,9 @@ encoder:
 㨦	omty	0.000000
 𫾈	omug	0.000000
 𫾘	omup	0.000000
-㧺	omur	0.000000
 㧔	omus	0.000000
 𢱛	omux	0.000000
+㧺	omuy	0.000000
 𢭯	omvh	0.000000
 𱊨	omvy	0.000000
 𢬨	omw	0.000000
@@ -64879,7 +64879,7 @@ encoder:
 𨱓	pmr	0.000000
 𰾢	pmse	0.000000
 𨱆	pmuj	0.000000
-𰾓	pmur	0.000000
+𰾓	pmuy	0.000000
 𧍢	pmv	0.000000
 𰗿	pmy	0.000000
 龷	pnnn	0.000000
@@ -67042,9 +67042,9 @@ encoder:
 𮖤	qmty	0.000000
 𣬽	qmu	0.000000
 𱥟	qmum	0.000000
-𧛆	qmur	0.000000
-𨌭	qmur	0.000000
 𬘙	qmus	0.000000
+𧛆	qmuy	0.000000
+𨌭	qmuy	0.000000
 𰳚	qmv	0.000000
 𫐀	qmvy	0.000000
 𦨲	qmw	0.000000
@@ -70417,11 +70417,11 @@ encoder:
 𰟡	rmuf	0.000000
 𤇦	rmuh	0.000000
 𤋻	rmuq	0.000000
-鞜	rmur	0.000000
 𤒴	rmur	0.000000
-𤦊	rmur	0.000000
 𩋛	rmut	0.000000
 𭸿	rmuw	0.000000
+鞜	rmuy	0.000000
+𤦊	rmuy	0.000000
 璖	rmv	0.000000
 珱	rmw	0.000000
 𪹯	rmy	0.000000
@@ -73900,7 +73900,7 @@ encoder:
 𱇣	smto	0.000000
 𪵁	smty	0.000000
 𣧡	smu	0.000000
-𨵝	smur	0.000000
+𨵝	smuy	0.000000
 𮊥	smuy	0.000000
 𩕷	smwy	0.000000
 㱷	smy	0.000000
@@ -79091,12 +79091,12 @@ encoder:
 𣉲	umty	0.000000
 巌	umu	0.000000
 𡼍	umuf	0.000000
-崉	umur	0.000000
 𣆈	umur	0.000000
-𰖔	umur	0.000000
 㞽	umus	0.000000
 𡶔	umus	0.000000
 𡶙	umus	0.000000
+崉	umuy	0.000000
+𰖔	umuy	0.000000
 𪱖	umv	0.000000
 𪰤	umw	0.000000
 㠍	umy	0.000000
@@ -82498,7 +82498,7 @@ encoder:
 㝽	vmsy	0.000000
 𧉦	vmu	0.000000
 𧊎	vmuc	0.000000
-𧌏	vmur	0.000000
+𧌏	vmuy	0.000000
 𧑦	vmv	0.000000
 蟝	vmvy	0.000000
 𡠃	vmw	0.000000
@@ -86067,11 +86067,11 @@ encoder:
 𨮶	wmul	0.000000
 𢑾	wmum	0.000000
 鎃	wmuq	0.000000
-㛥	wmur	0.000000
-䎓	wmur	0.000000
-錔	wmur	0.000000
-𦧟	wmur	0.000000
 䎀	wmuv	0.000000
+㛥	wmuy	0.000000
+䎓	wmuy	0.000000
+錔	wmuy	0.000000
+𦧟	wmuy	0.000000
 𰃑	wmuy	0.000000
 𡡥	wmv	0.000000
 𨬡	wmvy	0.000000
@@ -93102,7 +93102,7 @@ encoder:
 𣐋	ymum	0.000000
 𭩤	ymum	0.000000
 𣙵	ymuo	0.000000
-㭼	ymur	0.000000
+㭼	ymuy	0.000000
 𣓐	ymuy	0.000000
 𣜮	ymv	0.000000
 𬄨	ymvy	0.000000
@@ -97358,11 +97358,11 @@ encoder:
 𧂧	zmum	0.000000
 䔽	zmun	0.000000
 藫	zmup	0.000000
-䓠	zmur	0.000000
 䕕	zmut	0.000000
 𫉰	zmuu	0.000000
 𦹲	zmuw	0.000000
 𦵜	zmux	0.000000
+䓠	zmuy	0.000000
 𦽼	zmuy	0.000000
 𫈜	zmuy	0.000000
 𱾈	zmuz	0.000000
@@ -101511,11 +101511,11 @@ encoder:
 𢄃	amuq
 𩹘	amuq
 𭸀	amuq
-㹺	amur
-𢃕	amur
-𩷽	amur
 㞼	amus
 𬵇	amuv
+㹺	amuy
+𢃕	amuy
+𩷽	amuy
 𮄇	amvw
 𤡷	amvy
 𥧲	amwa
@@ -105187,8 +105187,8 @@ encoder:
 𢊄	bmty
 𩡍	bmua
 𥣣	bmuo
-䍝	bmur
-𨡍	bmur
+䍝	bmuy
+𨡍	bmuy
 𦑲	bmwv
 穕	bmym
 𮃲	bnaa
@@ -107719,7 +107719,7 @@ encoder:
 𬣥	cmty
 弢	cmty
 𢏌	cmug
-𰵸	cmur
+𰵸	cmuy
 𩱮	cmvu
 㣄	cmvy
 𩱣	cmxu
@@ -111066,12 +111066,12 @@ encoder:
 謢	dmty
 𮀺	dmty
 旾	dmur
-䂿	dmur
-誻	dmur
 𢩎	dmur
 𡵭	dmus
 𢩤	dmut
+䂿	dmuy
 䛋	dmuy
+誻	dmuy
 𱟢	dmvr
 磲	dmvy
 𲆁	dmwj
@@ -115281,7 +115281,7 @@ encoder:
 魆	emug
 眓	emum
 𪾤	emum
-𡌩	emur
+𡌩	emuy
 𪡑	emwn
 𩓁	emwy
 𩓊	emwy
@@ -124576,7 +124576,7 @@ encoder:
 𩬕	gmub
 𩿠	gmun
 𢕚	gmuo
-𩭣	gmur
+𩭣	gmuy
 𩭶	gmuy
 𪆫	gmvy
 𱳦	gmvy
@@ -128342,8 +128342,8 @@ encoder:
 𠑊	hmua
 𠎯	hmuf
 𠇘	hmur
-𠉤	hmur
 𮨹	hmus
+𠉤	hmuy
 䝣	hmvy
 𠍲	hmvy
 𡠓	hmwn
@@ -132502,8 +132502,8 @@ encoder:
 𡮛	imue
 䬂	imuf
 𨆺	imul
-踏	imur
 䟠	imuu
+踏	imuy
 越	imuz
 𧻯	imvh
 𡙯	imwj
@@ -137076,11 +137076,11 @@ encoder:
 𭷂	jmup
 𮆨	jmup
 𥯠	jmuq
-䈋	jmur
-𩎽	jmur
 𣻮	jmuu
 𫁸	jmuu
 𩎙	jmuw
+䈋	jmuy
+𩎽	jmuy
 𱸊	jmuy
 𮆒	jmvy
 笵	jmwj
@@ -140743,8 +140743,8 @@ encoder:
 𠾾	kmuo
 𱕛	kmup
 𠸁	kmuq
-𠴲	kmur
 𠽞	kmuw
+𠴲	kmuy
 𠶢	kmuy
 𧐌	kmvc
 𭈣	kmvw
@@ -144444,9 +144444,9 @@ encoder:
 𢟗	lmue
 𪌙	lmum
 𪌝	lmum
-𣥾	lmur
 𮁥	lmus
 怴	lmux
+𣥾	lmuy
 𧊯	lmvc
 𧋔	lmvc
 𱟏	lmvy
@@ -148809,9 +148809,9 @@ encoder:
 䨇	mmtt
 雙	mmty
 𣺦	mmty
-涾	mmur
 泧	mmus
 𣳡	mmus
+涾	mmuy
 𪷙	mmwj
 㵈	mmwo
 犨	mmxn
@@ -153290,11 +153290,11 @@ encoder:
 𪒳	nmui
 䮅	nmum
 𩥜	nmuq
-䵬	nmur
-𩣯	nmur
-𭼖	nmur
 𭆯	nmut
 𦒂	nmuw
+䵬	nmuy
+𩣯	nmuy
+𭼖	nmuy
 𫅦	nmwv
 𩑿	nmwy
 𩒕	nmwy
@@ -156775,9 +156775,9 @@ encoder:
 𫾈	omug
 𫾘	omup
 昶	omur
-㧺	omur
 㧔	omus
 𢱛	omux
+㧺	omuy
 𢭯	omvh
 㧟	omvk
 𱊨	omvy
@@ -159726,7 +159726,7 @@ encoder:
 䥽	pmto
 钺	pmuj
 𨱆	pmuj
-𰾓	pmur
+𰾓	pmuy
 𧍢	pmvc
 𰗿	pmym
 廿	pnnn
@@ -162316,9 +162316,9 @@ encoder:
 𮖤	qmty
 𣬽	qmum
 𱥟	qmum
-𧛆	qmur
-𨌭	qmur
 𬘙	qmus
+𧛆	qmuy
+𨌭	qmuy
 𰳚	qmvc
 𫐀	qmvy
 𦨲	qmwj
@@ -166125,11 +166125,11 @@ encoder:
 𰟡	rmuf
 𤇦	rmuh
 𤋻	rmuq
-鞜	rmur
 𤒴	rmur
-𤦊	rmur
 𩋛	rmut
 𭸿	rmuw
+鞜	rmuy
+𤦊	rmuy
 璖	rmvy
 珱	rmwn
 𪹯	rmym
@@ -170056,7 +170056,7 @@ encoder:
 𱇣	smto
 𪵁	smty
 𣧡	smud
-𨵝	smur
+𨵝	smuy
 𮊥	smuy
 闊	smws
 𩕷	smwy
@@ -175878,12 +175878,12 @@ encoder:
 𣉲	umty
 巌	umua
 𡼍	umuf
-崉	umur
 𣆈	umur
-𰖔	umur
 㞽	umus
 𡶔	umus
 𡶙	umus
+崉	umuy
+𰖔	umuy
 𪱖	umvh
 𪰤	umwn
 㠍	umym
@@ -179673,7 +179673,7 @@ encoder:
 㝽	vmsy
 𧉦	vmuc
 𧊎	vmuc
-𧌏	vmur
+𧌏	vmuy
 𧑦	vmvh
 蟝	vmvy
 𡠃	vmwn
@@ -183589,11 +183589,11 @@ encoder:
 𢑾	wmum
 𡛟	wmun
 鎃	wmuq
-㛥	wmur
-䎓	wmur
-錔	wmur
-𦧟	wmur
 䎀	wmuv
+㛥	wmuy
+䎓	wmuy
+錔	wmuy
+𦧟	wmuy
 𰃑	wmuy
 𡡥	wmvy
 𨬡	wmvy
@@ -191380,7 +191380,7 @@ encoder:
 𣐋	ymum
 𭩤	ymum
 𣙵	ymuo
-㭼	ymur
+㭼	ymuy
 𣓐	ymuy
 𣜮	ymvt
 𬄨	ymvy
@@ -196208,11 +196208,11 @@ encoder:
 䔽	zmun
 藫	zmup
 蒎	zmuq
-䓠	zmur
 䕕	zmut
 𫉰	zmuu
 𦹲	zmuw
 𦵜	zmux
+䓠	zmuy
 𦽼	zmuy
 𫈜	zmuy
 𱾈	zmuz

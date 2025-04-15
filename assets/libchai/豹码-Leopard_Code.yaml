@@ -203,6 +203,14 @@ data:
       operator: ⿲
       operandList: [戈, "\ue82f", "\ue077"]
       order: [{index: 0, strokes: 0}, {index: 1, strokes: 0}, {index: 2, strokes: 0}]
+    昌:
+      type: compound
+      operator: ⿱
+      operandList: [日, 曰]
+    沓:
+      type: compound
+      operator: ⿱
+      operandList: [水, 曰]
   tags:
     - 衣框
     - 行框
@@ -589,7 +597,6 @@ form:
     囚: kq
     龱: kl
     麥: lm
-    与: ny
     車: qc
     纟: qs
     貝: rb
@@ -898,39 +905,14 @@ encoder:
     - length_equal: 1
       schemes: [{prefix: 1}, {prefix: 2, count: 1}, {prefix: 3, count: 1}]
 optimization:
-  objective:
-    characters_full:
-      tiers: [{top: 1500, duplication: 0.4}, {top: 2000, duplication: 0.01}]
-      duplication: 200
-      key_distribution: 0.07
-      pair_equivalence: 0.6
-    characters_short:
-      tiers: [{top: 3000, duplication: 0.3}, {top: 3500, duplication: 0.001}]
-      duplication: 200
-      key_distribution: 0.09
-      pair_equivalence: 1.01
-      levels: [{length: 1, frequency: 1}, {length: 2, frequency: 2}, {length: 3, frequency: 3}, {length: 4, frequency: 8}]
+  objective: {}
   constraints:
-    elements:
-      - {element: '1', keys: [s, d, f, j]}
-      - {element: '2', keys: [h, j, k, l]}
-      - {element: '3', keys: [w, e, r, t]}
-      - {element: '4', keys: [u, i, o]}
-      - {element: '5', keys: [a, s, v]}
-      - {element: 口, keys: [d, j, k]}
-      - {element: 白, keys: [e, u, i, s, d, f, j, 'n']}
-      - {element: 日, keys: [w, e, r, t, u, i, o, d, f, h, j, k, l, v, 'n', m]}
-      - {element: 水, keys: [u, i, o, a, s, d, f, g, h, j, k, l, v, 'n', m]}
-      - {element: 手, keys: [w, e, r, t, u, i, o, a, s, d, f, g, h, j, k, l, x, c, v, 'n', m]}
-    indices:
-      - {index: 1}
+    elements: []
+    indices: []
+    element_indices: []
   metaheuristic:
     algorithm: SimulatedAnnealing
     report_after: 0.1
-    parameters:
-      t_max: 1
-      t_min: 1.e-9
-      steps: 4000000
 diagram:
   row_style: |-
     display: flex;
