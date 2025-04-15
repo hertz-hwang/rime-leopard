@@ -203,6 +203,14 @@ data:
       operator: ⿲
       operandList: [戈, "\ue82f", "\ue077"]
       order: [{index: 0, strokes: 0}, {index: 1, strokes: 0}, {index: 2, strokes: 0}]
+    昌:
+      type: compound
+      operator: ⿱
+      operandList: [日, 曰]
+    沓:
+      type: compound
+      operator: ⿱
+      operandList: [水, 曰]
   tags:
     - 衣框
     - 行框
@@ -589,7 +597,6 @@ form:
     囚: kq
     龱: kl
     麥: lm
-    与: ny
     車: qc
     纟: qs
     貝: rb
