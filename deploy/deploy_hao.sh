@@ -160,9 +160,9 @@ gen_schema() {
     pushd ${WD}/../assets/simpcode || error "无法切换到 simpcode 目录"
         python simpcode.py || error "生成简码失败"
         #cat res.txt >> "${HAO}/leopard.dict.yaml"
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard_smart_temp.dict.yaml
-        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard.dict.yaml
+        awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
     popd
 
     # 确保 leopard 配置文件存在
@@ -173,8 +173,8 @@ gen_schema() {
     done
 
     # 处理词典文件
-    if [ -f "${HAO}/leopard.dict.yaml" ]; then
-        cat "${HAO}/leopard.dict.yaml" | \
+    if [ -f "${HAO}/dicts/leopard.dict.yaml" ]; then
+        cat "${HAO}/dicts/leopard.dict.yaml" | \
             sed 's/^\(.*\)\t\(.*\)\t\(.*\)/\1\t\2/g' | \
             sed 's/\t/{TAB}/g' | \
             grep '.*{TAB}[a-z]\{1,2\}$' | \
@@ -195,7 +195,7 @@ gen_schema() {
         grep -v '#' "${HAO}/hao_quick.txt" >>"${HAO}/hao.base.dict.yaml" \
         || error "生成简化字码表失败"
     else
-        error "leopard.dict.yaml 文件不存在"
+        error "dicts/leopard.dict.yaml 文件不存在"
     fi
 
     # 运行智能整句简码生成脚本

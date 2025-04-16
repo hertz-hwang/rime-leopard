@@ -1,0 +1,104 @@
+# Rime dictionary
+# encoding: utf-8
+# CC-BY-4.0
+
+---
+name: leopard
+version: "beta"
+sort: by_weight
+use_preset_vocabulary: false
+columns:
+  - text
+  - code
+  - weight
+  - stem
+encoder:
+  exclude_patterns:
+    - '^[a-z]$'  # 一简不参与造词
+    - '[^a-z]'
+    - '^bg(zs|zx|ys|yx|jc|hx|sx)$'  # 表格
+    - '^sz[lyeswlqbj]'  # 数字
+    # - '^dl..$'  # 特殊字符和八卦名 "乾兑坎坤巽离艮震" 的符号编码（dl?g）.
+      # 误伤太多，取消这条。
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 10]
+      formula: "AaBaCaZa"
+...
+
+#----------快符----------#
+：“	;q
+？	;w
+（	;e
+）	;r
+→	;t
+·	;y
+~	;u
+——	;i
+〖	;o
+〗	;p
+！	;a
+……	;s
+、	;d
+“	;f
+”	;g
+『	;h
+』	;j
+￥	;k
+%	;l
+：	;
+；	;
+|	;z
+【	;x
+】	;c
+《	;v
+》	;b
+「	;n
+」	;m
+
+#----------单字开始----------#
+[单字标记]
+
+[单字全码]
+#----------单字结束----------#
+
+#----------一简多重----------#
+！	a	0
+》	b	0
+〉	b	0
+】	c	0
+〕	c	0
+、	d	0
+|	d	0
+（	e	0
+“	f	0
+‘	f	0
+”	g	0
+’	g	0
+『	h	0
+——	i	0
+—	i	0
+』	j	0
+￥	k	0
+$	k	0
+%	l	0
+」	m	0
+「	n	0
+〖	o	0
+〗	p	0
+：“	q	0
+：‘	q	0
+）	r	0
+……	s	0
+…	s	0
+→	t	0
+~	u	0
+《	v	0
+〈	v	0
+？	w	0
+【	x	0
+〔	x	0
+·	y	0

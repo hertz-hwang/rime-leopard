@@ -62,8 +62,8 @@ if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
         >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 fi
 
-if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
-    cat "${INPUT_DIR}/leopard.dict.yaml" | \
+if [ -f "${INPUT_DIR}/dicts/leopard.dict.yaml" ]; then
+    cat "${INPUT_DIR}/dicts/leopard.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
