@@ -161,7 +161,7 @@ gen_schema() {
         python simpcode.py || error "生成简码失败"
         #cat res.txt >> "${HAO}/leopard.dict.yaml"
         awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
-        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/leopard_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard_smart_temp.dict.yaml
+        awk '/单字标记/ {system("cat res.txt"); next} 1' ${HAO}/dicts/leopard_smart.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/leopard_smart_temp.dict.yaml
         awk '/单字全码/ {system("cat ../gendict/data/单字全码表_modified.txt"); next} 1' ${HAO}/dicts/leopard.dict.yaml > ${HAO}/temp && mv ${HAO}/temp ${HAO}/dicts/leopard.dict.yaml
     popd
 

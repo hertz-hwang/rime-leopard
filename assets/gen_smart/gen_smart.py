@@ -56,9 +56,9 @@ def main():
         print("错误：未设置SCHEMAS_DIR环境变量")
         sys.exit(1)
     process_dict_file(f"{schemas_dir}/leopard_smart_temp.dict.yaml", 
-                     f"{schemas_dir}/leopard_smart.dict.yaml",
+                     f"{schemas_dir}/dicts/leopard_smart.dict.yaml",
                      minimal_set)
-    print(f"处理完成！新文件已保存为 {schemas_dir}/leopard_smart.dict.yaml")
+    print(f"处理完成！新文件已保存为 {schemas_dir}/dicts/leopard_smart.dict.yaml")
 
 if __name__ == '__main__':
     main() 
