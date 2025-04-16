@@ -74,7 +74,7 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
         sed "s/3/'/g" \
         >"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
     
-    cat "${INPUT_DIR}/leopard.personal.dict.yaml" | \
+    cat "${INPUT_DIR}/dicts/leopard.personal.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \

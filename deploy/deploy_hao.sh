@@ -127,7 +127,7 @@ gen_schema() {
         cp "${HAO}/gendict/data/单字全码表.txt" "data/单字全码表.txt"
         cargo run || error "生成词典失败"
         cat data/output.txt >> "${HAO}/hao.words.dict.yaml"
-        cat "${HAO}/leopard_personal.txt" >> "${HAO}/leopard.personal.dict.yaml"
+        cat "${HAO}/leopard_personal.txt" >> "${HAO}/dicts/leopard.personal.dict.yaml"
     popd
 
     # 生成单字fix全码表
