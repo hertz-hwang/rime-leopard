@@ -20,9 +20,9 @@ columns:
 #自动编码词组
 豹码
 
-# 自定义编码不必遵循徐码编码规则，词条也不必是汉字。
+# 自定义编码不必遵循豹码编码规则，词条也不必是汉字。
 
-#不合徐码编码规则的词条	sdsd
-#Xuma is good!	good
-#Rime 徐码三重注解	rime
-#Rime 徐码五二顶	rime
+#不合豹码编码规则的词条	rzhj
+#Hao is good!	good
+#Rime 豹码三重注解	rime
+#Rime 豹码整句	rime

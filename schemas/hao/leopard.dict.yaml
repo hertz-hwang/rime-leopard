@@ -7,7 +7,7 @@ name: leopard
 version: "beta"
 sort: by_weight
 import_tables:
-  - leopard.extended
+  - dicts/leopard.extended
   - dicts/leopard.personal
 use_preset_vocabulary: false
 columns:
