@@ -67,7 +67,7 @@ gen_schema() {
     log "开始生成方案: ${NAME}"
     
     local HAO="${RAMDISK}/${NAME}"
-    mkdir -p "${HAO}/lua/amz" "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/leopard" "${HAO}/lua/cold_word_drop" "${HAO}/opencc" || error "无法创建必要目录"
+    mkdir -p "${HAO}/assets" "${HAO}/lua/amz" "${HAO}/lua/hao" "${HAO}/lua/ace" "${HAO}/lua/leopard" "${HAO}/lua/cold_word_drop" "${HAO}/opencc" || error "无法创建必要目录"
     
     # 复制基础文件到内存
     log "复制基础文件到内存..."

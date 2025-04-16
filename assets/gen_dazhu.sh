@@ -22,7 +22,7 @@ cat "${INPUT_DIR}/hao.words.dict.yaml" | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >"${OUTPUT_DIR}/dazhu-hao.txt"
+    >"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 
 cat "${INPUT_DIR}/hao.base.dict.yaml" | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -33,7 +33,7 @@ cat "${INPUT_DIR}/hao.base.dict.yaml" | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>"${OUTPUT_DIR}/dazhu-hao.txt"
+    >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 
 cat "${INPUT_DIR}/hao.full.dict.yaml" | \
     sed 's/^\(.*\)\t\(.*\)/\1\t\2⇥/g' | \
@@ -44,7 +44,7 @@ cat "${INPUT_DIR}/hao.full.dict.yaml" | \
     sed 's/1/_/g' | \
     sed 's/2/;/g' | \
     sed "s/3/'/g" \
-    >>"${OUTPUT_DIR}/dazhu-hao.txt"
+    >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 
 if [ -f "${INPUT_DIR}/hao.symbols.dict.yaml" ]; then
     cat "${INPUT_DIR}/hao.symbols.dict.yaml" | \
@@ -53,13 +53,13 @@ if [ -f "${INPUT_DIR}/hao.symbols.dict.yaml" ]; then
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
         awk '{print "/" $2 "\t" $1}' \
-        >>"${OUTPUT_DIR}/dazhu-hao.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 fi
 
 if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
     cat "${INPUT_DIR}/opencc/hao_div.txt" | \
         sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-        >>"${OUTPUT_DIR}/dazhu-hao.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 fi
 
 if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
@@ -72,7 +72,7 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
         sed 's/1/_/g' | \
         sed 's/2/;/g' | \
         sed "s/3/'/g" \
-        >"${OUTPUT_DIR}/dazhu-leopard.txt"
+        >"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
     
     cat "${INPUT_DIR}/leopard.personal.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -80,7 +80,7 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
         awk '{print $2 "\t" $1}' \
-        >>"${OUTPUT_DIR}/dazhu-leopard.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
     
     cat "${INPUT_DIR}/hao.symbols.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -88,15 +88,15 @@ if [ -f "${INPUT_DIR}/leopard.dict.yaml" ]; then
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
         awk '{print "/" $2 "\t" $1}' \
-        >>"${OUTPUT_DIR}/dazhu-leopard.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
 
     if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
         cat "${INPUT_DIR}/opencc/hao_div.txt" | \
             sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-            >>"${OUTPUT_DIR}/dazhu-leopard.txt" && \
+            >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt" && \
         cat "${INPUT_DIR}/opencc/hao_div.txt" | \
             sed 's/\(.*\)\t(\(.*\),.*,.*/\2\t\1/g' \
-            >"${OUTPUT_DIR}/dazhu-leopard-chai.txt"
+            >"${OUTPUT_DIR}/assets/dazhu-leopard-chai.txt"
     fi
 fi
 
