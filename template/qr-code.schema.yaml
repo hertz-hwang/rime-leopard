@@ -31,11 +31,12 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
-    - script_translator
+    - table_translator
 
 speller:
   alphabet: "zyxwvutsrqponmlkjihgfedcba;,./"
   delimiter: " '"
+  auto_select: true
 
 translator:
   dictionary: qr-code
