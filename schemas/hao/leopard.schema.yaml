@@ -263,7 +263,7 @@ punctuator:
 # 本节点仅用于被 __patch 指令引用
 key_bindings:
   __append:
-    - { when: has_menu, accept: "Control+Shift+T", toggle: super_tips }
+    #- { when: has_menu, accept: "Control+Shift+T", toggle: super_tips }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: composing, accept: "Control+s", toggle: single_char_only }
     - { when: composing, accept: "Control+t", toggle: lazy_clock }
