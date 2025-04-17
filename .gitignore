@@ -10,5 +10,6 @@
 /schemas/hao/hao.smart
 /schemas/hao/*.userdb
 /schemas/hao/*.userdb.bak
+/schemas/hao/dicts/*.userdb
 /schemas/hao/weasel.custom.yaml
 /schemas/releases

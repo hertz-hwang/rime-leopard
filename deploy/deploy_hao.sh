@@ -90,6 +90,7 @@ gen_schema() {
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."
         cp -r "${NAME}"/*.txt "${HAO}"
+        mv "${HAO}/leopard_tips.txt" "${HAO}/dicts/leopard_tips.txt"
     fi
 
     # 生成映射表

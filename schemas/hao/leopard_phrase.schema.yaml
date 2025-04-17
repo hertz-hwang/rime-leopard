@@ -16,10 +16,19 @@ schema:
 
 __patch:
   switches/@0/reset: 0    # GB2312字集
+  switches/@4/reset: 1    # 简入繁出
   switches/@6/reset: 0    # 注解
-  switches/@9/reset: 1    # lazy_clock
+  switches/@9/reset: 0    # lazy_clock
+  switches/@last:
+    name: super_tips
+    states: [ off, tips ]
+    reset: 1
+  engine/processors/@after 1: lua_processor@*amz.super_tips*S
   engine/translators/@after 2: script_translator@smartuser
   engine/translators/@after 3: script_translator@smartfixed
+  engine/filters/@after 6: lua_filter@*amz.super_tips*M
+  key_binder/+:
+    tips_key: "bracketright"
 
 speller:
   alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
