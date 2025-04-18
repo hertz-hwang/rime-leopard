@@ -1,0 +1,483 @@
+# Rime user dictionary
+#@/db_name	leopard_smart
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	0
+#@/user_id	hao
+aa set xd ye hxke	书堂隐相儒	c=0 d=0 t=0
+ad yq xkk cso e_ he	司机告诉了他	c=0 d=0 t=0
+afs ai wt wgi ke xhq avc kj	勿因群疑而阻独见	c=0 d=0 t=0
+ai lkj gu ldk	因祸得福	c=0 d=0 t=0
+ail ghq xr mrr ke mgqi	恩宜先淡而浓	c=0 d=0 t=0
+ak v_ j_ gk jfy ur hi ru r_ wh oj	回来的知青日子都不好过	c=0 d=0 t=0
+alg zma zma j_ znj di f_ kn pf d_ qfw hwh pf hwh cu j_ jb zy	空荡荡的蓝天上只有一缕似有似无的白云	c=0 d=0 t=0
+ao al yy ym pe gl	那里林木真密	c=0 d=0 t=0
+ao alx ys oq gk sp hh lsd qb nre g_ v_ j_ uo tu b_ ic ggd kf	那怎样预知每个恒纪元到来的时间和长短呢	c=0 d=0 t=0
+ao di df sps p_ opg mye j_ lg ee f_	那天下午在良湘的工地上	c=0 d=0 t=0
+ao es ph j_ qj jp yy ym hg uoy gu r_ dl sa e_	那幸存的几片林木倒显得不正常了	c=0 d=0 t=0
+ao hh mm tag ng wm chn xm f_ j_ zji lww vk gp xe kc	那个游戏登录界面上的英文名很特别	c=0 d=0 t=0
+ao u_ d_ bk cp jez r_ gkj vn aj dzf xm bkn j_ cp jez yq bkr bo jez me	那是一种计算不规则图形面积的计算机程序算法	c=0 d=0 t=0
+ao xzl he qhl tfl j_ nh db ttt ez qjh hhr pee n_ f_ j_ xc mz k_ pfk m_ v_	那辆他熟悉的黑色桑塔纳从街道上的车流中钻出来	c=0 d=0 t=0
+as hy tk ue j_ pe dl dg gv	三体问题的真正解决	c=0 d=0 t=0
+as sl kk is	三年口生	c=0 d=0 t=0
+bif map qhh hs pi qfy alf ug ke r_ gk	稍放纵便销膏靡骨而不知	c=0 d=0 t=0
+bj to fn ii da rur xu is e_ gp mgn j_ lx ra uq kt	己对其参与者产生了很深的心理影响	c=0 d=0 t=0
+bjw xhb ck gmd	乘除加减	c=0 d=0 t=0
+blt aa ic hkw nfr s_ no alg k_ j_ obe pnz c_	秘书长仰望着半空中的摆锤说	c=0 d=0 t=0
+bn da gj jd ema	利与害同城	c=0 d=0 t=0
+bs ps kj dol	四十见恶	c=0 d=0 t=0
+bwe ma etx etx ep to i_ kei c_	魏成眨眨眼对大史说	c=0 d=0 t=0
+bwe ma fog fa jt e_ d_ df	魏成居然笑了一下	c=0 d=0 t=0
+bwe ma fz f_ pf d_ qqs xsc lq	魏成脸上有一丝震惊	c=0 d=0 t=0
+bwe ma na su e_ d_ dyj ud	魏成重复了一遍后	c=0 d=0 t=0
+bwe ma sp di d_ hh h_ goc s_ gw g_ bz p_ zg hp ti	魏成每天一个人守着它到底在干什么	c=0 d=0 t=0
+bwe ma xf p_ xkl ci j_ at cj	魏成站在靠东的窗边	c=0 d=0 t=0
+cc cu opg pty r_ gk bj x_ pf oj	男无良友不知己之有过	c=0 d=0 t=0
+ccy ue qh p_ d_ hh i_ xk nn vm fg ru u_ atf mjd j_ yoc be xgm hqp rc hym ta	课题组在一个大部分民屋都是窑洞的村庄旁停留休整	c=0 d=0 t=0
+cf he ob l_ hh bl mg dk go tj hr pa chn ut su mgsd mly	让他把这个科学事实向全世界反复渲染	c=0 d=0 t=0
+cjf qz t_ as hh js sn	请给我三个士兵	c=0 d=0 t=0
+ck f_ gpi tkj j_ as qm	加上宏观的三维	c=0 d=0 t=0
+ck f_ mrw mmm b_ bwe ma	加上汪淼和魏成	c=0 d=0 t=0
+cl wq hym dv na	力微休负重	c=0 d=0 t=0
+cpa aa vvb if wgi	读书贵能疑	c=0 d=0 t=0
+cpa rur ffy pty ht jv iz oj t_ p_ oj ei j_ d_ sl k_ iz oj j_ fjf lu uc bkr	读者朋友们将走过我在过去的一年中走过的精神历程	c=0 d=0 t=0
+cr y_ l_ hh rb hi j_ zn xm f_ is mw s_ d_ bk ne qm gku if is xa	设想这个靶子的平面上生活着一种二维智能生物	c=0 d=0 t=0
+cu kk oj u_	无口过是	c=0 d=0 t=0
+cu wl k_ owj e_ d_ ep uoy ls pap	无意中扫了一眼显示器	c=0 d=0 t=0
+cuk dy nre dsm tf	语言元码系	c=0 d=0 t=0
+cxl aj rjk rk ao up bi nl eiw j_ nbo dr	试图再现那早已忘却的尊严	c=0 d=0 t=0
+d_ dk cu ma	一事无成	c=0 d=0 t=0
+d_ dl ueo dj rxe	一正压百邪	c=0 d=0 t=0
+d_ gpq ylr dp snr ur	一次毁于烈日	c=0 d=0 t=0
+d_ hh cyq ja ui j_ px ui	一个颗状星的行星	c=0 d=0 t=0
+d_ lvy pkjc pw dzo zw dudn px ke r_ mgk	一忧勤即砥节砺行而不觉	c=0 d=0 t=0
+d_ nnl ke osj zn is x_ ldk	一忿而折平生之福	c=0 d=0 t=0
+da vf ui lww uf ek if j_ ox dgv to iw nf pa chn yk fak xu is j_ uq kt j_ qnd ll nn ysj	与外星文明可能的接触对当前世界格局产生的影响的初步分析	c=0 d=0 t=0
+da vf ui lww uf ir xl vni tf ud j_ dla jyj da fka ckg ddz alj	与外星文明建立联系后的政策与战略研究	c=0 d=0 t=0
+da vo nd crr ccy ue mf tj	与导师谈课题方向	c=0 d=0 t=0
+db r_ od ndj	色不护病	c=0 d=0 t=0
+di cj j_ ix io xur ob gw j_ uq hi ic ic ee ors xoc g_ i_ ee f_	天边的小太阳把它的影子长长地投射到大地上	c=0 d=0 t=0
+di tv zp xct	天闻若雷	c=0 d=0 t=0
+dj lnw x_ k_ df d_ ll tym yfn u_ gp pf lt uw j_	百忙之中下一步闲棋是很有必要的	c=0 d=0 t=0
+dn dk tc h_ hym ezz uvw	万事劝人休瞒昧	c=0 d=0 t=0
+dw vn ek ye hqi	急则可相依	c=0 d=0 t=0
+dy uwq px	言顾行	c=0 d=0 t=0
+ee rdm h_ j_ lk jee fzu da as hy h_ fi hwh	地球人的视网膜与三体人类似	c=0 d=0 t=0
+eiw if ev gm dd hn ij t_ ht to ya ir k_ j_ k_ a_ bl dae spa hwp vvk udv j_ lj md da hdy lx	却能够准确传达我们对构建中的中国科幻繁华巨厦的情感与信心	c=0 d=0 t=0
+ek jt	可笑	c=0 d=0 t=0
+ek kc lle	可别恼	c=0 d=0 t=0
+ek pj esk yoc j_ h_ je r_ fj v_ dpq e_	可南圪村的人等不及来砍了	c=0 d=0 t=0
+ek u_ jx as di	可是第三天	c=0 d=0 t=0
+ema la q_ u_ yyy yy	城市就是森林	c=0 d=0 t=0
+en hy ho me u_ p_ xpq hxn k_ gy i_ uda j_ ix rdm xp yq ojk op ao evh r_ gkj vn aj dzf	具体做法是在软件中用大量的小球随机击打那块不规则图形	c=0 d=0 t=0
+epd s_ bwe ma oe e_ wh d_ xx re	盯着魏成看了好一阵儿	c=0 d=0 t=0
+ey gu g_ fne ee al	也得到基地里	c=0 d=0 t=0
+ey q_ ek w_ md gk gpi tkj pa chn e_	也就可以感知宏观世界了	c=0 d=0 t=0
+fa ud xn tj bwe ma	然后转向魏成	c=0 d=0 t=0
+fd hij ds ozc gd j_ h_ fi px o_	卡逊所描写的人类行为	c=0 d=0 t=0
+fg ydu mss ey mxj gu vv	屋檐水也滴得多	c=0 d=0 t=0
+fgg hb se is zo ivt	甘余更生苦趣	c=0 d=0 t=0
+fn go	其实	c=0 d=0 t=0
+fnk hyg hym ph gti hyg lx	脱俗休存矫俗心	c=0 d=0 t=0
+fog fa u_ uh ro zlf j_ dei gf bwe ma	居然是申玉菲的丈夫魏成	c=0 d=0 t=0
+fw mg b_ hw mg ru rh	数学和化学都教	c=0 d=0 t=0
+g_ ij ikk mq ud d_ mxj mxj ee mxj p_ df xm d_ hh alg jye hi f_	到达台沿后一滴滴地滴在下面一个空箱子上	c=0 d=0 t=0
+gdk vvb ge dy uw hqi nn	富贵定言要依分	c=0 d=0 t=0
+gf diw oei na ey nn lej	夫妻义重也分离	c=0 d=0 t=0
+gh nnv clx opg diw	家贫思良妻	c=0 d=0 t=0
+gi it uw nv xr tj fni mgd ls d_ df l_ bk cp jez wk hek vj px kb	至少要首先向朕演示一下这种计算如何进行吧	c=0 d=0 t=0
+gjo sj ud gy jhh ep mj uys ek sns	凑近后用肉眼清晰可辨	c=0 d=0 t=0
+gk n_ ao on re if rxe g_ hp ti bkr bp	知道那招儿能邪到什么程度	c=0 d=0 t=0
+gku hi d_ kd b_ ne kd jv ff tj ee rdm	智子一号和二号将飞向地球	c=0 d=0 t=0
+gnb s_ wh qj hh np ngw	夹着好几个皮卷	c=0 d=0 t=0
+gp hf og k_ a_ j_ mgx di hoe	很像古中国的浑天仪	c=0 d=0 t=0
+gp lv da io alg k_ fn he j_ qj hek hy muw p_ d_ ib r_ nn gnp lwb e_	很快与太空中其他的几何体混在一起不分彼此了	c=0 d=0 t=0
+gp lv tz g_ e_ dl alg	很快升到了正空	c=0 d=0 t=0
+gp to	很对	c=0 d=0 t=0
+gpd ek zgx kk zal hxf	宁可荤口念佛	c=0 d=0 t=0
+gph vap vwl tg or	盗贼怨失主	c=0 d=0 t=0
+gpi uj hi gp ek if q_ u_ nou ig uj hi p_ hzo qm bp j_ fp dz	宏原子很可能就是普通原子在低维度的展开	c=0 d=0 t=0
+gu koc hq koc	得耐且耐	c=0 d=0 t=0
+gu qg eep jfb hq qg eep	得高歌处且高歌	c=0 d=0 t=0
+gw bi tj bb zko sm zj mek jg ra fak ou m_ uh cjf	它已向巴拿马运河管理局提出申请	c=0 d=0 t=0
+gw dl ai gvn gz ke apj tjc gmd ix	它正因寒冷而迅速减小	c=0 d=0 t=0
+gw hdk mrw mmm rq ikp gi yf	它使汪淼烦躁至极	c=0 d=0 t=0
+gw jv d_ jp ppg wg opfa tj i_ ee	它将一片银光撒向大地	c=0 d=0 t=0
+gy mrw mmm r_ ava y_ fx u_ m_ vi dp we j_ cl uda b_ nte ge c_	用汪淼不敢想象是出自于她的力量和坚定说	c=0 d=0 t=0
+h_ dy vw lt avy fo	人言未必犹尽	c=0 d=0 t=0
+h_ igt tnb vn te	人受柬则圣	c=0 d=0 t=0
+h_ is hwh onn jd yy ghd	人生似鸟同林宿	c=0 d=0 t=0
+ha dk fq gup di ra	作事须循天理	c=0 d=0 t=0
+hca dix rj ek w_ oe g_ jd ll xlj n_ f_ j_ qj fk rp wg	偶尔还可以看到同步轨道上的几点灯光	c=0 d=0 t=0
+hd iw fa gk n_ opg mye ck tjc pap lg ee j_ ao ib rup raa gwy	你当然知道良湘加速器工地的那起爆炸案	c=0 d=0 t=0
+hd kao al ru ek w_ ei	你哪里都可以去	c=0 d=0 t=0
+hd l_ i_ ovt uq gh pu t_ hpu ye yq	你这大摄影家朝我借相机	c=0 d=0 t=0
+hd r_ nn t_ lw sv zg	你不分我些鱼干	c=0 d=0 t=0
+hd rj dse zr ml yp fe ow oo	你还硬充六根脚指头	c=0 d=0 t=0
+hdi gp vnk uf	您很聪明	c=0 d=0 t=0
+hdi uw oa as nq dn hh lz wq bkn nn j_	您要找三千万个懂微积分的	c=0 d=0 t=0
+hdk gy j_ r_ u_ sa gkj lww hxn ox kk	使用的不是常规文件接口	c=0 d=0 t=0
+he er jt s_ xn tj cto kv	他坏笑着转向译员	c=0 d=0 t=0
+he ht j_ lnq lsp gor gor ww ao lwb lf gk ckn nn hi j_ xnn eg vgw lu uw mgn xnd gu vv	他们的忏悔往往比那此非知识分子的牛鬼蛇神要深刻得多	c=0 d=0 t=0
+he j_ clx qru p_ ee rdm ao oms r_ eeo gci j_ znj db ms msy b_ wlh qw j_ yyy yy ct aov tu ff swv	他的思绪在地球那永不封冻的蓝色海洋和翠绿的森林田野间飞翔	c=0 d=0 t=0
+he j_ fz hf ao ncd np d_ ys fbe b_ dwn	他的脸像那兽皮一样脏和皱	c=0 d=0 t=0
+he jv njh ks xf j_ mt xoc di qda ow tj ee rdm hdy vl v_ muj j_ mf tj	他将监听站的发射天线指向地球信息来源的方向	c=0 d=0 t=0
+he ma lc ee oq dy e_ ic fnf hss gy xn fne ai gq xu kp xkj ma j_ ud hxi vvj hn cie dzf	他成功地预言了长期食用转基因农产品造成的后代遗传畸形	c=0 d=0 t=0
+he oe g_ uh ro zlf dl hhe p_ ua fle nf rnr mm tag	他看到申玉菲正坐在电脑前玩游戏	c=0 d=0 t=0
+he oq dy j_ ic lsd qb nre dz wi e_	他预言的长恒纪元开始了	c=0 d=0 t=0
+he rj oe g_ e_ nr mf cs vv uoy fa u_ zg hwj j_ ir jlq	他还看到了远方许多显然是干仓的建筑	c=0 d=0 t=0
+hf bs ap qw db j_ rhh rdy av ay s_ kps osk jom	像四团绿色的火焰包围着叶哲泰	c=0 d=0 t=0
+hf cu fw kn vvk ow p_ an rnp rle	像无数只巨指在划玻璃	c=0 d=0 t=0
+hf d_ hh vvk so	像一个巨掌	c=0 d=0 t=0
+hf d_ hh vvk so jv kps lww mjk oje p_ fn k_	像一个巨掌将叶文洁攥在其中	c=0 d=0 t=0
+hf jo di ogy m_ mjd ax j_ voe wt	像春天拥出洞穴的蚁群	c=0 d=0 t=0
+hf nh di toa qaps f_ mt qqj j_ mss ppg	像黑天鹅绒上发亮的水银	c=0 d=0 t=0
+hf ua hi cj f_ j_ ix mid d_ ys	像电子边上的小溪一样	c=0 d=0 t=0
+hf un ar ton evc jgq d_ qr un ar e_ jh jgq	像照穿鸡蛋壳一般照穿了内壳	c=0 d=0 t=0
+hg u_ hf bwe ma l_ ys da as hy nout gx b_ as hy rh cu nid j_ di pt	倒是像魏成这样与三体叛军和三体教无关的天才	c=0 d=0 t=0
+hhj ib buy v_ eg ru rl	修起庙来鬼都老	c=0 d=0 t=0
+hhr kcl d_ hh qld at k_ ek w_ oe g_ f_ mf mses wc j_ uq hi	从另一个舷窗中可以看到上方旋翼的影子	c=0 d=0 t=0
+hhr ur yx ut bm ve mt m_ j_ if uda dz wi u_ w_ qg if hck sm xoc qda j_ dzf xlg mt m_	从日核反应区发出的能量开始是以高能伽马射线的形式发出	c=0 d=0 t=0
+hm hxf rhh zq rf fo	仿佛火药燃尽	c=0 d=0 t=0
+hn gh ne ghi tvj da cpa	传家二字耕与读	c=0 d=0 t=0
+hu eiw hdk ee rdm f_ j_ xa ra mg gh ht oms nr cu me agk kj xa upv mgn jfb j_ blt gl	但却使地球上的物理学家们永远无法窥见物质深处的秘密	c=0 d=0 t=0
+hu ey p_ vj px se ck xr vj j_ cu qda ua fw dsm hn nxj cxl sz	但也在进行更加先进的无线电数码传递试验	c=0 d=0 t=0
+hu fn k_ pf d_ hh i_ mfx mjd	但其中有一个大漏洞	c=0 d=0 t=0
+hu hf hwt lww fns b_ hd l_ ys j_ h_ bi r_ ek oar dmo	但像伊文斯和你这样的人已不可挽救	c=0 d=0 t=0
+hu hwt lww fns r_ p_ al xm	但伊文斯不在里面	c=0 d=0 t=0
+hu kps lww mjk eiw lx qru ib haq	但叶文洁却心绪起伏	c=0 d=0 t=0
+hu mrw mmm cb hor e_ we ao mj mzf j_ ep ejf	但汪淼记住了她那清澈的眼睛	c=0 d=0 t=0
+hu njh ks kv to gdp guy kkp jf j_ mnp dzf io qhl tfl e_	但监听员对宇宙噪声的波形太熟悉了	c=0 d=0 t=0
+hu nv xr kfj chs mrw mmm em wg j_ u_ d_ hx nh qi h_	但首先吸引汪淼目光的是一位黑衣人	c=0 d=0 t=0
+hu p_ gpi tkj pa chn	但在宏观世界	c=0 d=0 t=0
+hu rc mj jb p_ h_ tu	但留清白在人间	c=0 d=0 t=0
+hu uy dp fn p_ qq jh j_ tft map b_ obg pfa pf d_ hh oj bkr	但由于其在船内的释放和扩散有一个过程	c=0 d=0 t=0
+hu uy dp io xur upn xu is j_ xhq cl hdk fn gmd tjc	但由于太阳暴产生的阻力使其减速	c=0 d=0 t=0
+hu uy dp px ui zl xk nn j_ chs cl ovy z_	但由于行星两部分的引力扰动	c=0 d=0 t=0
+huh os ei ev fu dgy j_ d_ nzt mb	伸手去够桌角的一瓶酒	c=0 d=0 t=0
+hx dp mnp vv bnh kg j_ xek xct ux pb nfr nr pwr ir ma	位于波多黎各的阿雷西博望远镜建成	c=0 d=0 t=0
+hym tj wtk hi cdw wfe	休向君子诌媚	c=0 d=0 t=0
+hzf hzf oe e_ xf p_ we xgm cj j_ bwe ma d_ ep	偷偷看了站在她旁边的魏成一眼	c=0 d=0 t=0
+i_ kei fh jf fh iq ee dz kk c_	大史粗声粗气地开口说	c=0 d=0 t=0
+i_ kei nit jf nit iq ee tk	大史瓮声瓮气地问	c=0 d=0 t=0
+ibpt g_ een cj ei spq svb een f_ j_ muy dc	踱到墙边去欣赏墙上的油画	c=0 d=0 t=0
+iee kk hss vv hdyc ha ndj	爽口食多偏作病	c=0 d=0 t=0
+if bd ktn hd kps lww mjk jd jl	能称呼你叶文洁同志	c=0 d=0 t=0
+if ev lv odw ee oee ox g_ nk qda f_ zj px	能够快捷地挂接到总线上运行	c=0 d=0 t=0
+igp ai fns eu ks g_ he j_ ak jz ud ty naq naq ee xf p_ ao al wh d_ hz re	爱因斯坦听到他的回答后又默默地站在那里好一会儿	c=0 d=0 t=0
+igp ai fns eu u_ ut z_ j_ mg yo yt mdw	爱因斯坦是反动的学术权威	c=0 d=0 t=0
+igp ek w_ zd pto paj qwt	爱可以荆钗布裙	c=0 d=0 t=0
+ii ck d_ gpq mg qx rn wh wh gd qj hnn yzm yu	参加一次学习班好好写几份检查	c=0 d=0 t=0
+iid pq qc ic	尖顶细长	c=0 d=0 t=0
+io alg k_ j_ qg if fxl hi op g_ lk jee fzu f_	太空中的高能粒子打到视网膜上	c=0 d=0 t=0
+io xur tz g_ e_ dl alg	太阳升到了正空	c=0 d=0 t=0
+ir cr hhr ee jq ped ij ee rdm jd ll xlj n_ j_ io alg ua ynx q_ pf e_ ori yo fne dmj	建设从地表直达地球同步轨道的太空电梯就有了技术基础	c=0 d=0 t=0
+it iw it vt	少当少取	c=0 d=0 t=0
+it wn oqin oqin wqp wqp ee tj mtf gvn iz ei	少女袅袅婷婷地向潘寒走去	c=0 d=0 t=0
+ite dk hzm gy	省事俭用	c=0 d=0 t=0
+iw lx	当心	c=0 d=0 t=0
+iw uo t_ mgx xs muy mna ee ntm hhe p_ nh db j_ ms mtm f_	当时我浑身油污地瘫坐在黑色的海滩上	c=0 d=0 t=0
+ix ql wd sn ao zmn fa j_ clx ik xl xnd oa g_ e_ xl fe fk	小红卫兵那茫然的思路立刻找到了立脚点	c=0 d=0 t=0
+ixo oj jo us zu ym bu	麝过春山草木香	c=0 d=0 t=0
+iz g_ bwe ma xm nf	走到魏成面前	c=0 d=0 t=0
+jb mym xyy hhr av k_ oat m_ d_ yd znj db eeo xm j_ aa	白沐霖从包中掏出一本蓝色封面的书	c=0 d=0 t=0
+jb mym xyy to r_ nr jfb d_ hh ix hrh hi kmd n_	白沐霖对不远处一个小伙子喊道	c=0 d=0 t=0
+jb zy m_ uuys yd cu lx	白云出岫本无心	c=0 d=0 t=0
+jd tf j_ xa ra mg rh oig qnk ryy hhr ikk df j_ nf olf xf ib v_	同系的物理学教授绍琳从台下的前排站起来	c=0 d=0 t=0
+jd wl	同意	c=0 d=0 t=0
+je em wg wjc bm e_ l_ zur uwy ud	等目光适应了这昏暗后	c=0 d=0 t=0
+jfs hx ke px	素位而行	c=0 d=0 t=0
+jh zgd og is xu ir cr sn ap j_ ml hh nd bs ps d_ hh ap ps vv dn h_ q_ nn paj p_ l_ ejc tmw j_ yyy yy b_ zu uj x_ tu	内蒙古生产建设兵团的六个师四十一个团十多万人就分布在这辽阔的森林和草原之间	c=0 d=0 t=0
+jj en cb df e_ hd j_ lk jee fzu xe gdl	装具记下了你的视网膜特征	c=0 d=0 t=0
+jj en k_ j_ oo prh uoy ls pap	装具中的头盔显示器	c=0 d=0 t=0
+jl ghq qg ke xs ghq df	志宜高而身宜下	c=0 d=0 t=0
+jl iq d_ jtps mna e_	志气一卑污了	c=0 d=0 t=0
+jv uw xm nj j_ guh non ey u_ blf pf bm gu	将要面临的审判也是罪有应得	c=0 d=0 t=0
+jvb h_ x_ lx jvb bj	责人之心责己	c=0 d=0 t=0
+jwt ai zm jot mf ma juu	笋因落箨方成竹	c=0 d=0 t=0
+jx as hh wn h_ xs f_ hg rj pf lw sl xt uo j_ uq hi	第三个女人身上倒还有些年轻时的影子	c=0 d=0 t=0
+jx ne di mrw mmm ei qjh fm k_ lx f_ rn	第二天汪淼去纳米中心上班	c=0 d=0 t=0
+jx ne di xj al dz hz	第二天连里开会	c=0 d=0 t=0
+kd bi uy ck ig mof sk vu shm oxl gpb mss n_	号已由加通湖驶入盖拉德水道	c=0 d=0 t=0
+kd f_ j_ d_ xk nn qq kv	号上的一部分船员	c=0 d=0 t=0
+kd jh xk	号内部	c=0 d=0 t=0
+kd q_ ose s_ l_ n_ rai fqm dz wi xn tj	号就拖着这道烟尾开始转向	c=0 d=0 t=0
+kd wwp wr p_ ao hh njh ks xf lg ha e_ i_ no is ru mr m_ pp	号毕竟在那个监听站工作了大半生都没出错	c=0 d=0 t=0
+ke he pac j_ l_ pq eiw u_ gy d_ ow fh j_ pje jfc ruz ma j_	而他戴的这顶却是用一指粗的钢筋焊成的	c=0 d=0 t=0
+ke hq kn if p_ gpi tkj j_ ne qm zn xm f_ vj px	而且只能在宏观的二维平面上进行	c=0 d=0 t=0
+ke l_ xz lw cf mrw mmm gc bz uff mvv	而这险些让汪淼彻底崩溃	c=0 d=0 t=0
+ke u_ ob em wg my k_ g_ d_ hh mf tj	而是把目光集中到一个方向	c=0 d=0 t=0
+kei ckv hzo jf tk xgm cj d_ hx uoy fa u_ rup raa xa nao gh j_ gx gt	史强低声问旁边一位显然是爆炸物专家的军官	c=0 d=0 t=0
+kj ao hx rl h_ hdn zp cu fn dk ee hhe p_ ao re oxl rrz	见那位老人仍若无其事地坐在那儿拉琴	c=0 d=0 t=0
+kj g_ htj hek h_ ru u_ lx r_ p_ dld ee op hh on ktn	见到任何人都是心不在焉地打个招呼	c=0 d=0 t=0
+kn ai kl hsc h_	只因嘴伤人	c=0 d=0 t=0
+kn ljb br v_ pf gz uo	只怕秋来有冷时	c=0 d=0 t=0
+kn ljb h_ lj zl xm ndd	只怕人情两面刀	c=0 d=0 t=0
+kn pf	只有	c=0 d=0 t=0
+kn u_ hsn px ni dk ke bi	只是例行公事而已	c=0 d=0 t=0
+kn u_ p_ diw hi ojb j_ ao ngw f_ mr pf uoy ls ke bi	只是在妻子拍的那卷上没有显示而已	c=0 d=0 t=0
+kn u_ to m_ bhq xc al j_ mrw mmm c_	只是对出租车里的汪淼说	c=0 d=0 t=0
+kps lww mjk dz wi hhi qc ddz alj l_ d_ fzy fzy hil mih p_ io xur ua jvm ms msy k_ j_ ulq af r_ ge j_ zmb fzu	叶文洁开始仔细研究这一层层悬浮在太阳电浆海洋中的飘忽不定的薄膜	c=0 d=0 t=0
+kps lww mjk ei rj aa	叶文洁去还书	c=0 d=0 t=0
+kps lww mjk fz f_ hdn u_ d_ jp zn jfd	叶文洁脸上仍是一片平静	c=0 d=0 t=0
+kps lww mjk qga s_ jgb jgb ei e_ pm xym qnk ryy ao al	叶文洁带着冬冬去了母亲绍琳那里	c=0 d=0 t=0
+kt ib e_ xzi ui j_ qj jf jt	响起了零星的几声笑	c=0 d=0 t=0
+kz gu br qe i_ gh gqi	哈得秋风大家凉	c=0 d=0 t=0
+kz kz	哈哈	c=0 d=0 t=0
+l_ as hh as ps pl pk j_ wn h_ da iw sl ao as vk zji gpw xqe iee j_ ql wd sn bi mr pf htj hek ye hwh x_ jfb e_	这三个三十左右的女人与当年那三名英姿飒爽的红卫兵已没有任何相似之处了	c=0 d=0 t=0
+l_ cj j_ rup raa xa nao gh ey xt zbm ee jt jt	这边的爆炸物专家也轻蔑地笑笑	c=0 d=0 t=0
+l_ d_ cnd mrw mmm ru u_ p_ gl zy xoc ua di lww fne ee ks mit ruk us c_ j_	这一切汪淼都是在密云射电天文基地听沙瑞山说的	c=0 d=0 t=0
+l_ d_ jp olf ma dl mf dzf j_ ui ui ek if kn u_ hx dp px ui jd ll xlj n_ f_	这一片排成正方形的星星可能只是位于行星同步轨道上	c=0 d=0 t=0
+l_ gpq hwt lww fns mu hd ei	这次伊文斯派你去	c=0 d=0 t=0
+l_ gpq hz co yd v_ mr gwn olf hd ii ck	这次会议本来没安排你参加	c=0 d=0 t=0
+l_ jv yl jl s_ ee rdm as hy qh qk jx d_ gpq ni dz ng f_ h_ fi uc kei j_ sud ikk	这将标志着地球三体组织第一次公开登上人类历史的舞台	c=0 d=0 t=0
+l_ jvb hd dv gu e_ ksm	这责你负得了吗	c=0 d=0 t=0
+l_ lw qc qqs u_ mrw rh oig he ht xan xkj m_ v_ j_ ao bk kej	这些细丝是汪教授他们制造出来的那种叫	c=0 d=0 t=0
+l_ q_ wl kvw s_ gw cu me md gk gpi tkj pa chn	这就意味着它无法感知宏观世界	c=0 d=0 t=0
+l_ qyh ml dn kdm qf j_ vvk xnl ww mrw mmm y_ fx j_ uw i_ gu vv	这艘六万吨级的巨轮比汪淼想象的要大得多	c=0 d=0 t=0
+l_ rj gu sx zo hd ip s_ ei rjk ii cfy ii cfy	这还得辛苦你跟着去再参谋参谋	c=0 d=0 t=0
+l_ u_ bwe ma as hy tk ue fw mg yz dzn j_ pxj ox	这是魏成三体问题数学模型的链接	c=0 d=0 t=0
+l_ ys qg if gku hi ey if gy jd ys j_ mf xlg p_ he ht j_ lk jee fzu f_ op m_ ghi pm	这样高能智子也能用同样的方式在他们的视网膜上打出字母	c=0 d=0 t=0
+len me pu pu ki	惧法朝朝乐	c=0 d=0 t=0
+liif r_ nol erur	惨不忍睹	c=0 d=0 t=0
+lkj da ldk jd tm	祸与福同门	c=0 d=0 t=0
+llq v_ xym ey ezk	频来亲也疏	c=0 d=0 t=0
+lr ma e_ jd ll xlj n_ f_ j_ d_ hh vvk rdm	变成了同步轨道上的一个巨球	c=0 d=0 t=0
+lv vj ee df oiu zia gg	快进地下掩蔽室	c=0 d=0 t=0
+lww mjk if tv g_ xs cj cb rur xs f_ yn ym pfo dym j_ kvw n_	文洁能闻到身边记者身上松木锯末的味道	c=0 d=0 t=0
+lww mjk ks g_ l_ hh vk ghi gp ksk lq	文洁听到这个名字很吃惊	c=0 d=0 t=0
+lww uf j_ h_ ht xf p_ i_ ee f_ cu hc ee oe s_ l_ as cyq p_ dl alg hil hqp j_ ff ui	文明的人们站在大地上无助地看着这三颗在正空悬停的飞星	c=0 d=0 t=0
+lx gzk fna wk fg gzk	心宽甚如屋宽	c=0 d=0 t=0
+lx kg pf kj	心各有见	c=0 d=0 t=0
+m_ ju rur eiw md kty dp bl dae aa ao ve ve qj nq yc j_ pi uda	出版者却感叹于科幻书那区区几千册的销量	c=0 d=0 t=0
+map zz e_ bi tl qp	放弃了已延续	c=0 d=0 t=0
+mav xl sw	泡立死	c=0 d=0 t=0
+mb r_ od ntv	酒不护贤	c=0 d=0 t=0
+md igt s_ ee rdm is zkw j_ nbo dr	感受着地球生命的尊严	c=0 d=0 t=0
+mey eb bkn mss xmf br uzg	池塘积水防秋旱	c=0 d=0 t=0
+mi gh hdy carg lt ezk fn xym	治家信谗必疏其亲	c=0 d=0 t=0
+mi us mi mss r_ pay yto	治山治水不栽树	c=0 d=0 t=0
+mit mfx rjk tfc z_ ps uu df ud	沙漏再翻动十五下后	c=0 d=0 t=0
+mjm ib e_ d_ i_ ap zam iq	激起了一大团蒸气	c=0 d=0 t=0
+mm tag to iz to ik j_ h_ u_ d_ ik map px j_	游戏对走对路的人是一路放行的	c=0 d=0 t=0
+mnj vn lvb cyh rur v_	滥则贡谀者来	c=0 d=0 t=0
+mo h_ fq mo dw uo cu	济人须济急时无	c=0 d=0 t=0
+mr gn	没完	c=0 d=0 t=0
+mr pf dzf ke f_ j_ uq hi	没有形而上的影子	c=0 d=0 t=0
+mr pf io xur j_ uq hi	没有太阳的影子	c=0 d=0 t=0
+mrw mmm b_ bwe ma ip s_ vj e_ kc aoe	汪淼和魏成跟着进了别墅	c=0 d=0 t=0
+mrw mmm c_	汪淼说	c=0 d=0 t=0
+mrw mmm c_ s_	汪淼说着	c=0 d=0 t=0
+mrw mmm c_ s_ mt z_ e_ xc hi	汪淼说着发动了车子	c=0 d=0 t=0
+mrw mmm dp u_ f_ e_ i_ kei j_ xc	汪淼于是上了大史的车	c=0 d=0 t=0
+mrw mmm fw s_ mit mfx tfc z_ j_ gpq rh	汪淼数着沙漏翻动的次教	c=0 d=0 t=0
+mrw mmm gp lq ie xho sj alj wr p_ hp ti uo hhv hp ti ee mf xd zia e_ l_ ti vv h_	汪淼很惊奇附近究竟在什么时候什么地方隐蔽了这么多人	c=0 d=0 t=0
+mrw mmm gu gk e_ we ao uc qt qe xye j_ nf no is	汪淼得知了她那历经风霜的前半生	c=0 d=0 t=0
+mrw mmm iz g_ ao tu pf ix dzn yq j_ dmf tu al oa g_ e_ bwe ma	汪淼走到那间有小型机的房间里找到了魏成	c=0 d=0 t=0
+mrw mmm iz g_ we ud xm	汪淼走到她后面	c=0 d=0 t=0
+mrw mmm iz g_ yto yb gd ghi ikk nf	汪淼走到树桩写字台前	c=0 d=0 t=0
+mrw mmm iz m_ uwy gg	汪淼走出暗室	c=0 d=0 t=0
+mrw mmm iz vj gh tm	汪淼走进家门	c=0 d=0 t=0
+mrw mmm iz vj qjh fm k_ lx j_ or hy go sz gg	汪淼走进纳米中心的主体实验室	c=0 d=0 t=0
+mrw mmm j_ md mgk pf lw vz ys	汪淼的感觉有些异样	c=0 d=0 t=0
+mrw mmm kj g_ uh ro zlf j_ dei gf bwe ma	汪淼见到申玉菲的丈夫魏成	c=0 d=0 t=0
+mrw mmm l_ pt y_ ib vi bj p_ opg mye j_ qg if ck tjc pap lg ee k_ ey kj oj pdd hoe	汪淼这才想起自己在良湘的高能加速器工地中也见过丁仪	c=0 d=0 t=0
+mrw mmm lx qru tmi zn	汪淼心绪难平	c=0 d=0 t=0
+mrw mmm lx r_ p_ dld ee bma pms s_	汪淼心不在焉地敷衍着	c=0 d=0 t=0
+mrw mmm lx y_	汪淼心想	c=0 d=0 t=0
+mrw mmm m_ tm oia oj ye yq	汪淼出门抓过相机	c=0 d=0 t=0
+mrw mmm ogw zui dix fns ua dsm wtc cl dnp cto s_ l_ lw thr rki	汪淼按莫尔斯电码努力破译着这些闪烁	c=0 d=0 t=0
+mrw mmm op fas bwe ma tk	汪淼打断魏成问	c=0 d=0 t=0
+mrw mmm tj i_ kei huh m_ os ei	汪淼向大史伸出手去	c=0 d=0 t=0
+mrw mmm tj qjh fm k_ lx cjf e_ hfn	汪淼向纳米中心请了假	c=0 d=0 t=0
+mrw mmm v_ g_ i_ kei gen wae j_ cnb ni gg uo	汪淼来到大史凌乱的办公室时	c=0 d=0 t=0
+mrw mmm vj ei uo we dl hhe p_ mit mt f_ oe aa	汪淼进去时她正坐在沙发上看书	c=0 d=0 t=0
+mrw mmm xn tj sa jv gx	汪淼转向常将军	c=0 d=0 t=0
+mrw mmm xn xs ar oj lv ki j_ hxh hi ht	汪淼转身穿过快乐的孩子们	c=0 d=0 t=0
+mrw mmm xn xs hhr mit mt f_ zko ib vi bj j_ zv fd	汪淼转身从沙发上拿起自己的莱卡	c=0 d=0 t=0
+mrw nk	汪总	c=0 d=0 t=0
+mrw rh oig	汪教授	c=0 d=0 t=0
+mt rk mzg mss bi mwg muo e_ hr xs	发现汗水已浸湿了全身	c=0 d=0 t=0
+mt rk pf lw vz ys	发现有些异样	c=0 d=0 t=0
+mtf gvn c_	潘寒说	c=0 d=0 t=0
+mtf gvn c_ s_	潘寒说着	c=0 d=0 t=0
+mtf gvn hhr h_ wt k_ iz m_ v_	潘寒从人群中走出来	c=0 d=0 t=0
+mtf gvn tj bjwn df j_ uu hh h_ huh m_ os v_	潘寒向剩下的五个人伸出手来	c=0 d=0 t=0
+mwg mav oeo qp e_ nb di pt gn hr qjk ts	浸泡持续了八天才完全结束	c=0 d=0 t=0
+mz mss df mtm lf pf wl	流水下滩非有意	c=0 d=0 t=0
+n_ uk wh rur u_ uk vap	道吾好者是吾贼	c=0 d=0 t=0
+nb ix uo mfx gn d_ gpq	八小时漏完一次	c=0 d=0 t=0
+nc px yd d_ uo m_ r_ e_	单行本一时出不了	c=0 d=0 t=0
+nddl pm vv ckd hi	慈母多误子	c=0 d=0 t=0
+ne nb	二八	c=0 d=0 t=0
+nh jb	黑白	c=0 d=0 t=0
+njh ks kv oe s_ mnp dzf uoy ls	监听员看着波形显示	c=0 d=0 t=0
+njwb iq ga daq	乖气致戾	c=0 d=0 t=0
+nnv ai r_ jez v_	贫因不算来	c=0 d=0 t=0
+nnv hi cw vv	贫子话多	c=0 d=0 t=0
+no gtl qa uu ps nc hx kb	半径约五十单位吧	c=0 d=0 t=0
+non rk px ut rg zkw u_ gn hr ek w_ j_	判现行反革命是完全可以的	c=0 d=0 t=0
+nr lv oj ee rdm h_ j_ ye yq ojb un uo fme jp j_ md wg tjc bp	远快过地球人的相机拍照时胶片的感光速度	c=0 d=0 t=0
+nuu hpu ni cn ke lv bis lj	毋借公论而快私情	c=0 d=0 t=0
+nuu hws sj ke id nr	毋舍近而趋远	c=0 d=0 t=0
+nuu w_ bi ic ke dzf h_ x_ ggd	毋以已长而形人之短	c=0 d=0 t=0
+nx kr div vp gh r_ ac r_ lii	弟兄争财家不穷不止	c=0 d=0 t=0
+nx kr jd lx et lr wj	弟兄同心土变金	c=0 d=0 t=0
+nz p_ vee cj hzo jf xkk cso we kc xj vi bj j_ zkw ey r_ uw e_	并在耳边低声告诉她别连自己的命也不要了	c=0 d=0 t=0
+o_ h_ zui aw me	为人莫犯法	c=0 d=0 t=0
+oa g_ j_ zl hh zk wjc j_ hhv xrj h_ gpd lfy geo p_ uu cq zg yme ey r_ v_	找到的两个合适的候选人宁肯待在五七干校也不来	c=0 d=0 t=0
+oav s_ ao ocf su kdw qzs b_ hdy eeo iz m_ e_ cnb ni gg	抱着那摞复印纸和信封走出了办公室	c=0 d=0 t=0
+ob fk oj j_ gvne g_ kl al	把点过的塞到嘴里	c=0 d=0 t=0
+oe f_ ei gl e_ cs vv	看上去密了许多	c=0 d=0 t=0
+oe g_ as xnl vvk i_ j_ io xur p_ di alg k_ ay qad s_ d_ hh oe r_ kj j_ uj fk qid qid ee xn z_ s_	看到三轮巨大的太阳在天空中围绕着一个看不见的原点缓缓地转动着	c=0 d=0 t=0
+oe g_ bwe ma dl uw vj vu he ao hh map s_ ix dzn yq j_ dmf tu	看到魏成正要进入他那个放着小型机的房间	c=0 d=0 t=0
+oe g_ wj ghi ez yp fne jfb pf zl hh nh uq p_ thr z_	看到金字塔根基处有两个黑影在闪动	c=0 d=0 t=0
+ofn gw	撕它	c=0 d=0 t=0
+og h_ r_ kj za uo fy	古人不见今时月	c=0 d=0 t=0
+ohj nij kps osk jom f_ ikk j_ ql wd sn ww kc j_ oww non to fx vv e_ d_ hxk	押送叶哲泰上台的红卫兵比别的批判对象多了一倍	c=0 d=0 t=0
+op kb	打吧	c=0 d=0 t=0
+oqi oj jen jen tz ib j_ vvk fy pq xuk	掠过刚刚升起的巨月顶端	c=0 d=0 t=0
+oto hi zui oto nei	择子莫择父	c=0 d=0 t=0
+oto xym zui oto zix	择亲莫择邻	c=0 d=0 t=0
+p_ al xm ozz ir i_ gkj yz my ma ua ik ksm	在里面搭建大规模集成电路吗	c=0 d=0 t=0
+p_ ao d_ olf thr s_ qw wg j_ cp jez yq uoy ls pap nf	在那一排闪着绿光的计算机显示器前	c=0 d=0 t=0
+p_ d_ hh rb hi f_ sp xug ps ual fm op d_ hh mjd	在一个靶子上每隔十厘米打一个洞	c=0 d=0 t=0
+p_ fne ee al	在基地里	c=0 d=0 t=0
+p_ hd tt jgq yz dzn k_	在你双壳模型中	c=0 d=0 t=0
+p_ hwn pa i_ rup raa k_ kn qz e_ gpi tkj gdp guy as hh qm bp	在创世大爆炸中只给了宏观宇宙三个维度	c=0 d=0 t=0
+p_ ori yo xk xh oqg dla lg nf uqi r_ io wh	在技术部队搞政工前景不太好	c=0 d=0 t=0
+p_ sm ij ck fns ck de ca ms gph uo	在马达加斯加遭遇海盗时	c=0 d=0 t=0
+p_ we xs ud j_ alg k_ mt m_ d_ jf kbr kon	在她身后的空中发出一声啾鸣	c=0 d=0 t=0
+p_ xj qp qj hh dr gvn j_ ic lh ud	在连续几个严寒的长夜后	c=0 d=0 t=0
+pao fg rj pd	卖屋还钱	c=0 d=0 t=0
+pe j_ u_ pf h_ oou eg	真的是有人捣鬼	c=0 d=0 t=0
+pf d_ lw chs ib e_ ee xm tkj gnl rur ht j_ xe kc mor wl	有一些引起了地面观察者们的特别注意	c=0 d=0 t=0
+pf dy nm dp mwn lx	有言逆于汝心	c=0 d=0 t=0
+pf eg	有鬼	c=0 d=0 t=0
+pf h_ owt xkk c_ xnn dmq ibp js hzf e_ d_ vr lv sm ei tj r_ uf	有人报告说牛顿爵士偷了一匹快马去向不明	c=0 d=0 t=0
+pf i_ uda j_ xa gpv mq ni ik zj f_ ei	有大量的物资沿公路运上去	c=0 d=0 t=0
+pf j_ vn xrj oto e_ gy vi eym j_ mf xlg v_ qm od vi bj j_ nbo dr	有的则选择了用自杀的方式来维护自己的尊严	c=0 d=0 t=0
+pf ldk rur uuy	有福者昌	c=0 d=0 t=0
+pfk di yr	钻天柳	c=0 d=0 t=0
+pt p_ yto hhd k_ oe g_ e_ qj kn nh pr db j_ onn re m_ mr	才在树丛中看到了几只黑灰色的鸟儿出没	c=0 d=0 t=0
+ptg psp b_ hhj nfn yto yri gy j_ jy pfo je	铁锨和修剪树枝用的条锯等	c=0 d=0 t=0
+px uwq dy	行顾言	c=0 d=0 t=0
+q_ u_ gy nn hi ogn pps jv ypt fl nn hi hf dcn dna ao ys d_ hh hh iii dcn ib v_	就是用分子探针将材料分子像砌砖那样一个个垒砌起来	c=0 d=0 t=0
+q_ u_ ob oam dmo mu hhr qh qk k_ mj xhb m_ ei	就是把拯救派从组织中清除出去	c=0 d=0 t=0
+qe k_ j_ yyy yy iq vl lww mjk gp qhl tfl	风中的森林气息文洁很熟悉	c=0 d=0 t=0
+qg if hck sm xoc qda qt oj	高能伽马射线经过	c=0 d=0 t=0
+qn ao vk rup raa xa nao gh ona fuw oav hor	被那名爆炸物专家拦腰抱住	c=0 d=0 t=0
+qnk ryy eiw ho m_ e_ d_ hxn m_ h_ wl fl j_ dk	绍琳却做出了一件出人意料的事	c=0 d=0 t=0
+qnk ryy to wn hxh re fk fk oo ou ls c_	绍琳对女孩儿点点头提示说	c=0 d=0 t=0
+qocs rw to jen vj v_ j_ jek lww rw b_ mrw mmm hnd qnk ao hx nh qi h_	纣王对刚进来的周文王和汪淼介绍那位黑衣人	c=0 d=0 t=0
+qz hxh hi ht ksk gi it uw mav zl ix uo w_ f_	给孩子们吃至少要泡两小时以上	c=0 d=0 t=0
+r_ cx cf hd ih he p_ zgc z_ k_ r_ jct uo hzf zko ei oe	不该让你趁他在劳动中不备时偷拿去看	c=0 d=0 t=0
+r_ mg rur wk zqg wk zu	不学者如蒿如草	c=0 d=0 t=0
+r_ mg wk zu wk zqg	不学如草如蒿	c=0 d=0 t=0
+r_ oj t_ ht rj u_ ye hdy kei xh ao ej vk dy	不过我们还是相信史队那句名言	c=0 d=0 t=0
+rc da hi hix tvj	留与子孙耕	c=0 d=0 t=0
+rh hi rh hix fq rh oei	教子教孙须教义	c=0 d=0 t=0
+rh set j_ bv sm xlg iid pq hf as yp nh db j_ vvk ow	教堂的罗马式尖顶像三根黑色的巨指	c=0 d=0 t=0
+rhh pt urw kf	火才旺呢	c=0 d=0 t=0
+rj wh	还好	c=0 d=0 t=0
+rk p_ ni yzm me tf qzr ru u_ gpd pl afs pk	现在公检法系统都是宁左勿右	c=0 d=0 t=0
+rup raa xa nao gh c_	爆炸物专家说	c=0 d=0 t=0
+rup raa xa nao gh fz f_ j_ jt gyg gwg aog e_	爆炸物专家脸上的笑容凝固了	c=0 d=0 t=0
+rup raa xa nao gh p_ i_ kei vee cj hzo jf c_	爆炸物专家在大史耳边低声说	c=0 d=0 t=0
+sj mek r_ gu yrw hdk mss	近河不得枉使水	c=0 d=0 t=0
+sj us r_ gu yrw rad lwy	近山不得枉烧柴	c=0 d=0 t=0
+sp ap wg ugx j_ k_ lx q_ u_ d_ hh mt xoc muj	每团光晕的中心就是一个发射源	c=0 d=0 t=0
+sp hh fk kn en pf ozc yoj cx lww uf fne yd xe gdl j_ ps qj hh jtu nc ii fw	每个点只具有描述该文明基本特征的十几个简单参数	c=0 d=0 t=0
+sw r_ ch fs	死不认尸	c=0 d=0 t=0
+t_ ei kej ze gt ak v_	我去叫警官回来	c=0 d=0 t=0
+t_ ht bm cx ch mj igp ai fns eu ye to cn j_ ut z_ yd upv	我们应该认清爱因斯坦相对论的反动本质	c=0 d=0 t=0
+t_ ht bm cx mg qx bwe ma b_ i_ kei he ht j_ ij tkj	我们应该学习魏成和大史他们的达观	c=0 d=0 t=0
+t_ oe mr lt uw p_ l_ hh ze gnl xs f_ mop xv uo tu	我看没必要在这个警察身上浪费时间	c=0 d=0 t=0
+t_ qz hd hh ee el	我给你个地址	c=0 d=0 t=0
+to jd ll xlj n_ f_ as qm fp dz j_ upv hi j_ mj ra uw ww d_ qm fp dz j_ upv hi gyg uaf gu vv	对同步轨道上三维展开的质子的清理要比一维展开的质子容易得多	c=0 d=0 t=0
+to mf dz e_ uu yhw	对方开了五枪	c=0 d=0 t=0
+to upv hi j_ ne qm fp dz jv uw p_ as hy px ui j_ jd ll xlj n_ f_ vj px	对质子的二维展开将要在三体行星的同步轨道上进行	c=0 d=0 t=0
+tt ep tg lu ee oe s_ mrw mmm os k_ j_ yhwp np yd	双眼失神地看着汪淼手中的桦皮本	c=0 d=0 t=0
+ty r_ uji dmi hk wpm	又不愿雇保姆	c=0 d=0 t=0
+tz g_ e_ dl alg	升到了正空	c=0 d=0 t=0
+u_ r_ u_ hd eym e_ uh ro zlf jd jl	是不是你杀了申玉菲同志	c=0 d=0 t=0
+u_ r_ u_ ow gpi tkj zmw ay	是不是指宏观范围	c=0 d=0 t=0
+uh ro zlf c_	申玉菲说	c=0 d=0 t=0
+uh ro zlf jd jl q_ u_ ou hpn rur x_ d_	申玉菲同志就是提供者之一	c=0 d=0 t=0
+ui bv yfn paj s_ cs vv uoy fa u_ zg hwj j_ qg i_ ir jlq	星罗棋布着许多显然是干仓的高大建筑	c=0 d=0 t=0
+uid ud se mgk gvn ena	暖后更觉寒增	c=0 d=0 t=0
+ulq gp nr bs ixg pt s_ ee d_ gpq	飘很远四蹄才着地一次	c=0 d=0 t=0
+uoy fa y_ da ql wd sn j_ db iyf oxl sj iv lej	显然想与红卫兵的色彩拉近距离	c=0 d=0 t=0
+upv hi zn xm dzf ma e_ d_ hh no gtl o_ jd ll xlj n_ j_ i_ rdm jgq	质子平面形成了一个半径为同步轨道的大球壳	c=0 d=0 t=0
+ut bm nh jye xj qp zj px e_ d_ sl vv	反应黑箱连续运行了一年多	c=0 d=0 t=0
+uu ps ual fm j_ alg iw io i_ e_	五十厘米的空当太大了	c=0 d=0 t=0
+uu ps ye jv woc sw ik	五十相将寻死路	c=0 d=0 t=0
+uuu zgr ee mt s_ ppg wg	晶莹地发着银光	c=0 d=0 t=0
+uv sj	最近	c=0 d=0 t=0
+uv sj j_ d_ gpq fef fic jv p_ d_ dj uu ps gi ne dj dn sl ud mt is	最近的一次膨胀将在一百五十至二百万年后发生	c=0 d=0 t=0
+vf ui lww uf ogn pg j_ bl mg li b_ lt uw li bi gu g_ bg mtx ch ek	外星文明探索的科学性和必要性已得到广泛认可	c=0 d=0 t=0
+vgr ckd zui foj jo	耽误莫迟春	c=0 d=0 t=0
+vhl pd ib fg	赊钱起屋	c=0 d=0 t=0
+vi gy vn ix	自用则小	c=0 d=0 t=0
+vj hw ty dz wi e_ izz iyc j_ fe ll	进化又开始了蹒跚的脚步	c=0 d=0 t=0
+vj ll hs clx pjc ll	进步便思退步	c=0 d=0 t=0
+vj vu	进入	c=0 d=0 t=0
+vk nc uoy fa owh gu gp hwj hiu	名单显然拟得很仓促	c=0 d=0 t=0
+vp fo rur ezk	财尽者疏	c=0 d=0 t=0
+vvk fy gn hr zm df ud	巨月完全落下后	c=0 d=0 t=0
+vxx xur qz kps lww mjk ny cg j_ xs xve ors df ic ic j_ uq hi	夕阳给叶文洁瘦弱的身躯投下长长的影子	c=0 d=0 t=0
+w_ df u_ bwe ma j_ hbt yoj	以下是魏成的叙述	c=0 d=0 t=0
+w_ f_ yoj nre dsm tf o_ fne dmj	以上述元码系为基础	c=0 d=0 t=0
+we j_ qnq ix da ao xm msf j_ tmw i_ dzf ma ssy uf to ww	她的纤小与那面旗的阔大形成鲜明对比	c=0 d=0 t=0
+we sa sa fzg njg gu ta ghd ta ghd tfc v_ ugs ei ee enz r_ e_ mgk	她常常肝疼得整宿整宿翻来覆去地睡不了觉	c=0 d=0 t=0
+we sp gpq ru xe kc mor wl oe ao qj hh mno s_ pjd rai hxq pkjh re j_	她每次都特别注意看那几个举着铜烟袋锅儿的	c=0 d=0 t=0
+we tj	她向	c=0 d=0 t=0
+wh j_ mrw nk	好的汪总	c=0 d=0 t=0
+wh wh	好好	c=0 d=0 t=0
+wj ghi ez bs dgy j_ bs nbo jfy pjd i_ ejj jd uo xtt ee rf rad ib v_	金字塔四角的四尊青铜大鼎同时轰地燃烧起来	c=0 d=0 t=0
+wk cy	如果	c=0 d=0 t=0
+wr if ao ys xp lx ds ypq ee okp qhh ms uda fw of	竟能那样随心所欲地操纵海量数据	c=0 d=0 t=0
+wt fog xmf kk	群居防口	c=0 d=0 t=0
+wtk hi nq pd r_ cp xme	君子千钱不计较	c=0 d=0 t=0
+ww gw uvx fw ic j_ rl yn vv j_ u_	比它岁数长的老松多的是	c=0 d=0 t=0
+ww ib mrw mmm v_	比起汪淼来	c=0 d=0 t=0
+ww jb doe qb uar fnf uw lv gu vv	比白垩纪晚期要快得多	c=0 d=0 t=0
+xa mah vn lt qkd	物盛则必衰	c=0 d=0 t=0
+xct op as pa gat	雷打三世冤	c=0 d=0 t=0
+xgm cj d_ vk wn ql wd sn dg df fuw tu j_ np qga pu kps osk jom ogx ei	旁边一名女红卫兵解下腰间的皮带朝叶哲泰挥去	c=0 d=0 t=0
+xhb e_ ni gwn mf xm j_ dk jc	除了公安方面的事务	c=0 d=0 t=0
+xhb to as ikk ck tjc pap vj px zg ovy vf	除对三台加速器进行干扰外	c=0 d=0 t=0
+xj jd ao lw yin pul b_ i_ ndd je gz sn pap	连同那些梭镖和大刀等冷兵器	c=0 d=0 t=0
+xl fe ljb xp mz hyg xn	立脚怕随流俗转	c=0 d=0 t=0
+xl xnd md g_ e_ df mf mgqi na j_ eym iq	立刻感到了下方浓重的杀气	c=0 d=0 t=0
+xmf gh ne ghi gph da wzg	防家二字盗与奸	c=0 d=0 t=0
+xnd vn clx mea rur ei	刻则思效者去	c=0 d=0 t=0
+xnn dmq jf kfn cl xua ee mt zis	牛顿声嘶力竭地发令	c=0 d=0 t=0
+xp pw ogw df kcl d_ hh eh pir k_ lii e_ mt xoc	随即按下另一个黄键中止了发射	c=0 d=0 t=0
+xrj wef zui xrj ct anr	选婿莫选田园	c=0 d=0 t=0
+xss g_ muh uid j_ rlq xm f_	躺到温暖的炕面上	c=0 d=0 t=0
+ya ma d_ hh md gk gpi tkj pa chn j_ tf qzr	构成一个感知宏观世界的系统	c=0 d=0 t=0
+yaf pm hhr mrw mmm os k_ zko oj yhwp np yd	杨母从汪淼手中拿过桦皮本	c=0 d=0 t=0
+yd it bn wq ckv wk hhe	本少利微强如坐	c=0 d=0 t=0
+yd v_ ch o_ qn d_ qm fp dz j_ upv hi jv oms nr zj px p_ px ui j_ jd ll xlj n_ f_	本来认为被一维展开的质子将永远运行在行星的同步轨道上	c=0 d=0 t=0
+ye cn krj zji qhs	相论逞英豪	c=0 d=0 t=0
+yl jl	标志	c=0 d=0 t=0
+yyy yy me	森林法	c=0 d=0 t=0
+za di	今天	c=0 d=0 t=0
+za uk dp h_ ey	今吾于人也	c=0 d=0 t=0
+zai hhr ee mt	茵从地发	c=0 d=0 t=0
+zal zal pf wk nj wa ur	念念有如临敌日	c=0 d=0 t=0
+zc vni di hy xa ra mg gh fd ij cxo gf nai ir co	苏联天体物理学家卡达谢夫曾建议	c=0 d=0 t=0
+zgc z_ gu ii ck	劳动得参加	c=0 d=0 t=0
+zgd xe eek sm bn b_ bb bnh jx cq i_ mg j_ ttt ez	蒙特哥马利和巴黎第七大学的桑塔	c=0 d=0 t=0
+zgo zh avy ljb jo wg rl	莺花犹怕春光老	c=0 d=0 t=0
+zj ei wj ma ptg	运去金成铁	c=0 d=0 t=0
+zqg zu x_ df	蒿草之下	c=0 d=0 t=0
+zu ic d_ jo	草长一春	c=0 d=0 t=0
+zui da re hix ho xnn sm	莫与儿孙做牛马	c=0 d=0 t=0
+zui lrl mda mtm oo	莫恋浅滩头	c=0 d=0 t=0
+zui mg df yfn lx	莫学下棋心	c=0 d=0 t=0
+zui o_ re hix ho sm xnn	莫为儿孙做马牛	c=0 d=0 t=0
+zui ob cu uo iw pf uo	莫把无时当有时	c=0 d=0 t=0
+zui ob lx oo hwh rhh rad	莫把心头似火烧	c=0 d=0 t=0
+zui ob pe lx alg cp xme	莫把真心空计较	c=0 d=0 t=0

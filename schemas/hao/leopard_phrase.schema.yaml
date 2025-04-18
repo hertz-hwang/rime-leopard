@@ -114,7 +114,7 @@ octagram:
       contextual_suggestions: true
       max_homophones: 7
       max_homographs: 7
-    smart/+:
+    smartfixed/+:
       contextual_suggestions: true
       max_homophones: 2
       max_homographs: 2

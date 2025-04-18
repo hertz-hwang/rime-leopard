@@ -110,7 +110,7 @@
 齿,Dc	⻮
 竜,Vl	⻯
 龙,Vl	⻰
-龜,Gg	⻱
+⿔,Gg	⻱
 亀,Gg	⻲
 龟,Gg	⻳
 一,Di	⼀
@@ -7091,7 +7091,7 @@
 耂日乙,RlUrKi	乽
 十日十𠂉乙,PsUrPsKi	乾
 爫糸乚,IaFsAe	乿
-龟,Gg	亀
+亀,Gg	亀
 十日干𠂉乙,PsUrZgKi	亁
 爫龴冂厶又乚,IaIsJkAe	亂
 米夕㐄乚,FmVxLkAe	亃
@@ -27696,7 +27696,7 @@
 业㡀八刀,OyIbNbNd	黺
 业㡀𠂇又丶,OyIbPsOd	黻
 业㡀甫,OyIbBf	黼
-黾,Um	黽
+黽,Um	黽
 黾,Um	黾
 二儿黽,NeReUm	黿
 土八黽,EtNbUm	鼀
@@ -27855,7 +27855,7 @@
 龙,Vl	龙
 龙龷八,VlPnNb	龚
 亼口龙,ZiKkVl	龛
-龟,Gg	龜
+⿔,Gg	龜
 禾龜,BhGg	龝
 㡀攵龜,IbApGg	龞
 龟,Gg	龟

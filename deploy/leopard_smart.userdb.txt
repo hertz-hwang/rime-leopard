@@ -1,0 +1,2023 @@
+# Rime user dictionary
+#@/db_name	leopard_smart
+#@/db_type	userdb
+#@/rime_version	1.13.0
+#@/tick	10002
+#@/user_id	hao
+a_ cu ljj sl x_ bkn r_ ma fn a_ 	国无九年之积不成其国	c=4 d=0.00670441 t=10002
+a_ dla ao zw ccy j_ wm fnz pf ksm 	国政那节课的录屏有吗	c=1 d=0.680451 t=10002
+a_ gh cu alg ee 	国家无空地	c=4 d=0.00381052 t=10002
+a_ mj pt hi vvb 	国清才子贵	c=4 d=0.000968279 t=10002
+a_ wae clx opg jv 	国乱思良将	c=4 d=0.00125579 t=10002
+a_ wae uoy kh ec 	国乱显忠臣	c=4 d=0.00254153 t=10002
+aa g_ gy uo mf lp it 	书到用时方恨少	c=8 d=0.0587821 t=10002
+aa k_ qjk opg pty 	书中结良友	c=4 d=0.308822 t=10002
+aa set xd ye hxke 	书堂隐相儒	c=1 d=0.904837 t=10002
+aa slg mf hdu wk px snk 	书差方便如行善	c=4 d=0.0133667 t=10002
+aa us pf ik pkjc o_ gtl 	书山有路勤为径	c=4 d=0.0636097 t=10002
+aaaa gd r_ gk xy igt gy 	乍富不知新受用	c=4 d=0.000466622 t=10002
+aaaa nnv tmi ba hur gh qe 	乍贫难改旧家风	c=4 d=0.000468961 t=10002
+ac h_ y_ ep nf 	穷人想眼前	c=4 d=0.000210718 t=10002
+ac zui tg jl 	穷莫失志	c=4 d=0.00438314 t=10002
+ads ndd lp r_ bn 	磨刀恨不利	c=8 d=0.215531 t=10002
+aej kme to oo h_ 	狗咬对头人	c=4 d=0.020548 t=10002
+aej r_ wnw gh nnv 	狗不嫌家贫	c=8 d=0.318457 t=10002
+afs ai wt wgi ke xhq avc kj 	勿因群疑而阻独见	c=5 d=0.171188 t=10002
+afs ccf xal hi hek gk 	勿谓童子何知	c=4 d=0.132657 t=10002
+afs ha zgp lda 	勿作营巧	c=4 d=0.280834 t=10002
+afs hdyc hdy ke o_ wzg ds fnp 	勿偏信而为奸所欺	c=4 d=0.238118 t=10002
+afs htj bi wl ke bmt h_ dy 	勿任已意而废人言	c=4 d=0.172047 t=10002
+afs nj mua ke ofm vjj 	勿临渴而掘井	c=4 d=0.196914 t=10002
+afs npq oj uda x_ mb 	勿饮过量之酒	c=4 d=0.319822 t=10002
+afs vi htj ke o_ iq ds hdk 	勿自任而为气所使	c=4 d=0.239311 t=10002
+afs zav wl vf x_ vp 	勿贪意外之财	c=4 d=0.318227 t=10002
+afs zgp hwp fg 	勿营华屋	c=4 d=0.279434 t=10002
+ahj ufwb dol it 	狎昵恶少	c=4 d=0.137382 t=10002
+ai lkj gu ldk 	因祸得福	c=4 d=1.1038 t=10002
+ai qe kpq rhh 	因风吹火	c=4 d=0.000251017 t=10002
+aic f_ dn nre tmi rj 	帐上万元难还	c=4 d=0.0194484 t=10002
+ail ghq xr mrr ke mgqi 	恩宜先淡而浓	c=4 d=0.532597 t=10002
+ail igp vv is ndj 	恩爱多生病	c=4 d=0.00174676 t=10002
+aj nzj ma x_ lc 	图垂成之功	c=4 d=0.514279 t=10002
+ak oo kn oe mwn re hix 	回头只看汝儿孙	c=4 d=0.00180898 t=10002
+akd pf nas bu 	或有兰香	c=4 d=0.000658866 t=10002
+akd pf ni rw 	或有公王	c=4 d=0.000665488 t=10002
+akd rur 	或者	c=1 d=0.729789 t=10002
+alg iq mj xy 	空气清新	c=4 d=0.0750208 t=10002
+alg os ho u_ ldk 	空手做是福	c=4 d=0.0103064 t=10002
+alg pw u_ db 	空即是色	c=4 d=0.00050802 t=10002
+alx ava zko jqg jzg 	怎敢拿篙竿	c=4 d=0.0119743 t=10002
+alx if kj mnp mjo 	怎能见波涛	c=4 d=0.000254811 t=10002
+ao u_ hd w_ o_ 	那是你以为	c=1 d=0.865022 t=10002
+aoo hwv aoo gu pe 	买货买得真	c=4 d=0.00408681 t=10002
+aoo pao ni zn wk bkn gpb 	买卖公平如积德	c=4 d=0.00657165 t=10002
+aoo pao r_ nad pps 	买卖不饶针	c=4 d=0.00206012 t=10002
+ar fo qen bv rj u_ yja 	穿尽绫罗还是棉	c=4 d=0.0136367 t=10002
+are gu dj ur x_ lvy 	免得百日之忧	c=4 d=9.75652e-05 t=10002
+are gu dm h_ 	免得求人	c=4 d=0.00145174 t=10002
+are gu ztc fas qqs r_ fas 	免得藕断丝不断	c=4 d=0.0142644 t=10002
+as clx ke px 	三思而行	c=4 d=7.94812e-05 t=10002
+as di op sv 	三天打鱼	c=4 d=0.0602056 t=10002
+as dj ml ps px 	三百六十行	c=4 d=0.0572693 t=10002
+as gx ek ioc naj 	三军可夺帅	c=4 d=0.0347356 t=10002
+as h_ jd px 	三人同行	c=4 d=0.134662 t=10002
+as h_ jd px pf t_ nd 	三人同行有我师	c=4 d=0.0728036 t=10002
+as hh vaq np vs 	三个臭皮匠	c=4 d=0.0464216 t=10002
+as kv ic rur iw gt kv 	三员长者当官员	c=4 d=0.0114474 t=10002
+as lx ne wl 	三心二意	c=4 d=0.0608107 t=10002
+as nnv as gd r_ g_ rl 	三贫三富不到老	c=4 d=0.00404615 t=10002
+as nq al vf eiw jjj wtk 	三千里外却逢君	c=4 d=0.00108629 t=10002
+as ps r_ xl 	三十不立	c=4 d=0.39259 t=10002
+as sl dk ma 	三年事成	c=4 d=0.00357071 t=10002
+as sl kk is 	三年口生	c=5 d=0.0036066 t=10002
+as yp amm qum tmi oli fas 	三根麻绳难扯断	c=4 d=0.0480751 t=10002
+as yrb ig i_ n_ 	三杯通大道	c=4 d=0.000110556 t=10002
+as zl eh pjd bs zl ldk 	三两黄铜四两福	c=4 d=0.00932562 t=10002
+at vf ubj cu h_ 	窗外岂无人	c=4 d=0.00190173 t=10002
+ava ei oxj ui ui 	敢去摘星星	c=4 d=0.0356149 t=10002
+avc fe tmi px 	独脚难行	c=4 d=0.0455024 t=10002
+avc hhe xmf lx 	独坐防心	c=4 d=0.00149596 t=10002
+avc vn nuu vi fnp 	独则毋自欺	c=4 d=0.143705 t=10002
+aw me xs cu or 	犯法身无主	c=4 d=0.00843817 t=10002
+b_ iq ga lsy 	和气致祥	c=4 d=0.331214 t=10002
+bdn pt r_ m_ tm 	秀才不出门	c=4 d=0.0288689 t=10002
+bdw j_ r_ mqn 	稳的不滚	c=4 d=0.003346 t=10002
+bei eiw sh hao x_ mdw 	罢却虎豹之威	c=4 d=0.000170805 t=10002
+bhh f_ gkg sa mzz 	座上客常满	c=4 d=0.000471312 t=10002
+bi ugs x_ mss 	已覆之水	c=4 d=0.000300522 t=10002
+bif map qhh hdu pi qfy alf ug ke r_ gk 	稍放纵便销膏靡骨而不知	c=5 d=0.579848 t=10002
+bjw xhb ck gmd 	乘除加减	c=5 d=0.000911891 t=10002
+bk amm gu amm 	种麻得麻	c=4 d=0.000185958 t=10002
+bk ct ksk ct 	种田吃田	c=4 d=0.013501 t=10002
+bk gdd gu gdd 	种豆得豆	c=4 d=0.00018689 t=10002
+bkn pd r_ wk bkn gpb 	积钱不如积德	c=4 d=0.010153 t=10002
+bkn wj nq zl 	积金千两	c=4 d=5.49004e-05 t=10002
+bkn yg xmf nqj 	积谷防饥	c=4 d=0.000157673 t=10002
+bm lqo u_ ngk h_ 	应恐是痴人	c=4 d=3.81117e-05 t=10002
+bn da gj jd ema 	利与害同城	c=1 d=0.932394 t=10002
+bn ndd gjk jhh hs ek zfn 	利刀割肉伤可愈	c=4 d=0.000978011 t=10002
+bn ny gj jd ema 	利与害同城	c=5 d=0.00165329 t=10002
+bn ypq rkn rf u_ rhh elq 	利欲炽燃是火坑	c=4 d=0.0889225 t=10002
+bnw gt ek bao zav jm mss 	廉官可酌贪泉水	c=4 d=0.670327 t=10002
+br v_ mzz us vv bdn db 	秋来满山多秀色	c=4 d=0.000629874 t=10002
+bs ps kj dol 	四十见恶	c=5 d=0.394558 t=10002
+bt nf is ruk zu 	庭前生瑞草	c=4 d=6.06743e-05 t=10002
+bt pay yux qty juu 	庭栽栖凤竹	c=4 d=7.04935e-05 t=10002
+bui ep oe blh h_ 	醒眼看醉人	c=4 d=5.24846e-05 t=10002
+c_ cw xv fjf lu 	说话费精神	c=4 d=0.00184553 t=10002
+c_ ic c_ ggd 	说长说短	c=4 d=0.00296763 t=10002
+ca npq mb uo fq xmf blh 	遇饮酒时须防醉	c=4 d=0.000248519 t=10002
+cal h_ gt fas 	愚人官断	c=4 d=0.0116204 t=10002
+cal rur hr cu 	愚者全无	c=4 d=6.47491e-05 t=10002
+cal rur nq slx 	愚者千虑	c=4 d=0.00111379 t=10002
+carg dy r_ ek ks 	谗言不可听	c=4 d=0.612633 t=10002
+cb gu it sl sie juu sm 	记得少年骑竹马	c=4 d=0.000485666 t=10002
+cc cu opg pty r_ gk bj x_ pf oj 	男无良友不知己之有过	c=5 d=0.00985289 t=10002
+cc h_ pf jl 	男人有志	c=4 d=0.0297481 t=10002
+cc hi cu jl qdm ptg cu pje 	男子无志纯铁无钢	c=4 d=0.00562806 t=10002
+cc hi pf gpb hdu u_ pt 	男子有德便是才	c=4 d=0.00673801 t=10002
+cc hi tg rh lt cal nrq 	男子失教必愚顽	c=4 d=0.00579946 t=10002
+cc i_ iw wz wn i_ iw wgh 	男大当婚女大当嫁	c=4 d=0.00687413 t=10002
+cc re xl jl p_ it sl 	男儿立志在少年	c=4 d=0.0366996 t=10002
+ce aa lt cpa 	诗书必读	c=4 d=0.0129069 t=10002
+ce tj hz h_ kza 	诗向会人吟	c=4 d=2.88042e-05 t=10002
+cfy dk p_ h_ 	谋事在人	c=4 d=0.0147725 t=10002
+ch pe rj vi p_ 	认真还自在	c=4 d=0.154898 t=10002
+ci fg vw qfb ux fg dnp 	东屋未补西屋破	c=4 d=0.0250974 t=10002
+cit dy r_ oa cpk lpe h_ 	谣言不找谨慎人	c=4 d=0.0052214 t=10002
+ckc hi uw pf oei mf 	训子要有义方	c=4 d=0.190141 t=10002
+ckn h_ vv jfb u_ lf vv 	识人多处是非多	c=4 d=0.000259958 t=10002
+ckn is fas 	识生断	c=4 d=0.442644 t=10002
+ckv gph kk jh m_ era aa 	强盗口内出赦书	c=4 d=0.0241133 t=10002
+ckv k_ du pf ckv k_ os 	强中更有强中手	c=4 d=0.000263887 t=10002
+cl wq hym dv na 	力微休负重	c=5 d=5.01752e-05 t=10002
+clx slx x_ gj fna dp mb db 	思虑之害甚于酒色	c=4 d=0.00814794 t=10002
+clx uda lm pf cpa aa qg 	思量惟有读书高	c=4 d=0.000278807 t=10002
+clx uda org oud zo 	思量挑担苦	c=4 d=0.010255 t=10002
+cm h_ ho gu nq sl or 	谁人做得千年主	c=4 d=0.0072992 t=10002
+cm h_ jwf ud cu h_ c_ 	谁人背后无人说	c=4 d=3.86877e-05 t=10002
+cm h_ r_ igp hi hix ntv 	谁人不爱子孙贤	c=4 d=0.000349157 t=10002
+cm h_ r_ igp nq pkh ufm 	谁人不爱千钟粟	c=4 d=0.000350907 t=10002
+cm hdy ci mz ms msy mgn 	谁信东流海洋深	c=4 d=3.24766e-05 t=10002
+cnc rrz xv ow hjj 	弹琴费指甲	c=4 d=0.00183632 t=10002
+cnd tk ke sj clx 	切问而近思	c=4 d=0.13003 t=10002
+cnd zui hdk iq 	切莫使气	c=4 d=0.360599 t=10002
+cnd zui t_ dv h_ 	切莫我负人	c=4 d=4.65497e-05 t=10002
+cnd zui wae crr 	切莫乱谈	c=4 d=0.0188736 t=10002
+cnd zui woc rq lle 	切莫寻烦恼	c=4 d=0.027324 t=10002
+cnw igt mh 	谦受益	c=4 d=0.0422146 t=10002
+cnw pnl geo h_ 	谦恭待人	c=4 d=0.183601 t=10002
+cnw pnl igt mh vv 	谦恭受益多	c=4 d=0.0265164 t=10002
+cnw soy si gpb 	谦虚美德	c=4 d=0.00694322 t=10002
+cpa aa fq gy wl 	读书须用意	c=8 d=0.0912037 t=10002
+cpa aa hdu hee 	读书便佳	c=4 d=0.186376 t=10002
+cpa aa hr p_ vi gy lx 	读书全在自用心	c=4 d=0.0682219 t=10002
+cpa aa jdy 	读书篇	c=4 d=0.0658754 t=10002
+cpa aa vvb if wgi 	读书贵能疑	c=5 d=0.0696 t=10002
+cpa aa vw kj aa wk jjj opg pty 	读书未见书如逢良友	c=4 d=0.0028229 t=10002
+cpa oj og hwp hgw 	读过古华佗	c=4 d=0.0248477 t=10002
+cq ps ne px m_ ja nre 	七十二行出状元	c=4 d=0.0154524 t=10002
+cs h_ d_ xa 	许人一物	c=8 d=0.126967 t=10002
+csp mwn cqh cqh 	诲汝谆谆	c=4 d=2.76748e-05 t=10002
+ct bhhh pd 	田禾钱	c=4 d=0.0127785 t=10002
+ct ee mgn tvj iu son gh 	田地深耕足养家	c=4 d=0.00127477 t=10002
+ct vv son e_ hhh h_ 	田多养了众人	c=4 d=0.00210174 t=10002
+cu dk up nw 	无事早归	c=4 d=0.000144102 t=10002
+cu dm g_ jfb h_ lj wh 	无求到处人情好	c=4 d=0.000256088 t=10002
+cu ep oj tmi 	无眼过难	c=4 d=0.0177745 t=10002
+cu fy r_ ng yfw 	无月不登楼	c=4 d=0.000110004 t=10002
+cu fy r_ yzk oo 	无月不梳头	c=4 d=0.000113355 t=10002
+cu jc vf mei 	无务外交	c=4 d=0.597507 t=10002
+cu jc vv oy 	无务多业	c=4 d=0.603512 t=10002
+cu jfb r_ gwn fa 	无处不安然	c=4 d=0.000317514 t=10002
+cu jl alg ic dj uvx 	无志空长百岁	c=4 d=0.0552996 t=10002
+cu jl occ ll tmi px 	无志寸步难行	c=4 d=0.0359729 t=10002
+cu jl x_ h_ sa xl jl 	无志之人常立志	c=4 d=0.0383888 t=10002
+cu kk oj u_ 	无口过是	c=5 d=0.0176859 t=10002
+cu ldk hs bj 	无福伤己	c=4 d=7.75188e-05 t=10002
+cu ldk rur nww 	无福者亡	c=4 d=0.000534067 t=10002
+cu lf bwm mo xs faf 	无非康济身肠	c=4 d=0.644043 t=10002
+cu lkj iw ldk 	无祸当福	c=4 d=0.00980375 t=10002
+cu lx oj tmi 	无心过难	c=4 d=0.0179531 t=10002
+cu lx ony yr yr ma zxf 	无心插柳柳成荫	c=4 d=3.12032e-05 t=10002
+cu ndj hym wnw nyh 	无病休嫌瘦	c=4 d=0.103831 t=10002
+cu og r_ ma za 	无古不成今	c=4 d=2.82338e-05 t=10002
+cu pd cuk r_ pe 	无钱语不真	c=4 d=3.92723e-05 t=10002
+cu pd cw r_ wrh 	无钱话不灵	c=4 d=0.00170364 t=10002
+cu pd efn aoo wj 	无钱堪买金	c=4 d=3.31327e-05 t=10002
+cu pd hdu mgk nnv 	无钱便觉贫	c=4 d=0.00175552 t=10002
+cu pd mf fas mb 	无钱方断酒	c=4 d=0.000374473 t=10002
+cu pd q_ u_ mty hi tmi 	无钱就是汉子难	c=4 d=0.0214938 t=10002
+cu pd tmi ha wh re opx 	无钱难作好儿郎	c=4 d=0.000550331 t=10002
+cu pd zui vu hhh 	无钱莫入众	c=4 d=5.06795e-05 t=10002
+cu qi ltd m_ tm 	无衣懒出门	c=4 d=0.00100277 t=10002
+cu qwh to xm r_ ye jjj 	无缘对面不相逢	c=4 d=0.000528753 t=10002
+cu re cu wn gd r_ ic 	无儿无女富不长	c=4 d=0.000555862 t=10002
+cu tg fn uo 	无失其时	c=4 d=0.000159257 t=10002
+cu xpg tvw tm is nto sih 	无限朱门生饿殍	c=4 d=0.000668824 t=10002
+cu xs oj uaf 	无身过易	c=4 d=0.0178636 t=10002
+cw c_ r_ gn 	话说不完	c=4 d=0.0225958 t=10002
+cw r_ c_ r_ uf 	话不说不明	c=4 d=0.0439374 t=10002
+cw r_ ors yq ml fy gvn 	话不投机六月寒	c=4 d=0.0192549 t=10002
+cx p_ mss k_ sw 	该在水中死	c=4 d=0.00499164 t=10002
+d_ blh dg nq brl 	一醉解千愁	c=4 d=0.00011111 t=10002
+d_ dk cu ma 	一事无成	c=5 d=0.0611155 t=10002
+d_ dl ueo dj rxe 	一正压百邪	c=5 d=0.402528 t=10002
+d_ dy ke cf he h_ x_ lkj 	一言而让他人之祸	c=4 d=0.00946656 t=10002
+d_ dy pc m_ 	一言既出	c=8 d=0.128268 t=10002
+d_ dy r_ k_ 	一言不中	c=4 d=0.000703115 t=10002
+d_ evh dna oo dcn r_ ma een 	一块砖头砌不成墙	c=4 d=0.0468882 t=10002
+d_ gf iw nid 	一夫当关	c=4 d=0.000825113 t=10002
+d_ gf r_ tvj 	一夫不耕	c=4 d=0.0137051 t=10002
+d_ gh mw gr 	一家活宝	c=4 d=0.313489 t=10002
+d_ gh nav uid nq gh vwl 	一家饱暖千家怨	c=4 d=0.00715467 t=10002
+d_ gh op een zl gh wh oe 	一家打墙两家好看	c=4 d=0.0106203 t=10002
+d_ gh son wn dj gh dm 	一家养女百家求	c=4 d=0.000108367 t=10002
+d_ gh x_ cp p_ dp b_ 	一家之计在于和	c=8 d=0.102842 t=10002
+d_ ghi hpe nq wj 	一字值千金	c=8 d=0.0916608 t=10002
+d_ ghi vu ni tm 	一字入公门	c=4 d=0.00076933 t=10002
+d_ h_ d_ qr lx 	一人一般心	c=4 d=3.32988e-05 t=10002
+d_ h_ gk ckn pf xpg 	一人知识有限	c=4 d=0.0120947 t=10002
+d_ h_ hn soy 	一人传虚	c=4 d=0.000710181 t=10002
+d_ h_ hws sw 	一人舍死	c=4 d=0.00524757 t=10002
+d_ h_ n_ wh 	一人道好	c=4 d=0.000231718 t=10002
+d_ h_ pf bid 	一人有庆	c=4 d=0.000439449 t=10002
+d_ h_ r_ gu ne h_ cp 	一人不得二人计	c=4 d=0.0121553 t=10002
+d_ hh jle jbb as hh yb 	一个篱笆三个桩	c=4 d=0.0473594 t=10002
+d_ hh r_ ho jf 	一个不做声	c=4 d=0.00350001 t=10002
+d_ hh us oo d_ kn sh 	一个山头一只虎	c=4 d=0.0064094 t=10002
+d_ hh wh mty as hh jxa 	一个好汉三个帮	c=4 d=0.0475968 t=10002
+d_ is r_ mo 	一生不济	c=4 d=0.364223 t=10002
+d_ is ru u_ zkw gwn olf 	一生都是命安排	c=4 d=0.000837583 t=10002
+d_ is x_ cp p_ dp pkjc 	一生之计在于勤	c=8 d=0.103358 t=10002
+d_ jp zy tu r_ ye ckn 	一片云间不相识	c=4 d=0.00108087 t=10002
+d_ jtu ck df an qda 	一简加下划线	c=1 d=0.726149 t=10002
+d_ lh igt hsg gdiw 	一夜受孤凄	c=4 d=0.00018503 t=10002
+d_ lvy pkjc pw dzo zw dudn px ke r_ mgk 	一忧勤即砥节砺行而不觉	c=5 d=0.585675 t=10002
+d_ mno ma vk di df gk 	一举成名天下知	c=4 d=0.00015455 t=10002
+d_ mno nv ng vll sh yxg 	一举首登龙虎榜	c=4 d=0.000152249 t=10002
+d_ nnl ke osj zn is x_ ldk 	一忿而折平生之福	c=5 d=0.00951401 t=10002
+d_ pu di hi d_ pu ec 	一朝天子一朝臣	c=4 d=0.00280882 t=10002
+d_ pu yt p_ os 	一朝权在手	c=4 d=0.0021766 t=10002
+d_ qqm x_ dol 	一毫之恶	c=8 d=0.450214 t=10002
+d_ qqm x_ snk 	一毫之善	c=8 d=0.454739 t=10002
+d_ sl x_ cp p_ dp jo 	一年之计在于春	c=12 d=0.101835 t=10002
+d_ sm r_ px dj sm lvy 	一马不行百马忧	c=4 d=0.00010891 t=10002
+d_ udi er x_ pf hb 	一旦坏之有余	c=4 d=6.22103e-05 t=10002
+d_ uo tc h_ w_ kk 	一时劝人以口	c=4 d=0.00909537 t=10002
+d_ ur df ljj mtm 	一日下九滩	c=4 d=0.0164079 t=10002
+d_ ur gf diw 	一日夫妻	c=4 d=0.000197457 t=10002
+d_ ur lc 	一日功	c=4 d=0.0617297 t=10002
+d_ ur qci 	一日练	c=4 d=0.0614218 t=10002
+d_ ur r_ ek cu sa oy 	一日不可无常业	c=4 d=0.00196947 t=10002
+d_ ur r_ qci ps ur alg 	一日不练十日空	c=4 d=0.0620391 t=10002
+d_ ur x_ cp p_ dp gdun 	一日之计在于寅	c=4 d=0.102285 t=10002
+d_ ur x_ cp p_ dp usc 	一日之计在于晨	c=4 d=4.47245e-05 t=10002
+d_ wn r_ qk 	一女不织	c=4 d=0.0138428 t=10002
+d_ xa r_ kj td nq gh 	一物不见赖千家	c=4 d=0.00719053 t=10002
+d_ yp juu jzg gyg uaf lrc 	一根竹竿容易弯	c=4 d=0.0478354 t=10002
+d_ yp ym oo shm r_ ma dmf 	一根木头盖不成房	c=4 d=0.0471232 t=10002
+d_ zct xi mss d_ zct zu 	一苗露水一苗草	c=4 d=0.00279481 t=10002
+d_ zh avc map r_ u_ jo 	一花独放不是春	c=4 d=0.0483161 t=10002
+db pw u_ alg 	色即是空	c=4 d=0.000505486 t=10002
+db qkd rur ezk 	色衰者疏	c=4 d=0.00612737 t=10002
+db r_ od ndj 	色不护病	c=5 d=0.00194015 t=10002
+db wtin rur xym 	色娇者亲	c=4 d=0.00609681 t=10002
+dc mss cu qe alg ha mop 	画水无风空作浪	c=4 d=0.000575662 t=10002
+dc vll dc sh tmi dc ug 	画龙画虎难画骨	c=4 d=3.13596e-05 t=10002
+dcc zm wwjb ai evrw 	齿落皆因眶	c=4 d=0.00543449 t=10002
+ddu wtcg cld xr fas 	硬弩弦先断	c=4 d=0.00546173 t=10002
+de tmi zui woc xym 	遭难莫寻亲	c=4 d=5.09335e-05 t=10002
+dgv dk wwjb ma zq dss 	触事皆成药石	c=4 d=0.201899 t=10002
+dh yve r_ pkgv 	户枢不蠹	c=4 d=0.0428526 t=10002
+di df cu tmi dk 	天下无难事	c=4 d=0.0361532 t=10002
+di df lae hoe cu ac 	天下礼仪无穷	c=4 d=0.0120344 t=10002
+di df r_ cr gt 	天下不设官	c=4 d=0.0125883 t=10002
+di df vk us hna fkk vv 	天下名山僧占多	c=4 d=0.000281609 t=10002
+di df zui ny mwn div if 	天下莫与汝争能	c=4 d=0.113043 t=10002
+di df zui ny mwn div lc 	天下莫与汝争功	c=4 d=0.114179 t=10002
+di di tj f_ 	天天向上	c=4 d=0.0564167 t=10002
+di ep lpr lpr 	天眼恢恢	c=4 d=0.000187827 t=10002
+di f_ h_ tu 	天上人间	c=4 d=0.000761675 t=10002
+di f_ hhh ui wwjb opn jw 	天上众星皆拱北	c=4 d=0.000495477 t=10002
+di hi gi nbo r_ oj dp ra 	天子至尊不过于理	c=4 d=0.0021335 t=10002
+di hi iu df pf nnv xym 	天子足下有贫亲	c=4 d=0.00427492 t=10002
+di is d_ h_ 	天生一人	c=4 d=0.00660459 t=10002
+di lt hpk x_ 	天必佑之	c=8 d=0.142456 t=10002
+di muee zp ww zix 	天涯若比邻	c=4 d=0.0510479 t=10002
+di pf r_ mv qe zy 	天有不测风云	c=4 d=0.0095617 t=10002
+di r_ is cu ik x_ h_ 	天不生无路之人	c=4 d=0.00278087 t=10002
+di tv zp xct 	天闻若雷	c=5 d=0.000871766 t=10002
+di ujf op oj zm xvv pbf 	天晴打过落雨铺	c=4 d=0.0104622 t=10002
+di uo r_ wk ee bn 	天时不如地利	c=4 d=0.000271923 t=10002
+di uzg ckd hjj hi 	天旱误甲子	c=4 d=0.0303491 t=10002
+di wl yjc ek w_ h_ ak 	天意违可以人回	c=4 d=0.0238734 t=10002
+di ypq zis fn drh nww 	天欲令其灭亡	c=4 d=0.00442719 t=10002
+div gu azc re 	争得猫儿	c=4 d=0.0011027 t=10002
+div he d_ fe fhs 	争他一脚豚	c=4 d=0.000587291 t=10002
+diw hi wk qi fwt 	妻子如衣服	c=4 d=0.00882656 t=10002
+diw ntv gf lkj it 	妻贤夫祸少	c=4 d=0.000297532 t=10002
+diw ntv hek brl gh r_ gd 	妻贤何愁家不富	c=4 d=0.0158436 t=10002
+diw xwn div qe gf r_ sw r_ lii 	妻妾争风夫不死不止	c=4 d=0.0295997 t=10002
+dj fka dj fis r_ wk cu div 	百战百胜不如无争	c=4 d=0.00621997 t=10002
+dj h_ hn go 	百人传实	c=4 d=0.000713741 t=10002
+dj pa hhj v_ jd qq mbp 	百世修来同船渡	c=4 d=0.000199441 t=10002
+dj pa tc h_ w_ aa 	百世劝人以书	c=4 d=0.00914096 t=10002
+dj pa wai qwh 	百世姻缘	c=4 d=0.000198447 t=10002
+dj sl ma x_ r_ iu 	百年成之不足	c=4 d=6.19e-05 t=10002
+dj sl tmi mat mlg mof 	百年难淘江湖	c=4 d=0.0101023 t=10002
+dj uvx cu vv ur 	百岁无多日	c=4 d=0.0306541 t=10002
+dk g_ nj oo r_ vi uy 	事到临头不自由	c=4 d=0.000106753 t=10002
+dk gzk vn anr 	事宽则园	c=5 d=0.0209631 t=10002
+dk hhr yp ib 	事从根起	c=4 d=0.00162867 t=10002
+dk lf qt oj r_ gk tmi 	事非经过不知难	c=8 d=0.0590767 t=10002
+dk lf xym ho 	事非亲做	c=4 d=0.00995192 t=10002
+dk lf xym kj 	事非亲见	c=4 d=0.0187795 t=10002
+dk r_ gu hr 	事不得全	c=4 d=0.022371 t=10002
+dk r_ nhj lx zui vwl di 	事不遂心莫怨天	c=4 d=0.0228229 t=10002
+dk r_ nid bj r_ zgc lx 	事不关己不劳心	c=4 d=0.00192085 t=10002
+dk r_ o_ r_ ma 	事不为不成	c=4 d=0.000372606 t=10002
+dk r_ qjg wi 	事不终始	c=4 d=0.600502 t=10002
+dk uw dg mei h_ 	事要解交人	c=4 d=0.00307334 t=10002
+dk vv cfs e_ vi bj 	事多累了自己	c=4 d=0.00209126 t=10002
+dkk kk pw u_ ag otp 	启口即是戈矛	c=4 d=0.203928 t=10002
+dld gu sh hi 	焉得虎子	c=4 d=0.0401557 t=10002
+dm h_ fq dm i_ dei gf 	求人须求大丈夫	c=4 d=5.27477e-05 t=10002
+dm h_ r_ wk dm bi 	求人不如求已	c=4 d=0.241716 t=10002
+dm h_ r_ wk dm bj 	求人不如求己	c=4 d=8.06824e-05 t=10002
+dm vp lp r_ vv 	求财恨不多	c=8 d=0.217697 t=10002
+dm vru lt xzf 	求赌必输	c=4 d=0.00941934 t=10002
+dmo h_ d_ zkw 	救人一命	c=4 d=5.94729e-05 t=10002
+dmo pc va x_ dk 	救既败之事	c=4 d=0.506622 t=10002
+dn cu d_ tg 	万无一失	c=4 d=0.00134013 t=10002
+dn dk nf xs ge 	万事前身定	c=4 d=0.000689192 t=10002
+dn dk r_ uy h_ cp xme 	万事不由人计较	c=4 d=0.000833406 t=10002
+dn dk tc h_ hym ezz uvw 	万事劝人休瞒昧	c=5 d=0.000382038 t=10002
+dn dy dn k_ r_ wk d_ naq 	万言万中不如一默	c=4 d=0.00625115 t=10002
+dn fx yz dzn 	万象模型	c=1 d=0.701173 t=10002
+dn gf zui dz 	万夫莫开	c=4 d=0.000829249 t=10002
+dn h_ tmi iw 	万人难当	c=4 d=0.00527387 t=10002
+dn lwf nq ql jo mzz anr 	万紫千红春满园	c=4 d=0.0485583 t=10002
+dn nvb qjk zix 	万贯结邻	c=4 d=0.00186408 t=10002
+dn wj opg zq 	万金良药	c=4 d=0.000717319 t=10002
+dod bn x_ dk zui o_ 	久利之事莫为	c=4 d=0.0048928 t=10002
+dod hor tmi o_ h_ 	久住难为人	c=4 d=3.3802e-05 t=10002
+dod hor zis h_ vda 	久住令人贱	c=4 d=5.32778e-05 t=10002
+dod ke if zea 	久而能敬	c=4 d=0.425287 t=10002
+dod lt igt fn cfs 	久必受其累	c=4 d=0.138071 t=10002
+dod rci lt ma pje 	久炼必成钢	c=4 d=0.00453927 t=10002
+dod rci ma pje 	久炼成钢	c=4 d=0.0569837 t=10002
+dod uzg jjj fgg xyy 	久旱逢甘霖	c=4 d=0.00119454 t=10002
+dol cuk hs h_ lp r_ mif 	恶语伤人恨不消	c=4 d=0.000982913 t=10002
+dol cuk uaf mse 	恶语易施	c=4 d=0.000174255 t=10002
+dol dk zui o_ 	恶事莫为	c=4 d=0.000147013 t=10002
+dol h_ ak mjc 	恶人回避	c=4 d=0.000287298 t=10002
+dol h_ fq gy dol h_ ads 	恶人须用恶人磨	c=4 d=0.00026521 t=10002
+dol hw pf hb 	恶化有余	c=4 d=6.3467e-05 t=10002
+dol lt up nww 	恶必早亡	c=4 d=0.000561449 t=10002
+dol pf dol owt 	恶有恶报	c=8 d=0.494336 t=10002
+dol vll tmi ld ee oo vgw 	恶龙难斗地头蛇	c=4 d=0.00644152 t=10002
+dol wwj zis gf va 	恶妇令夫败	c=4 d=0.000437257 t=10002
+dpq j_ mr gu xc j_ akv 	砍的没得车的圆	c=4 d=0.0221484 t=10002
+drh eiw lx oo rhh 	灭却心头火	c=4 d=0.000389756 t=10002
+du mdi d_ ggd 	更添一短	c=4 d=0.275274 t=10002
+du pf up px h_ 	更有早行人	c=4 d=4.25432e-05 t=10002
+dw tmi hek nai kj d_ h_ 	急难何曾见一人	c=4 d=4.89364e-05 t=10002
+dw vn ek ye hqi 	急则可相依	c=5 d=0.139458 t=10002
+dy ke pf hdy 	言而有信	c=4 d=0.429562 t=10002
+dy mda ra mgn 	言浅理深	c=4 d=0.0013536 t=10002
+dy uwq px 	言顾行	c=5 d=0.167799 t=10002
+dy xt zui tc h_ 	言轻莫劝人	c=4 d=5.04267e-05 t=10002
+dyj ee ru u_ wh be bgh 	遍地都是好庄稼	c=4 d=0.0788672 t=10002
+dz dwv m_ zhw vum 	开扇出苍蝇	c=4 d=0.00310423 t=10002
+dz kk xkk h_ tmi 	开口告人难	c=4 d=0.0108348 t=10002
+e_ 	了	c=1 d=0.856415 t=10002
+e_ dg df 	了解下	c=1 d=0.771052 t=10002
+eap hjv wk coc 	收债如讨	c=4 d=0.0196439 t=10002
+eap x_ go tmi 	收之实难	c=4 d=0.000302028 t=10002
+ee bn r_ wk h_ b_ 	地利不如人和	c=4 d=0.000273286 t=10002
+ee is d_ ax 	地生一穴	c=4 d=0.0066377 t=10002
+ee r_ is cu vk x_ lxc 	地不生无名之辈	c=4 d=0.002767 t=10002
+een pf qjj 	墙有缝	c=4 d=8.4396e-05 t=10002
+eh mek ss pf mng mj ur 	黄河尚有澄清日	c=4 d=0.000132359 t=10002
+eh vjjf d_ kk pps 	黄蜂一口针	c=4 d=0.000452832 t=10002
+eh wj pfa fo o_ eap aa 	黄金散尽为收书	c=4 d=5.91763e-05 t=10002
+eh wj vw o_ vvb 	黄金未为贵	c=4 d=0.000274656 t=10002
+eh ysp r_ zm jfy ysp zm 	黄梅不落青梅落	c=4 d=0.0267829 t=10002
+eh zza cu hfn 	黄芩无假	c=4 d=3.71707e-05 t=10002
+ei hwh wq iet 	去似微尘	c=4 d=4.04684e-05 t=10002
+ei uo qjg fq ei 	去时终须去	c=4 d=0.000119764 t=10002
+eiw qn mj qe chs m_ v_ 	却被清风引出来	c=4 d=0.000846001 t=10002
+eiw vwl pa chn tmi 	却怨世界难	c=4 d=0.0156077 t=10002
+ej ej lt fjf cpa 	句句必精读	c=4 d=0.032065 t=10002
+ejk vv fl lt cu div 	凶多料必无争	c=4 d=0.00286556 t=10002
+ek w_ 	可以	c=1 d=0.864053 t=10002
+ek w_ cu nqj igs 	可以无饥矣	c=4 d=0.000160858 t=10002
+ema tm tg rhh 	城门失火	c=4 d=6.00706e-05 t=10002
+ep ejf pd 	眼睛钱	c=4 d=0.0127148 t=10002
+ep kj u_ go 	眼见是实	c=4 d=0.10753 t=10002
+eq r_ lej kk 	曲不离口	c=4 d=0.0626626 t=10002
+er dk hn nq al 	坏事传千里	c=4 d=8.56715e-05 t=10002
+et emi tmi tfc 	土堆难翻	c=4 d=0.0378172 t=10002
+ey mxj gu vv 	也滴得多	c=1 d=0.941765 t=10002
+ey qn xgm h_ c_ u_ lf 	也被旁人说是非	c=4 d=0.00014555 t=10002
+ey r_ u_ gp vi z_ 	也不是很自动	c=1 d=0.763379 t=10002
+ey uw qj hh h_ 	也要几个人	c=4 d=0.00398591 t=10002
+eym h_ d_ dn 	杀人一万	c=4 d=0.000201446 t=10002
+eym h_ ek dol 	杀人可恶	c=4 d=0.00046198 t=10002
+ezk ke r_ mfx 	疏而不漏	c=4 d=0.000188768 t=10002
+fa ke u_ pf ra 	然而是有理	c=1 d=0.985112 t=10002
+fae cu ra y_ 	胸无理想	c=4 d=0.03439 t=10002
+ffy pty ks x_ ezk 	朋友听之疏	c=4 d=0.63129 t=10002
+ffy pty ye jfb lx xj lx 	朋友相处心连心	c=4 d=0.0520792 t=10002
+fg mfx ty de xj lh xvv 	屋漏又遭连夜雨	c=4 d=0.000476049 t=10002
+fg ydud mss ey mxj gu vv 	屋檐水也滴得多	c=5 d=0.0262526 t=10002
+fgg hb du is zo ivt 	甘余更生苦趣	c=5 d=0.349941 t=10002
+fgg zu kvw wfg h_ ek hss 	甘草味甜人可食	c=4 d=0.00219848 t=10002
+fis cpa ps sl aa 	胜读十年书	c=8 d=0.149627 t=10002
+fis xkj cq qf mih fru 	胜造七级浮屠	c=4 d=5.9771e-05 t=10002
+fj jx lt div xr 	及第必争先	c=4 d=0.00101285 t=10002
+fk dss hw o_ wj 	点石化为金	c=4 d=0.000335466 t=10002
+fk ez cq fzy 	点塔七层	c=4 d=0.000378237 t=10002
+fle im gy im wrh 	脑越用越灵	c=4 d=0.0599053 t=10002
+fle ljb r_ gy 	脑怕不用	c=4 d=0.0593092 t=10002
+fmj jl rl ma 	屈志老成	c=4 d=0.138763 t=10002
+fn gw j_ 	其它的	c=1 d=0.718924 t=10002
+fn k_ lae b_ oei 	其中礼和义	c=4 d=0.0322257 t=10002
+fn r_ snk rur ba x_ 	其不善者改之	c=4 d=0.136697 t=10002
+fn r_ snk rur ke ba x_ 	其不善者而改之	c=4 d=0.000177775 t=10002
+fna gi pf bo 	甚至有序	c=1 d=0.99005 t=10002
+fnk hyg hym ph gti hyg lx 	脱俗休存矫俗心	c=5 d=0.0898162 t=10002
+fnp h_ lx r_ uf 	欺人心不明	c=4 d=0.000415931 t=10002
+fnp ni ur ur lvy 	欺公日日忧	c=4 d=9.95361e-05 t=10002
+fnp rl zui fnp ix 	欺老莫欺小	c=4 d=0.000413857 t=10002
+fo ek 	尽可	c=1 d=0.71177 t=10002
+fog gwn clx duw 	居安思危	c=8 d=0.125065 t=10002
+fog lk fn ds xym 	居视其所亲	c=4 d=0.21981 t=10002
+fog xs jc fnf upv yfb 	居身务期质朴	c=4 d=0.189193 t=10002
+foj ib as lzn 	迟起三慌	c=4 d=0.00463097 t=10002
+fou lh lpu xfy 	昼夜惜阴	c=4 d=0.0902664 t=10002
+fq cpa og za aa 	须读古今书	c=4 d=0.0665375 t=10002
+fq df sw lg gf 	须下死工夫	c=4 d=6.15913e-05 t=10002
+fq gk hxke hi ek rh 	须知孺子可教	c=5 d=0.131995 t=10002
+fq gk pa f_ zo lj vv 	须知世上苦情多	c=4 d=0.0259914 t=10002
+fq gy pa tu vp 	须用世间财	c=4 d=0.000788806 t=10002
+fq hy zal qkd rl j_ sx bin 	须体念衰老的辛酸	c=4 d=0.0829108 t=10002
+fq tj yp oo woc mw cp 	须向根头寻活计	c=4 d=0.00790713 t=10002
+fq tk op lwy h_ 	须问打柴人	c=4 d=0.0409669 t=10002
+fq xmf hne r_ hne 	须防仁不仁	c=4 d=4.29708e-05 t=10002
+fq xr tk as rl 	须先问三老	c=4 d=0.00023522 t=10002
+fud i_ r_ wk fud ix 	胆大不如胆小	c=4 d=0.0156859 t=10002
+fud ypq i_ ke lx ypq ix 	胆欲大而心欲小	c=4 d=0.301197 t=10002
+fv wwj igp db 	贞妇爱色	c=4 d=0.000238775 t=10002
+fw kk x_ gh 	数口之家	c=4 d=0.000160055 t=10002
+fy oj ps uu wg uf it 	月过十五光明少	c=4 d=0.000102056 t=10002
+fy tvh r_ ba wg 	月缺不改光	c=4 d=0.033709 t=10002
+fzg faf uer zp jo qe 	肝肠煦若春风	c=4 d=0.119434 t=10002
+g_ rl alg rc ud lsp lx 	到老空留后悔心	c=4 d=0.0547493 t=10002
+g_ rl qjg cu vwl lp lx 	到老终无怨恨心	c=4 d=2.93861e-05 t=10002
+gat gh ghq dg r_ ghq qjk 	冤家宜解不宜结	c=4 d=0.00631397 t=10002
+gat gh oav oo sw 	冤家抱头死	c=4 d=0.00305801 t=10002
+gd h_ clx v_ sl 	富人思来年	c=4 d=0.000209667 t=10002
+gd hhr tz zk ib 	富从升合起	c=8 d=0.160407 t=10002
+gd lk fn ds r_ o_ 	富视其所不为	c=4 d=0.22202 t=10002
+gd p_ mgn us pf nr xym 	富在深山有远亲	c=4 d=3.84947e-05 t=10002
+gd vvb du fna dp nnv vda 	富贵更甚于贫贱	c=4 d=0.00199924 t=10002
+gd vvb ge dy uw hqi nn 	富贵定言要依分	c=5 d=0.000569934 t=10002
+gd vvb hwh zh yri 	富贵似花枝	c=4 d=0.000137074 t=10002
+gd vvb lf nid di ee 	富贵非关天地	c=4 d=0.00153383 t=10002
+gd vvb p_ di 	富贵在天	c=4 d=0.000214975 t=10002
+gd vvb vv lvy 	富贵多忧	c=4 d=8.96148e-05 t=10002
+gd vvb wk ndd sn ag otp 	富贵如刀兵戈矛	c=4 d=0.576956 t=10002
+gd zp r_ rh hi 	富若不教子	c=4 d=0.191094 t=10002
+gd zui npe arw 	富莫癫狂	c=4 d=0.00440511 t=10002
+gd zui ny gt div 	富莫与官争	c=4 d=0.00225413 t=10002
+gdd bho vv e_ u_ av mss 	豆腐多了是包水	c=4 d=0.0175099 t=10002
+gdd dgy dz zh zfnm igx zfnm 	豆角开花藤牵藤	c=4 d=0.0518194 t=10002
+gdk vvb ge dy uw hqi nn 	富贵定言要依分	c=1 d=0.918512 t=10002
+ge dy uw hqi nn 	定言要依分	c=1 d=0.923116 t=10002
+geo g_ uf sl slg r_ vv 	待到明年差不多	c=4 d=0.0254767 t=10002
+geo pf hb ke mo h_ 	待有余而济人	c=4 d=0.0312733 t=10002
+geo pf tym ke cpa aa 	待有闲而读书	c=4 d=0.0315876 t=10002
+gf diw oei na ey nn lej 	夫妻义重也分离	c=5 d=0.000125276 t=10002
+gf diw x_ n_ 	夫妻之道	c=4 d=0.0060664 t=10002
+gf diw ye b_ wh 	夫妻相和好	c=4 d=0.000542138 t=10002
+gf h_ sw dj jv nj tm 	夫人死百将临门	c=4 d=0.0300471 t=10002
+gf wwj ks x_ lej 	夫妇听之离	c=4 d=0.625009 t=10002
+ggd ik h_ vnw pd 	短路人赚钱	c=4 d=0.0149957 t=10002
+ggg vk tmi iw 	龟名难当	c=4 d=0.00554427 t=10002
+gh aet r_ ek vf hn 	家丑不可外传	c=4 d=0.0109437 t=10002
+gh bt b_ eene 	家庭和睦	c=4 d=0.351695 t=10002
+gh cp mx mx pjc 	家计渐渐退	c=4 d=0.000432906 t=10002
+gh cu as sl x_ bkn r_ ma fn gh 	家无三年之积不成其家	c=4 d=0.00667097 t=10002
+gh cu is mw cp 	家无生活计	c=4 d=0.00362468 t=10002
+gh gd ix re wtin 	家富小儿娇	c=4 d=0.000973133 t=10002
+gh gh pf ik ig ic gwn 	家家有路通长安	c=4 d=0.00030813 t=10002
+gh k_ cu pt hi 	家中无才子	c=4 d=0.000808775 t=10002
+gh nnv clx opg diw 	家贫思良妻	c=5 d=0.00126209 t=10002
+gh nnv m_ rhi hi 	家贫出孝子	c=4 d=0.00252885 t=10002
+gh pf as lct ct 	家有三亩田	c=4 d=0.0122775 t=10002
+gh pf nq kk 	家有千口	c=4 d=0.0022882 t=10002
+gh pf opg ct dn wqy 	家有良田万顷	c=4 d=0.00366111 t=10002
+ghd zh vof vpa yyv zeg bu 	宿花蝴蝶梦魂香	c=4 d=0.000699608 t=10002
+ghi 	字	c=0 d=0.0694197 t=10002
+ghi yp aj 	字根图	c=1 d=0.755784 t=10002
+ghq hhr gyg r_ ghq mjm snr 	宜从容不宜激烈	c=4 d=0.244146 t=10002
+ghq lua udn r_ ghq bw alf 	宜惕厉不宜委靡	c=4 d=0.246599 t=10002
+ghq vw xvv ke qjek qwhf 	宜未雨而绸缪	c=4 d=0.197901 t=10002
+gj h_ qjg gj bi 	害人终害已	c=4 d=0.234573 t=10002
+gj h_ x_ lx r_ ek pf 	害人之心不可有	c=4 d=0.00775056 t=10002
+gjk r_ fas j_ xym 	割不断的亲	c=4 d=0.0987672 t=10002
+gjo it ma vv 	凑少成多	c=4 d=0.251581 t=10002
+gk ail owt ail 	知恩报恩	c=4 d=0.00104369 t=10002
+gk bj gk gnp 	知己知彼	c=12 d=0.135556 t=10002
+gk ckn u_ go rk ra y_ j_ rwv fxg 	知识是实现理想的翅膀	c=4 d=0.038969 t=10002
+gk dk it uo rq lle it 	知事少时烦恼少	c=4 d=0.000258662 t=10002
+gk h_ gk xm r_ gk lx 	知人知面不知心	c=4 d=3.15168e-05 t=10002
+gk iu sa iu 	知足常足	c=8 d=0.224325 t=10002
+gk lii sa lii 	知止常止	c=8 d=0.226579 t=10002
+gk lii vi iw m_ nwn y_ 	知止自当出妄想	c=4 d=0.00351755 t=10002
+gk lx if qj h_ 	知心能几人	c=4 d=2.90937e-05 t=10002
+gk oj lt ba 	知过必改	c=4 d=0.0424262 t=10002
+gk ra r_ lte h_ 	知理不怪人	c=4 d=0.0023697 t=10002
+gk t_ rur ccf t_ lx lvy 	知我者谓我心忧	c=4 d=9.32721e-05 t=10002
+gk wy c_ ny gk wy ks 	知音说与知音听	c=4 d=0.000332128 t=10002
+gkg v_ or r_ uwq 	客来主不顾	c=4 d=3.75443e-05 t=10002
+gku is ckn 	智生识	c=4 d=0.440436 t=10002
+gku oj wtk hi 	智过君子	c=4 d=8.82806e-05 t=10002
+gku rur gmd no 	智者减半	c=4 d=6.44262e-05 t=10002
+gku rur nq slx 	智者千虑	c=4 d=0.00112498 t=10002
+gmd as nn cf h_ krur 	减三分让人嗜	c=4 d=0.379087 t=10002
+gms is dp mss ke gvn dp mss 	冰生于水而寒于水	c=4 d=0.0578449 t=10002
+go ida u_ go rk ra y_ j_ xhn ynx 	实践是实现理想的阶梯	c=4 d=0.0387746 t=10002
+go rk 	实现	c=1 d=0.860708 t=10002
+goc gh ne ghi pkjc ny hzm 	守家二字勤与俭	c=5 d=0.470015 t=10002
+goc kk wk nzt 	守口如瓶	c=4 d=4.58567e-05 t=10002
+gp tmi 	很难	c=1 d=0.878095 t=10002
+gpd c_ h_ ic zui c_ ggd 	宁说人长莫说短	c=4 d=0.00298251 t=10002
+gpd ek cu pd hdk 	宁可无钱使	c=4 d=0.0282973 t=10002
+gpd ek dl ke r_ iu 	宁可正而不足	c=8 d=0.153424 t=10002
+gpd ek h_ dv t_ 	宁可人负我	c=4 d=4.63175e-05 t=10002
+gpd ek hdy fn pf 	宁可信其有	c=4 d=6.84101e-05 t=10002
+gpd ek ped k_ vt 	宁可直中取	c=4 d=9.14251e-05 t=10002
+gpd ek zgx kk zal hxf 	宁可荤口念佛	c=5 d=0.00167827 t=10002
+gpd ho io zn aqq 	宁做太平犬	c=4 d=0.00255427 t=10002
+gpd mdi d_ ld 	宁添一斗	c=4 d=0.000191621 t=10002
+gpd mse h_ ail zui mse vwl 	宁施人恩莫施怨	c=4 d=0.00301248 t=10002
+gpd p_ h_ nf hr r_ hz 	宁在人前全不会	c=4 d=0.0185926 t=10002
+gpd pao rk ne 	宁卖现二	c=4 d=0.0150709 t=10002
+gph vap m_ dp nnv ac 	盗贼出于贫穷	c=4 d=0.000493006 t=10002
+gph vap vv m_ vru pb 	盗贼多出赌博	c=4 d=0.0032148 t=10002
+gph vap vwl tg or 	盗贼怨失主	c=5 d=0.00900487 t=10002
+gt dke mj bnw wk hhj px 	官吏清廉如修行	c=4 d=0.0133 t=10002
+gt hhr hek jfb v_ 	官从何处来	c=4 d=0.000812829 t=10002
+gt me wk rdh 	官法如炉	c=4 d=6.28355e-05 t=10002
+gt mj ad dke nyh 	官清司吏瘦	c=4 d=0.000168262 t=10002
+gt mj tmi rgg aug dke os 	官清难逃猾吏手	c=4 d=0.00226543 t=10002
+gt pf dl jy 	官有正条	c=4 d=0.00109173 t=10002
+gt pf qj kp 	官有几品	c=4 d=0.00259287 t=10002
+gtc al rf rhh 	宅里燃火	c=4 d=0.00102815 t=10002
+gu blf d_ h_ d_ uo tu 	得罪一人一时间	c=4 d=0.0165728 t=10002
+gu d_ no 	得一半	c=4 d=0.0144077 t=10002
+gu gvl clx soc 	得宠思辱	c=8 d=0.124441 t=10002
+gu koc hq koc 	得耐且耐	c=5 d=0.000424334 t=10002
+gu nol hq nol 	得忍且忍	c=4 d=0.000422217 t=10002
+gu qg eep jfb hq qg eep 	得高歌处且高歌	c=5 d=0.000249765 t=10002
+gu qgh oo uo hq qgh oo 	得缩头时且缩头	c=4 d=9.85457e-05 t=10002
+gu uo zui ina if 	得时莫夸能	c=4 d=0.366048 t=10002
+gu wl efn fa 	得意堪然	c=4 d=0.174647 t=10002
+gu wl mgqi uo hdu ek hym 	得意浓时便可休	c=4 d=0.000115644 t=10002
+gvnv oj cru zua qqj 	赛过诸葛亮	c=4 d=0.0466543 t=10002
+gwn ki hpe pd vv 	安乐值钱多	c=4 d=0.000276033 t=10002
+gwn nn nnv d_ uo 	安分贫一时	c=4 d=0.00154924 t=10002
+gwn nnv fq u_ yyl iru lx 	安贫须是禁奢心	c=4 d=0.00353518 t=10002
+gwn tym hdu uaf ib rxe lx 	安闲便易起邪心	c=4 d=0.00197934 t=10002
+gy cl r_ vv 	用力不多	c=4 d=0.000252275 t=10002
+gy h_ ny rh h_ 	用人与教人	c=4 d=0.255383 t=10002
+gy h_ r_ ghq xnd 	用人不宜刻	c=4 d=0.161219 t=10002
+gy h_ vt fn ic 	用人取其长	c=4 d=0.25795 t=10002
+gy lx cp xme qr qr pp 	用心计较般般错	c=4 d=0.000322312 t=10002
+gy p_ d_ uo 	用在一时	c=4 d=0.00096345 t=10002
+gy pd avy wk mss om mit 	用钱犹如水推沙	c=4 d=0.00771191 t=10002
+gy uo mf gk v_ uo tmi 	用时方知来时难	c=4 d=0.014052 t=10002
+gym mlg tmi qjk dn h_ qwh 	宋江难结万人缘	c=4 d=0.0122162 t=10002
+h_ ac ckd kk dcc 	人穷误口齿	c=4 d=0.0305012 t=10002
+h_ ac cp zui ac 	人穷计莫穷	c=4 d=0.00044609 t=10002
+h_ ac jl ggd 	人穷志短	c=4 d=0.000611259 t=10002
+h_ ac jl r_ ac 	人穷志不穷	c=4 d=0.0352606 t=10002
+h_ cb nl fn pci 	人记忘其惠	c=4 d=0.53795 t=10002
+h_ ckv r_ wk hwv ckv 	人强不如货强	c=4 d=0.00416937 t=10002
+h_ cu ekk db hym dz bf 	人无喜色休开店	c=4 d=0.0227091 t=10002
+h_ cu nq ur wh 	人无千日好	c=4 d=0.000448326 t=10002
+h_ cu nr slx 	人无远虑	c=8 d=0.195046 t=10002
+h_ cu yeh vp r_ gd 	人无横财不富	c=4 d=0.000128448 t=10002
+h_ cu zl bp rjk it sl 	人无两度再少年	c=12 d=0.232403 t=10002
+h_ div d_ kk iq 	人争一口气	c=4 d=0.00530031 t=10002
+h_ dol h_ ljb di r_ ljb 	人恶人怕天不怕	c=4 d=0.000129738 t=10002
+h_ dw gku is 	人急智生	c=4 d=0.000365228 t=10002
+h_ dy vw lt avy fo 	人言未必犹尽	c=5 d=0.00187342 t=10002
+h_ f_ d_ dj 	人上一百	c=4 d=0.0216016 t=10002
+h_ f_ ps kk tmi qhm 	人上十口难盘	c=4 d=0.0193514 t=10002
+h_ fnp r_ u_ soc 	人欺不是辱	c=4 d=0.00827108 t=10002
+h_ g_ k_ sl dn dk hym 	人到中年万事休	c=4 d=0.000102567 t=10002
+h_ gi gnl 	人至察	c=4 d=0.151831 t=10002
+h_ h_ hqi lae hoe 	人人依礼仪	c=4 d=0.0125255 t=10002
+h_ h_ pf jvb 	人人有责	c=4 d=0.0742743 t=10002
+h_ if jfb jfb if 	人能处处能	c=4 d=0.00392657 t=10002
+h_ igt tnb vn te 	人受柬则圣	c=5 d=0.433879 t=10002
+h_ io dw vn cu gku 	人太急则无智	c=4 d=6.41049e-05 t=10002
+h_ is cq ps og v_ bep 	人生七十古来稀	c=4 d=0.000156104 t=10002
+h_ is d_ pa 	人生一世	c=4 d=0.000100035 t=10002
+h_ is gk iu uo sa iu 	人生知足时常足	c=4 d=0.000303542 t=10002
+h_ is hwh onn jd yy ghd 	人生似鸟同林宿	c=5 d=0.000125904 t=10002
+h_ is kn hz uda h_ ggd 	人生只会量人短	c=4 d=0.000599155 t=10002
+h_ is r_ mzz dj 	人生不满百	c=4 d=0.000104118 t=10002
+h_ jpm r_ efn xym 	人毒不堪亲	c=4 d=4.74901e-05 t=10002
+h_ jv lae oei o_ xr 	人将礼义为先	c=4 d=0.0234007 t=10002
+h_ ke cu hdy 	人而无信	c=4 d=0.000229412 t=10002
+h_ kg pf lx 	人各有心	c=4 d=0.000930313 t=10002
+h_ kj jb oo kpe 	人见白头嗔	c=4 d=8.27249e-05 t=10002
+h_ ldu igp 	人恒爱	c=4 d=0.412718 t=10002
+h_ ldu zea 	人恒敬	c=4 d=0.416866 t=10002
+h_ lej rx vda 	人离乡贱	c=4 d=0.0111648 t=10002
+h_ lj hwh mss nn qg df 	人情似水分高下	c=4 d=7.26404e-05 t=10002
+h_ lj hwh qzs cic cic zmb 	人情似纸张张薄	c=4 d=4.91816e-05 t=10002
+h_ lj i_ oj rw me 	人情大过王法	c=4 d=0.00763517 t=10002
+h_ lj nij vr sm 	人情送匹马	c=4 d=0.00204985 t=10002
+h_ ljb as kj xm 	人怕三见面	c=4 d=0.0116787 t=10002
+h_ ljb r_ u_ ldk 	人怕不是福	c=4 d=0.00822983 t=10002
+h_ lx avy vw iu 	人心犹未足	c=4 d=0.000337148 t=10002
+h_ lx hwh ptg 	人心似铁	c=4 d=6.25221e-05 t=10002
+h_ lx oqq 	人心齐	c=4 d=0.0450497 t=10002
+h_ lx tmi mzz 	人心难满	c=4 d=0.25411 t=10002
+h_ mg wi gk n_ 	人学始知道	c=4 d=0.000218224 t=10002
+h_ nf uoy vvb 	人前显贵	c=4 d=0.0034479 t=10002
+h_ nnv r_ cuk 	人贫不语	c=4 d=0.000107288 t=10002
+h_ o_ vp sw 	人为财死	c=4 d=0.000536744 t=10002
+h_ oao mw 	人挪活	c=4 d=0.011277 t=10002
+h_ oj rc vk 	人过留名	c=4 d=0.00158054 t=10002
+h_ pf qj je 	人有几等	c=4 d=0.00257994 t=10002
+h_ pf snk uji 	人有善愿	c=4 d=0.000180462 t=10002
+h_ pf snk zal 	人有善念	c=4 d=0.141566 t=10002
+h_ pf udi vxx lkj ldk 	人有旦夕祸福	c=4 d=0.00960963 t=10002
+h_ r_ gk bj oj 	人不知己过	c=4 d=0.00708348 t=10002
+h_ r_ ig za og 	人不通今古	c=4 d=5.77152e-05 t=10002
+h_ r_ iz r_ xym 	人不走不亲	c=4 d=0.00400589 t=10002
+h_ r_ mg uw zm ud 	人不学要落后	c=4 d=0.0632924 t=10002
+h_ r_ qe mz kn o_ nnv 	人不风流只为贫	c=4 d=3.41417e-05 t=10002
+h_ r_ wk t_ t_ sa gk iu 	人不如我我常知足	c=4 d=0.00923283 t=10002
+h_ rl hzf tym hq u_ tym 	人老偷闲且是闲	c=4 d=0.000305064 t=10002
+h_ rl lx vw rl 	人老心未老	c=4 d=0.000443865 t=10002
+h_ snk h_ fnp di r_ fnp 	人善人欺天不欺	c=4 d=0.000130389 t=10002
+h_ snk qn h_ fnp 	人善被人欺	c=4 d=0.000127169 t=10002
+h_ tu bis cuk 	人间私语	c=4 d=0.000867418 t=10002
+h_ tym lx r_ tym 	人闲心不闲	c=4 d=0.000293102 t=10002
+h_ uw nt j_ u_ ra y_ 	人要紧的是理想	c=4 d=0.0342185 t=10002
+h_ vwl fn bxk 	人怨其酷	c=4 d=0.54608 t=10002
+h_ xl p_ jl f_ 	人立在志上	c=4 d=0.0335409 t=10002
+h_ xt rur hdu u_ vi xt 	人轻者便是自轻	c=4 d=0.00264525 t=10002
+h_ zkw p_ di 	人命在天	c=4 d=0.00315114 t=10002
+h_ zkw sa m_ wzg lj 	人命常出奸情	c=4 d=0.00323091 t=10002
+ha dk fq gup di ra 	作事须循天理	c=5 d=0.0808637 t=10002
+ha dol tmi rgg 	作恶难逃	c=4 d=0.000284439 t=10002
+ha gkg zui p_ ud 	作客莫在后	c=4 d=0.000190665 t=10002
+ha hfn xv lc gf 	作假费功夫	c=4 d=0.155674 t=10002
+hao dsm 	豹码	c=0 d=0.0694197 t=10002
+hao dsm nc ghi 	豹码单字	c=1 d=0.697676 t=10002
+hd dw he vw dw 	你急他未急	c=4 d=0.00029164 t=10002
+hd mno hh hsn hi oe oe 	你举个例子看看	c=1 d=0.70822 t=10002
+hd uw y_ ge xan 	你要想定制	c=1 d=0.826959 t=10002
+hdk kk r_ wk vi iz 	使口不如自走	c=4 d=0.240511 t=10002
+hdk lx gy lx 	使心用心	c=4 d=0.0037726 t=10002
+hdu ha je tym oe 	便作等闲看	c=4 d=0.000320705 t=10002
+hdu it d_ u_ 	便少一是	c=4 d=0.272535 t=10002
+hdu ob zis v_ px 	便把令来行	c=4 d=0.00218751 t=10002
+hdu tg i_ n_ 	便失大道	c=4 d=0.283657 t=10002
+hdu u_ u_ lf h_ 	便是是非人	c=4 d=4.79673e-05 t=10002
+hdy e_ vru 	信了赌	c=4 d=0.000338837 t=10002
+hdyc ks vn uwy 	偏听则暗	c=8 d=0.147307 t=10002
+he cgg zui oar 	他弓莫挽	c=4 d=0.0183158 t=10002
+he h_ dwm dwm 	他人碌碌	c=4 d=0.000345682 t=10002
+he h_ tkj zh 	他人观花	c=4 d=0.000342243 t=10002
+he h_ vw gk lnw 	他人未知忙	c=4 d=0.000620497 t=10002
+he rx ca oap gk 	他乡遇故知	c=4 d=0.00120053 t=10002
+he sm zui sie 	他马莫骑	c=4 d=0.0182245 t=10002
+he uo nav uid cxo zhw di 	他时饱暖谢苍天	c=4 d=0.000420112 t=10002
+hek r_ ak oo ob vi uda 	何不回头把自量	c=4 d=0.000602158 t=10002
+hfn qod mly q_ pe ql db 	假缎染就真红色	c=4 d=0.000144824 t=10002
+hg e_ ema een aet e_ his gt 	倒了城墙丑了县官	c=4 d=0.00509248 t=10002
+hhe d_ emi 	坐一堆	c=4 d=0.295233 t=10002
+hhe ksk wk us uff 	坐吃如山崩	c=4 d=0.00364285 t=10002
+hhh div x_ ee zui gor 	众争之地莫往	c=4 d=0.00491733 t=10002
+hhh ui opf opf 	众星朗朗	c=4 d=0.000397629 t=10002
+hhj ib buy v_ eg ru rl 	修起庙来鬼都老	c=5 d=0.0169924 t=10002
+hhj oeo r_ gmd nn k_ 	修持不减分中	c=4 d=0.118838 t=10002
+hhj px p_ vi xs 	修行在自身	c=4 d=0.064571 t=10002
+hhn qg r_ wk kk hdu 	价高不如口便	c=4 d=0.00419027 t=10002
+hhr iru vu hzm tmi 	从奢入俭难	c=4 d=0.000330472 t=10002
+hhr nf ail igp ut o_ hlj 	从前恩爱反为仇	c=4 d=0.000116807 t=10002
+hhr snk wk mz 	从善如流	c=4 d=0.0432832 t=10002
+hi hix cal nda lae hoe ezk 	子孙愚兮礼仪疏	c=4 d=5.68559e-05 t=10002
+hi hix hek fq igt lhq ct 	子孙何须受祖田	c=4 d=0.015923 t=10002
+hi rhi nei lx gzk 	子孝父心宽	c=5 d=0.000299023 t=10002
+hi ypq son ke xym r_ geo 	子欲养而亲不待	c=4 d=0.000164107 t=10002
+hjs gec zmf gkj mj 	仕宦芳规清	c=4 d=0.260542 t=10002
+hk od rr ew 	保护环境	c=4 d=0.0739039 t=10002
+hn gh ne ghi 	传家二字	c=1 d=0.960789 t=10002
+hn gh ne ghi tvj ny cpa 	传家二字耕与读	c=5 d=0.463018 t=10002
+hne if snk fas 	仁能善断	c=4 d=0.115904 t=10002
+hne oei hpe nq wj 	仁义值千金	c=8 d=0.0804918 t=10002
+ho gt zui tj nf 	做官莫向前	c=4 d=0.000189715 t=10002
+hpu hjv qt xjn 	借债经商	c=4 d=0.0166559 t=10002
+hpu tk mb gh hek jfb pf 	借问酒家何处有	c=4 d=0.00105947 t=10002
+hq oe gyg xuf hdu gu gk 	且看容颜便得知	c=4 d=0.000167423 t=10002
+hr gh igt gvn 	全家受寒	c=4 d=0.0139122 t=10002
+hr gh nto nu 	全家饿饭	c=4 d=0.0137738 t=10002
+hs lx cw zui c_ 	伤心话莫说	c=4 d=0.00272581 t=10002
+hs xs dk zui ho 	伤身事莫做	c=4 d=0.00271221 t=10002
+hsg so tmi kon 	孤掌难鸣	c=4 d=0.0457305 t=10002
+hss vv kib r_ ovb 	食多嚼不赢	c=4 d=0.00371644 t=10002
+hss zbp if fgg 	食蔗能甘	c=4 d=0.348196 t=10002
+hu 	但	c=1 d=0.873716 t=10002
+hu dm cu leg h_ lx 	但求无愧人心	c=4 d=0.1054 t=10002
+hu dm r_ leg uk lx 	但求不愧吾心	c=4 d=0.00172076 t=10002
+hu gk mlg mof rur 	但知江湖者	c=4 d=0.00290887 t=10002
+hu if goc yd nn 	但能守本分	c=4 d=0.000222632 t=10002
+hu if hqi yd nn 	但能依本分	c=4 d=0.285079 t=10002
+hu jv gz ep tkj vxg dgn 	但将冷眼观螃蟹	c=4 d=0.000140544 t=10002
+hu ks kk k_ dy 	但听口中言	c=4 d=0.0184999 t=10002
+hu oe as uu ur 	但看三五日	c=4 d=7.19176e-05 t=10002
+hu ph mf occ ee 	但存方寸地	c=4 d=0.000385878 t=10002
+hu px wh dk 	但行好事	c=4 d=0.0997598 t=10002
+hu rc mj jb p_ h_ tu 	但留清白在人间	c=5 d=0.170335 t=10002
+hu uji re hix hh hh ntv 	但愿儿孙个个贤	c=4 d=0.000196472 t=10002
+hu vwl h_ gh jov vjj mgn 	但怨人家箍井深	c=4 d=0.0963286 t=10002
+hv hw hp ti 	优化什么	c=1 d=0.802519 t=10002
+hwh t_ r_ wk cu 	似我不如无	c=8 d=0.148153 t=10002
+hwj bla soy nda uvx fy tx 	仓廪虚兮岁月乏	c=4 d=5.65724e-05 t=10002
+hwq gh ne ghi mitj da vru 	倾家二字淫与赌	c=1 d=0.970446 t=10002
+hwq gh ne ghi mitj ny vru 	倾家二字淫与赌	c=4 d=0.467671 t=10002
+hws vp r_ wk it vt 	舍财不如少取	c=4 d=0.00504181 t=10002
+hwv lej rx vvb 	货离乡贵	c=4 d=0.0111091 t=10002
+hxf div d_ ror bu 	佛争一炷香	c=4 d=0.00532688 t=10002
+hxke o_ bpa f_ rhf 	儒为席上珍	c=4 d=5.19624e-05 t=10002
+hy cu ndj o_ gd vvb 	体无病为富贵	c=4 d=0.00150345 t=10002
+hym kc pf sv jfb 	休别有鱼处	c=4 d=0.000118572 t=10002
+hym ny ix h_ o_ hlj 	休与小人为仇	c=4 d=0.211191 t=10002
+hym tj wtk hi cdw wfe 	休向君子诌媚	c=4 d=0.20909 t=10002
+hym xt ck d_ rhd 	休轻加一鞭	c=4 d=0.511714 t=10002
+hym zal oap rx is jfb wh 	休念故乡生处好	c=4 d=0.00129404 t=10002
+hz aoo aoo ljb h_ 	会买买怕人	c=4 d=0.00421127 t=10002
+hz c_ c_ ru u_ 	会说说都是	c=4 d=7.33704e-05 t=10002
+hz hdk r_ p_ gh gd qhs 	会使不在家富豪	c=4 d=0.000266539 t=10002
+hz op as rn eri 	会打三班鼓	c=4 d=0.00396603 t=10002
+hz pao pao ljb h_ 	会卖卖怕人	c=4 d=0.00423238 t=10002
+hz rur r_ tmi 	会者不难	c=4 d=0.021928 t=10002
+hzo h_ dm qg tmi 	低人求高难	c=4 d=0.0212799 t=10002
+i_ dk r_ fof mhb 	大事不糊涂	c=4 d=0.522051 t=10002
+i_ gh ru u_ zkw 	大家都是命	c=4 d=4.40586e-05 t=10002
+i_ ho ix 	大做小	c=4 d=0.2982 t=10002
+i_ ms qjg fq qjh qc mz 	大海终须纳细流	c=8 d=0.208158 t=10002
+i_ oz xrj we fqj ug wh 	大抵选她肌骨好	c=4 d=0.000113923 t=10002
+i_ pap uar ma 	大器晚成	c=4 d=0.101267 t=10002
+i_ tmi v_ uo kg vi ff 	大难来时各自飞	c=4 d=0.000126535 t=10002
+i_ udv nq tu 	大厦千间	c=4 d=0.000746593 t=10002
+iaz ndj i_ wk di 	弊病大如天	c=4 d=0.0200407 t=10002
+ic i_ kg rx al 	长大各乡里	c=4 d=8.14933e-05 t=10002
+ic ik h_ org oud 	长路人挑担	c=4 d=0.0149209 t=10002
+ic mlg ud mop om nf mop 	长江后浪推前浪	c=8 d=0.0539747 t=10002
+id rrh kvc uid 	趋炎虽暖	c=4 d=0.344731 t=10002
+iee kk hss vv hdyc ha ndj 	爽口食多偏作病	c=5 d=0.000564263 t=10002
+if dy r_ u_ pe wtk hi 	能言不是真君子	c=4 d=0.00831254 t=10002
+if gk di df dk 	能知天下事	c=4 d=0.0290136 t=10002
+igp 	爱	c=0 d=0.0891366 t=10002
+igp bj x_ lx igp h_ 	爱己之心爱人	c=4 d=0.0880377 t=10002
+igp diw x_ lx u_ or 	爱妻之心是主	c=4 d=0.00161247 t=10002
+igp ek w_ zd pto paj qwt 	爱可以荆钗布裙	c=1 d=0.895834 t=10002
+igp ess sa rc nu 	爱鼠常留饭	c=4 d=0.00311979 t=10002
+igp fy lh evm foj 	爱月夜眠迟	c=4 d=0.00122478 t=10002
+igp h_ rur 	爱人者	c=4 d=0.41066 t=10002
+igp hhh ke xym hne 	爱众而亲仁	c=4 d=0.0796598 t=10002
+igp hi x_ lx u_ xym 	爱子之心是亲	c=4 d=0.00162055 t=10002
+igt ail mgn jfb ghq xr pjc 	受恩深处宜先退	c=4 d=0.000115068 t=10002
+igt ail mgn jfb hdu o_ gh 	受恩深处便为家	c=4 d=0.00130052 t=10002
+igt qhi r_ zfnj nn vf 	受享不逾分外	c=4 d=0.118246 t=10002
+ij h_ gk zkw 	达人知命	c=4 d=0.000513126 t=10002
+ij lk fn ds mno 	达视其所举	c=4 d=0.220912 t=10002
+ik gtl uhr jfb 	路径仄处	c=4 d=0.373443 t=10002
+ik itj gk sm cl 	路遥知马力	c=8 d=0.0939822 t=10002
+ik jjj xz jfb fq ak mjc 	路逢险处须回避	c=4 d=0.000106221 t=10002
+ik r_ px r_ g_ 	路不行不到	c=4 d=0.000370747 t=10002
+imu zh nw ei sm ixg bu 	踏花归去马蹄香	c=4 d=0.000685755 t=10002
+io dod vn hdyc 	太久则偏	c=4 d=0.0210682 t=10002
+iq r_ od zkw 	气不护命	c=4 d=0.00195965 t=10002
+iq ug mj wk br mss 	气骨清如秋水	c=4 d=0.121239 t=10002
+is cc ypq gu ma vll avy lqo ma awp 	生男欲得成龙犹恐成獐	c=4 d=0.00568463 t=10002
+is cc zui rh cgg ny wtcg 	生男莫教弓与弩	c=4 d=0.00585775 t=10002
+is q_ ym oo xkj q_ qq 	生就木头造就船	c=4 d=0.0220379 t=10002
+is r_ ch zeg 	生不认魂	c=4 d=0.000123411 t=10002
+is sw pf zkw 	生死有命	c=4 d=0.000213903 t=10002
+is wn ypq gu ma qty avy lqo ma sh 	生女欲得成凤犹恐成虎	c=4 d=0.00571312 t=10002
+is wn zui rh eep ny sud 	生女莫教歌与舞	c=4 d=0.00588711 t=10002
+it go fis soy 	少实胜虚	c=4 d=0.00615808 t=10002
+it hss w_ tl sl 	少食以延年	c=4 d=0.0174225 t=10002
+it iw it vt 	少当少取	c=5 d=0.00240552 t=10002
+it jjs r_ wtc cl 	少壮不努力	c=4 d=0.0555768 t=10002
+it kj lt vv lte 	少见必多怪	c=4 d=0.404546 t=10002
+it ks soy dy 	少听虚言	c=4 d=0.0417945 t=10002
+it uo qhi oj rl v_ ldk 	少时享过老来福	c=4 d=0.0105146 t=10002
+it uo r_ wtc cl 	少时不努力	c=4 d=0.000178666 t=10002
+it xzf iw ovb 	少输当赢	c=4 d=0.00241758 t=10002
+ite dk hzm gy 	省事俭用	c=5 d=0.0014445 t=10002
+iw clx fn ek hhr 	当思其可从	c=4 d=0.326283 t=10002
+iw dk rur fjc 	当事者迷	c=4 d=0.00233442 t=10002
+iw ea r_ cn 	当场不论	c=4 d=0.00222057 t=10002
+iw fas r_ fas 	当断不断	c=4 d=0.444863 t=10002
+iw gh bt x_ qkd 	当家庭之衰	c=4 d=0.24537 t=10002
+iw gt wwjb d_ qr 	当官皆一般	c=4 d=0.013102 t=10002
+iw it jjs uo 	当少壮时	c=4 d=0.0824973 t=10002
+iw uo zp r_ ng qg nfr 	当时若不登高望	c=4 d=3.23146e-05 t=10002
+iw xm cn h_ zpk lp uv i_ 	当面论人惹恨最大	c=4 d=0.00722658 t=10002
+iw xm rc d_ qda 	当面留一线	c=4 d=0.0106735 t=10002
+ix bn r_ div 	小利不争	c=4 d=0.000407695 t=10002
+ix dk ma grh 	小事成灾	c=4 d=0.000428598 t=10002
+ix dk r_ mii mfx 	小事不渗漏	c=4 d=0.524668 t=10002
+ix h_ ac fns mmh igs 	小人穷斯溢矣	c=4 d=8.91679e-05 t=10002
+ix h_ d_ pd lle h_ lx 	小人一钱恼人心	c=4 d=0.0034307 t=10002
+ix h_ fb kk 	小人肥口	c=4 d=0.00273947 t=10002
+ix h_ lrb pci 	小人怀惠	c=4 d=0.000735478 t=10002
+ix h_ map bn 	小人放利	c=4 d=0.23108 t=10002
+ix h_ vi t_ to oo 	小人自我对头	c=4 d=0.21225 t=10002
+ix h_ x_ mei fgg w_ er 	小人之交甘以坏	c=4 d=0.408612 t=10002
+ix h_ x_ mei mb jhh xym 	小人之交酒肉亲	c=4 d=0.051561 t=10002
+ix h_ xug een uaf ghd 	小人隔墙易宿	c=4 d=0.00869515 t=10002
+ix ix is wl vnw i_ pd 	小小生意赚大钱	c=4 d=0.0153753 t=10002
+ix uo u_ kr nx 	小时是兄弟	c=4 d=8.10868e-05 t=10002
+ixo oj jo us zu ym bu 	麝过春山草木香	c=5 d=0.000596167 t=10002
+iz dyj di df r_ mzz tz 	走遍天下不满升	c=4 d=0.00375379 t=10002
+iz dyj di muee wk mm nod 	走遍天涯如游刃	c=4 d=0.0328767 t=10002
+j_ 	的	c=1 d=0.794534 t=10002
+j_ bvj xkv 	的逻辑	c=1 d=0.852144 t=10002
+j_ gms xw tfc cto pap ksm 	的冰雪翻译器吗	c=1 d=0.839457 t=10002
+j_ rh bkr 	的教程	c=1 d=0.790571 t=10002
+jb mb bopg ma kw gsn gkg 	白酒酿成迎宾客	c=4 d=5.88811e-05 t=10002
+jb mt he uo r_ map wtk 	白发他时不放君	c=4 d=0.00105418 t=10002
+jb zy m_ uuy yd cu lx 	白云出岫本无心	c=5 d=3.21535e-05 t=10002
+jb zy yd u_ cu lx xa 	白云本是无心物	c=4 d=0.000841782 t=10002
+jc df mg ke f_ ij 	务下学而上达	c=4 d=0.247836 t=10002
+jd wtk d_ bpa cw 	同君一席话	c=4 d=0.148824 t=10002
+jfb gd vvb ee 	处富贵地	c=4 d=0.0816764 t=10002
+jfb h_ zcun fa 	处人蔼然	c=4 d=0.173776 t=10002
+jfb jfb qw yaf efn tf sm 	处处绿杨堪系马	c=4 d=0.000306593 t=10002
+jfb jfb rc lx wwjb mg tk 	处处留心皆学问	c=4 d=0.0724405 t=10002
+jfb ug jhh x_ lr 	处骨肉之变	c=4 d=0.242928 t=10002
+jfd hhe sa clx bi oj 	静坐常思已过	c=4 d=0.133322 t=10002
+jfd jfb gwn xs 	静处安身	c=4 d=4.00657e-05 t=10002
+jfs hx ke px 	素位而行	c=5 d=0.477119 t=10002
+jfy m_ dp znj ke fis dp znj 	青出于蓝而胜于蓝	c=4 d=0.0581348 t=10002
+jgo k_ ur fy ic 	壶中日月长	c=4 d=0.000678932 t=10002
+jh zme fjf uf 	内藏精明	c=4 d=0.527298 t=10002
+jhh qfb r_ wk son qfb 	肉补不如养补	c=4 d=0.0081073 t=10002
+jjj h_ hq c_ as nn cw 	逢人且说三分话	c=4 d=3.07386e-05 t=10002
+jjj lv zui izg 	逢快莫赶	c=4 d=0.0146255 t=10002
+jjj vda zui ltd 	逢贱莫懒	c=4 d=0.0146988 t=10002
+jl ghq qg ke xs ghq df 	志宜高而身宜下	c=4 d=0.299695 t=10002
+jl i_ r_ ljb tpg xz 	志大不怕艰险	c=4 d=0.0370684 t=10002
+jl iq d_ jtps mna e_ 	志气一卑污了	c=5 d=0.382897 t=10002
+jl js r_ igt ksl v_ hss 	志士不受嗟来食	c=4 d=0.673687 t=10002
+jl r_ jd bj 	志不同己	c=4 d=0.0256044 t=10002
+jl tj jdy 	志向篇	c=4 d=0.0332072 t=10002
+jo v_ cu jfb r_ zh bu 	春来无处不花香	c=4 d=0.000633032 t=10002
+jom us bvv 	泰山移	c=4 d=0.0452755 t=10002
+joo tc wtk hi 	奉劝君子	c=4 d=0.00132018 t=10002
+joo tc xkk pa h_ 	奉劝告世人	c=4 d=0.0323873 t=10002
+jr xga hhe jw qix 	皇帝坐北京	c=4 d=0.00744666 t=10002
+js o_ gk bj rur sw 	士为知己者死	c=4 d=0.000500456 t=10002
+js rur a_ x_ gr 	士者国之宝	c=4 d=5.17032e-05 t=10002
+juu jle zot hws qe wg wh 	竹篱茅舍风光好	c=4 d=6.70555e-05 t=10002
+jv gx sw d_ lhhp r_ gi 	将军死一卒不至	c=4 d=0.0301977 t=10002
+jv lx ww lx 	将心比心	c=12 d=0.136236 t=10002
+jv ye ea k_ efn iz sm 	将相场中堪走马	c=4 d=0.000207581 t=10002
+jvb h_ x_ lx jvb bj 	责人之心责己	c=9 d=0.0876433 t=10002
+jvb snk afs oj qg 	责善勿过高	c=4 d=0.324656 t=10002
+jwt ai zm jot mf ma juu 	笋因落箨方成竹	c=5 d=0.000480833 t=10002
+jx d_ zui fnp lx 	第一莫欺心	c=4 d=4.70175e-05 t=10002
+kao hh cc re u_ dei gf 	哪个男儿是丈夫	c=4 d=5.85875e-05 t=10002
+kao hh h_ nf r_ c_ h_ 	哪个人前不说人	c=4 d=3.88816e-05 t=10002
+kao hh uxe jye 	哪个邮箱	c=1 d=0.744532 t=10002
+kao hh yzk oo cu wae mt 	哪个梳头无乱发	c=4 d=0.00115924 t=10002
+kej cu ra dsm 	叫无理码	c=1 d=0.980199 t=10002
+kej fy hi gkj khv wss gz 	叫月子规喉舌冷	c=5 d=0.000696119 t=10002
+kg ghq goc bj 	各宜守己	c=4 d=0.00132679 t=10002
+kh dy nm vee bn dp px 	忠言逆耳利于行	c=12 d=0.483132 t=10002
+kh uuh hn gh 	忠厚传家	c=4 d=0.184521 t=10002
+ki r_ ek yf 	乐不可极	c=4 d=0.164476 t=10002
+ki yf is qkk 	乐极生哀	c=4 d=0.165301 t=10002
+kj dk zui c_ 	见事莫说	c=4 d=0.000141956 t=10002
+kj dol wk ogn maf 	见恶如探汤	c=4 d=0.00060821 t=10002
+kj h_ cpa aa wk jjj oap h_ 	见人读书如逢故人	c=4 d=0.00283705 t=10002
+kj h_ gd vvb is tp ekk 	见人富贵生欢喜	c=4 d=0.000949106 t=10002
+kj lte r_ lte 	见怪不怪	c=4 d=0.398523 t=10002
+kj pd ib wl hdu u_ vap 	见钱起意便是贼	c=4 d=0.0269172 t=10002
+kj rur uaf 	见者易	c=4 d=0.000309674 t=10002
+kj snk wk r_ fj 	见善如不及	c=4 d=0.000605177 t=10002
+kj vz clx njc 	见异思迁	c=4 d=0.0376286 t=10002
+kk c_ r_ wk xs jjj 	口说不如身逢	c=4 d=0.000939662 t=10002
+kk dz lu iq pfa 	口开神气散	c=4 d=0.00181805 t=10002
+kn ai kl 	只因嘴	c=1 d=0.937067 t=10002
+kn ai kl hs h_ 	只因嘴伤人	c=5 d=0.00246641 t=10002
+kn enn up g_ ny v_ foj 	只盼早到与来迟	c=4 d=0.000131699 t=10002
+kn gk mf k_ cu wh h_ 	只知方中无好人	c=4 d=0.00295283 t=10002
+kn kn qq f_ pf yif ni 	只只船上有梢公	c=4 d=0.0042536 t=10002
+kn ljb br v_ pf gz uo 	只怕秋来有冷时	c=5 d=0.000138452 t=10002
+kn ljb dcl ke r_ mg 	只怕幼而不学	c=4 d=0.574078 t=10002
+kn ljb dcl re r_ mg 	只怕幼儿不学	c=4 d=0.0536652 t=10002
+kn ljb h_ lj zl xm ndd 	只怕人情两面刀	c=5 d=0.000262571 t=10002
+kn ljb hg tk 	只怕倒问	c=4 d=0.00414858 t=10002
+kn ljb r_ nao lx 	只怕不专心	c=4 d=0.00138094 t=10002
+kn ljb sw ud cu vk 	只怕死后无名	c=4 d=0.00289436 t=10002
+kn ljb xf 	只怕站	c=4 d=0.0145525 t=10002
+kn lp yri cu kps 	只恨枝无叶	c=4 d=4.36202e-05 t=10002
+kn lqo r_ vv uo 	只恐不多时	c=4 d=0.00118859 t=10002
+kn lwb krw ls 	只此呈示	c=4 d=0.00133344 t=10002
+kn mg fnal mb wl 	只学斟酒意	c=4 d=0.00176432 t=10002
+kn uw lfy yeeo ng 	只要肯攀登	c=4 d=0.0363344 t=10002
+kp yk tmi tn fn qg 	品格难乎其高	c=4 d=0.384816 t=10002
+kq di rur uur 	顺天者昌	c=4 d=0.00052088 t=10002
+kq os igx sy dnn o_ gph 	顺手牵羊乃为盗	c=4 d=0.0270521 t=10002
+kr nx b_ ke gh r_ nn 	兄弟和而家不分	c=4 d=0.00107548 t=10002
+kr nx ks x_ kc 	兄弟听之别	c=4 d=0.628141 t=10002
+kr nx ye gj 	兄弟相害	c=4 d=0.000401626 t=10002
+ks cw kn ks as nn 	听话只听三分	c=4 d=0.00188281 t=10002
+ks fn dy ke hdy fn px 	听其言而信其行	c=4 d=0.00114198 t=10002
+ks fn dy ke tkj fn px 	听其言而观其行	c=4 d=0.00115346 t=10002
+ks h_ tc 	听人劝	c=4 d=0.0143359 t=10002
+ks wtk d_ bpa cw 	听君一席话	c=4 d=5.71409e-05 t=10002
+ks x_ lkj sji qjk 	听之祸殃结	c=4 d=0.615703 t=10002
+ksk fo si kvw rj u_ efh 	吃尽美味还是盐	c=4 d=0.0135687 t=10002
+ksk gu nae 	吃得亏	c=4 d=0.293761 t=10002
+kvc pkg tx d_ lww 	虽囊乏一文	c=4 d=0.120033 t=10002
+kz gu br qe i_ gh gqi 	哈得秋风大家凉	c=5 d=0.004772 t=10002
+l_ gd gu u_ 	这写得是	c=1 d=0.843665 t=10002
+l_ lw rj u_ os z_ j_ 	这些还是手动的	c=1 d=0.767206 t=10002
+l_ q_ uw e_ dg 	这就要了解	c=1 d=0.847894 t=10002
+lae oei is dp gd iu 	礼义生于富足	c=4 d=0.000490547 t=10002
+lap dol afs io dr 	攻恶勿太严	c=4 d=0.327919 t=10002
+lc p_ iw hxi 	功在当代	c=4 d=0.0761546 t=10002
+lda dy nwn cuk r_ ek ks 	巧言妄语不可听	c=4 d=0.0022095 t=10002
+lda r_ wk omj 	巧不如拙	c=4 d=0.00618895 t=10002
+ldk h_ m_ p_ aet h_ cj 	福人出在丑人边	c=4 d=0.023284 t=10002
+ldk mzz fq xmf pf lkj 	福满须防有祸	c=4 d=0.00285127 t=10002
+lej r_ dz j_ zix 	离不开的邻	c=4 d=0.0992622 t=10002
+len me pu pu ki 	惧法朝朝乐	c=5 d=9.90397e-05 t=10002
+lf giz son xs 	非徒养身	c=4 d=0.0837441 t=10002
+lf jfd cu w_ ma mg 	非静无以成学	c=4 d=0.568366 t=10002
+lf mg cu w_ bg pt 	非学无以广才	c=4 d=0.565531 t=10002
+lf xym eiw hwh xym 	非亲却似亲	c=4 d=3.48314e-05 t=10002
+lh evm nb fod 	夜眠八尺	c=4 d=0.000750336 t=10002
+lh hhe lpu rp 	夜坐惜灯	c=4 d=0.0907189 t=10002
+lh lh xmf gph 	夜夜防盗	c=4 d=0.000242383 t=10002
+li di mng mzf 	性天澄澈	c=4 d=0.637635 t=10002
+li ikp lx fh 	性躁心粗	c=5 d=0.362406 t=10002
+lj h_ ep al m_ ux mse 	情人眼里出西施	c=4 d=0.00116505 t=10002
+lj ra r_ gyg 	情理不容	c=4 d=0.000464295 t=10002
+ljb dk nol dk r_ is dk vi fa cu dk 	怕事忍事不生事自然无事	c=4 d=0.00211227 t=10002
+ljj xnn opt r_ m_ 	九牛拔不出	c=4 d=0.000773187 t=10002
+lkj da ldk 	祸与福	c=1 d=0.927743 t=10002
+lkj hhr kk m_ 	祸从口出	c=4 d=0.0079866 t=10002
+lkj ldk r_ u_ eg lu 	祸福不是鬼神	c=4 d=0.00154151 t=10002
+lkj ny ldk jd tm 	祸与福同门	c=4 d=0.00164504 t=10002
+llq v_ xym ey ezk 	频来亲也疏	c=6 d=5.35449e-05 t=10002
+lpe 	慎	c=3 d=0.261848 t=10002
+lpg vu lrh lpg m_ 	悖入亦悖出	c=4 d=0.233403 t=10002
+lpu pd hym rh hi 	惜钱休教子	c=4 d=0.130682 t=10002
+lpu zh fq yzm fk 	惜花须检点	c=4 d=0.000112789 t=10002
+lpu zh jo ib up 	惜花春起早	c=4 d=0.00121868 t=10002
+lqo ww he rj zav 	恐比他还贪	c=4 d=0.0132337 t=10002
+lt dm cru lf n_ 	必求诸非道	c=4 d=0.292296 t=10002
+lt dm cru n_ 	必求诸道	c=4 d=0.289387 t=10002
+lt fq mg hz 	必须学会	c=1 d=0.831104 t=10002
+lt pf d_ gu 	必有一得	c=4 d=0.00111937 t=10002
+lt pf d_ tg 	必有一失	c=4 d=0.00113062 t=10002
+lt pf sj lvy 	必有近忧	c=8 d=0.196024 t=10002
+lt pf t_ nd 	必有我师	c=4 d=0.135337 t=10002
+lt xr cf fn nqe arw 	必先让其疯狂	c=4 d=0.00444938 t=10002
+ltd lpl ke ma 	懒惰而成	c=4 d=0.001423 t=10002
+lte dnn vi va 	怪乃自败	c=4 d=0.400521 t=10002
+lte h_ r_ gk ra 	怪人不知理	c=4 d=0.00235789 t=10002
+lu em wk ua 	神目如电	c=4 d=0.000880527 t=10002
+lu ppq eg haq 	神钦鬼伏	c=4 d=0.000925673 t=10002
+lu wrh buy or fb 	神灵庙主肥	c=4 d=0.000169105 t=10002
+lub px dw px 	慢行急行	c=4 d=0.000850242 t=10002
+lui lui vv r_ iu 	惺惺多不足	c=4 d=0.000393673 t=10002
+luz wwj lt fnp gf 	悍妇必欺夫	c=4 d=0.00860863 t=10002
+lv al fq fnal bao 	快里须斟酌	c=4 d=0.0246005 t=10002
+lv lx dk oj lqo de sji 	快心事过恐遭殃	c=4 d=0.000567091 t=10002
+lv wl dk oj lf lv wl 	快意事过非快意	c=4 d=0.00268523 t=10002
+lwb aa hn ud pa 	此书传后世	c=4 d=0.0319051 t=10002
+lww hxn bi oj fnf 	文件已过期	c=1 d=0.694197 t=10002
+lww pd dkcj sw zji pim mty 	文钱逼死英雄汉	c=4 d=0.00873873 t=10002
+lww yiw 	文档	c=1 d=0.822835 t=10002
+lwy vv rhh urw 	柴多火旺	c=4 d=0.0461901 t=10002
+lx ee mgq fjc 	心地沉迷	c=4 d=0.647271 t=10002
+lx gzk fna wk fg gzk 	心宽甚如屋宽	c=5 d=0.0157646 t=10002
+lx ha opg ct pa pa tvj 	心作良田世世耕	c=4 d=0.00148107 t=10002
+lx kg pf kj 	心各有见	c=5 d=0.000934976 t=10002
+lx kk wk d_ 	心口如一	c=4 d=0.140157 t=10002
+lx lx sa hwh oj yti uo 	心心常似过桥时	c=4 d=0.00013571 t=10002
+lx r_ gu mzz 	心不得满	c=4 d=0.0222594 t=10002
+lx uw p_ fal hi al 	心要在腔子里	c=4 d=0.23693 t=10002
+lzi vto rp bfu qit 	怜蛾灯罩纱	c=4 d=0.00313543 t=10002
+m_ dy uw kq h_ lx 	出言要顺人心	c=4 d=0.0812691 t=10002
+m_ gh wk qnd 	出家如初	c=4 d=5.43541e-05 t=10002
+m_ tm jfb jfb tmi 	出门处处难	c=4 d=0.0113903 t=10002
+m_ tm mf gk it or h_ 	出门方知少主人	c=4 d=3.69853e-05 t=10002
+m_ tm oe di db 	出门看天色	c=4 d=0.00647381 t=10002
+m_ uuys yd 	出岫本	c=1 d=0.900325 t=10002
+m_ wgh hhr gf 	出嫁从夫	c=4 d=6.53999e-05 t=10002
+m_ xx rj fq nei hi sn 	出阵还须父子兵	c=4 d=0.0854358 t=10002
+ma dk p_ di 	成事在天	c=4 d=0.0148465 t=10002
+ma dk zui c_ 	成事莫说	c=4 d=9.51563e-05 t=10002
+ma h_ r_ vi p_ 	成人不自在	c=4 d=0.00138786 t=10002
+ma hxf pf hb 	成佛有余	c=4 d=5.46266e-05 t=10002
+ma vk sp p_ ac zo ur 	成名每在穷苦日	c=4 d=0.125558 t=10002
+map hjv wk mse 	放债如施	c=4 d=0.0195459 t=10002
+mb al pupk euh i_ 	酒里乾坤大	c=4 d=0.000675546 t=10002
+mb hjv woc sa jfb jfb pf 	酒债寻常处处有	c=4 d=0.000155325 t=10002
+mb jjj gk bj npq 	酒逢知己饮	c=4 d=2.86605e-05 t=10002
+mb k_ r_ cuk pe wtk hi 	酒中不语真君子	c=4 d=5.38133e-05 t=10002
+mb kvc son li rj wae li 	酒虽养性还乱性	c=4 d=0.198893 t=10002
+mb r_ od ntv 	酒不护贤	c=5 d=0.00193047 t=10002
+mdw ghq vi dr ke gzk 	威宜自严而宽	c=4 d=0.540646 t=10002
+me r_ o_ vm 	法不为民	c=4 d=0.00261893 t=10002
+mei pty r_ ghq mnj 	交友不宜滥	c=4 d=0.16284 t=10002
+mek agn mss nt 	河狭水紧	c=4 d=0.000363406 t=10002
+met pf vee 	壁有耳	c=4 d=8.48191e-05 t=10002
+mey eb bkn mss xmf br uzg 	池塘积水防秋旱	c=5 d=0.00126841 t=10002
+mey son hw vll sv 	池养化龙鱼	c=4 d=7.08469e-05 t=10002
+mf gwy 	方案	c=1 d=0.722527 t=10002
+mf hdu jx d_ 	方便第一	c=4 d=0.000765493 t=10002
+mfx df pax e_ 	漏下载了	c=1 d=0.690734 t=10002
+mg e_ q_ gy jfb jfb px 	学了就用处处行	c=4 d=0.066871 t=10002
+mg fq jfd 	学须静	c=4 d=0.559904 t=10002
+mg ma cgg wtcg mit ea grh 	学成弓弩沙场灾	c=4 d=0.00591662 t=10002
+mg ma eep sud o_ h_ xwn 	学成歌舞为人妾	c=4 d=0.00594628 t=10002
+mg ms cu muee zo ha qoo 	学海无涯苦作舟	c=4 d=0.0639285 t=10002
+mg r_ ss px 	学不尚行	c=4 d=0.145877 t=10002
+mg rur tmi 	学者难	c=4 d=0.000311226 t=10002
+mg rur u_ wh 	学者是好	c=4 d=0.000243598 t=10002
+mg rur wk bhhh wk biy 	学者如禾如稻	c=8 d=0.302952 t=10002
+mg se i_ wk gt upd 	学堂大如官厅	c=4 d=0.00759709 t=10002
+mgn us wwp wr zme ah sh 	深山毕竟藏猛虎	c=4 d=0.20701 t=10002
+mgn us wwp wr zme rl sh 	深山毕竟藏老虎	c=4 d=0.000111667 t=10002
+mh pty xym ke zea 	益友亲而敬	c=4 d=0.421056 t=10002
+mi a_ hdy carg lt eym kh ec 	治国信谗必杀忠臣	c=4 d=0.00324711 t=10002
+mi a_ r_ gy hnw ec 	治国不用佞臣	c=4 d=0.00327974 t=10002
+mi gh hdy carg lt ezk fn xym 	治家信谗必疏其亲	c=5 d=0.00326339 t=10002
+mi gh r_ gy hnw wwj 	治家不用佞妇	c=4 d=0.00329618 t=10002
+mi us mi mss r_ pay yto 	治山治水不栽树	c=5 d=0.077693 t=10002
+mid syt uaf epe 	溪壑易填	c=4 d=0.252842 t=10002
+mih is alg vi lnw 	浮生空自忙	c=4 d=0.000692647 t=10002
+mj if pf gyg 	清能有容	c=4 d=0.116485 t=10002
+mj mb ql h_ fz 	清酒红人脸	c=4 d=0.00166157 t=10002
+mj mj x_ mss 	清清之水	c=4 d=0.000642599 t=10002
+mjd dmf zh rvc lh 	洞房花烛夜	c=4 d=0.00120655 t=10002
+mjd kk yrg zh ey jt h_ 	洞口桃花也笑人	c=4 d=3.62529e-05 t=10002
+mndd kvw mgqi uo 	滋味浓时	c=4 d=0.377196 t=10002
+mnj vn lvb cyh rur v_ 	滥则贡谀者来	c=5 d=0.163656 t=10002
+mno oo as fod pf lu uf 	举头三尺有神明	c=4 d=0.000383953 t=10002
+mo h_ fq mo dw uo cu 	济人须济急时无	c=5 d=5.30121e-05 t=10002
+mo mo x_ js 	济济之士	c=4 d=0.000649057 t=10002
+mop hi m_ dp lhq cu gpb 	浪子出于祖无德	c=4 d=0.0109986 t=10002
+mqn j_ r_ bdw 	滚的不稳	c=4 d=0.00336277 t=10002
+mr 	没	c=1 d=0.748264 t=10002
+mr pf ibb r_ oj j_ qg us 	没有爬不过的高山	c=4 d=0.0372542 t=10002
+mr pf tsm r_ oj j_ xz mtm 	没有闯不过的险滩	c=4 d=0.037441 t=10002
+mrr nav iw jhh 	淡饱当肉	c=4 d=0.0097062 t=10002
+ms bz ozu efh 	海底摸盐	c=4 d=0.0198413 t=10002
+ms jh ph gk bj 	海内存知己	c=4 d=0.0507933 t=10002
+ms mss r_ ek ld uda 	海水不可斗量	c=4 d=0.000639394 t=10002
+mse ail mse vwl 	施恩施怨	c=4 d=0.00299746 t=10002
+mse zq r_ wk hn mf 	施药不如传方	c=4 d=0.00506708 t=10002
+mss g_ mvvy ma 	水到渠成	c=4 d=0.00203962 t=10002
+mss gi mj 	水至清	c=4 d=0.15032 t=10002
+mss gi mj vn cu sv 	水至清则无鱼	c=4 d=6.37852e-05 t=10002
+mss if pax qoo lrh ugs qoo 	水能载舟亦覆舟	c=4 d=0.19989 t=10002
+mss mc qq qg 	水涨船高	c=4 d=0.0459597 t=10002
+mss r_ op r_ mgx 	水不打不浑	c=4 d=0.00402597 t=10002
+mss zn r_ mz 	水平不流	c=4 d=0.000107826 t=10002
+mtr e_ h_ lx 	润了人心	c=4 d=0.0757748 t=10002
+muw vp r_ gd ac zkw h_ 	混财不富穷命人	c=4 d=0.00386811 t=10002
+mv hh 	测个	c=1 d=0.715338 t=10002
+mwn lm r_ hag 	汝惟不伐	c=4 d=0.113609 t=10002
+mwn lm r_ otz 	汝惟不矜	c=4 d=0.112479 t=10002
+my ma aa lww 	集成书文	c=4 d=0.0013672 t=10002
+my wag ena bg 	集韵增广	c=4 d=2.78135e-05 t=10002
+mz mss df mtm lf pf wl 	流水下滩非有意	c=5 d=3.19931e-05 t=10002
+mz mss r_ bho 	流水不腐	c=4 d=0.0430674 t=10002
+mzz jgo hr r_ kt 	满壶全不响	c=4 d=0.00484412 t=10002
+mzz on ok 	满招损	c=4 d=0.042004 t=10002
+mzz pax zxi amm ru mfx e_ 	满载芝麻都漏了	c=4 d=0.00737256 t=10002
+n_ ik kg kc 	道路各别	c=4 d=0.000325551 t=10002
+n_ uk dol rur u_ jk nd 	道吾恶者是吉师	c=4 d=0.14515 t=10002
+n_ uk wh rur u_ uk vap 	道吾好者是吾贼	c=5 d=0.144426 t=10002
+n_ xg hna dmf qjg r_ wk 	道院僧房终不如	c=4 d=6.73916e-05 t=10002
+n_ xg kw hus gkg 	道院迎仙客	c=4 d=6.97921e-05 t=10002
+na cpa wh aa 	重读好书	c=4 d=0.0717197 t=10002
+nad d_ s_ 	饶一着	c=4 d=0.000122183 t=10002
+nad h_ jez gk yd 	饶人算知本	c=4 d=0.000171661 t=10002
+nad h_ r_ u_ ngk mty 	饶人不是痴汉	c=8 d=0.0949286 t=10002
+nad h_ u_ ldk 	饶人是福	c=4 d=0.000907343 t=10002
+nae h_ u_ lkj 	亏人是祸	c=4 d=0.000902818 t=10002
+nao lx ga jl 	专心致志	c=4 d=0.0380068 t=10002
+naq cpa hdu dp clx pg 	默读便于思索	c=4 d=0.0702995 t=10002
+nav qga nqj fop 	饱带饥粮	c=4 d=0.00481996 t=10002
+nav uid clx mitj ypq 	饱暖思淫欲	c=4 d=0.00242969 t=10002
+nc 	单	c=0 d=0.0694197 t=10002
+nd hbo zi vj tm 	师傅领进门	c=4 d=0.0642489 t=10002
+ndd bn hs h_ ow 	刀利伤人指	c=8 d=0.216611 t=10002
+ndd r_ ads uw is pbd 	刀不磨要生锈	c=4 d=0.0629767 t=10002
+nddl pm vv ckd hi 	慈母多误子	c=5 d=0.0085657 t=10002
+nddl r_ so sn 	慈不掌兵	c=4 d=0.000816903 t=10002
+ndj ei ca opg mf 	病去遇良方	c=4 d=0.00472452 t=10002
+ndj hhr kk vu 	病从口入	c=4 d=0.00802663 t=10002
+ndj pf qg h_ c_ zq mf 	病有高人说药方	c=4 d=0.000626733 t=10002
+ne rur eiw ye ut 	二者却相反	c=4 d=0.256663 t=10002
+nei hi b_ ke gh r_ pjc 	父子和而家不退	c=4 d=0.00107011 t=10002
+nei hi b_ ke gh r_ va 	父子和而家不败	c=4 d=0.0858641 t=10002
+nei hi xua cl us ma ro 	父子竭力山成玉	c=4 d=0.0023112 t=10002
+nei ks hi de drh 	父听子遭灭	c=4 d=0.621891 t=10002
+nei pm ail mgn qjg pf kc 	父母恩深终有别	c=4 d=0.000124651 t=10002
+nei pm son fn xs 	父母养其身	c=4 d=0.0309621 t=10002
+nf aic vw rj ud ty ose 	前帐未还后又拖	c=4 d=0.0252232 t=10002
+nf bkr hwh uwy myh 	前程似暗漆	c=4 d=0.00072816 t=10002
+nf h_ hyg cuk 	前人俗语	c=4 d=0.00134685 t=10002
+nfr h_ ogf oeo ru u_ hfn 	望人扶持都是假	c=4 d=0.00704815 t=10002
+ng qg lt vi jtps 	登高必自卑	c=4 d=0.213314 t=10002
+ngk h_ cdq wwj 	痴人畏妇	c=4 d=6.57277e-05 t=10002
+ngk mty r_ hz nad h_ 	痴汉不会饶人	c=8 d=0.0954044 t=10002
+ngo r_ lej os 	拳不离手	c=4 d=0.0623501 t=10002
+ngs dol wk hlj 	疾恶如仇	c=4 d=0.0435002 t=10002
+ngw aaj nw iha pkj 	卷帘归乳燕	c=4 d=0.00308875 t=10002
+nh mt r_ gk pkjc mg up 	黑发不知勤学早	c=4 d=0.00010104 t=10002
+ni hhv fet jh wh osos qq 	公候肚内好撑船	c=4 d=0.000208621 t=10002
+ni n_ pa tu o_ jb mt 	公道世间为白发	c=4 d=0.00098784 t=10002
+nij wtk nq al 	送君千里	c=4 d=0.000139146 t=10002
+nj duw cs px snk 	临危许行善	c=4 d=0.0236359 t=10002
+nj rl pt cpa qt 	临老才读经	c=4 d=0.00037635 t=10002
+nj tmi afs zej are 	临难勿苟免	c=4 d=0.606537 t=10002
+nj vp afs zej gu 	临财勿苟得	c=4 d=0.609577 t=10002
+njwb iq ga daq 	乖气致戾	c=5 d=0.332874 t=10002
+nk u_ otf rz fjf jeg 	总是播弄精魄	c=4 d=0.653776 t=10002
+nm di rur nww 	逆天者亡	c=4 d=0.000523491 t=10002
+nm vt kq vt 	逆取顺取	c=4 d=0.000854503 t=10002
+nnv ac r_ lt yrw clx uda 	贫穷不必枉思量	c=4 d=0.000572791 t=10002
+nnv ac vi p_ 	贫穷自在	c=4 d=9.0064e-05 t=10002
+nnv ai r_ jez v_ 	贫因不算来	c=9 d=0.161211 t=10002
+nnv cu ij js jv wj vna 	贫无达士将金赠	c=4 d=0.000623607 t=10002
+nnv fog tla la cu h_ tk 	贫居闹市无人问	c=4 d=3.83027e-05 t=10002
+nnv gh hi nx bkn et ma wj 	贫家子弟积土成金	c=4 d=0.00152618 t=10002
+nnv hi cw vv 	贫子话多	c=5 d=0.0244778 t=10002
+nnv lk fn ds r_ vt 	贫视其所不取	c=4 d=0.223132 t=10002
+nnv vda wk pps dtx zq dss 	贫贱如针砭药石	c=4 d=0.582754 t=10002
+nnv zui ny gd ld 	贫莫与富斗	c=5 d=0.00224289 t=10002
+no fk r_ uy h_ 	半点不由人	c=4 d=4.42794e-05 t=10002
+no jgo kt kpd iw 	半壶响叮当	c=4 d=0.0048684 t=10002
+no lh qap tm lx r_ lq 	半夜敲门心不惊	c=8 d=0.110891 t=10002
+nol d_ ej 	忍一句	c=4 d=0.000120967 t=10002
+nol gu d_ uo x_ iq 	忍得一时之气	c=4 d=9.70786e-05 t=10002
+npq hss uw cvh qid 	饮食要诀缓	c=4 d=0.26448 t=10002
+nq al 	千里	c=1 d=0.995012 t=10002
+nq dn sl 	千万年	c=4 d=0.0128426 t=10002
+nq dy r_ gy 	千言不用	c=4 d=0.000706639 t=10002
+nq h_ hn x_ 	千人传之	c=4 d=0.000232879 t=10002
+nq nvb aoo ct 	千贯买田	c=4 d=0.00185478 t=10002
+nq pa hhj v_ pn ygr evm 	千世修来共枕眠	c=4 d=0.000200441 t=10002
+nq pax ie jjj 	千载奇逢	c=4 d=0.31037 t=10002
+nq qt dn ynb 	千经万典	c=4 d=0.000754097 t=10002
+nq wj r_ bvv 	千金不移	c=8 d=0.127603 t=10002
+nq wj zn gwn pw u_ jo 	千金平安即是春	c=4 d=0.00251624 t=10002
+nqj gvn ib gph lx 	饥寒起盗心	c=4 d=0.00244187 t=10002
+nr mss tmi dmo sj rhh 	远水难救近火	c=8 d=0.04934 t=10002
+nr xym r_ wk sj zix 	远亲不如近邻	c=8 d=0.0495873 t=10002
+nte oeo r_ ldgx 	坚持不懈	c=4 d=0.0566995 t=10002
+ntv rur r_ rld bi x_ ic 	贤者不炫已之长	c=4 d=0.501581 t=10002
+ntv wn zea gf 	贤女敬夫	c=4 d=6.60572e-05 t=10002
+ntv wwj zis gf vvb 	贤妇令夫贵	c=4 d=0.000435076 t=10002
+nuu ai bi omj ke blx h_ x_ if 	毋因已拙而忌人之能	c=4 d=0.109702 t=10002
+nuu hpu ni cn ke lv bis lj 	毋借公论而快私情	c=5 d=0.10861 t=10002
+nuu hws sj ke id nr 	毋舍近而趋远	c=5 d=0.249078 t=10002
+nuu mse ix pci ke hs i_ hy 	毋施小惠而伤大体	c=4 d=0.108068 t=10002
+nuu w_ bi ic ke dzf h_ x_ ggd 	毋以已长而形人之短	c=5 d=0.109155 t=10002
+nwr ks vn uf 	兼听则明	c=8 d=0.147631 t=10002
+nx kr b_ ke gh r_ nn 	弟兄和而家不分	c=4 d=0.0862944 t=10002
+nx kr div vp gh r_ ac r_ lii 	弟兄争财家不穷不止	c=5 d=0.0294521 t=10002
+nx kr hwh os iu 	弟兄似手足	c=4 d=0.0088708 t=10002
+nx kr jd lx et lr wj 	弟兄同心土变金	c=5 d=0.00232278 t=10002
+nx kr jd ug jhh 	弟兄同骨肉	c=4 d=0.00852297 t=10002
+nx kr r_ b_ qjk vf h_ 	弟兄不和结外人	c=4 d=0.00157266 t=10002
+ny h_ mei vp hdu gk lx 	与人交财便知心	c=4 d=0.00140884 t=10002
+ny h_ mf hdu 	与人方便	c=8 d=0.457018 t=10002
+ny h_ mf hdu vi bj mf hdu 	与人方便自己方便	c=4 d=0.0105673 t=10002
+ny mi jd n_ jnn r_ mn 	与治同道罔不兴	c=4 d=0.18731 t=10002
+ny wae jd dk jnn r_ nww 	与乱同事罔不亡	c=4 d=0.188249 t=10002
+nzt zh kvc wh jdb 	瓶花虽好艳	c=4 d=0.00456202 t=10002
+o_ et ds xmf 	为土所防	c=4 d=0.00064582 t=10002
+o_ gt fq ha ye 	为官须作相	c=4 d=0.0010078 t=10002
+o_ h_ r_ ho nae lx dk 	为人不做亏心事	c=4 d=8.69663e-05 t=10002
+o_ h_ uw mg i_ zui mg ix 	为人要学大莫学小	c=4 d=0.380987 t=10002
+o_ h_ zui aw me 	为人莫犯法	c=5 d=0.00839608 t=10002
+o_ h_ zui iw gt 	为人莫当官	c=4 d=0.0130367 t=10002
+o_ mb ds hs 	为酒所伤	c=4 d=0.00065231 t=10002
+o_ snk uv ki 	为善最乐	c=4 d=0.000283021 t=10002
+oa pd avy wk pps org et 	找钱犹如针挑土	c=4 d=0.00767344 t=10002
+oafm mss fy p_ os 	掬水月在手	c=4 d=0.00123092 t=10002
+oap rx h_ 	故乡人	c=12 d=0.148849 t=10002
+oap rx mss 	故乡水	c=8 d=0.0500722 t=10002
+od ggd zui hhr nd 	护短莫从师	c=4 d=0.131337 t=10002
+odj 	换	c=1 d=0.733447 t=10002
+odj e_ hd t_ ei 	换了你我去	c=4 d=0.0131677 t=10002
+oe 	看	c=1 d=0.818731 t=10002
+oe dnp r_ hpe no lww pd 	看破不值半文钱	c=4 d=0.0204456 t=10002
+oe gu lz znj lu 	看得懂蓝神	c=1 d=0.83527 t=10002
+oe gw yeh px g_ qj uo 	看它横行到几时	c=4 d=0.000141248 t=10002
+oei r_ so vp 	义不掌财	c=4 d=0.000820998 t=10002
+oeo gh uw mg ix zui mg i_ 	持家要学小莫学大	c=4 d=0.386745 t=10002
+og h_ r_ kj za uo fy 	古人不见今时月	c=5 d=4.14928e-05 t=10002
+og za ntv lww 	古今贤文	c=20 d=0.275214 t=10002
+og za ntv lww jh gyg og za ntv lww 	古今贤文内容古今贤文	c=4 d=0.0330415 t=10002
+oj cnw pw caa 	过谦即诈	c=4 d=0.00697802 t=10002
+oj ei zui clx uda 	过去莫思量	c=4 d=0.00467751 t=10002
+oj oo cw tmi ks 	过头话难听	c=4 d=0.00208083 t=10002
+oj oo nu wh ksk 	过头饭好吃	c=4 d=0.00207045 t=10002
+oj ud lx ty lr 	过后心又变	c=4 d=0.0237543 t=10002
+oj ud wh ye kj 	过后好相见	c=4 d=0.010727 t=10002
+oj ud yrw fa 	过后枉然	c=4 d=0.0022317 t=10002
+oj vn cu lncp ba 	过则无惮改	c=4 d=0.142989 t=10002
+oj vn ye gkj 	过则相规	c=4 d=0.427419 t=10002
+ojk dss uj pf rhh 	击石原有火	c=4 d=0.000216052 t=10002
+ok pty zea ke nr 	损友敬而远	c=4 d=0.418956 t=10002
+olo fn zl xuk 	执其两端	c=4 d=0.000296048 t=10002
+onn ff r_ fo 	鸟飞不尽	c=4 d=0.0224831 t=10002
+onn o_ hss nww 	鸟为食亡	c=4 d=0.000539434 t=10002
+onn uw nt j_ u_ rwv fxg 	鸟要紧的是翅膀	c=4 d=0.0340478 t=10002
+op e_ ysp bu aet e_ wo wop 	打了梅香丑了姑娘	c=4 d=0.00511801 t=10002
+op h_ zui op fz 	打人莫打脸	c=4 d=0.0189682 t=10002
+op sh rj uw xym kr nx 	打虎还要亲兄弟	c=4 d=0.0850097 t=10002
+opf cpa hdu dp cb lki 	朗读便于记忆	c=4 d=0.0706519 t=10002
+opg ct dn wqy 	良田万顷	c=4 d=0.000739165 t=10002
+opg gsn mf r_ uwq 	良宾方不顾	c=4 d=3.79216e-05 t=10002
+opg zq zo kk bn dp ndj 	良药苦口利于病	c=12 d=0.480723 t=10002
+or dk d_ h_ 	主事一人	c=4 d=0.00229967 t=10002
+ore bi rur 	克已者	c=4 d=0.200892 t=10002
+os im gy im lda 	手越用越巧	c=4 d=0.0596065 t=10002
+os iu fas tmi qp 	手足断难续	c=4 d=0.00895996 t=10002
+os ow uw gor jh oiap 	手指要往内撇	c=4 d=0.0108891 t=10002
+os zki oqq hr 	手艺齐全	c=4 d=0.0217098 t=10002
+osj yd gor ud jez 	折本往后算	c=4 d=0.0152987 t=10002
+osj yd osj gu xt 	折本折得轻	c=4 d=0.0041073 t=10002
+oto fn snk rur ke hhr 	择其善者而从	c=4 d=0.136015 t=10002
+oto fn snk rur ke hhr x_ 	择其善者而从之	c=4 d=0.000176889 t=10002
+oto hi zui oto nei 	择子莫择父	c=5 d=0.00159642 t=10002
+oto xym zui oto zix 	择亲莫择邻	c=5 d=0.00160442 t=10002
+ovy wae bs zix 	扰乱四邻	c=4 d=0.00267183 t=10002
+owt bm fna tjc 	报应甚速	c=4 d=0.000916462 t=10002
+oxf dss hhe v_ jo qfs gz 	拂石坐来春衫冷	c=4 d=0.000682335 t=10002
+oy fjf dp pkjc 	业精于勤	c=4 d=0.0652199 t=10002
+ozk gu bzn v_ swn pao gn 	拾得秤来姜卖完	c=4 d=0.0170776 t=10002
+ozm wj r_ nl tg wj h_ 	捡金不忘失金人	c=4 d=0.00927911 t=10002
+p_ d_ px 	在一行	c=4 d=0.00433953 t=10002
+p_ gh nq ur wh 	在家千日好	c=4 d=0.0113335 t=10002
+p_ gh r_ hz kw gsn gkg 	在家不会迎宾客	c=4 d=3.68008e-05 t=10002
+p_ gh uy nei 	在家由父	c=4 d=6.50737e-05 t=10002
+p_ ra opg lx di df ig px 	在理良心天下通行	c=4 d=0.0021442 t=10002
+pa dk wk uf pwr 	世事如明镜	c=4 d=0.000724528 t=10002
+pa dk wk yfn fak fak xy 	世事如棋局局新	c=4 d=4.94282e-05 t=10002
+pa dk wk zy htj ngw hwo 	世事如云任卷舒	c=4 d=7.30045e-05 t=10002
+pa f_ bm cu cnd dcc h_ 	世上应无切齿人	c=8 d=0.0926024 t=10002
+pa f_ cu ped h_ 	世上无直人	c=4 d=4.34027e-05 t=10002
+pa f_ cu tmi dk 	世上无难事	c=4 d=0.00137405 t=10002
+pa f_ cu tym h_ 	世上无闲人	c=4 d=0.00382962 t=10002
+pa f_ dn qr wwjb df kp 	世上万般皆下品	c=4 d=0.000277417 t=10002
+pa f_ tmi jjj dj uvx h_ 	世上难逢百岁人	c=4 d=4.99249e-05 t=10002
+pa f_ xy h_ izg hur h_ 	世上新人赶旧人	c=4 d=4.08751e-05 t=10002
+pa f_ za h_ fis og h_ 	世上今人胜古人	c=4 d=0.0542046 t=10002
+pa f_ zp uw h_ lj wh 	世上若要人情好	c=4 d=0.000211774 t=10002
+pa tu cu mss r_ pu ci 	世间无水不朝东	c=4 d=0.00049796 t=10002
+pa tu ig lp dk 	世间通恨事	c=4 d=0.000457383 t=10002
+pa tu wh cuk aa crr fo 	世间好语书谈尽	c=4 d=0.000280205 t=10002
+paj 	布	c=0 d=0.0891366 t=10002
+paj gu jo qe pf dvj xvv 	布得春风有夏雨	c=4 d=0.0047482 t=10002
+paj qi gu uid pe o_ ldk 	布衣得暖真为福	c=4 d=0.00250369 t=10002
+pao ct rj hjv 	卖田还债	c=4 d=0.0167394 t=10002
+pao e_ fg 	卖了屋	c=4 d=0.000340536 t=10002
+pao fg rj pd 	卖屋还钱	c=5 d=0.0169076 t=10002
+pay ttt pay yds it pay zh 	栽桑栽柘少栽花	c=4 d=0.00128758 t=10002
+pay yto uw pay yn yjb 	栽树要栽松柏	c=4 d=0.0285817 t=10002
+pb mg ke jsm jl 	博学而笃志	c=4 d=0.129381 t=10002
+pc gk zui nfr 	既知莫望	c=4 d=0.00429635 t=10002
+pd vp wk fpnb et 	钱财如粪土	c=8 d=0.0800903 t=10002
+pd vv r_ qt gy 	钱多不经用	c=4 d=0.029159 t=10002
+pd yg lt mif drh 	钱谷必消灭	c=4 d=0.192052 t=10002
+pdm onn xr ff 	钝鸟先飞	c=4 d=0.100762 t=10002
+pe ra jdy 	真理篇	c=4 d=0.0397562 t=10002
+ped geo xvv myy oo 	直待雨淋头	c=4 d=9.46817e-05 t=10002
+ped r_ oj gti 	直不过矫	c=4 d=0.115326 t=10002
+pf aa r_ cpa hi hix cal 	有书不读子孙愚	c=4 d=5.62902e-05 t=10002
+pf ct r_ tvj hwj bla soy 	有田不耕仓廪虚	c=4 d=5.60095e-05 t=10002
+pf dy hij dp mwn jl 	有言逊于汝志	c=4 d=0.290838 t=10002
+pf dy nm dp mwn lx 	有言逆于汝心	c=5 d=0.287944 t=10002
+pf et pf mss hk r_ hor 	有土有水保不住	c=4 d=0.0780824 t=10002
+pf ggd od ggd 	有短护短	c=4 d=0.273901 t=10002
+pf hi x_ h_ nnv r_ dod 	有子之人贫不久	c=4 d=0.00055309 t=10002
+pf jl jek px di df 	有志周行天下	c=4 d=0.0357935 t=10002
+pf jl r_ p_ sl qg 	有志不在年高	c=4 d=0.0550238 t=10002
+pf jl x_ h_ xl ic jl 	有志之人立长志	c=4 d=0.0385812 t=10002
+pf ldk hs vp 	有福伤财	c=4 d=7.71322e-05 t=10002
+pf ldk rur uur 	有福者昌	c=4 d=0.000531403 t=10002
+pf ldk rur uuy 	有福者昌	c=1 d=0.913931 t=10002
+pf mb pf jhh vv kr nx 	有酒有肉多兄弟	c=4 d=4.86923e-05 t=10002
+pf pd if c_ cw 	有钱能说话	c=4 d=0.00169514 t=10002
+pf pd n_ pe cuk 	有钱道真语	c=4 d=3.90765e-05 t=10002
+pf pd q_ u_ cc hi mty 	有钱就是男子汉	c=4 d=0.0213866 t=10002
+pf pd r_ bpe vwl nm xu 	有钱不置怨逆产	c=4 d=0.00628248 t=10002
+pf pd tmi aoo hi hix ntv 	有钱难买子孙贤	c=4 d=0.00680573 t=10002
+pf pd tmi aoo pps 	有钱难买针	c=4 d=3.34657e-05 t=10002
+pf pt efn m_ hhh 	有才堪出众	c=4 d=0.000997768 t=10002
+pf qwh nq al v_ ye hz 	有缘千里来相会	c=4 d=0.000526115 t=10002
+pf ra cu pd zui vj v_ 	有理无钱莫进来	c=4 d=0.000780957 t=10002
+pf ra r_ p_ qg jf 	有理不在高声	c=4 d=0.00216575 t=10002
+pf wl pay zh zh r_ mt 	有意栽花花不发	c=4 d=3.10476e-05 t=10002
+pf xjd rj pf ggu 	有隆还有替	c=4 d=0.37158 t=10002
+pf zh mf bao mb 	有花方酌酒	c=4 d=0.000109456 t=10002
+pi qfy alf ug 	销膏靡骨	c=1 d=0.97531 t=10002
+piv dnn wtk hi x_ xmf 	锁乃君子之防	c=4 d=0.00538041 t=10002
+pjc d_ ll 	退一步	c=4 d=0.000122796 t=10002
+pjc ud clx uda dk dk gzk 	退后思量事事宽	c=4 d=0.000323928 t=10002
+pje ndd nod vi hs 	钢刀刃自伤	c=4 d=0.00548911 t=10002
+pkh r_ qap r_ kt 	钟不敲不响	c=4 d=0.0437182 t=10002
+pkj hi r_ vj brl tm 	燕子不进愁门	c=4 d=0.00514366 t=10002
+pkjc 	勤	c=3 d=0.263161 t=10002
+pkjc hzm o_ cu hhn x_ gr 	勤俭为无价之宝	c=4 d=0.00143013 t=10002
+pkjc hzm oeo gh gd 	勤俭持家富	c=4 d=0.0263842 t=10002
+pkjc ict cpa 	勤奋读	c=4 d=0.0325496 t=10002
+pkjc ict tvj phc eap ee bn 	勤奋耕锄收地利	c=4 d=0.000418016 t=10002
+pp jfb he hdyc c_ gu ic 	错处他偏说得长	c=4 d=0.00559999 t=10002
+ppg pd zui fnp sdy 	银钱莫欺骗	c=4 d=0.0201412 t=10002
+ps fy mtm oo hhe 	十月滩头坐	c=4 d=0.0163261 t=10002
+ps sl gvn at cu h_ tk 	十年寒窗无人问	c=4 d=0.00015378 t=10002
+ps sl mn va vv it h_ 	十年兴败多少人	c=4 d=0.00406643 t=10002
+ps sl qfb r_ mj 	十年补不清	c=4 d=0.00390698 t=10002
+ps sl uaf cpa mno hi 	十年易读举子	c=4 d=0.0100519 t=10002
+ps sl xs g_ qty qjr mey 	十年身到凤凰池	c=4 d=0.000153013 t=10002
+psm h_ zui psm ggd 	骂人莫骂短	c=4 d=0.0190633 t=10002
+pt fq mg 	才须学	c=4 d=0.56271 t=10002
+pto 	钗	c=0 d=0.0891366 t=10002
+puk tm it pf zal hxf h_ 	衙门少有念佛人	c=4 d=0.00227679 t=10002
+puk tm mgn hwh ms 	衙门深似海	c=4 d=0.0199407 t=10002
+puk tm nb ghi dz 	衙门八字开	c=4 d=0.000777062 t=10002
+puk tm pd 	衙门钱	c=4 d=0.0126514 t=10002
+puk tm q_ nto nu 	衙门就饿饭	c=4 d=0.012463 t=10002
+pur uo ntv lww 	昔时贤文	c=4 d=2.75367e-05 t=10002
+pw nqj sth mua npq 	即饥餐渴饮	c=4 d=0.640831 t=10002
+px dk ph gpb 	行事存德	c=4 d=0.00035979 t=10002
+px px m_ ja nre 	行行出状元	c=4 d=0.0575564 t=10002
+px qq hdyc ca op oo qe 	行船偏遇打头风	c=4 d=0.000478435 t=10002
+px uwq dy 	行顾言	c=5 d=0.16864 t=10002
+q_ ljb r_ ho 	就怕不做	c=4 d=0.0078677 t=10002
+qbd zh kvc wh r_ is bu 	绣花虽好不生香	c=4 d=0.000578547 t=10002
+qc jfb r_ fas fh jfb fas 	细处不断粗处断	c=4 d=0.0266494 t=10002
+qci d_ px 	练一行	c=4 d=0.00436128 t=10002
+qe mz mop hi zui rh nnv 	风流浪子莫教贫	c=4 d=3.66173e-05 t=10002
+qe mz r_ gy qi s_ hee 	风流不用衣着佳	c=4 d=0.000267875 t=10002
+qfb vvj ena bg 	补遗增广	c=4 d=0.00136038 t=10002
+qg h_ dm hzo uaf 	高人求低易	c=4 d=0.0211738 t=10002
+qg ujj if yeeo 	高峰能攀	c=4 d=0.0381973 t=10002
+qg xhn bm gy 	高阶应用	c=1 d=0.798516 t=10002
+qhh gh giz bs met 	纵家徒四壁	c=4 d=0.121847 t=10002
+qhh mgd hua crr ldy 	纵演偈谈玄	c=4 d=0.650516 t=10002
+qhh ypq ma grh 	纵欲成灾	c=4 d=0.166962 t=10002
+qhl if is lda 	熟能生巧	c=4 d=0.0648947 t=10002
+qi fwt qfb uaf xy 	衣服补易新	c=4 d=0.00891527 t=10002
+qi gnr igt r_ ic 	衣冠受不长	c=4 d=0.193982 t=10002
+qid ll iw xc 	缓步当车	c=4 d=0.00975486 t=10002
+qj hh uf h_ iw gk his 	几个明人当知县	c=4 d=0.0115048 t=10002
+qj vv jb fg m_ ni rpg 	几多白屋出公卿	c=4 d=0.000672176 t=10002
+qjg cfs i_ gpb 	终累大德	c=4 d=0.591561 t=10002
+qjg cu cpa aa x_ uo 	终无读书之时	c=4 d=0.031746 t=10002
+qjg cu mo h_ x_ ur 	终无济人之日	c=4 d=0.0314301 t=10002
+qjg fq cu rq lle 	终须无烦恼	c=4 d=0.286508 t=10002
+qjg fq rj g_ rl 	终须还到老	c=4 d=0.000221522 t=10002
+qjg hqa rw ni 	终傲王公	c=4 d=0.122458 t=10002
+qjg pf d_ kc 	终有一别	c=4 d=0.000139843 t=10002
+qjg xs cu rq lle 	终身无烦恼	c=4 d=0.000223748 t=10002
+qjg xs r_ soc 	终身不辱	c=8 d=0.225449 t=10002
+qjg xs r_ vli 	终身不耻	c=8 d=0.227715 t=10002
+qjh x_ w_ lae 	纳之以礼	c=4 d=0.000239972 t=10002
+qjk mei d_ h_ tmi f_ tmi 	结交一人难上难	c=4 d=0.0164902 t=10002
+qjk mei fq fis bi 	结交须胜已	c=4 d=0.147343 t=10002
+qjk mei fq fis bj 	结交须胜己	c=4 d=7.1202e-05 t=10002
+qjk mei uw qjk wtk hi 	结交要结君子	c=4 d=0.0287249 t=10002
+ql fnn hee h_ hym hdk rl 	红粉佳人休使老	c=4 d=3.64347e-05 t=10002
+ql fnn uaf jwn wtin iol wn 	红粉易妆娇态女	c=4 d=0.000547587 t=10002
+ql xuf wn hi vv zmb zkw 	红颜女子多薄命	c=4 d=0.0231678 t=10002
+ql xuf za ur kvc fnp t_ 	红颜今日虽欺我	c=4 d=0.00104892 t=10002
+qnd cpa wh aa 	初读好书	c=4 d=0.0710061 t=10002
+qnd ksk nub oo 	初吃馒头	c=4 d=0.00358861 t=10002
+qnd vu px oy 	初入行业	c=4 d=0.0035529 t=10002
+qo h_ r_ ek hjr ye 	凡人不可貌相	c=4 d=0.000636205 t=10002
+qo u_ vi u_ 	凡是自是	c=4 d=0.271175 t=10002
+qq i_ r_ ljb mop qg 	船大不怕浪高	c=4 d=0.0368835 t=10002
+qqs qqm r_ ek pf thr tg 	丝毫不可有闪失	c=4 d=0.000863091 t=10002
+qw e_ i_ ee 	绿了大地	c=4 d=0.0753968 t=10002
+qwt 	裙	c=0 d=0.0891366 t=10002
+r_ ai msv gf chs 	不因渔夫引	c=4 d=0.00025354 t=10002
+r_ brl cu ik 	不愁无路	c=4 d=0.00782846 t=10002
+r_ brl cu jfb df wj pai 	不愁无处下金钩	c=4 d=0.000117981 t=10002
+r_ c_ vi bj vjj qum ggd 	不说自己井绳短	c=4 d=0.00172938 t=10002
+r_ c_ vi bj yig pg ggd 	不说自己桶索短	c=4 d=0.0958482 t=10002
+r_ ca hym wdh pa 	不遇休妒世	c=4 d=0.367883 t=10002
+r_ dm wj ro na na vvb 	不求金玉重重贵	c=4 d=0.000195492 t=10002
+r_ ek cu px lii 	不可无行止	c=4 d=0.0284391 t=10002
+r_ ek eq k_ dm 	不可曲中求	c=4 d=9.18834e-05 t=10002
+r_ ek hbl ke pf hb 	不可斜而有余	c=4 d=0.154125 t=10002
+r_ ek hdy fn cu 	不可信其无	c=4 d=6.8753e-05 t=10002
+r_ ek ho gt 	不可做官	c=4 d=0.0129716 t=10002
+r_ ek hsp lub 	不可侮慢	c=4 d=0.489197 t=10002
+r_ ek jfs kk psm h_ 	不可素口骂人	c=4 d=0.00168669 t=10002
+r_ ek rxe ke pf hb 	不可邪而有余	c=4 d=6.80689e-05 t=10002
+r_ ek ww wfe 	不可比媚	c=4 d=0.484329 t=10002
+r_ fq lae x_ 	不须礼之	c=4 d=0.000230562 t=10002
+r_ g_ jb oo sw 	不到白头死	c=4 d=8.39751e-05 t=10002
+r_ gk t_ rur ccf t_ hek dm 	不知我者谓我何求	c=4 d=9.37396e-05 t=10002
+r_ gk tmi jfb 	不知难处	c=4 d=0.0100018 t=10002
+r_ gk vn tk 	不知则问	c=4 d=0.0678816 t=10002
+r_ gk zui tj 	不知莫向	c=4 d=0.00431788 t=10002
+r_ ha qe mnp dp pa f_ 	不作风波于世上	c=4 d=0.169485 t=10002
+r_ hdy hu oe jtl k_ mb 	不信但看筵中酒	c=4 d=3.94692e-05 t=10002
+r_ hz bnx ct vwl yck oud 	不会犁田怨枷担	c=4 d=0.0181336 t=10002
+r_ hz c_ cu ra 	不会说无理	c=4 d=7.37382e-05 t=10002
+r_ hz oqj mss vwl mek mlr 	不会凫水怨河湾	c=4 d=0.0180431 t=10002
+r_ ic d_ gku 	不长一智	c=4 d=0.0281561 t=10002
+r_ if vn mg 	不能则学	c=4 d=0.0675431 t=10002
+r_ jd lhq gls ey jd hwp 	不同祖宗也同华	c=4 d=0.0075592 t=10002
+r_ jez tmi 	不算难	c=1 d=0.869358 t=10002
+r_ ks vi fa cu 	不听自然无	c=8 d=0.157305 t=10002
+r_ lej puk tm nf 	不离衙门前	c=4 d=0.012339 t=10002
+r_ ljb as ps ke sw 	不怕三十而死	c=4 d=0.00287993 t=10002
+r_ ljb lub 	不怕慢	c=4 d=0.01448 t=10002
+r_ ljb mf k_ op sw h_ 	不怕方中打死人	c=4 d=0.00293811 t=10002
+r_ ljb tk g_ 	不怕问到	c=4 d=0.00412789 t=10002
+r_ lt ckv zk 	不必强合	c=4 d=0.0257328 t=10002
+r_ mfd mfd dp nnv vda 	不戚戚于贫贱	c=4 d=0.474739 t=10002
+r_ mfj mfj dp gd vvb 	不汲汲于富贵	c=4 d=0.472371 t=10002
+r_ mg cu yo 	不学无术	c=4 d=0.185446 t=10002
+r_ mg lrh giz fa 	不学亦徒然	c=4 d=0.000219318 t=10002
+r_ mg r_ wh 	不学不好	c=4 d=0.000244819 t=10002
+r_ mg rur wk zqg wk zu 	不学者如蒿如草	c=5 d=0.304224 t=10002
+r_ mg wk zu wk zqg 	不学如草如蒿	c=5 d=0.00024728 t=10002
+r_ mg yaf yr xp qe obe 	不学杨柳随风摆	c=4 d=0.0391643 t=10002
+r_ mitj iw lke 	不淫当斋	c=4 d=0.00965779 t=10002
+r_ mll hd em 	不涉你目	c=4 d=0.000343958 t=10002
+r_ mll hd iu 	不涉你足	c=4 d=0.000347415 t=10002
+r_ nol r_ koc 	不忍不耐	c=4 d=0.000426461 t=10002
+r_ npq htj he mb hhn qg 	不饮任他酒价高	c=4 d=0.000257371 t=10002
+r_ o_ ac aym ke ba zw 	不为穷困而改节	c=4 d=0.666983 t=10002
+r_ odjf nei pm odjf zg xym 	不拜父母拜干亲	c=4 d=0.00156481 t=10002
+r_ ojk dnn cu rai 	不击乃无烟	c=4 d=0.000217135 t=10002
+r_ otz qc px 	不矜细行	c=4 d=0.588611 t=10002
+r_ ozh ql fnn ey qe mz 	不搽红粉也风流	c=4 d=0.000114494 t=10002
+r_ p_ uuz f_ nww 	不在岸上亡	c=4 d=0.00501666 t=10002
+r_ pao bu rad cu bjwn pd 	不卖香烧无剩钱	c=4 d=0.0207545 t=10002
+r_ phl rl ke cu ma 	不患老而无成	c=8 d=0.624611 t=10002
+r_ q_ u_ hn dsm jq 	不就是传码表	c=1 d=0.806541 t=10002
+r_ qt d_ dk 	不经一事	c=4 d=0.0280157 t=10002
+r_ rhi vwl nei pm 	不孝怨父母	c=4 d=0.00905 t=10002
+r_ u_ gk wy zui ny crr 	不是知音莫与谈	c=4 d=0.000333793 t=10002
+r_ u_ gp wh 	不是很好	c=1 d=0.778801 t=10002
+r_ u_ osos qq os 	不是撑船手	c=4 d=0.0119146 t=10002
+r_ u_ r_ owt 	不是不报	c=4 d=0.00022713 t=10002
+r_ uwq di ra 	不顾天理	c=4 d=0.232239 t=10002
+r_ vi u_ ke xi pt 	不自是而露才	c=4 d=0.117069 t=10002
+r_ vru zui oe 	不赌莫看	c=4 d=0.0172492 t=10002
+r_ vu sh ax 	不入虎穴	c=4 d=0.0399555 t=10002
+r_ vy r_ vwl 	不尤不怨	c=4 d=0.47951 t=10002
+r_ w_ cu h_ ke r_ zmf 	不以无人而不芳	c=4 d=0.660347 t=10002
+r_ w_ t_ o_ gpb 	不以我为德	c=4 d=9.05155e-05 t=10002
+r_ wk cu ngs 	不如无疾	c=4 d=0.000720915 t=10002
+r_ wk hsg fy avc uf 	不如孤月独明	c=4 d=0.000399623 t=10002
+r_ wk kj ndl vv 	不如见症多	c=4 d=0.0249723 t=10002
+r_ wk uf dg qt aa 	不如明解经书	c=4 d=5.51756e-05 t=10002
+r_ wk uwy jfb d_ rp 	不如暗处一灯	c=4 d=0.000380133 t=10002
+r_ wk vi is 	不如自生	c=4 d=0.000403639 t=10002
+r_ wk zmb zki p_ xs 	不如薄艺在身	c=4 d=0.00367946 t=10002
+r_ wul zui xn 	不嫖莫转	c=4 d=0.0171632 t=10002
+r_ wz r_ wgh zpk m_ jt cw 	不婚不嫁惹出笑话	c=4 d=0.00690859 t=10002
+r_ xt cxl w_ es lc 	不轻试以幸功	c=4 d=0.117656 t=10002
+ra r_ wd xym 	理不卫亲	c=4 d=0.00260587 t=10002
+rai iq ma zy 	烟气成云	c=4 d=0.00103331 t=10002
+rc d_ ll ny h_ px 	留一步与人行	c=4 d=0.375315 t=10002
+rc da hi hix tvj 	留与子孙耕	c=1 d=0.909373 t=10002
+rc gu uu mof uf fy p_ 	留得五湖明月在	c=4 d=0.000117392 t=10002
+rc lx mg g_ og h_ tmi 	留心学到古人难	c=4 d=0.268477 t=10002
+rc ny hi hix tvj 	留与子孙耕	c=4 d=0.000387812 t=10002
+re hix fis dp t_ 	儿孙胜于我	c=4 d=0.179966 t=10002
+re hix ho xnn sm 	儿孙做牛马	c=1 d=0.946485 t=10002
+re hix r_ wk t_ 	儿孙不如我	c=4 d=0.181774 t=10002
+re hix vi pf re hix ldk 	儿孙自有儿孙福	c=8 d=0.205052 t=10002
+re r_ wnw pm aet 	儿不嫌母丑	c=8 d=0.320018 t=10002
+re vv r_ koc sw 	儿多不耐死	c=4 d=0.0293052 t=10002
+rggb vm ugo td 	兆民厨赖	c=4 d=0.000441651 t=10002
+rh cey gd tmi hk 	教弛富难保	c=4 d=0.307282 t=10002
+rh h_ jvb fn ggd 	教人责其短	c=4 d=0.259243 t=10002
+rh hi rh hix fq rh oei 	教子教孙须教义	c=5 d=0.00128116 t=10002
+rhf nsa lrh gmd gi kvw 	珍馐亦减至味	c=4 d=0.357011 t=10002
+rhi hi m_ dp nf h_ ntv 	孝子出于前人贤	c=4 d=0.0110537 t=10002
+rhi iw xua cl 	孝当竭力	c=4 d=0.0833264 t=10002
+rhi oei o_ xr 	孝义为先	c=4 d=0.000757877 t=10002
+rhi zui hfn wl 	孝莫假意	c=4 d=0.00178205 t=10002
+rj 	还	c=1 d=0.683861 t=10002
+rj lzi zga avc 	还怜茕独	c=4 d=0.120634 t=10002
+rj p_ mss al ozg muy zh 	还在水里捞油花	c=4 d=0.00740952 t=10002
+rj u_ r_ if jd uo gy zl hh dsm 	还是不能同时用两个码	c=1 d=0.740818 t=10002
+rjk as fq lpe wl 	再三须慎意	c=4 d=4.6783e-05 t=10002
+rjk as rc r_ hor 	再三留不住	c=4 d=0.000120364 t=10002
+rjk clx ek igs 	再思可矣	c=4 d=7.98796e-05 t=10002
+rl i_ giz hs llx 	老大徒伤悲	c=8 d=0.0560346 t=10002
+rl nd r_ oj chs ik h_ 	老师不过引路人	c=4 d=0.0685638 t=10002
+rl vg fjc hur ngs 	老医迷旧疾	c=4 d=0.00494198 t=10002
+rnr h_ enq gpb 	玩人丧德	c=4 d=0.334543 t=10002
+rnr xa enq jl 	玩物丧志	c=4 d=0.33622 t=10002
+ro yuh dss ke us wgx 	玉韫石而山辉	c=4 d=0.00117676 t=10002
+ron pf ut kbf x_ lj 	鸦有反哺之情	c=4 d=0.000290186 t=10002
+ron pf ut kbf x_ rhi 	鸦有反哺之孝	c=4 d=0.0841638 t=10002
+rq lle wwjb ai ckv m_ oo 	烦恼皆因强出头	c=4 d=9.65944e-05 t=10002
+rr hk jdy 	环保篇	c=4 d=0.0735353 t=10002
+rrh gqi pa iol 	炎凉世态	c=4 d=0.00198927 t=10002
+rrz rrl ny jis jeh 	琴瑟与笙簧	c=4 d=0.000544855 t=10002
+rt mgq mnf ke kcc wfe 	珠沉渊而川媚	c=4 d=0.00117089 t=10002
+ru u_ jd ll se xy j_ 	都是同步更新的	c=1 d=0.759572 t=10002
+ru u_ zmb zkw h_ 	都是薄命人	c=4 d=0.00292345 t=10002
+rx k_ mss 	乡中水	c=4 d=0.0972967 t=10002
+rx tu cu ckv mty 	乡间无强汉	c=4 d=0.0124009 t=10002
+rz zh bu mzz qi 	弄花香满衣	c=4 d=0.00123709 t=10002
+s_ os xr aj map os 	着手先图放手	c=4 d=0.323036 t=10002
+sa jv pf ur clx cu ur 	常将有日思无日	c=4 d=0.000161664 t=10002
+sa lrb nq uvx lvy 	常怀千岁忧	c=4 d=0.000104639 t=10002
+sbs sm tmi ttj 	驷马难追	c=8 d=0.128911 t=10002
+sg qhl zxg zm 	瓜熟蒂落	c=4 d=0.00202945 t=10002
+sh i_ hs h_ 	虎大伤人	c=4 d=0.00304276 t=10002
+sh is sh re 	虎生虎儿	c=4 d=0.000149983 t=10002
+sh nyh pim lx p_ 	虎瘦雄心在	c=4 d=0.0350847 t=10002
+sh xs avy ek sj 	虎身犹可近	c=4 d=4.72532e-05 t=10002
+sh zm zn uj qn aqq fnp 	虎落平原被犬欺	c=4 d=0.00015149 t=10002
+si r_ si 	美不美	c=12 d=0.146633 t=10002
+sj mek r_ gu yrw hdk mss 	近河不得枉使水	c=5 d=0.000800727 t=10002
+sj mss ckn sv li 	近水识鱼性	c=4 d=0.040357 t=10002
+sj mss gk sv li 	近水知鱼性	c=8 d=0.0930443 t=10002
+sj mss yfw ikk xr gu fy 	近水楼台先得月	c=4 d=4.108e-05 t=10002
+sj net rur nh 	近墨者黑	c=4 d=0.00637743 t=10002
+sj tvw rur erh 	近朱者赤	c=4 d=0.00634562 t=10002
+sj us ckn onn wy 	近山识鸟音	c=12 d=0.13407 t=10002
+sj us r_ gu yrw rad lwy 	近山不得枉烧柴	c=5 d=0.000804741 t=10002
+sj v_ mg gu au ggg me 	近来学得乌龟法	c=4 d=9.80542e-05 t=10002
+sji fj mey sv 	殃及池鱼	c=4 d=6.03717e-05 t=10002
+ski dfa cu fop 	乞丐无粮	c=4 d=0.0014159 t=10002
+skk nww dcc lt gvn 	唇亡齿必寒	c=4 d=0.305749 t=10002
+sl jfy zui n_ jo wg wh 	年青莫道春光好	c=4 d=0.000137761 t=10002
+sl ljb k_ br fy ljb no 	年怕中秋月怕半	c=4 d=0.0365165 t=10002
+sl sl xmf nqj 	年年防饥	c=4 d=0.000241174 t=10002
+slg x_ qqm ual 	差之毫厘	c=4 d=7.79074e-05 t=10002
+sm cu lh zu r_ fb 	马无夜草不肥	c=4 d=0.000129091 t=10002
+sm nyh qmm ic 	马瘦毛长	c=4 d=0.000614323 t=10002
+sm px cu cl wwjb ai nyh 	马行无力皆因瘦	c=4 d=3.39715e-05 t=10002
+sm snk qn h_ sie 	马善被人骑	c=4 d=0.000127807 t=10002
+sm xnn ke qyy qfo 	马牛而襟裾	c=4 d=0.146608 t=10002
+sm xnn wk qyy qfo 	马牛如襟裾	c=4 d=5.80045e-05 t=10002
+snk dk ek ho 	善事可做	c=4 d=0.00014628 t=10002
+snk dol g_ oo qjg pf owt 	善恶到头终有报	c=4 d=0.000131042 t=10002
+snk hw r_ iu 	善化不足	c=4 d=6.31505e-05 t=10002
+snk hym nfr owt 	善休望报	c=4 d=0.00179996 t=10002
+snk jfb mf o_ i_ dei gf 	善处方为大丈夫	c=4 d=0.00835421 t=10002
+snk lt joc rl 	善必寿老	c=4 d=0.000558649 t=10002
+snk ny h_ mei 	善与人交	c=4 d=0.423166 t=10002
+snk o_ gi gr mgn mgn gy 	善为至宝深深用	c=4 d=0.00147368 t=10002
+snk pf snk owt 	善有善报	c=8 d=0.49187 t=10002
+son cc zui ks arw dy 	养男莫听狂言	c=4 d=0.00574176 t=10002
+son gh d_ qr 	养家一般	c=4 d=0.000327183 t=10002
+son hi r_ rh wk son sdh 	养子不教如养驴	c=4 d=5.54522e-05 t=10002
+son re xmf rl 	养儿防老	c=4 d=0.000156886 t=10002
+son sn nq ur 	养兵千日	c=4 d=0.000958645 t=10002
+son wn r_ rh wk son aru 	养女不教如养猪	c=4 d=5.57301e-05 t=10002
+son wn zui kej lej pm 	养女莫叫离母	c=4 d=0.00577054 t=10002
+sv o_ ipz mnp wi hw vll 	鱼为奔波始化龙	c=4 d=0.000483243 t=10002
+sw r_ ch fs 	死不认尸	c=5 d=0.00012403 t=10002
+sy gk idu iha x_ ail 	羊知跪乳之恩	c=4 d=0.0845857 t=10002
+sy pf idu iha x_ ail 	羊有跪乳之恩	c=4 d=0.000288738 t=10002
+t_ 	我	c=1 d=0.687289 t=10002
+t_ ei is vp tmi 	我去生财难	c=4 d=0.0162447 t=10002
+t_ hwj bx al j_ mv cz fw of 	我仓库里的测评数据	c=1 d=0.752014 t=10002
+t_ kj jb oo ekk 	我见白头喜	c=4 d=8.31396e-05 t=10002
+t_ l_ q_ u_ dzf dsm mv cxl mf me mv j_ 	我这就是形码测试方法测的	c=1 d=0.704688 t=10002
+t_ r_ wk h_ t_ cu fn ldk 	我不如人我无其福	c=4 d=0.00918678 t=10002
+tc h_ zui ha 	劝人莫作	c=8 d=0.452471 t=10002
+tc mg jdy 	劝学篇	c=4 d=0.0526026 t=10002
+te ntv dy cuk 	圣贤言语	c=4 d=0.000921056 t=10002
+tg eiw no sl fop 	失却半年粮	c=4 d=0.000584362 t=10002
+tg eiw xnn fe 	失却牛脚	c=4 d=0.00110823 t=10002
+tg wl jom fa 	失意泰然	c=4 d=0.175522 t=10002
+tg x_ nq al 	失之千里	c=4 d=7.82979e-05 t=10002
+tj xur zh ym up jjj jo 	向阳花木早逢春	c=4 d=4.12859e-05 t=10002
+tk dk r_ gk 	问事不知	c=4 d=0.000142668 t=10002
+tk s_ ci wtk nk r_ gk 	问着东君总不知	c=4 d=0.00124953 t=10002
+tkj za ghq njw og 	观今宜鉴古	c=4 d=2.8093e-05 t=10002
+tla al ioc div 	闹里夺争	c=4 d=0.00346518 t=10002
+tla la odi pd 	闹市挣钱	c=4 d=3.98659e-05 t=10002
+tm jh pf ix h_ 	门内有小人	c=4 d=0.341301 t=10002
+tm jh pf wtk hi 	门内有君子	c=4 d=0.337905 t=10002
+tm jh xu ntv opx 	门内产贤郎	c=4 d=0.311926 t=10002
+tm o_ ix h_ ke cr 	门为小人而设	c=4 d=0.00535358 t=10002
+tm vf ix h_ gi 	门外小人至	c=4 d=0.343012 t=10002
+tm vf wtk hi gi 	门外君子至	c=4 d=0.339599 t=10002
+tm xm d_ rz tmw e_ 	门面一弄阔了	c=4 d=0.388683 t=10002
+tmi rur r_ hz 	难者不会	c=4 d=0.0218187 t=10002
+tmi zk tmi nn 	难合难分	c=4 d=0.458411 t=10002
+ton fhs aej wwgw x_ ldc 	鸡豚狗彘之畜	c=4 d=0.000158463 t=10002
+ton kon up oe di 	鸡鸣早看天	c=4 d=0.000206545 t=10002
+tq hi r_ pfk alg hwj 	耗子不钻空仓	c=4 d=0.00516944 t=10002
+tv oj vn ekk 	闻过则喜	c=4 d=0.0426388 t=10002
+tym crr zui cn h_ lf 	闲谈莫论人非	c=4 d=0.13399 t=10002
+tym dk zui jg 	闲事莫管	c=4 d=0.000143383 t=10002
+tym hhe r_ wk oe aa 	闲坐不如看书	c=4 d=0.0102039 t=10002
+u_ lf kn o_ vv dz kk 	是非只为多开口	c=4 d=9.61126e-05 t=10002
+u_ lf pu pu pf 	是非朝朝有	c=4 d=0.156455 t=10002
+u_ lf qjg ur pf 	是非终日有	c=4 d=6.63883e-05 t=10002
+u_ ny r_ u_ xp he c_ kb 	是与不是随他说吧	c=4 d=0.0072628 t=10002
+u_ o_ 	是为	c=1 d=1 t=10002
+u_ re r_ sw 	是儿不死	c=4 d=0.0160028 t=10002
+u_ vp r_ pfa 	是财不散	c=4 d=0.016083 t=10002
+u_ xym r_ hwh xym 	是亲不似亲	c=4 d=3.46577e-05 t=10002
+uaf mc uaf pjc us mid mss 	易涨易退山溪水	c=4 d=2.98302e-05 t=10002
+uaf ut uaf su ix h_ lx 	易反易复小人心	c=4 d=2.99797e-05 t=10002
+uaf xym lrh uaf pfa 	易亲亦易散	c=4 d=0.460708 t=10002
+uafn ib hxf nf rp 	剔起佛前灯	c=4 d=0.00039171 t=10002
+uaq jfd rj clx kgd 	厌静还思喧	c=4 d=0.000312786 t=10002
+ubj ek rh h_ yrw bp jo 	岂可教人枉度春	c=4 d=3.58922e-05 t=10002
+ubj gk eh imi p_ ud 	岂知黄雀在后	c=4 d=0.000194517 t=10002
+ubj if fo wk h_ wl 	岂能尽如人意	c=8 d=0.106586 t=10002
+ubj if h_ cu gu zj uo 	岂能人无得运时	c=4 d=0.000133023 t=10002
+ud g_ o_ ec 	后到为臣	c=4 d=4.21199e-05 t=10002
+ud r_ wae 	后不乱	c=4 d=0.0141932 t=10002
+ud v_ tmi tn fn qfa 	后来难乎其继	c=4 d=0.390632 t=10002
+uda i_ lkj r_ p_ 	量大祸不在	c=4 d=0.00145902 t=10002
+uda vu o_ m_ 	量入为出	c=4 d=0.250326 t=10002
+uf gk us pf sh 	明知山有虎	c=4 d=0.000367058 t=10002
+uf h_ vi fas 	明人自断	c=4 d=0.0115625 t=10002
+uf r_ hs gnl 	明不伤察	c=4 d=0.114751 t=10002
+uf ur brl v_ uf ur lvy 	明日愁来明日忧	c=4 d=0.000105691 t=10002
+ug jhh du fna dp vf h_ 	骨肉更甚于外人	c=4 d=0.00201933 t=10002
+ug jhh njwb yjc 	骨肉乖违	c=4 d=0.35523 t=10002
+ugs mss tmi eap 	覆水难收	c=4 d=9.56332e-05 t=10002
+uhm oj rc jf 	雁过留声	c=4 d=0.00158846 t=10002
+uid 	暖	c=3 d=0.265806 t=10002
+uid ud du mgk gvn ena 	暖后更觉寒增	c=5 d=0.346459 t=10002
+uid ud se mgk gvn ena 	暖后更觉寒增	c=1 d=0.955997 t=10002
+ujf di r_ lfy ei 	晴天不肯去	c=4 d=9.42095e-05 t=10002
+ujf qga xvv hnp 	晴带雨伞	c=4 d=0.00479592 t=10002
+um js www 	崔士鑫	c=1 d=0.891366 t=10002
+uo hhv vw g_ 	时候未到	c=4 d=0.000228268 t=10002
+uo v_ ca wh pty 	时来遇好友	c=4 d=0.00470095 t=10002
+uo v_ ptg hwh wj 	时来铁似金	c=4 d=3.0281e-05 t=10002
+uo v_ qe nij fngm rw tkg 	时来风送滕王阁	c=4 d=0.00016493 t=10002
+uo v_ uaf hpu ppg nq zl 	时来易借银千两	c=4 d=0.0103581 t=10002
+up ib as wg 	早起三光	c=4 d=0.00460787 t=10002
+up ob fgg wu pkjc joo son 	早把甘旨勤奉养	c=4 d=0.123071 t=10002
+uq ndd 	影刀	c=1 d=0.786628 t=10002
+ur dod kj h_ lx 	日久见人心	c=8 d=0.0944533 t=10002
+ur fy wk yin 	日月如梭	c=4 d=0.000270567 t=10002
+ur hi vw g_ 	日子未到	c=4 d=0.499079 t=10002
+ur hss d_ tz 	日食一升	c=4 d=0.00074287 t=10002
+ur ur zgc cl f_ by ktn ngs 	日日劳力上床呼疾	c=4 d=0.00818878 t=10002
+us df iz mfw jvm 	山下走泥浆	c=4 d=0.0773055 t=10002
+us f_ yto ym wg 	山上树木光	c=4 d=0.07692 t=10002
+us k_ pf ped yto 	山中有直树	c=4 d=4.31862e-05 t=10002
+us k_ vi pf nq sl yto 	山中自有千年树	c=4 d=4.96759e-05 t=10002
+us xl p_ ee f_ 	山立在地上	c=4 d=0.0333736 t=10002
+ut c_ he h_ jov vjj mgn 	反说他人箍井深	c=4 d=0.00173805 t=10002
+ut gj vi xs 	反害自身	c=4 d=0.00379151 t=10002
+ut igt fn wae 	反受其乱	c=4 d=0.447092 t=10002
+ut tg d_ kn sy 	反失一只羊	c=4 d=0.000590235 t=10002
+ut w_ t_ o_ hlj 	反以我为仇	c=4 d=9.09692e-05 t=10002
+uu dj sl nf pn d_ gh 	五百年前共一家	c=4 d=0.0075215 t=10002
+uu ps ye jv woc sw ik 	五十相将寻死路	c=5 d=0.396535 t=10002
+uu px r_ u_ l_ ue em 	五行不是这题目	c=4 d=0.000354433 t=10002
+uv jpm mitj wwj lx 	最毒淫妇心	c=4 d=0.000459675 t=10002
+uw gk lx fsu dk 	要知心腹事	c=4 d=0.0184076 t=10002
+uw gk mlg mof mgn 	要知江湖深	c=4 d=0.00348255 t=10002
+uw gu wh 	要得好	c=4 d=0.296713 t=10002
+uw hdk fn ek igt 	要使其可受	c=4 d=0.329562 t=10002
+uw ho ic joc h_ 	要做长寿人	c=4 d=0.027461 t=10002
+uw ho lv mw h_ 	要做快活人	c=4 d=0.0271877 t=10002
+uw ho pf ud h_ 	要做有后人	c=4 d=0.0277369 t=10002
+uw mg jfy yn xl us jei 	要学青松立山冈	c=4 d=0.0393606 t=10002
+uw otz oeo nnv vda j_ nig nsy 	要矜持贫贱的痛痒	c=4 d=0.0820858 t=10002
+uw pd ho fna ti 	要钱做甚么	c=8 d=0.363551 t=10002
+uw pf bz fzy hxi dsm fne dmj 	要有底层代码基础	c=1 d=0.88692 t=10002
+uwy gg nae lx 	暗室亏心	c=4 d=0.000876135 t=10002
+uy hzm vu iru uaf 	由俭入奢易	c=8 d=0.17673 t=10002
+uy iru vu hzm tmi 	由奢入俭难	c=4 d=0.177286 t=10002
+v_ c_ u_ lf rur 	来说是非者	c=4 d=4.77281e-05 t=10002
+v_ wk qe xvv 	来如风雨	c=4 d=4.02665e-05 t=10002
+va dk vv ai gu wl uo 	败事多因得意时	c=4 d=0.126187 t=10002
+va gh hi nx ogx wj wk et 	败家子弟挥金如土	c=4 d=0.00151856 t=10002
+vap r_ ig ee zix 	贼不通地邻	c=4 d=0.00319877 t=10002
+vap u_ ix h_ 	贼是小人	c=4 d=8.78403e-05 t=10002
+vap vk tmi igt 	贼名难受	c=4 d=0.00551662 t=10002
+vee tv r_ wk em kj 	耳闻不如目见	c=4 d=0.000944372 t=10002
+vee tv u_ soy 	耳闻是虚	c=4 d=0.106993 t=10002
+vf ls mgx uuh 	外示浑厚	c=4 d=0.529941 t=10002
+vgr ckd d_ sl jo 	耽误一年春	c=4 d=0.0038875 t=10002
+vgr ckd zui foj jo 	耽误莫迟春	c=5 d=0.0247238 t=10002
+vhl ei xa kp zui vt pd 	赊去物品莫取钱	c=4 d=0.000212836 t=10002
+vhl pd ib fg 	赊钱起屋	c=5 d=0.0168233 t=10002
+vi bj cu zj gi 	自己无运至	c=4 d=0.0155299 t=10002
+vi bj itg hg vi bj ibb 	自己跌倒自己爬	c=4 d=0.007013 t=10002
+vi bj xl fn jl 	自己立其志	c=4 d=0.0311173 t=10002
+vi gh lx al dw 	自家心里急	c=4 d=0.000617402 t=10002
+vi gy vn ix 	自用则小	c=5 d=0.27804 t=10002
+vi hhr lx ge ud 	自从心定后	c=4 d=0.00031593 t=10002
+vi jfb in fa 	自处超然	c=4 d=0.172909 t=10002
+vi na rur fa ud h_ na 	自重者然后人重	c=4 d=0.00263206 t=10002
+vi og va vk ai va dk 	自古败名因败事	c=4 d=0.00269869 t=10002
+vi ok as nq 	自损三千	c=4 d=0.000202456 t=10002
+vi p_ r_ ma h_ 	自在不成人	c=4 d=0.00139482 t=10002
+vi u_ cu opg gsn 	自是无良宾	c=4 d=3.77325e-05 t=10002
+vi xs r_ cpk 	自身不谨	c=4 d=0.00265851 t=10002
+vj ll hdu clx pjc ll 	进步便思退步	c=4 d=0.321425 t=10002
+vj ll hs clx pjc ll 	进步便思退步	c=1 d=0.951229 t=10002
+vj tm oe fz db 	进门看脸色	c=4 d=0.00650626 t=10002
+vj us r_ ljb sh hs h_ 	进山不怕虎伤人	c=4 d=0.000261261 t=10002
+vjj mss r_ op r_ mzz cj 	井水不打不满边	c=4 d=0.0208586 t=10002
+vl d_ wtl 	息一怒	c=4 d=0.000121574 t=10002
+vl eiw xct xtj x_ wtl 	息却雷霆之怒	c=4 d=0.000169953 t=10002
+vll is vll hi 	龙生龙子	c=4 d=0.000149235 t=10002
+vll mm mda mss de vdf tag 	龙游浅水遭虾戏	c=4 d=0.000150735 t=10002
+vll nw uar mjd zy avy muo 	龙归晚洞云犹湿	c=4 d=0.000593193 t=10002
+vlw vcc de dwv op 	蚊虫遭扇打	c=4 d=0.00245411 t=10002
+vm pf bis qa 	民有私约	c=4 d=0.0010972 t=10002
+vn cu giz 	则无徒	c=4 d=0.152592 t=10002
+vn cu sv 	则无鱼	c=4 d=0.151073 t=10002
+vn mah gpb ur xy 	则盛德日新	c=4 d=0.551568 t=10002
+vn rhi px vi jsm 	则孝行自笃	c=4 d=0.557111 t=10002
+vnk uf krj fo 	聪明逞尽	c=4 d=0.158027 t=10002
+vnw pd gor nf jez 	赚钱往前算	c=4 d=0.0152224 t=10002
+vp ek son is fq mor wl 	财可养生须注意	c=4 d=0.00191126 t=10002
+vp f_ nn uf i_ dei gf 	财上分明大丈夫	c=4 d=5.4083e-05 t=10002
+vp fo rur ezk 	财尽者疏	c=5 d=0.00600604 t=10002
+vp jaj z_ h_ lx 	财帛动人心	c=4 d=0.0016699 t=10002
+vp mei rur gl 	财交者密	c=4 d=0.00597608 t=10002
+vp r_ nw xs lzk u_ cu 	财不归身恰是无	c=4 d=0.00878254 t=10002
+vp r_ od xym 	财不护亲	c=4 d=0.00194988 t=10002
+vp v_ is t_ uaf 	财来生我易	c=4 d=0.0161637 t=10002
+vp vv cfs lx 	财多累心	c=4 d=0.0024912 t=10002
+vp vv gj vi bj 	财多害自己	c=4 d=7.52278e-05 t=10002
+vp vv qjg cfs bi 	财多终累已	c=4 d=0.218714 t=10002
+vr gf r_ ek ioc jl 	匹夫不可夺志	c=4 d=0.0349097 t=10002
+vse vop obf vnc 	螳螂捕蝉	c=4 d=0.000193547 t=10002
+vt x_ pf n_ 	取之有道	c=8 d=0.230165 t=10002
+vu tm hym tk zgy yog dk 	入门休问荣枯事	c=4 d=0.000166587 t=10002
+vu tm oqi sh uaf 	入门掠虎易	c=4 d=0.0107808 t=10002
+vv it it sl opx 	多少少年郎	c=4 d=8.35563e-05 t=10002
+vv kj vv tv 	多见多闻	c=4 d=2.79529e-05 t=10002
+vv oe dk go 	多看事实	c=4 d=0.0415861 t=10002
+vvb h_ cuk it 	贵人语少	c=4 d=0.0243557 t=10002
+vvb h_ oo f_ r_ nai nad 	贵人头上不曾饶	c=4 d=0.000992791 t=10002
+vvb zp r_ rh hi 	贵若不教子	c=4 d=0.193014 t=10002
+vw ek hr olc d_ jp lx 	未可全抛一片心	c=4 d=3.08927e-05 t=10002
+vw gd xr gd qjg r_ gd 	未富先富终不富	c=4 d=0.00238158 t=10002
+vw nnv xr nnv qjg r_ nnv 	未贫先贫终不贫	c=4 d=0.00239352 t=10002
+vw uar xr ors ghd 	未晚先投宿	c=4 d=0.000205515 t=10002
+vw v_ hym ow nfr 	未来休指望	c=4 d=0.00465418 t=10002
+vwl is zui vwl sw 	怨生莫怨死	c=4 d=8.23123e-05 t=10002
+vxx xur cu xpg wh 	夕阳无限好	c=4 d=0.00118266 t=10002
+vxx xur wg xfy r_ vv uo 	夕阳光阴不多时	c=4 d=0.123688 t=10002
+vy h_ rur 	尤人者	c=4 d=0.202911 t=10002
+w_ bkn hwv vp x_ lx bkn mg tk 	以积货财之心积学问	c=4 d=0.548817 t=10002
+w_ igp diw hi x_ lx igp hd pm 	以爱妻子之心爱你母	c=4 d=0.554333 t=10002
+w_ ped owt vwl 	以直报怨	c=4 d=0.00103849 t=10002
+w_ ra qzr di df 	以理统天下	c=4 d=0.00748398 t=10002
+wg mg r_ gy je dp xzi 	光学不用等于零	c=4 d=0.0672062 t=10002
+wg xfy hwh jn 	光阴似箭	c=4 d=0.000269218 t=10002
+wg xfy if qj uo 	光阴能几时	c=4 d=0.0308077 t=10002
+wg yuw xpq wk yja 	光棍软如棉	c=4 d=0.0118552 t=10002
+wgi if gu rh mh 	疑能得教益	c=4 d=0.0699489 t=10002
+wh 	好	c=2 d=1.4917 t=10002
+wh aa r_ uaq dj ak cpa 	好书不厌百回读	c=4 d=0.0692529 t=10002
+wh cw r_ p_ vv c_ 	好话不在多说	c=4 d=0.00215495 t=10002
+wh dk he h_ vw kj cv 	好事他人未见讲	c=4 d=0.00557206 t=10002
+wh dk r_ m_ tm 	好事不出门	c=4 d=8.52442e-05 t=10002
+wh dk r_ wk cu 	好事不如无	c=4 d=6.09785e-05 t=10002
+wh dy d_ ej as jgb uid 	好言一句三冬暖	c=4 d=0.0191589 t=10002
+wh dy tmi gu 	好言难得	c=4 d=0.000173386 t=10002
+wh ec d_ a_ x_ gr 	好臣一国之宝	c=4 d=0.00331271 t=10002
+wh eq r_ uaq dj ak kuu 	好曲不厌百回唱	c=4 d=0.0689075 t=10002
+wh h_ ye jjj 	好人相逢	c=4 d=0.000285865 t=10002
+wh mty zui qn h_ ckn dnp 	好汉莫被人识破	c=4 d=0.0203436 t=10002
+wh tk vn qyg 	好问则裕	c=4 d=0.276653 t=10002
+wh wh mg qx 	好好学习	c=4 d=0.0561353 t=10002
+wh wwj d_ gh x_ rhf 	好妇一家之珍	c=4 d=0.00332931 t=10002
+wi uk dp h_ ey 	始吾于人也	c=4 d=0.00113629 t=10002
+wit zq tmi vg vwl nm ndj 	妙药难医怨逆病	c=4 d=0.00384881 t=10002
+wj htjq rhh rci mf gk db 	金凭火炼方知色	c=4 d=0.00140181 t=10002
+wj ppg g_ os lf gyg uaf 	金银到手非容易	c=4 d=0.0139819 t=10002
+wj yxg ue vk uo 	金榜题名时	c=4 d=0.0012126 t=10002
+wk jjj oap gk 	如逢故知	c=4 d=0.0720792 t=10002
+wk oar f_ mtm x_ qoo 	如挽上滩之舟	c=4 d=0.516857 t=10002
+wk sty nj uds x_ sm 	如驭临岩之马	c=4 d=0.509162 t=10002
+wk zaa opg pty 	如获良友	c=4 d=0.071362 t=10002
+wkl bj x_ lx wkl h_ 	恕己之心恕人	c=4 d=4.5628e-05 t=10002
+wn cu uf pwr r_ gk xm x_ fjf fh 	女无明镜不知面之精粗	c=4 d=0.00990228 t=10002
+wn hi cu jl rna zu cu qpvs 	女子无志烂草无瓤	c=4 d=0.00565627 t=10002
+wn hi cu pt hdu u_ gpb 	女子无才便是德	c=4 d=0.00677179 t=10002
+wn hi tg rh ge fh sur 	女子失教定粗鲁	c=4 d=0.00582853 t=10002
+wn o_ lnk bj rur gyg 	女为悦己者容	c=4 d=0.000502965 t=10002
+wn re r_ cjf f_ tm gkg 	女儿不请上门客	c=4 d=0.00683985 t=10002
+wng vp zui wng hss 	嫉财莫嫉食	c=4 d=8.19018e-05 t=10002
+wng wdh h_ lx 	嫉妒人心	c=4 d=0.00200926 t=10002
+wnw kgd ty lki us 	嫌喧又忆山	c=4 d=0.000314354 t=10002
+wr op cad e_ 	竟打词了	c=1 d=0.737123 t=10002
+wss kme kn o_ oot 	舌咬只为揉	c=4 d=0.00540738 t=10002
+wss m_ u_ lf is 	舌出是非生	c=4 d=0.00182716 t=10002
+wt fog xmf kk 	群居防口	c=5 d=0.00148849 t=10002
+wtk hi aog ac 	君子固穷	c=4 d=8.87231e-05 t=10002
+wtk hi fb xs 	君子肥身	c=4 d=0.0027532 t=10002
+wtk hi gwn nnv 	君子安贫	c=4 d=0.000510566 t=10002
+wtk hi hhj fn n_ gpb 	君子修其道德	c=4 d=0.663657 t=10002
+wtk hi igp vp 	君子爱财	c=8 d=0.229017 t=10002
+wtk hi kk k_ cu tag dy 	君子口中无戏言	c=4 d=0.0242342 t=10002
+wtk hi lrb dznd 	君子怀刑	c=4 d=0.00073181 t=10002
+wtk hi nq al jd qoo 	君子千里同舟	c=4 d=0.00865178 t=10002
+wtk hi nq pd r_ cp xme 	君子千钱不计较	c=5 d=0.00341359 t=10002
+wtk hi r_ ioc h_ ds wh 	君子不夺人所好	c=4 d=0.504095 t=10002
+wtk hi uj cu bis pci 	君子原无私惠	c=4 d=0.210138 t=10002
+wtk hi x_ mei mrr w_ ma 	君子之交淡以成	c=4 d=0.406574 t=10002
+wtk hi x_ mei mrr wk mss 	君子之交淡如水	c=4 d=0.0513038 t=10002
+wtk ks ec de ctv 	君听臣遭诛	c=4 d=0.61879 t=10002
+wwj h_ pf ol 	妇人有势	c=4 d=0.0298972 t=10002
+wx wv jd fzg fud 	姊妹同肝胆	c=4 d=0.00848046 t=10002
+wz wai cn vp 	婚姻论财	c=4 d=0.00603614 t=10002
+wzg r_ ig nei pm 	奸不通父母	c=4 d=0.00318281 t=10002
+xa mah vn lt qkd 	物盛则必衰	c=5 d=0.369727 t=10002
+xa zkw p_ h_ 	物命在人	c=4 d=0.00316694 t=10002
+xal yht cu fnp 	童叟无欺	c=4 d=0.14086 t=10002
+xap xal itj ow ykk zh yoc 	牧童遥指杏花村	c=4 d=0.00106478 t=10002
+xct op as pa gat 	雷打三世冤	c=4 d=0.020651 t=10002
+xd dol oaf snk 	隐恶扬善	c=4 d=0.000294571 t=10002
+xek bwe cu pe 	阿魏无真	c=4 d=3.7357e-05 t=10002
+xet jlt zh wh alg vu em 	牡丹花好空入目	c=8 d=0.111768 t=10002
+xf pf 	站有	c=1 d=0.782705 t=10002
+xgm tkj rur mj 	旁观者清	c=4 d=0.00234613 t=10002
+xhb lf bj zui o_ 	除非己莫为	c=4 d=8.65325e-05 t=10002
+xjn uvb aoo pao wk mse hws 	商贾买卖如施舍	c=4 d=0.00653888 t=10002
+xkj ldk hi hix 	造福子孙	c=4 d=0.0765363 t=10002
+xkk ja coc pd 	告状讨钱	c=4 d=0.0197423 t=10002
+xkl us ksk us 	靠山吃山	c=4 d=0.0134337 t=10002
+xl df gen zy jl 	立下凌云志	c=4 d=0.0354373 t=10002
+xl fe ljb xp mz hyg xn 	立脚怕随流俗转	c=5 d=0.269823 t=10002
+xmf gh ne ghi 	防家二字	c=1 d=0.965605 t=10002
+xmf gh ne ghi gph ny wzg 	防家二字盗与奸	c=5 d=0.465339 t=10002
+xmf h_ x_ lx r_ ek cu 	防人之心不可无	c=4 d=0.00778941 t=10002
+xmf wl wk ema 	防意如城	c=4 d=4.60865e-05 t=10002
+xn ep hdu o_ h_ nei pm 	转眼便为人父母	c=4 d=0.00179098 t=10002
+xn ep hdu u_ jb oo niw 	转眼便是白头翁	c=4 d=0.000101547 t=10002
+xn ep mz hn nb dj gh 	转眼流传八百家	c=4 d=0.00733579 t=10002
+xn ep ty u_ jb oo niw 	转眼又是白头翁	c=4 d=0.0004881 t=10002
+xnd vn clx mea rur ei 	刻则思效者去	c=5 d=0.162027 t=10002
+xnn r_ gk cl i_ 	牛不知力大	c=4 d=0.00711899 t=10002
+xnn sm r_ wh lr 	牛马不好变	c=4 d=0.0202421 t=10002
+xp uo zui ib id uo zal 	随时莫起趋时念	c=4 d=0.0893682 t=10002
+xpq 	软	c=3 d=0.267138 t=10002
+xr cv fas 	先讲断	c=4 d=0.0141224 t=10002
+xr g_ o_ wtk 	先到为君	c=4 d=4.19098e-05 t=10002
+xr gzk ud dr rur 	先宽后严者	c=4 d=0.543356 t=10002
+xr ij x_ h_ ek nbo ey 	先达之人可尊也	c=4 d=0.481914 t=10002
+xr mg koc rq 	先学耐烦	c=4 d=0.3588 t=10002
+xr mgqi ud mrr rur 	先浓后淡者	c=4 d=0.535267 t=10002
+xrj wef zui xrj ct anr 	选婿莫选田园	c=5 d=0.0229373 t=10002
+xrj wn zui xrj wgh ivei 	选女莫选嫁奁	c=4 d=0.0230523 t=10002
+xs gwn zui vwl nnv 	身安莫怨贫	c=4 d=0.104352 t=10002
+xs ljb r_ z_ 	身怕不动	c=4 d=0.0590134 t=10002
+xs ypq m_ yeei jvl vf 	身欲出樊笼外	c=4 d=0.235748 t=10002
+xs zn gwn zui vwl nnv 	身平安莫怨贫	c=4 d=0.00151099 t=10002
+xug met ubj cu vee 	隔壁岂无耳	c=4 d=0.00189225 t=10002
+xug px zui zav bn 	隔行莫贪利	c=4 d=0.00451663 t=10002
+xy ena bg ntv lww hr lww nbo nd w_ na n_ 	新增广贤文全文尊师以重道	c=4 d=0.0792625 t=10002
+xym mfd ks x_ qd 	亲戚听之绝	c=4 d=0.634454 t=10002
+xym mfd r_ lnk 	亲戚不悦	c=4 d=0.594526 t=10002
+xym r_ xym 	亲不亲	c=12 d=0.148107 t=10002
+xzf h_ jez gk yq 	输人算知机	c=4 d=0.000172521 t=10002
+y_ g_ 	想到	c=1 d=0.882497 t=10002
+yd it bn wq ckv wk hhe 	本少利微强如坐	c=5 d=0.0261217 t=10002
+yd nn qjg r_ nnv 	本分终不贫	c=4 d=0.00155701 t=10002
+yda zq ckd opg mf 	朽药误良方	c=4 d=0.00496675 t=10002
+ye ckn mzz di df 	相识满天下	c=4 d=2.89486e-05 t=10002
+ye cn krj zji qhs 	相论逞英豪	c=5 d=0.000430747 t=10002
+ye jjj r_ npq alg nw ei 	相逢不饮空归去	c=4 d=3.60721e-05 t=10002
+ye jjj wh hwh qnd ye ckn 	相逢好似初相识	c=4 d=2.92395e-05 t=10002
+ye kj r_ wk qnd 	相见不如初	c=4 d=7.22781e-05 t=10002
+ye kj uaf gu wh 	相见易得好	c=4 d=3.36334e-05 t=10002
+ye oe r_ koc ic 	相看不耐长	c=4 d=0.00458489 t=10002
+yif ggd h_ lx lzn 	梢短人心慌	c=4 d=0.0044941 t=10002
+yif ic h_ fud i_ 	梢长人胆大	c=4 d=0.00447168 t=10002
+yif ni vv e_ op rna qq 	梢公多了打烂船	c=4 d=0.0175976 t=10002
+yjg zh kvc ix qjk go ma 	枣花虽小结实成	c=4 d=0.111918 t=10002
+yjg zh kvc ix qjk go vv 	枣花虽小结实多	c=4 d=0.000411793 t=10002
+ym igt qum vn ped 	木受绳则直	c=4 d=0.431715 t=10002
+yoc gf ddu hwh ptg 	村夫硬似铁	c=4 d=0.0117961 t=10002
+yog ym jjj jo avy rjk mt 	枯木逢春犹再发	c=12 d=0.231244 t=10002
+yot hi zl cj nn 	橘子两边分	c=4 d=0.000455102 t=10002
+yp mgn r_ ljb yto oi z_ 	根深不怕树摇动	c=4 d=0.00130704 t=10002
+ype yto xkj yy ppe qe mit 	植树造林镇风沙	c=4 d=0.0784738 t=10002
+ypq dm di df dk 	欲求天下事	c=4 d=0.000784872 t=10002
+ypq dm is gd vvb 	欲求生富贵	c=4 d=6.12841e-05 t=10002
+ypq gk di df dk 	欲知天下事	c=4 d=0.0662056 t=10002
+ypq gk us k_ dk 	欲知山中事	c=4 d=0.0407626 t=10002
+ypq r_ ek qhh 	欲不可纵	c=4 d=0.166129 t=10002
+ypq vv hs lu 	欲多伤神	c=4 d=0.00247878 t=10002
+yq mgn lkj lrh mgn 	机深祸亦深	c=4 d=0.00146633 t=10002
+yrb k_ mb r_ alg 	杯中酒不空	c=4 d=0.000473675 t=10002
+yrb yrb xr tc pf pd h_ 	杯杯先劝有钱人	c=4 d=3.9667e-05 t=10002
+yrg ql yh jb zenk zwq lwf 	桃红李白蔷薇紫	c=4 d=0.0012433 t=10002
+yrw mw d_ pa 	枉活一世	c=4 d=0.0345624 t=10002
+yt ol x_ h_ ek nr ey 	权势之人可远也	c=4 d=0.486757 t=10002
+yto dl r_ brl fy uq hbl 	树正不愁月影斜	c=4 d=0.00131359 t=10002
+yto jv zh cy o_ anr 	树将花果为园	c=4 d=0.023518 t=10002
+yto ljb d_ net qda 	树怕一墨线	c=4 d=0.0117372 t=10002
+yto oao sw 	树挪死	c=4 d=0.0112208 t=10002
+yto tj yri nn 	树向枝分	c=4 d=0.00102303 t=10002
+yto ym ma xfy 	树木成阴	c=4 d=0.0746466 t=10002
+yto ypq jfd ke qe r_ lii 	树欲静而风不止	c=4 d=0.000163289 t=10002
+yyc 	栅	c=1 d=0.810584 t=10002
+z_ kk r_ wk xym o_ 	动口不如亲为	c=4 d=8.028e-05 t=10002
+za fy nai qt un og h_ 	今月曾经照古人	c=4 d=4.17008e-05 t=10002
+za pu pf mb za pu blh 	今朝有酒今朝醉	c=4 d=0.000105164 t=10002
+za sl ty c_ uf sl gd 	今年又说明年富	c=4 d=0.0253497 t=10002
+za uk dp h_ ey 	今吾于人也	c=5 d=0.00114771 t=10002
+zai hhr ee mt 	茵从地发	c=5 d=0.00101792 t=10002
+zal zal pf wk nj wa ur 	念念有如临敌日	c=5 d=0.000135033 t=10002
+zav he d_ ld fm 	贪他一斗米	c=4 d=0.000581447 t=10002
+zav igp mgq mcg pw zo ms 	贪爱沉溺即苦海	c=4 d=0.088479 t=10002
+zd 	荆	c=0 d=0.0891366 t=10002
+zea h_ rur 	敬人者	c=4 d=0.414787 t=10002
+zez hss fo pf hb tp 	蔬食尽有余欢	c=4 d=0.353458 t=10002
+zf yy son sh 	育林养虎	c=4 d=0.00302759 t=10002
+zgd zgd ha ni rpg 	蒙蒙作公卿	c=4 d=0.000395646 t=10002
+zgo zh avy ljb jo wg rl 	莺花犹怕春光老	c=4 d=3.57132e-05 t=10002
+zh cu dj ur ql 	花无百日红	c=4 d=0.000450573 t=10002
+zhw vum r_ kpd cu qjj evc 	苍蝇不叮无缝蛋	c=4 d=0.00519536 t=10002
+zj ei tmi vhl mb no jgo 	运去难赊酒半壶	c=4 d=0.01041 t=10002
+zj ei wj ma ptg 	运去金成铁	c=5 d=3.013e-05 t=10002
+zj ei xct xtt zph ldk djt 	运去雷轰荐福碑	c=4 d=0.000165757 t=10002
+zji pim px xz n_ 	英雄行险道	c=4 d=0.00013639 t=10002
+zk ha jdy 	合作篇	c=4 d=0.044825 t=10002
+zk ra ek ha 	合理可作	c=4 d=0.000405662 t=10002
+zki vv r_ son gh 	艺多不养家	c=4 d=0.0036979 t=10002
+zkw al cu uo zui ckv dm 	命里无时莫强求	c=4 d=6.9444e-05 t=10002
+zkw al pf uo qjg fq pf 	命里有时终须有	c=4 d=6.90976e-05 t=10002
+zkw k_ kn pf nb zk fm 	命中只有八合米	c=4 d=0.00373507 t=10002
+zkw k_ kn pf wk cs vp 	命中只有如许财	c=4 d=0.000858787 t=10002
+zkw up ge ek w_ lx oar 	命早定可以心挽	c=4 d=0.0239931 t=10002
+zl di uux jee 	两天晒网	c=4 d=0.0605074 t=10002
+zl h_ d_ qr lx 	两人一般心	c=4 d=3.29674e-05 t=10002
+zmd osj r_ ba pje 	剑折不改钢	c=4 d=0.033878 t=10002
+zmn zmn bs ms h_ cu fw 	茫茫四海人无数	c=4 d=5.82952e-05 t=10002
+zn is r_ ha dwn fem dk 	平生不作皱眉事	c=4 d=0.0920899 t=10002
+zn is r_ ho dwn fem dk 	平生不做皱眉事	c=4 d=5.11888e-05 t=10002
+zn lx jfd lx r_ fnp lx hek je map lx 	平心静心不欺心何等放心	c=4 d=0.00212286 t=10002
+zn ur r_ ha nae lx dk 	平日不作亏心事	c=4 d=0.110252 t=10002
+zo mt ict 	苦发奋	c=4 d=0.0327128 t=10002
+zot zgpq x_ fg 	茅茨之屋	c=4 d=0.000662169 t=10002
+zp div ix ek 	若争小可	c=4 d=0.282242 t=10002
+zp hdk sl hwp soy bp oj 	若使年华虚度过	c=4 d=0.0544763 t=10002
+zp mll nr lt vi dij 	若涉远必自迩	c=8 d=0.21446 t=10002
+zp ng qg lt vi jtps 	若登高必自卑	c=4 d=7.86904e-05 t=10002
+zp pf r_ owt 	若有不报	c=4 d=0.49659 t=10002
+zp uw fas mb me 	若要断酒法	c=4 d=5.22229e-05 t=10002
+zp uw h_ r_ gk 	若要人不知	c=4 d=8.6101e-05 t=10002
+zp uw qo dk wh 	若要凡事好	c=4 d=0.000234047 t=10002
+zpk lkj on grh 	惹祸招灾	c=4 d=0.158819 t=10002
+zq qfb r_ wk jhh qfb 	药补不如肉补	c=4 d=0.00806687 t=10002
+zqg zu x_ df 	蒿草之下	c=4 d=0.00065558 t=10002
+ztc kps xj lx 	藕叶连心	c=4 d=0.00163684 t=10002
+zu ic d_ jo 	草长一春	c=5 d=0.000100536 t=10002
+zu if jfb jfb is 	草能处处生	c=4 d=0.00394625 t=10002
+zui bif hqp d_ yfu 	莫稍停一棹	c=4 d=0.519447 t=10002
+zui geo u_ lf v_ vu vee 	莫待是非来入耳	c=4 d=0.000116224 t=10002
+zui hdy ped k_ ped 	莫信直中直	c=4 d=4.27565e-05 t=10002
+zui hhr hy xm df lc gf 	莫从体面下功夫	c=4 d=0.00794677 t=10002
+zui ho cu ud dk 	莫做无后事	c=4 d=0.027876 t=10002
+zui ho ggd zkw dk 	莫做短命事	c=4 d=0.0275986 t=10002
+zui ho lej wae h_ 	莫做离乱人	c=4 d=0.00256707 t=10002
+zui jt he h_ rl 	莫笑他人老	c=4 d=0.000220417 t=10002
+zui jv gyg uaf gu 	莫将容易得	c=4 d=0.000319105 t=10002
+zui lrl mda mtm oo 	莫恋浅滩头	c=5 d=0.000119166 t=10002
+zui mdi d_ kk 	莫添一口	c=4 d=0.000192582 t=10002
+zui mg df yfn lx 	莫学下棋心	c=5 d=0.00177316 t=10002
+zui n_ hhe k_ gwn ki it 	莫道坐中安乐少	c=4 d=0.0258618 t=10002
+zui n_ wtk px up 	莫道君行早	c=4 d=4.2331e-05 t=10002
+zui npq rmm uo mb 	莫饮卯时酒	c=4 d=0.000182276 t=10002
+zui ny re hix ho xnn sm 	莫与儿孙做牛马	c=5 d=0.205977 t=10002
+zui o_ re hix ho sm xnn 	莫为儿孙做马牛	c=5 d=0.000103598 t=10002
+zui ob cu uo iw pf uo 	莫把无时当有时	c=5 d=0.000162474 t=10002
+zui ob lx oo hwh rhh rad 	莫把心头似火烧	c=5 d=0.000953863 t=10002
+zui ob pe lx alg cp xme 	莫把真心空计较	c=5 d=0.000352666 t=10002
+zui p_ h_ nf hz r_ hr 	莫在人前会不全	c=4 d=0.0186858 t=10002
+zui pao vhl as 	莫卖赊三	c=4 d=0.0151464 t=10002
+zui psm byy uo diw 	莫骂酉时妻	c=4 d=0.000184108 t=10002
+zui tj sh us px 	莫向虎山行	c=4 d=0.000368898 t=10002
+zui tk nf bkr 	莫问前程	c=8 d=0.100621 t=10002
+zui vwl io xur hdyc 	莫怨太阳偏	c=4 d=4.38389e-05 t=10002
+zur zur blh g_ byy 	昏昏醉到酉	c=4 d=0.000183189 t=10002
+zw fop dnn hhh wit x_ tm 	节粮乃众妙之门	c=4 d=0.0014373 t=10002
+zw hss w_ ei ndj 	节食以去病	c=4 d=0.0173357 t=10002
+zxi nas is dp mgn yy 	芝兰生于深林	c=4 d=0.657053 t=10002
