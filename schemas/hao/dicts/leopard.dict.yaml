@@ -11609,9 +11609,9 @@ encoder:
 𩓬	afyw	0.000000
 𥥃	afyx	0.000000
 𱷡	afz	0.000000
+𬖜	afzi	0.000000
 𣍐	afzu	0.000000
 𩒶	afzw	0.000000
-𬖜	afzw	0.000000
 ⼽	agg	0.000000
 𭠍	aggg	0.000000
 𥨡	aga	0.000000
@@ -35187,6 +35187,10 @@ encoder:
 𭂤	gzi	0.000000
 𪞠	gzie	0.000000
 𫭶	gzie	0.000000
+𫥕	gzif	0.000000
+𫥖	gzif	0.000000
+𫥘	gzik	0.000000
+𫥜	gzip	0.000000
 彾	gzis	0.000000
 𩬔	gzis	0.000000
 𪞧	gzis	0.000000
@@ -35238,11 +35242,7 @@ encoder:
 𩮙	gzv	0.000000
 𩯍	gzvt	0.000000
 𠖸	gzw	0.000000
-𫥕	gzwf	0.000000
-𫥖	gzwf	0.000000
 𨘄	gzwj	0.000000
-𫥘	gzwk	0.000000
-𫥜	gzwp	0.000000
 徔	gzx	0.000000
 𲌢	gzxv	0.000000
 𢔣	gzy	0.000000
@@ -38605,6 +38605,7 @@ encoder:
 𩝨	hzhw	0.000000
 𫢮	hzhw	0.000000
 𱏁	hzhz	0.000000
+𫢣	hzin	0.000000
 儰	hzir	0.000000
 𧰻	hzis	0.000000
 𧰾	hzis	0.000000
@@ -38677,7 +38678,6 @@ encoder:
 𥣠	hzv	0.000000
 傇	hzve	0.000000
 𠌅	hzvv	0.000000
-𫢣	hzw	0.000000
 𫣥	hzxa	0.000000
 𩞶	hzxg	0.000000
 𠏒	hzxl	0.000000
@@ -72361,6 +72361,7 @@ encoder:
 𧹀	rzid	0.000000
 𱘱	rzid	0.000000
 𩌂	rzik	0.000000
+𫺡	rzil	0.000000
 𤎻	rzin	0.000000
 韉	rzir	0.000000
 炩	rzis	0.000000
@@ -72487,7 +72488,6 @@ encoder:
 𭚙	rzw	0.000000
 玲	rzwj	0.000000
 𰞍	rzwj	0.000000
-𫺡	rzwl	0.000000
 𤒽	rzwm	0.000000
 𱬓	rzwm	0.000000
 𨛓	rzx	0.000000
@@ -88084,6 +88084,7 @@ encoder:
 𡣊	wzis	0.000000
 𡣤	wzis	0.000000
 𫅤	wzis	0.000000
+𫤚	wzis	0.000000
 𮍶	wzis	0.000000
 𱙮	wziy	0.000000
 𨧨	wzjh	0.000000
@@ -88214,7 +88215,6 @@ encoder:
 𡝅	wzvx	0.000000
 𲇘	wzw	0.000000
 鈴	wzwj	0.000000
-𫤚	wzwj	0.000000
 𨰑	wzwm	0.000000
 𫲛	wzwq	0.000000
 𡢯	wzww	0.000000
@@ -96476,6 +96476,7 @@ encoder:
 𪈕	zign	0.000000
 𦮸	zigs	0.000000
 𦰹	zigt	0.000000
+𫣃	zigw	0.000000
 𫈏	zigy	0.000000
 𮏒	zigy	0.000000
 𦼛	zihf	0.000000
@@ -96567,6 +96568,7 @@ encoder:
 𫅜	zisk	0.000000
 𦻾	zita	0.000000
 𬞎	zita	0.000000
+𬹴	zitc	0.000000
 𦳗	zite	0.000000
 䔄	zitf	0.000000
 蘨	zitf	0.000000
@@ -98691,7 +98693,6 @@ encoder:
 𦵲	zwgt	0.000000
 𦾘	zwgv	0.000000
 𦹅	zwgw	0.000000
-𫣃	zwgw	0.000000
 𧁸	zwgy	0.000000
 𬞬	zwgy	0.000000
 𦷵	zwhc	0.000000
@@ -98761,7 +98762,6 @@ encoder:
 𦶥	zwta	0.000000
 𧀒	zwta	0.000000
 䒲	zwtc	0.000000
-𬹴	zwtc	0.000000
 𨖗	zwtj	0.000000
 𫝉	zwtk	0.000000
 𦵚	zwtl	0.000000
@@ -100230,9 +100230,9 @@ encoder:
 𩓬	afyw
 𥥃	afyx
 𱷡	afza
+𬖜	afzi
 𣍐	afzu
 𩒶	afzw
-𬖜	afzw
 戈	aggg
 ⼽	aggg
 𭠍	aggg
@@ -126215,6 +126215,10 @@ encoder:
 𭂤	gzid
 𪞠	gzie
 𫭶	gzie
+𫥕	gzif
+𫥖	gzif
+𫥘	gzik
+𫥜	gzip
 冷	gzis
 彾	gzis
 𩬔	gzis
@@ -126270,11 +126274,7 @@ encoder:
 𩮙	gzve
 𩯍	gzvt
 𠖸	gzwb
-𫥕	gzwf
-𫥖	gzwf
 𨘄	gzwj
-𫥘	gzwk
-𫥜	gzwp
 徔	gzxi
 𲌢	gzxv
 𢔣	gzyj
@@ -130097,6 +130097,7 @@ encoder:
 𩝨	hzhw
 𫢮	hzhw
 𱏁	hzhz
+𫢣	hzin
 儰	hzir
 伶	hzis
 𧰻	hzis
@@ -130177,7 +130178,6 @@ encoder:
 𥣠	hzvb
 傇	hzve
 𠌅	hzvv
-𫢣	hzwn
 𫣥	hzxa
 郐	hzxe
 𩞶	hzxg
@@ -168304,6 +168304,7 @@ encoder:
 𧹀	rzid
 𱘱	rzid
 𩌂	rzik
+𫺡	rzil
 𤎻	rzin
 韉	rzir
 玲	rzis
@@ -168443,7 +168444,6 @@ encoder:
 𭚙	rzwg
 玲	rzwj
 𰞍	rzwj
-𫺡	rzwl
 𤒽	rzwm
 𱬓	rzwm
 𨛓	rzxe
@@ -179599,7 +179599,7 @@ encoder:
 𠓣	vlxu
 𫹻	vlxw
 桀	vlym
-𫺽	vlzw
+𫺽	vlzi
 民	vmmm
 ⺠	vmmm
 𱼚	vmah
@@ -185787,6 +185787,7 @@ encoder:
 𡣊	wzis
 𡣤	wzis
 𫅤	wzis
+𫤚	wzis
 𮍶	wzis
 𱙮	wziy
 𨧨	wzjh
@@ -185925,7 +185926,6 @@ encoder:
 𡝅	wzvx
 𲇘	wzwa
 鈴	wzwj
-𫤚	wzwj
 𨰑	wzwm
 𫲛	wzwq
 𡢯	wzww
@@ -195211,6 +195211,7 @@ encoder:
 叆	zigt
 𫉁	zigt
 𦰹	zigt
+𫣃	zigw
 𫈏	zigy
 𮏒	zigy
 𦼛	zihf
@@ -195314,6 +195315,7 @@ encoder:
 𫅜	zisk
 𦻾	zita
 𬞎	zita
+𬹴	zitc
 𦳗	zite
 䔄	zitf
 蘨	zitf
@@ -197710,7 +197712,6 @@ encoder:
 𦵲	zwgt
 𦾘	zwgv
 𦹅	zwgw
-𫣃	zwgw
 𧁸	zwgy
 𬞬	zwgy
 𦷵	zwhc
@@ -197791,7 +197792,6 @@ encoder:
 𦶥	zwta
 𧀒	zwta
 䒲	zwtc
-𬹴	zwtc
 𨖗	zwtj
 莙	zwtk
 𫝉	zwtk

@@ -75653,7 +75653,7 @@
 亻艹尸,HrZcFs	𫢠
 亻小丿廾,HrIxTpZc	𫢡
 亻止土,HrLiEt	𫢢
-亻亼ㄗ刂,HrZiWjNd	𫢣
+亻亼龴刂,HrZiIsNd	𫢣
 亻丿𫩏儿,HrTpUrRe	𫢤
 亻爫ㄥ大,HrIaAeId	𫢥
 亻宀𠂇厶,HrGgPsIs	𫢦
@@ -75685,7 +75685,7 @@
 亻不一止,HrRbDiLi	𫣀
 亻口日十,HrKkUrPs	𫣁
 亻乃又皿,HrDnTyHm	𫣂
-亼ㄗ宀女,ZiWjGgWn	𫣃
+亽龴宀女,ZiIsGgWn	𫣃
 亻大言,HrIdDy	𫣄
 亻山豆,HrUsGd	𫣅
 亻囗大心,HrAkIdLx	𫣆
@@ -75772,7 +75772,7 @@
 ㇗日儿,AeUrRe	𫤗
 丿罒儿,TpBsRe	𫤘
 二儿宀匕,NeReGgWb	𫤙
-光亼ㄗ,WgZiWj	𫤚
+光亽龴,WgZiIs	𫤚
 丷口儿丰,NbKkReJf	𫤛
 口儿丷𢎨,KkReNbXf	𫤜
 由一ㄅ口儿,UyDiAeRe	𫤝
@@ -75831,14 +75831,14 @@
 冫⺊⺵大,GbFbBsId	𫥒
 冫亼⺝刂,GbZiFyNd	𫥓
 冫立木,GbXlYm	𫥔
-冫亼ㄗ甘,GbZiWjFg	𫥕
-冫亼ㄗ夕卜,GbZiWjFb	𫥖
+冫亽龴甘,GbZiIsFg	𫥕
+冫亽龴夕卜,GbZiIsFb	𫥖
 冫匕矢欠,GbWbGsPq	𫥗
-冫亼ㄗ士口,GbZiWjKk	𫥘
+冫亽龴士口,GbZiIsKk	𫥘
 冫壴寸,GbEuOc	𫥙
 冫歺又米,GbSdTyFm	𫥚
 冫口{双口}木,GbKkPxYm	𫥛
-冫亼ㄗ亠人人十,GbZiWjPs	𫥜
+冫亽龴亠人人十,GbZiIsPs	𫥜
 冫立木見,GbXlYmDj	𫥝
 几一巾,QjDiAj	𫥞
 几一女,QjDiWn	𫥟
@@ -77187,7 +77187,7 @@
 火火心,RhRhLx	𫺞
 忄彑巾,LxWjDdAj	𫺟
 王白心,RwJbLx	𫺠
-王亼ㄗ心,RwZiWjLx	𫺡
+王亼龴心,RwZiIsLx	𫺡
 忄口{双口},LxKkPx	𫺢
 忄山𠂇火,LxUsPsRh	𫺣
 忄⺊貝,LxFbRb	𫺤
@@ -77215,7 +77215,7 @@
 忄巾,LxSsAj	𫺺
 忄目艮,LxEmPg	𫺻
 忄爫丨日,LxIaHsUr	𫺼
-自心亼ㄗ,ViLxZiWj	𫺽
+自心亽龴,ViLxZiIs	𫺽
 八刀心亽ヿ口,NbNdLxKk	𫺾
 忄宀亻一白,LxGgHrJb	𫺿
 忄宀大可,LxGgIdEk	𫻀
@@ -78974,7 +78974,7 @@
 米⺁一口,FmUcDiKk	𬖙
 米九木,FmLjYm	𬖚
 米亠,FmLtRh	𬖛
-㇗米亼ㄗ,AeFmZiWj	𬖜
+㇗米亼龴,AeFmZiIs	𬖜
 米日干,FmUrZg	𬖝
 米日寸,FmUrOc	𬖞
 米门心,FmTmLx	𬖟
@@ -81238,7 +81238,7 @@
 亠刀了氏二,LtNdElNe	𬹱
 田,OqCt	𬹲
 齐贝,OqVb	𬹳
-亼ㄗ歯,ZiWjTc	𬹴
+亼龴歯,ZiIsTc	𬹴
 齒乃木,TcDnYm	𬹵
 齒衣,TcQi	𬹶
 齒宀一𬺰,TcGgDiPs	𬹷

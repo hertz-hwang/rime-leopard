@@ -95,7 +95,7 @@ gen_schema() {
 
     # 生成映射表
     log "生成映射表..."
-    cat "${HAO}/map.txt" | python ../assets/gen_mappings_table.py >"${HAO}/hao.mappings_table.txt" || error "生成映射表失败"
+    cat "${HAO}/hao_map.txt" | python ../assets/gen_mappings_table.py >"${HAO}/hao.mappings_table.txt" || error "生成映射表失败"
 
     # 生成简化字码表
     log "生成简化字码表..."

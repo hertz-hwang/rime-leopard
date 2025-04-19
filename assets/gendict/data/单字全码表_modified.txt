@@ -1090,9 +1090,9 @@
 𩓬	afyw
 𥥃	afyx
 𱷡	afza
+𬖜	afzi
 𣍐	afzu
 𩒶	afzw
-𬖜	afzw
 戈	aggg
 ⼽	aggg
 𭠍	aggg
@@ -27075,6 +27075,10 @@
 𭂤	gzid
 𪞠	gzie
 𫭶	gzie
+𫥕	gzif
+𫥖	gzif
+𫥘	gzik
+𫥜	gzip
 冷	gzis
 彾	gzis
 𩬔	gzis
@@ -27130,11 +27134,7 @@
 𩮙	gzve
 𩯍	gzvt
 𠖸	gzwb
-𫥕	gzwf
-𫥖	gzwf
 𨘄	gzwj
-𫥘	gzwk
-𫥜	gzwp
 徔	gzxi
 𲌢	gzxv
 𢔣	gzyj
@@ -30957,6 +30957,7 @@
 𩝨	hzhw
 𫢮	hzhw
 𱏁	hzhz
+𫢣	hzin
 儰	hzir
 伶	hzis
 𧰻	hzis
@@ -31037,7 +31038,6 @@
 𥣠	hzvb
 傇	hzve
 𠌅	hzvv
-𫢣	hzwn
 𫣥	hzxa
 郐	hzxe
 𩞶	hzxg
@@ -69164,6 +69164,7 @@
 𧹀	rzid
 𱘱	rzid
 𩌂	rzik
+𫺡	rzil
 𤎻	rzin
 韉	rzir
 玲	rzis
@@ -69303,7 +69304,6 @@
 𭚙	rzwg
 玲	rzwj
 𰞍	rzwj
-𫺡	rzwl
 𤒽	rzwm
 𱬓	rzwm
 𨛓	rzxe
@@ -80459,7 +80459,7 @@
 𠓣	vlxu
 𫹻	vlxw
 桀	vlym
-𫺽	vlzw
+𫺽	vlzi
 民	vmmm
 ⺠	vmmm
 𱼚	vmah
@@ -86647,6 +86647,7 @@
 𡣊	wzis
 𡣤	wzis
 𫅤	wzis
+𫤚	wzis
 𮍶	wzis
 𱙮	wziy
 𨧨	wzjh
@@ -86785,7 +86786,6 @@
 𡝅	wzvx
 𲇘	wzwa
 鈴	wzwj
-𫤚	wzwj
 𨰑	wzwm
 𫲛	wzwq
 𡢯	wzww
@@ -96071,6 +96071,7 @@
 叆	zigt
 𫉁	zigt
 𦰹	zigt
+𫣃	zigw
 𫈏	zigy
 𮏒	zigy
 𦼛	zihf
@@ -96174,6 +96175,7 @@
 𫅜	zisk
 𦻾	zita
 𬞎	zita
+𬹴	zitc
 𦳗	zite
 䔄	zitf
 蘨	zitf
@@ -98570,7 +98572,6 @@
 𦵲	zwgt
 𦾘	zwgv
 𦹅	zwgw
-𫣃	zwgw
 𧁸	zwgy
 𬞬	zwgy
 𦷵	zwhc
@@ -98651,7 +98652,6 @@
 𦶥	zwta
 𧀒	zwta
 䒲	zwtc
-𬹴	zwtc
 𨖗	zwtj
 莙	zwtk
 𫝉	zwtk
