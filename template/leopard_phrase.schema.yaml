@@ -19,7 +19,7 @@ __patch:
   switches/@4/reset: 1    # 简入繁出
   switches/@6/reset: 0    # 注解
   switches/@9/reset: 0    # lazy_clock
-  switches/@last:
+  switches/@next:
     name: super_tips
     states: [ off, tips ]
     reset: 1
