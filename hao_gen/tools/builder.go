@@ -468,9 +468,9 @@ func sortCharMetaByCode(charMetaList []*types.CharMeta) {
 func calcCodeByDiv(div []string, mappings map[string]string, freq int64) (full string, code string) {
 	if len(div) > 3 {
 		// 一、二、末根
-		div = []string{div[0], div[1], div[len(div)-1]}
+		//div = []string{div[0], div[1], div[len(div)-1]}
 		// 一、二、三根
-		//div = div[:3]
+		div = div[:3]
 	}
 	stack := "1"
 	if freq < 10 {
