@@ -201,7 +201,6 @@ columns:
 厾	aei	104
 匁	aei	0
 魼	aei	0
-龱	aei	0
 狗	aej	11282
 匈	aej	2437
 猣	aej	0
@@ -824,6 +823,7 @@ columns:
 鯫	avt	0
 黀	avt	0
 魞	avu	0
+魚	avv	104
 鮔	avv	0
 鮇	avw	0
 鰋	avw	0
@@ -1992,7 +1992,6 @@ columns:
 諉	dbw	0
 画	dc1	18578	dc1
 齿	dcc	4287
-齒	dcc	104
 礧	dcc	0
 讄	dcc	0
 畺	dcd	104
@@ -4710,7 +4709,6 @@ columns:
 羼	fss	130
 彡	fss	104
 糸	fss	104
-纟	fss	104
 尸	fss	100	fs1
 糹	fss	0
 緔	fss	0
@@ -8328,6 +8326,7 @@ columns:
 嘴	klg	100	kl1
 叿	klg	0
 噦	kll	0
+龱	kll	0
 嘜	klm	0
 噰	klm	0
 囃	klm	0
@@ -11516,7 +11515,6 @@ columns:
 疖	nwj	157
 归	nwj	100	nw1
 兯	nwj	0
-釡	nwj	0
 騽	nwj	0
 癔	nwl	137
 騄	nwm	0
@@ -12714,6 +12712,7 @@ columns:
 锲	pji	228
 躗	pji	104
 锋	pjj	6253
+钅	pjj	104
 遖	pjj	0
 鿏	pjj	0
 铜	pjk	5632
@@ -13642,6 +13641,7 @@ columns:
 缛	qso	177
 卅	qss	376
 绱	qss	169
+纟	qss	104
 丗	qss	0
 暫	qsu	104
 氇	qsu	104
@@ -13805,7 +13805,6 @@ columns:
 艘	qyt	8015
 纬	qyw	1367
 袆	qyw	104
-頁	qyy	186
 页	qyy	100	qy1
 给	qz1	123992	qz1
 衿	qza	166
@@ -13891,6 +13890,7 @@ columns:
 焑	ray	0
 靶	rb1	881	rb1
 璷	rba	0
+貝	rbb	104
 不	rbb	100	r1
 靶	rbb	100	rb1
 鿱	rbb	0
@@ -15404,7 +15404,6 @@ columns:
 殨	svr	0
 闠	svr	0
 鲰	svt	150
-魚	svv	104
 鱼	svv	100	sv1
 鱿	svy	228
 闑	svy	0
@@ -15495,6 +15494,7 @@ columns:
 劝	tc1	7944	tc1
 耦	tca	195
 齵	tca	0
+齒	tcc	104
 歯	tcc	0
 鶒	tcg	0
 耞	tck	0
@@ -16813,7 +16813,6 @@ columns:
 鄓	vax	0
 贝	vb1	11716	vb1
 蚆	vbb	104
-貝	vbb	104
 贝	vbb	100	vb1
 蜏	vbd	0
 赃	vbe	726
@@ -18001,8 +18000,8 @@ columns:
 彐	wjj	104
 釒	wjj	104
 鋒	wjj	104
-钅	wjj	104
 金	wjj	100	wj1
+卪	wjj	0
 彑	wjj	0
 鏠	wjj	0
 鏼	wjj	0
@@ -18237,7 +18236,6 @@ columns:
 鉼	wnz	0
 姑	wo1	23149	wo1
 寻	woc	18903
-卪	wod	0
 媩	wof	0
 鍸	wof	0
 姑	wog	100	wo1
@@ -18760,6 +18758,7 @@ columns:
 鎪	wyt	0
 娻	wyu	0
 錬	wyu	0
+頁	wyy	186
 音	wyy	100	wy1
 婚	wz1	15732	wz1
 妗	wza	181
@@ -20380,6 +20379,7 @@ columns:
 卻	ywj	104
 櫌	ywj	104
 槢	ywj	0
+釡	ywj	0
 桾	ywk	0
 檍	ywl	0
 棣	ywm	323

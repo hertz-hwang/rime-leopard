@@ -330,7 +330,6 @@ Nh	黒
 Nl	仑
 Nm	馬
 Nm	
-Np	⽪
 Np	皮
 Nq	千
 Nq	
@@ -341,7 +340,6 @@ Nu	
 Nw	亡
 Nw	亾
 Nw	兦
-Ny	与
 Oc	寸
 Od	㇏
 Od	丶
@@ -463,7 +461,6 @@ Tf	缶
 Tf	𦈢
 Ti	㠯
 Ti	
-Tl	⽾
 Tl	耒
 Tm	门
 Tp	丿
@@ -562,7 +559,7 @@ Xm	面
 Xm	靣
 Xn	牛
 Xn	牜
-Xn	𠂒
+Xn	⺧
 Xs	身
 Xv	⻗
 Xv	雨
