@@ -31,7 +31,7 @@ __patch:
     tips_key: "bracketright"
 
 speller:
-  alphabet: ;_/zyxwvutsrqponmlkjihgfedcba
+  alphabet: ',.:;!?%^()[]{}=-+$@_/zyxwvutsrqponmlkjihgfedcba'
   max_code_length: 5
 
 fixed:
@@ -80,8 +80,8 @@ key_binder:
   bindings:
     __append:
       - { when: has_menu, accept: " ", send: "_" }
-      - { when: has_menu, accept: ",", send: " " }
-      - { when: has_menu, accept: ".", send: " " }
+      - { when: has_menu, accept: Control+space, send: " " }
+      #- { when: has_menu, accept: ".", send: " " }
 
 recognizer:
   patterns:
