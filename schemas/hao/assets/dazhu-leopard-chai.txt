@@ -1258,7 +1258,7 @@
 二儿寸,NeReOc	㝴
 日一寸,UrDiOc	㝵
 罒儿寸,BsReOc	㝶
-彐工几丶寸,WjLgQjOc	㝷
+彐工丸寸,WjLgLoOc	㝷
 小白儿,IxJbRe	㝸
 小丿兔,IxTpAt	㝹
 䒑小丿,NbWjRhTp	㝺
@@ -1284,7 +1284,7 @@
 尸巴,FsBb	㞎
 尸丿之,FsTpXi	㞏
 尸立,FsXl	㞐
-尸毛,FsQm	㞑
+尸冫⺃,FsGbGbAe	㞑
 尸自,FsVi	㞒
 尸匕日,FsWbUr	㞓
 尸夕夕,FsVxVx	㞔
@@ -1362,7 +1362,7 @@
 山弓⺈小,UsCgDdIx	㟜
 山立口,UsXlKk	㟝
 山戈戈,UsAgAg	㟞
-山龷八⺋,UsPnNbWj	㟟
+山龷八巳,UsPnNbVs	㟟
 山冂䒑山,UsJkNbUs	㟠
 山丷夫⺋,UsNbGfWj	㟡
 山大可,UsIdEk	㟢
