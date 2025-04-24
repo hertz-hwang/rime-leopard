@@ -2635,6 +2635,7 @@
 𡈅	aohn
 𫾝	aohn
 𱮧	aohn
+㐃	aohs
 𰠃	aoia
 𫭅	aois
 𰡂	aois
@@ -17037,8 +17038,8 @@
 𪯎	esap
 𣊮	esau
 𡡘	esaw
-㙿	esba
 䂀	esba
+㙿	esbd
 𰊼	escf
 壚	esch
 矑	esch
@@ -40865,7 +40866,6 @@
 𧰦	khsi
 中	khsk
 喰	khsk
-㐃	khsk
 𠁧	khsk
 𠮝	khsk
 𰇒	khsk
@@ -45989,7 +45989,7 @@
 𢟶	lsao
 𭞥	lsao
 𢠵	lsap
-𢤻	lsba
+𢤻	lsbd
 𠣊	lscc
 𫻖	lscf
 𢥈	lsch
@@ -63841,7 +63841,7 @@
 𬧵	qsap
 𨏢	qsba
 𫇢	qsba
-𫇣	qsba
+𫇣	qsbd
 艣	qscc
 𨌑	qscc
 艫	qsch
@@ -67939,7 +67939,7 @@
 𤩁	rsao
 𤏮	rsap
 爔	rsba
-𪼯	rsba
+𪼯	rsbd
 𤓚	rsbr
 賑	rscb
 𭹷	rscf
@@ -69494,6 +69494,8 @@
 㢢	sazc
 𢍗	sazc
 𮪢	sazc
+羲	sbaa
+𦏁	sbad
 𨷠	sbae
 𨷭	sbae
 𮊫	sbag
@@ -69504,8 +69506,6 @@
 𮎜	sbbt
 鲃	sbbv
 羓	sbby
-羲	sbda
-𦏁	sbda
 𨴷	sbdn
 闤	sbdq
 𦏖	sbdq
@@ -77526,7 +77526,7 @@
 𤜔	usax
 曦	usba
 𡾞	usba
-𣌀	usba
+𣌀	usbd
 𭧷	uscc
 𬴶	uscg
 㠠	usch
@@ -92800,7 +92800,7 @@
 𣚿	ysap
 𰙀	ysay
 㰕	ysba
-𭬮	ysba
+𭬮	ysbd
 𰘶	ysbh
 㯭	yscc
 櫨	ysch
