@@ -370,7 +370,8 @@ Pd	丁
 Pg	艮
 Pg	
 Pj	钅
-Px	{双口}
+Pl	吕
+Px	吅
 Pm	母
 Pn	廿
 Pn	龷
