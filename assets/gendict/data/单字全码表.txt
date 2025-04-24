@@ -3541,10 +3541,15 @@
 𩷘	aufj
 𤢂	aufm
 㡌	aufy
+𢄩	auga
+𤠹	auga
 䱺	augd
 𤠲	augd
 𫷋	augd
 𭘱	augj
+𢢐	augl
+𤢻	augl
+𤣇	augl
 𩻃	augl
 䯢	augm
 𪀽	augn
@@ -4291,15 +4296,10 @@
 窬	azfn
 㡏	azfn
 䵉	azfn
-𢄩	azga
-𤠹	azga
 幪	azgh
 獴	azgh
 𢁗	azgj
 𠣍	azgk
-𢢐	azgl
-𤢻	azgl
-𤣇	azgl
 犴	azgq
 𩵟	azgv
 𥤱	azgx
@@ -6963,6 +6963,7 @@
 馜	bufw
 䅢	bufy
 𫀹	bufy
+廗	buga
 䅱	bugd
 𨢉	bugd
 𮩪	buge
@@ -7552,7 +7553,6 @@
 𢋅	bzfp
 𭭖	bzfp
 𨡚	bzfy
-廗	bzga
 𰼋	bzgc
 𱶐	bzgc
 𢇛	bzgg
@@ -12955,6 +12955,8 @@
 𧫶	dufl
 𱹅	dufm
 𥕫	dufr
+𥕧	duga
+𧫚	duga
 磑	dugd
 𧪚	dugd
 𥀄	dugn
@@ -13709,8 +13711,6 @@
 諭	dzfn
 𪫊	dzfo
 形	dzfs
-𥕧	dzga
-𧫚	dzga
 𮀤	dzgc
 礞	dzgh
 𥕪	dzgh
@@ -17509,6 +17509,8 @@
 𡐇	eufl
 𪣦	eufy
 𭎯	eufy
+墆	euga
+𪾹	euga
 䁗	eugd
 塏	eugd
 𱆋	eugk
@@ -18125,8 +18127,6 @@
 堬	ezfn
 睮	ezfn
 堉	ezfy
-墆	ezga
-𪾹	ezga
 𫭼	ezgc
 矇	ezgh
 𡒯	ezgh
@@ -22479,6 +22479,8 @@
 𦁠	fufy
 𦂈	fufy
 𭨽	fufy
+䐭	fuga
+𦄂	fuga
 䐩	fugd
 𡳂	fugd
 𥻶	fugd
@@ -23350,8 +23352,6 @@
 䋭	fzfy
 𥺞	fzfy
 𦝑	fzfy
-䐭	fzga
-𦄂	fzga
 𦛨	fzgc
 𰪿	fzgc
 𤮽	fzgg
@@ -30241,6 +30241,7 @@
 𩞸	hufm
 𬾎	hufy
 𭻝	hufy
+僀	huga
 䭓	hugd
 𫣅	hugd
 𠏥	hugi
@@ -30940,7 +30941,6 @@
 𫢠	hzfs
 俼	hzfy
 𩛭	hzfy
-僀	hzga
 𫢬	hzgc
 饛	hzgh
 𠐁	hzgh
@@ -34489,6 +34489,7 @@
 𢒊	iufs
 奛	iufy
 𮛥	iufy
+蹛	iuga
 𧽊	iugd
 𩘥	iugd
 𧽧	iugl
@@ -35132,7 +35133,6 @@
 䬔	izfn
 𧼯	izfn
 𨂔	izfy
-蹛	izga
 𤔽	izgh
 𤯻	izgh
 鴘	izgn
@@ -37428,6 +37428,7 @@
 𤾁	jjtp
 𩏂	jjtp
 𮮃	jjty
+𪎐	jjua
 𱑛	jjul
 𣍈	jjun
 𱋆	jjus
@@ -37475,7 +37476,6 @@
 𣓵	jjym
 𤾏	jjym
 𭫭	jjyo
-𪎐	jjza
 弉	jjzc
 𱋮	jjzh
 𬹍	jjzi
@@ -38909,6 +38909,7 @@
 𥯑	juet
 𬌂	juet
 𥯋	jufy
+𥲭	juga
 皚	jugd
 𥵒	jugd
 𥷱	jugj
@@ -39573,7 +39574,6 @@
 𬕷	jzfl
 牏	jzfn
 𬖊	jzfo
-𥲭	jzga
 𤽂	jzgb
 𱸇	jzgc
 𤘁	jzgh
@@ -42578,6 +42578,7 @@
 𠼩	kufl
 𠾨	kufp
 𭈭	kufy
+㗣	kuga
 𠹛	kugd
 嗝	kugk
 嗗	kugk
@@ -43231,7 +43232,6 @@
 𭌁	kzfw
 唷	kzfy
 𱓍	kzfy
-㗣	kzga
 唠	kzgc
 𠻼	kzgd
 𫫻	kzgd
@@ -46336,6 +46336,8 @@
 𩕝	lufw
 𢛡	lufy
 𢜠	lufy
+㦅	luga
+𥛣	luga
 愷	lugd
 𩨔	lugj
 𢡦	lugk
@@ -47058,8 +47060,6 @@
 䄖	lzfn
 𪍍	lzfn
 㥔	lzfy
-㦅	lzga
-𥛣	lzga
 𫺘	lzgc
 𫻊	lzgd
 懞	lzgh
@@ -51004,11 +51004,13 @@
 𭳂	mufw
 𣶀	mufy
 𣷠	mufy
+滯	muga
 溰	mugd
 𤅐	mugg
 𱩟	mugh
 𭳱	mugj
 漴	mugl
+懘	mugl
 𪂌	mugn
 𪆸	mugn
 𭳃	mugn
@@ -51808,12 +51810,10 @@
 𣾁	mzfn
 淯	mzfy
 𣷎	mzfy
-滯	mzga
 涝	mzgc
 潆	mzgf
 濛	mzgh
 𣿻	mzgi
-懘	mzgl
 𬈜	mzgm
 滢	mzgo
 𰝅	mzgp
@@ -55185,6 +55185,7 @@
 𱱨	nufo
 𱱭	nufo
 朚	nufy
+㿃	nuga
 𣀚	nuga
 㾶	nugb
 𪽶	nugb
@@ -55836,7 +55837,6 @@
 𱄁	nzfn
 𤻍	nzfp
 𰐨	nzfs
-㿃	nzga
 癷	nzgb
 𤴲	nzgb
 痨	nzgc
@@ -58817,6 +58817,7 @@
 𰔁	oufi
 𢳳	oufl
 𱠾	oufs
+摕	ouga
 㨟	ougd
 𢺁	ougj
 搰	ougs
@@ -59291,7 +59292,6 @@
 𪮌	ozfn
 𢶖	ozfp
 𢯡	ozfy
-摕	ozga
 捞	ozgc
 𫽈	ozgf
 㩚	ozgh
@@ -64156,6 +64156,8 @@
 䙖	quff
 𣮽	qufs
 䑵	qufy
+艜	quga
+𧜵	quga
 𩪋	quga
 𨍮	qugc
 𨍾	qugc
@@ -64688,8 +64690,6 @@
 𦩞	qzfn
 䘻	qzfy
 𨌯	qzfy
-艜	qzga
-𧜵	qzga
 軒	qzgc
 𱺣	qzgc
 艨	qzgh
@@ -68365,6 +68365,8 @@
 𤦛	rufy
 𪻪	rufy
 𮚐	rufy
+𤨮	ruga
+𩌴	ruga
 𤍈	rugd
 𤘑	rugd
 𤧸	rugd
@@ -69129,8 +69131,6 @@
 焴	rzfy
 𦚯	rzfy
 𧶰	rzfy
-𤨮	rzga
-𩌴	rzga
 𫞧	rzgc
 𱫊	rzgc
 𪼘	rzgd
@@ -71836,11 +71836,17 @@
 𣨃	sufb
 𫅛	suff
 𨵛	sufy
-闓	sugd
+殢	suga
+𢄔	suga
+𤬎	suga
 㱯	sugd
+闓	sugd
 𣨺	sugd
 𮤔	sugg
 鬳	sugh
+𨗼	sugj
+𢤅	sugl
+𢤔	sugl
 鷼	sugn
 𮬡	sugv
 𨶁	sugw
@@ -72316,14 +72322,8 @@
 𨵦	szfn
 𩨈	szfn
 𣨧	szfy
-殢	szga
-𢄔	szga
-𤬎	szga
 𬶗	szgc
 𬴌	szgh
-𨗼	szgj
-𢤅	szgl
-𢤔	szgl
 閈	szgm
 𫘛	szgm
 𦎻	szgr
@@ -75472,13 +75472,20 @@
 ⾻	ug11
 ⿀	ug11
 冎	ug11
+𤴟	ugae
+𠁑	ugaf
+䠠	ugai
 帶	ugaj
+遰	ugaj
+慸	ugal
 𩩏	ugan
+𢋴	ugao
 敱	ugap
 敳	ugap
 𢽸	ugap
 𭧇	ugap
 獃	ugaq
+𠓶	ugav
 𢒳	ugbt
 𠢮	ugcc
 𣉰	ugcy
@@ -77885,6 +77892,8 @@
 𡹌	uufy
 𣇵	uufy
 𣈺	uufy
+嵽	uuga
+𡻺	uuga
 𰖦	uuga
 嵦	uugd
 暟	uugd
@@ -78776,8 +78785,6 @@
 𣈯	uzfn
 𣤔	uzfp
 𩩣	uzfy
-嵽	uzga
-𡻺	uzga
 崂	uzgc
 厈	uzgc
 𬁙	uzgd
@@ -81354,6 +81361,8 @@
 𧐩	vufl
 𮍖	vufs
 𮔙	vufy
+螮	vuga
+𠥖	vuga
 螎	vugc
 螖	vugc
 螘	vugd
@@ -82054,8 +82063,6 @@
 匬	vzfn
 𦖭	vzfn
 蜟	vzfy
-螮	vzga
-𠥖	vzga
 虷	vzgc
 𮔚	vzgc
 𰲽	vzgd
@@ -85754,6 +85761,8 @@
 𨧹	wufy
 𩐯	wufy
 𰼾	wufy
+𡠹	wuga
+𫒿	wuga
 𫲈	wuga
 㜐	wugd
 鎧	wugd
@@ -86611,8 +86620,6 @@
 𫰮	wzfs
 㛩	wzfy
 錥	wzfy
-𡠹	wzga
-𫒿	wzga
 𫱽	wzgd
 𨮵	wzgh
 𭒣	wzgh
@@ -90246,6 +90253,7 @@
 𨸝	xzse
 𩃌	xztc
 𰺣	xztm
+𱁥	xzua
 𩄻	xzui
 𭷱	xzui
 𮧀	xzuj
@@ -90268,7 +90276,6 @@
 雲	xzyv
 霒	xzza
 𩃬	xzza
-𱁥	xzza
 𨻇	xzzk
 𨼙	xzzy
 𮦖	xzzy
@@ -93164,6 +93171,7 @@
 𪳑	yufm
 𣓍	yufy
 𣔂	yufy
+㯂	yuga
 榿	yugd
 𱆎	yugj
 𣙩	yugl
@@ -93896,7 +93904,6 @@
 𣞨	yzfo
 𬃶	yzfs
 棛	yzfy
-㯂	yzga
 𣓿	yzgc
 𣜯	yzgd
 檬	yzgh
@@ -95496,19 +95503,12 @@
 𦼟	zfzr
 干	zg11
 ⼲	zg11
-𤴟	zgae
-𠁑	zgaf
 𮏎	zgag
-䠠	zgai
-遰	zgaj
 𢄆	zgaj
 𦭬	zgaj
-慸	zgal
-𢋴	zgao
 茕	zgap
 蒬	zgat
 𮐵	zgat
-𠓶	zgav
 𦼖	zgbb
 𮐱	zgbr
 𫊏	zgbs

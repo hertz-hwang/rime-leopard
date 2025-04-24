@@ -8053,6 +8053,7 @@ encoder:
 淏	mudi	0.000001
 燙	mudr	0.000001
 湜	mues	0.000001
+滯	muga	0.000001
 漴	mugl	0.000001
 滆	mugs	0.000001
 灧	mujb	0.000001
@@ -8099,7 +8100,6 @@ encoder:
 漭	mzaz	0.000001
 芔	mzc	0.000001
 淯	mzfy	0.000001
-滯	mzga	0.000001
 濛	mzgh	0.000001
 溁	mzgy	0.000001
 㽏	mzkf	0.000001
@@ -13873,10 +13873,15 @@ encoder:
 𩷘	aufj	0.000000
 𤢂	aufm	0.000000
 㡌	aufy	0.000000
+𢄩	auga	0.000000
+𤠹	auga	0.000000
 䱺	augd	0.000000
 𤠲	augd	0.000000
 𫷋	augd	0.000000
 𭘱	augj	0.000000
+𢢐	augl	0.000000
+𤢻	augl	0.000000
+𤣇	augl	0.000000
 𩻃	augl	0.000000
 䯢	augm	0.000000
 𪀽	augn	0.000000
@@ -14569,13 +14574,8 @@ encoder:
 𤢉	azfa	0.000000
 㡏	azfn	0.000000
 䵉	azfn	0.000000
-𢄩	azga	0.000000
-𤠹	azga	0.000000
 𢁗	azgj	0.000000
 𠣍	azgk	0.000000
-𢢐	azgl	0.000000
-𤢻	azgl	0.000000
-𤣇	azgl	0.000000
 𩵟	azgv	0.000000
 𥤱	azgx	0.000000
 𩻓	azhb	0.000000
@@ -17012,7 +17012,8 @@ encoder:
 馜	bufw	0.000000
 䅢	bufy	0.000000
 𫀹	bufy	0.000000
-䅱	bug	0.000000
+廗	bug	0.000000
+䅱	bugd	0.000000
 𨢉	bugd	0.000000
 𮩪	buge	0.000000
 𫗿	bugf	0.000000
@@ -17548,7 +17549,6 @@ encoder:
 𢋅	bzfp	0.000000
 𭭖	bzfp	0.000000
 𨡚	bzfy	0.000000
-廗	bzga	0.000000
 𰼋	bzgc	0.000000
 𱶐	bzgc	0.000000
 𢇛	bzgg	0.000000
@@ -22325,7 +22325,9 @@ encoder:
 𧫶	dufl	0.000000
 𱹅	dufm	0.000000
 𥕫	dufr	0.000000
-磑	dug	0.000000
+𥕧	dug	0.000000
+𧫚	duga	0.000000
+磑	dugd	0.000000
 𧪚	dugd	0.000000
 𥀄	dugn	0.000000
 𣣡	dugp	0.000000
@@ -23007,8 +23009,6 @@ encoder:
 諭	dzfn	0.000000
 諭	dzfn	0.000000
 𪫊	dzfo	0.000000
-𥕧	dzga	0.000000
-𧫚	dzga	0.000000
 𮀤	dzgc	0.000000
 𥕪	dzgh	0.000000
 𧭊	dzgh	0.000000
@@ -26422,6 +26422,8 @@ encoder:
 𡐇	eufl	0.000000
 𪣦	eufy	0.000000
 𭎯	eufy	0.000000
+墆	euga	0.000000
+𪾹	euga	0.000000
 䁗	eugd	0.000000
 塏	eugd	0.000000
 𱆋	eugk	0.000000
@@ -26979,8 +26981,6 @@ encoder:
 𰊒	ezfl	0.000000
 堬	ezfn	0.000000
 睮	ezfn	0.000000
-墆	ezga	0.000000
-𪾹	ezga	0.000000
 𡒯	ezgh	0.000000
 盰	ezgm	0.000000
 𰏩	ezgu	0.000000
@@ -30963,6 +30963,8 @@ encoder:
 𦁠	fufy	0.000000
 𦂈	fufy	0.000000
 𭨽	fufy	0.000000
+䐭	fuga	0.000000
+𦄂	fuga	0.000000
 䐩	fugd	0.000000
 𡳂	fugd	0.000000
 𥻶	fugd	0.000000
@@ -31758,8 +31760,6 @@ encoder:
 䋭	fzfy	0.000000
 𥺞	fzfy	0.000000
 𦝑	fzfy	0.000000
-䐭	fzga	0.000000
-𦄂	fzga	0.000000
 𤮽	fzgg	0.000000
 𤯀	fzgg	0.000000
 䑃	fzgh	0.000000
@@ -37970,7 +37970,8 @@ encoder:
 𩞸	hufm	0.000000
 𬾎	hufy	0.000000
 𭻝	hufy	0.000000
-䭓	hug	0.000000
+僀	hug	0.000000
+䭓	hugd	0.000000
 𫣅	hugd	0.000000
 𠏥	hugi	0.000000
 𧳸	hugi	0.000000
@@ -38589,8 +38590,7 @@ encoder:
 𫢠	hzfs	0.000000
 俼	hzfy	0.000000
 𩛭	hzfy	0.000000
-僀	hzg	0.000000
-𫢬	hzgc	0.000000
+𫢬	hzg	0.000000
 饛	hzgh	0.000000
 𠐁	hzgh	0.000000
 豻	hzgi	0.000000
@@ -41856,6 +41856,7 @@ encoder:
 𢒊	iufs	0.000000
 奛	iufy	0.000000
 𮛥	iufy	0.000000
+蹛	iuga	0.000000
 𧽊	iugd	0.000000
 𩘥	iugd	0.000000
 𧽧	iugl	0.000000
@@ -42447,7 +42448,6 @@ encoder:
 䬔	izfn	0.000000
 𧼯	izfn	0.000000
 𨂔	izfy	0.000000
-蹛	izga	0.000000
 𤔽	izgh	0.000000
 𤯻	izgh	0.000000
 鴘	izgn	0.000000
@@ -44563,7 +44563,8 @@ encoder:
 𤾁	jjtp	0.000000
 𩏂	jjtp	0.000000
 𮮃	jjty	0.000000
-𱑛	jju	0.000000
+𪎐	jju	0.000000
+𱑛	jjul	0.000000
 𣍈	jjun	0.000000
 𱋆	jjus	0.000000
 𥫧	jjuu	0.000000
@@ -44607,8 +44608,7 @@ encoder:
 𣓵	jjym	0.000000
 𤾏	jjym	0.000000
 𭫭	jjyo	0.000000
-𪎐	jjz	0.000000
-弉	jjzc	0.000000
+弉	jjz	0.000000
 𱋮	jjzh	0.000000
 𬹍	jjzi	0.000000
 𬹌	jjzl	0.000000
@@ -45921,7 +45921,8 @@ encoder:
 𥯑	juet	0.000000
 𬌂	juet	0.000000
 𥯋	juf	0.000000
-皚	jug	0.000000
+𥲭	jug	0.000000
+皚	jugd	0.000000
 𥵒	jugd	0.000000
 𥷱	jugj	0.000000
 𤗦	jugp	0.000000
@@ -46529,7 +46530,6 @@ encoder:
 𬕷	jzf	0.000000
 牏	jzfn	0.000000
 𬖊	jzfo	0.000000
-𥲭	jzga	0.000000
 𤽂	jzgb	0.000000
 𤘁	jzgh	0.000000
 𤾬	jzgh	0.000000
@@ -49157,6 +49157,7 @@ encoder:
 𠼩	kufl	0.000000
 𠾨	kufp	0.000000
 𭈭	kufy	0.000000
+㗣	kuga	0.000000
 𠹛	kugd	0.000000
 嗗	kugk	0.000000
 𠼾	kugl	0.000000
@@ -49728,7 +49729,6 @@ encoder:
 𡆜	kzfv	0.000000
 𭌁	kzfw	0.000000
 𱓍	kzfy	0.000000
-㗣	kzga	0.000000
 𠻼	kzgd	0.000000
 𫫻	kzgd	0.000000
 𥺠	kzgf	0.000000
@@ -52519,7 +52519,9 @@ encoder:
 𩕝	lufw	0.000000
 𢛡	lufy	0.000000
 𢜠	lufy	0.000000
-愷	lug	0.000000
+㦅	lug	0.000000
+𥛣	luga	0.000000
+愷	lugd	0.000000
 𩨔	lugj	0.000000
 𢡦	lugk	0.000000
 𢠄	lugl	0.000000
@@ -53163,8 +53165,6 @@ encoder:
 䄖	lzfn	0.000000
 𪍍	lzfn	0.000000
 㥔	lzfy	0.000000
-㦅	lzga	0.000000
-𥛣	lzga	0.000000
 𫺘	lzgc	0.000000
 𫻊	lzgd	0.000000
 䵆	lzgh	0.000000
@@ -56544,6 +56544,7 @@ encoder:
 𤅐	mugg	0.000000
 𱩟	mugh	0.000000
 𭳱	mugj	0.000000
+懘	mugl	0.000000
 𪂌	mugn	0.000000
 𪆸	mugn	0.000000
 𭳃	mugn	0.000000
@@ -57229,7 +57230,6 @@ encoder:
 𣾁	mzfn	0.000000
 𣷎	mzfy	0.000000
 𣿻	mzgi	0.000000
-懘	mzgl	0.000000
 𬈜	mzgm	0.000000
 𰝅	mzgp	0.000000
 𣸨	mzgr	0.000000
@@ -60269,6 +60269,7 @@ encoder:
 𱱨	nufo	0.000000
 𱱭	nufo	0.000000
 朚	nufy	0.000000
+㿃	nuga	0.000000
 𣀚	nuga	0.000000
 㾶	nugb	0.000000
 𪽶	nugb	0.000000
@@ -60858,7 +60859,6 @@ encoder:
 𱄁	nzfn	0.000000
 𤻍	nzfp	0.000000
 𰐨	nzfs	0.000000
-㿃	nzga	0.000000
 癷	nzgb	0.000000
 𤴲	nzgb	0.000000
 𲋦	nzgc	0.000000
@@ -63438,6 +63438,7 @@ encoder:
 𰔁	oufi	0.000000
 𢳳	oufl	0.000000
 𱠾	oufs	0.000000
+摕	ouga	0.000000
 㨟	ougd	0.000000
 𢺁	ougj	0.000000
 搹	ougs	0.000000
@@ -63828,7 +63829,6 @@ encoder:
 𪮌	ozfn	0.000000
 𢶖	ozfp	0.000000
 𢯡	ozfy	0.000000
-摕	ozga	0.000000
 𫽈	ozgf	0.000000
 㩚	ozgh	0.000000
 𲎈	ozgh	0.000000
@@ -67907,7 +67907,9 @@ encoder:
 䙖	quf	0.000000
 𣮽	qufs	0.000000
 䑵	qufy	0.000000
-𩪋	qug	0.000000
+艜	qug	0.000000
+𧜵	quga	0.000000
+𩪋	quga	0.000000
 𨍮	qugc	0.000000
 𨍾	qugc	0.000000
 𦩴	qugd	0.000000
@@ -68373,8 +68375,6 @@ encoder:
 𦩞	qzfn	0.000000
 䘻	qzfy	0.000000
 𨌯	qzfy	0.000000
-艜	qzga	0.000000
-𧜵	qzga	0.000000
 𱺣	qzgc	0.000000
 䙩	qzgh	0.000000
 𣰥	qzgh	0.000000
@@ -71648,7 +71648,9 @@ encoder:
 𤦛	rufy	0.000000
 𪻪	rufy	0.000000
 𮚐	rufy	0.000000
-𤍈	rug	0.000000
+𤨮	rug	0.000000
+𩌴	ruga	0.000000
+𤍈	rugd	0.000000
 𤘑	rugd	0.000000
 𤧸	rugd	0.000000
 䬡	rugf	0.000000
@@ -72328,8 +72330,6 @@ encoder:
 焴	rzfy	0.000000
 𦚯	rzfy	0.000000
 𧶰	rzfy	0.000000
-𤨮	rzga	0.000000
-𩌴	rzga	0.000000
 𫞧	rzgc	0.000000
 𱫊	rzgc	0.000000
 𪼘	rzgd	0.000000
@@ -74703,11 +74703,17 @@ encoder:
 𣨃	suf	0.000000
 𫅛	suff	0.000000
 𨵛	sufy	0.000000
-闓	sugd	0.000000
+殢	suga	0.000000
+𢄔	suga	0.000000
+𤬎	suga	0.000000
 㱯	sugd	0.000000
+闓	sugd	0.000000
 𣨺	sugd	0.000000
 𮤔	sugg	0.000000
 鬳	sugh	0.000000
+𨗼	sugj	0.000000
+𢤅	sugl	0.000000
+𢤔	sugl	0.000000
 鷼	sugn	0.000000
 𨶁	sugw	0.000000
 𫘫	sugw	0.000000
@@ -75126,14 +75132,8 @@ encoder:
 𨵦	szfn	0.000000
 𩨈	szfn	0.000000
 𣨧	szfy	0.000000
-殢	szg	0.000000
-𢄔	szga	0.000000
-𤬎	szga	0.000000
-𬶗	szgc	0.000000
+𬶗	szg	0.000000
 𬴌	szgh	0.000000
-𨗼	szgj	0.000000
-𢤅	szgl	0.000000
-𢤔	szgl	0.000000
 閈	szgm	0.000000
 𫘛	szgm	0.000000
 𦎻	szgr	0.000000
@@ -77934,11 +77934,18 @@ encoder:
 ⾻	uggg	0.000000
 ⿀	uggg	0.000000
 冎	uggg	0.000000
+𤴟	ugae	0.000000
+𠁑	ugaf	0.000000
+䠠	ugai	0.000000
+遰	ugaj	0.000000
+慸	ugal	0.000000
 𩩏	ugan	0.000000
+𢋴	ugao	0.000000
 敱	ugap	0.000000
 敳	ugap	0.000000
 𢽸	ugap	0.000000
 𭧇	ugap	0.000000
+𠓶	ugav	0.000000
 𢒳	ugb	0.000000
 𠢮	ugc	0.000000
 𣉰	ugcy	0.000000
@@ -80133,7 +80140,9 @@ encoder:
 𡹌	uufy	0.000000
 𣇵	uufy	0.000000
 𣈺	uufy	0.000000
-𰖦	uug	0.000000
+嵽	uug	0.000000
+𡻺	uuga	0.000000
+𰖦	uuga	0.000000
 嵦	uugd	0.000000
 暟	uugd	0.000000
 𩪂	uugd	0.000000
@@ -80938,8 +80947,6 @@ encoder:
 𣈯	uzfn	0.000000
 𣤔	uzfp	0.000000
 𩩣	uzfy	0.000000
-嵽	uzga	0.000000
-𡻺	uzga	0.000000
 厈	uzgc	0.000000
 𬁙	uzgd	0.000000
 𭗗	uzgf	0.000000
@@ -83223,7 +83230,9 @@ encoder:
 𧐩	vufl	0.000000
 𮍖	vufs	0.000000
 𮔙	vufy	0.000000
-螎	vug	0.000000
+螮	vug	0.000000
+𠥖	vuga	0.000000
+螎	vugc	0.000000
 螖	vugc	0.000000
 螘	vugd	0.000000
 𦖼	vuge	0.000000
@@ -83869,8 +83878,6 @@ encoder:
 匬	vzfn	0.000000
 𦖭	vzfn	0.000000
 蜟	vzfy	0.000000
-螮	vzga	0.000000
-𠥖	vzga	0.000000
 𮔚	vzgc	0.000000
 𰲽	vzgd	0.000000
 𭅖	vzgk	0.000000
@@ -87258,7 +87265,9 @@ encoder:
 𨧹	wufy	0.000000
 𩐯	wufy	0.000000
 𰼾	wufy	0.000000
-𫲈	wug	0.000000
+𡠹	wug	0.000000
+𫒿	wuga	0.000000
+𫲈	wuga	0.000000
 㜐	wugd	0.000000
 鎧	wugd	0.000000
 𠤞	wugh	0.000000
@@ -88051,8 +88060,6 @@ encoder:
 𫰮	wzfs	0.000000
 㛩	wzfy	0.000000
 錥	wzfy	0.000000
-𡠹	wzga	0.000000
-𫒿	wzga	0.000000
 𫱽	wzgd	0.000000
 𨮵	wzgh	0.000000
 𭒣	wzgh	0.000000
@@ -91338,7 +91345,8 @@ encoder:
 𨸝	xzse	0.000000
 𩃌	xzt	0.000000
 𰺣	xztm	0.000000
-𩄻	xzu	0.000000
+𱁥	xzu	0.000000
+𩄻	xzui	0.000000
 𭷱	xzui	0.000000
 𮧀	xzuj	0.000000
 𮝺	xzun	0.000000
@@ -91358,7 +91366,6 @@ encoder:
 𤚊	xzym	0.000000
 霒	xzz	0.000000
 𩃬	xzza	0.000000
-𱁥	xzza	0.000000
 𨻇	xzzk	0.000000
 𨼙	xzzy	0.000000
 𮦖	xzzy	0.000000
@@ -93902,6 +93909,7 @@ encoder:
 𪳑	yufm	0.000000
 𣓍	yufy	0.000000
 𣔂	yufy	0.000000
+㯂	yuga	0.000000
 榿	yugd	0.000000
 𱆎	yugj	0.000000
 𣙩	yugl	0.000000
@@ -94545,7 +94553,6 @@ encoder:
 𣞨	yzfo	0.000000
 𬃶	yzfs	0.000000
 棛	yzfy	0.000000
-㯂	yzga	0.000000
 𣓿	yzgc	0.000000
 𣜯	yzgd	0.000000
 𣠅	yzgh	0.000000
@@ -95978,18 +95985,11 @@ encoder:
 𮌫	zfz	0.000000
 𦼟	zfzr	0.000000
 ⼲	zgg	0.000000
-𤴟	zgae	0.000000
-𠁑	zgaf	0.000000
 𮏎	zgag	0.000000
-䠠	zgai	0.000000
-遰	zgaj	0.000000
 𢄆	zgaj	0.000000
 𦭬	zgaj	0.000000
-慸	zgal	0.000000
-𢋴	zgao	0.000000
 蒬	zgat	0.000000
 𮐵	zgat	0.000000
-𠓶	zgav	0.000000
 𦼖	zgb	0.000000
 𮐱	zgbr	0.000000
 𫊏	zgbs	0.000000
@@ -102681,10 +102681,15 @@ encoder:
 𩷘	aufj
 𤢂	aufm
 㡌	aufy
+𢄩	auga
+𤠹	auga
 䱺	augd
 𤠲	augd
 𫷋	augd
 𭘱	augj
+𢢐	augl
+𤢻	augl
+𤣇	augl
 𩻃	augl
 䯢	augm
 𪀽	augn
@@ -103431,15 +103436,10 @@ encoder:
 窬	azfn
 㡏	azfn
 䵉	azfn
-𢄩	azga
-𤠹	azga
 幪	azgh
 獴	azgh
 𢁗	azgj
 𠣍	azgk
-𢢐	azgl
-𤢻	azgl
-𤣇	azgl
 犴	azgq
 𩵟	azgv
 𥤱	azgx
@@ -106103,6 +106103,7 @@ encoder:
 馜	bufw
 䅢	bufy
 𫀹	bufy
+廗	buga
 䅱	bugd
 𨢉	bugd
 𮩪	buge
@@ -106692,7 +106693,6 @@ encoder:
 𢋅	bzfp
 𭭖	bzfp
 𨡚	bzfy
-廗	bzga
 𰼋	bzgc
 𱶐	bzgc
 𢇛	bzgg
@@ -112095,6 +112095,8 @@ encoder:
 𧫶	dufl
 𱹅	dufm
 𥕫	dufr
+𥕧	duga
+𧫚	duga
 磑	dugd
 𧪚	dugd
 𥀄	dugn
@@ -112849,8 +112851,6 @@ encoder:
 諭	dzfn
 𪫊	dzfo
 形	dzfs
-𥕧	dzga
-𧫚	dzga
 𮀤	dzgc
 礞	dzgh
 𥕪	dzgh
@@ -116649,6 +116649,8 @@ encoder:
 𡐇	eufl
 𪣦	eufy
 𭎯	eufy
+墆	euga
+𪾹	euga
 䁗	eugd
 塏	eugd
 𱆋	eugk
@@ -117265,8 +117267,6 @@ encoder:
 堬	ezfn
 睮	ezfn
 堉	ezfy
-墆	ezga
-𪾹	ezga
 𫭼	ezgc
 矇	ezgh
 𡒯	ezgh
@@ -121619,6 +121619,8 @@ encoder:
 𦁠	fufy
 𦂈	fufy
 𭨽	fufy
+䐭	fuga
+𦄂	fuga
 䐩	fugd
 𡳂	fugd
 𥻶	fugd
@@ -122490,8 +122492,6 @@ encoder:
 䋭	fzfy
 𥺞	fzfy
 𦝑	fzfy
-䐭	fzga
-𦄂	fzga
 𦛨	fzgc
 𰪿	fzgc
 𤮽	fzgg
@@ -129381,6 +129381,7 @@ encoder:
 𩞸	hufm
 𬾎	hufy
 𭻝	hufy
+僀	huga
 䭓	hugd
 𫣅	hugd
 𠏥	hugi
@@ -130080,7 +130081,6 @@ encoder:
 𫢠	hzfs
 俼	hzfy
 𩛭	hzfy
-僀	hzga
 𫢬	hzgc
 饛	hzgh
 𠐁	hzgh
@@ -133629,6 +133629,7 @@ encoder:
 𢒊	iufs
 奛	iufy
 𮛥	iufy
+蹛	iuga
 𧽊	iugd
 𩘥	iugd
 𧽧	iugl
@@ -134272,7 +134273,6 @@ encoder:
 䬔	izfn
 𧼯	izfn
 𨂔	izfy
-蹛	izga
 𤔽	izgh
 𤯻	izgh
 鴘	izgn
@@ -136568,6 +136568,7 @@ encoder:
 𤾁	jjtp
 𩏂	jjtp
 𮮃	jjty
+𪎐	jjua
 𱑛	jjul
 𣍈	jjun
 𱋆	jjus
@@ -136615,7 +136616,6 @@ encoder:
 𣓵	jjym
 𤾏	jjym
 𭫭	jjyo
-𪎐	jjza
 弉	jjzc
 𱋮	jjzh
 𬹍	jjzi
@@ -138049,6 +138049,7 @@ encoder:
 𥯑	juet
 𬌂	juet
 𥯋	jufy
+𥲭	juga
 皚	jugd
 𥵒	jugd
 𥷱	jugj
@@ -138713,7 +138714,6 @@ encoder:
 𬕷	jzfl
 牏	jzfn
 𬖊	jzfo
-𥲭	jzga
 𤽂	jzgb
 𱸇	jzgc
 𤘁	jzgh
@@ -141718,6 +141718,7 @@ encoder:
 𠼩	kufl
 𠾨	kufp
 𭈭	kufy
+㗣	kuga
 𠹛	kugd
 嗝	kugk
 嗗	kugk
@@ -142371,7 +142372,6 @@ encoder:
 𭌁	kzfw
 唷	kzfy
 𱓍	kzfy
-㗣	kzga
 唠	kzgc
 𠻼	kzgd
 𫫻	kzgd
@@ -145476,6 +145476,8 @@ encoder:
 𩕝	lufw
 𢛡	lufy
 𢜠	lufy
+㦅	luga
+𥛣	luga
 愷	lugd
 𩨔	lugj
 𢡦	lugk
@@ -146198,8 +146200,6 @@ encoder:
 䄖	lzfn
 𪍍	lzfn
 㥔	lzfy
-㦅	lzga
-𥛣	lzga
 𫺘	lzgc
 𫻊	lzgd
 懞	lzgh
@@ -150144,11 +150144,13 @@ encoder:
 𭳂	mufw
 𣶀	mufy
 𣷠	mufy
+滯	muga
 溰	mugd
 𤅐	mugg
 𱩟	mugh
 𭳱	mugj
 漴	mugl
+懘	mugl
 𪂌	mugn
 𪆸	mugn
 𭳃	mugn
@@ -150948,12 +150950,10 @@ encoder:
 𣾁	mzfn
 淯	mzfy
 𣷎	mzfy
-滯	mzga
 涝	mzgc
 潆	mzgf
 濛	mzgh
 𣿻	mzgi
-懘	mzgl
 𬈜	mzgm
 滢	mzgo
 𰝅	mzgp
@@ -154325,6 +154325,7 @@ encoder:
 𱱨	nufo
 𱱭	nufo
 朚	nufy
+㿃	nuga
 𣀚	nuga
 㾶	nugb
 𪽶	nugb
@@ -154976,7 +154977,6 @@ encoder:
 𱄁	nzfn
 𤻍	nzfp
 𰐨	nzfs
-㿃	nzga
 癷	nzgb
 𤴲	nzgb
 痨	nzgc
@@ -157957,6 +157957,7 @@ encoder:
 𰔁	oufi
 𢳳	oufl
 𱠾	oufs
+摕	ouga
 㨟	ougd
 𢺁	ougj
 搰	ougs
@@ -158431,7 +158432,6 @@ encoder:
 𪮌	ozfn
 𢶖	ozfp
 𢯡	ozfy
-摕	ozga
 捞	ozgc
 𫽈	ozgf
 㩚	ozgh
@@ -163296,6 +163296,8 @@ encoder:
 䙖	quff
 𣮽	qufs
 䑵	qufy
+艜	quga
+𧜵	quga
 𩪋	quga
 𨍮	qugc
 𨍾	qugc
@@ -163828,8 +163830,6 @@ encoder:
 𦩞	qzfn
 䘻	qzfy
 𨌯	qzfy
-艜	qzga
-𧜵	qzga
 軒	qzgc
 𱺣	qzgc
 艨	qzgh
@@ -167505,6 +167505,8 @@ encoder:
 𤦛	rufy
 𪻪	rufy
 𮚐	rufy
+𤨮	ruga
+𩌴	ruga
 𤍈	rugd
 𤘑	rugd
 𤧸	rugd
@@ -168269,8 +168271,6 @@ encoder:
 焴	rzfy
 𦚯	rzfy
 𧶰	rzfy
-𤨮	rzga
-𩌴	rzga
 𫞧	rzgc
 𱫊	rzgc
 𪼘	rzgd
@@ -170976,11 +170976,17 @@ encoder:
 𣨃	sufb
 𫅛	suff
 𨵛	sufy
-闓	sugd
+殢	suga
+𢄔	suga
+𤬎	suga
 㱯	sugd
+闓	sugd
 𣨺	sugd
 𮤔	sugg
 鬳	sugh
+𨗼	sugj
+𢤅	sugl
+𢤔	sugl
 鷼	sugn
 𮬡	sugv
 𨶁	sugw
@@ -171456,14 +171462,8 @@ encoder:
 𨵦	szfn
 𩨈	szfn
 𣨧	szfy
-殢	szga
-𢄔	szga
-𤬎	szga
 𬶗	szgc
 𬴌	szgh
-𨗼	szgj
-𢤅	szgl
-𢤔	szgl
 閈	szgm
 𫘛	szgm
 𦎻	szgr
@@ -174612,13 +174612,20 @@ encoder:
 ⾻	uggg
 ⿀	uggg
 冎	uggg
+𤴟	ugae
+𠁑	ugaf
+䠠	ugai
 帶	ugaj
+遰	ugaj
+慸	ugal
 𩩏	ugan
+𢋴	ugao
 敱	ugap
 敳	ugap
 𢽸	ugap
 𭧇	ugap
 獃	ugaq
+𠓶	ugav
 𢒳	ugbt
 𠢮	ugcc
 𣉰	ugcy
@@ -177025,6 +177032,8 @@ encoder:
 𡹌	uufy
 𣇵	uufy
 𣈺	uufy
+嵽	uuga
+𡻺	uuga
 𰖦	uuga
 嵦	uugd
 暟	uugd
@@ -177916,8 +177925,6 @@ encoder:
 𣈯	uzfn
 𣤔	uzfp
 𩩣	uzfy
-嵽	uzga
-𡻺	uzga
 崂	uzgc
 厈	uzgc
 𬁙	uzgd
@@ -180494,6 +180501,8 @@ encoder:
 𧐩	vufl
 𮍖	vufs
 𮔙	vufy
+螮	vuga
+𠥖	vuga
 螎	vugc
 螖	vugc
 螘	vugd
@@ -181194,8 +181203,6 @@ encoder:
 匬	vzfn
 𦖭	vzfn
 蜟	vzfy
-螮	vzga
-𠥖	vzga
 虷	vzgc
 𮔚	vzgc
 𰲽	vzgd
@@ -184894,6 +184901,8 @@ encoder:
 𨧹	wufy
 𩐯	wufy
 𰼾	wufy
+𡠹	wuga
+𫒿	wuga
 𫲈	wuga
 㜐	wugd
 鎧	wugd
@@ -185751,8 +185760,6 @@ encoder:
 𫰮	wzfs
 㛩	wzfy
 錥	wzfy
-𡠹	wzga
-𫒿	wzga
 𫱽	wzgd
 𨮵	wzgh
 𭒣	wzgh
@@ -189386,6 +189393,7 @@ encoder:
 𨸝	xzse
 𩃌	xztc
 𰺣	xztm
+𱁥	xzua
 𩄻	xzui
 𭷱	xzui
 𮧀	xzuj
@@ -189408,7 +189416,6 @@ encoder:
 雲	xzyv
 霒	xzza
 𩃬	xzza
-𱁥	xzza
 𨻇	xzzk
 𨼙	xzzy
 𮦖	xzzy
@@ -192304,6 +192311,7 @@ encoder:
 𪳑	yufm
 𣓍	yufy
 𣔂	yufy
+㯂	yuga
 榿	yugd
 𱆎	yugj
 𣙩	yugl
@@ -193036,7 +193044,6 @@ encoder:
 𣞨	yzfo
 𬃶	yzfs
 棛	yzfy
-㯂	yzga
 𣓿	yzgc
 𣜯	yzgd
 檬	yzgh
@@ -194636,19 +194643,12 @@ encoder:
 𦼟	zfzr
 干	zggg
 ⼲	zggg
-𤴟	zgae
-𠁑	zgaf
 𮏎	zgag
-䠠	zgai
-遰	zgaj
 𢄆	zgaj
 𦭬	zgaj
-慸	zgal
-𢋴	zgao
 茕	zgap
 蒬	zgat
 𮐵	zgat
-𠓶	zgav
 𦼖	zgbb
 𮐱	zgbr
 𫊏	zgbs
