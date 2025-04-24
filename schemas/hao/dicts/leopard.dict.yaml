@@ -6140,6 +6140,7 @@ encoder:
 刬	dan	0.000001
 䴓	dao	0.000001
 訊	dap	0.000001
+兩	davv	0.000001
 棨	day	0.000001
 𫜨	dbb	0.000001
 誘	dbd	0.000001
@@ -6217,7 +6218,6 @@ encoder:
 調	djek	0.000001
 請	djf	0.000001
 碃	djfy	0.000001
-兩	djhv	0.000001
 邴	djhx	0.000001
 扃	djk	0.000001
 誌	djl	0.000001
@@ -6503,6 +6503,7 @@ encoder:
 㘵	epaj	0.000001
 欷	epap	0.000001
 瓻	epat	0.000001
+瞞	epav	0.000001
 堞	epay	0.000001
 圢	epdt	0.000001
 埴	eped	0.000001
@@ -6510,7 +6511,6 @@ encoder:
 殽	epfr	0.000001
 郄	epi	0.000001
 𱗩	epj	0.000001
-瞞	epjv	0.000001
 墐	epk	0.000001
 堶	epl	0.000001
 坶	epm	0.000001
@@ -6963,10 +6963,10 @@ encoder:
 餵	hcdq	0.000001
 仂	hcl	0.000001
 偲	hclx	0.000001
+倆	hda	0.000001
 饑	hdd	0.000001
 丄	hdis	0.000001
 貊	hdjb	0.000001
-倆	hdjv	0.000001
 倉	hdkk	0.000001
 創	hdkn	0.000001
 儲	hdru	0.000001
@@ -7982,13 +7982,13 @@ encoder:
 濟	moq	0.000001
 滪	moqy	0.000001
 潏	mot	0.000001
+滿	mpav	0.000001
 潵	mpf	0.000001
 洧	mpfy	0.000001
 溹	mpgf	0.000001
 浡	mpgh	0.000001
 漶	mph	0.000001
 盜	mphm	0.000001
-滿	mpj	0.000001
 漢	mpk	0.000001
 灘	mpkm	0.000001
 𣸣	mpz	0.000001
@@ -8658,10 +8658,10 @@ encoder:
 纼	qch	0.000001
 𫄶	qckv	0.000001
 缌	qcl	0.000001
+輛	qdav	0.000001
 艚	qde	0.000001
 𫄥	qdf	0.000001
 鳳	qdg	0.000001
-輛	qdj	0.000001
 輕	qdk	0.000001
 襜	qdu	0.000001
 謷	qdya	0.000001
@@ -11006,6 +11006,7 @@ encoder:
 𭃊	adad	0.000000
 𥥆	adae	0.000000
 𬵁	adae	0.000000
+𰀊	adae	0.000000
 鸑	adag	0.000000
 𫞣	adag	0.000000
 𰏕	adag	0.000000
@@ -13140,6 +13141,8 @@ encoder:
 𱮮	apan	0.000000
 𩻅	apao	0.000000
 𫻸	apap	0.000000
+𤡁	apav	0.000000
+𩺴	apav	0.000000
 幉	apay	0.000000
 鰈	apay	0.000000
 𭸗	apay	0.000000
@@ -13192,8 +13195,6 @@ encoder:
 𡕭	apji	0.000000
 𩹞	apjs	0.000000
 𬌹	apjs	0.000000
-𤡁	apjv	0.000000
-𩺴	apjv	0.000000
 𤡉	apk	0.000000
 𬔐	apkj	0.000000
 𤠬	apkk	0.000000
@@ -16434,6 +16435,8 @@ encoder:
 𢇴	bpaj	0.000000
 𥞎	bpaj	0.000000
 𢾦	bpap	0.000000
+䤍	bpav	0.000000
+𥡹	bpav	0.000000
 𥠓	bpay	0.000000
 𲆲	bpay	0.000000
 𭙾	bpb	0.000000
@@ -16477,8 +16480,6 @@ encoder:
 𰭋	bpjd	0.000000
 𥠮	bpjs	0.000000
 𨡯	bpjs	0.000000
-䤍	bpjv	0.000000
-𥡹	bpjv	0.000000
 㢙	bpkc	0.000000
 𢋓	bpke	0.000000
 𥂧	bpkh	0.000000
@@ -18300,6 +18301,7 @@ encoder:
 乫	ckki	0.000000
 㔔	ckkk	0.000000
 𣄮	ckku	0.000000
+㖙	ckkw	0.000000
 𬣚	ckky	0.000000
 㤎	ckl	0.000000
 𰐘	cknc	0.000000
@@ -18540,7 +18542,6 @@ encoder:
 𭺿	cpty	0.000000
 𬣾	cpu	0.000000
 𭚼	cpus	0.000000
-㖙	cpw	0.000000
 𰅎	cpx	0.000000
 𢏼	cpy	0.000000
 𢐇	cpz	0.000000
@@ -19153,12 +19154,18 @@ encoder:
 𡹘	daus	0.000000
 𱳳	daus	0.000000
 譀	dava	0.000000
+㔝	davc	0.000000
+𩳮	dave	0.000000
 𫆈	dave	0.000000
 𪲬	davn	0.000000
+𧶪	davr	0.000000
 䛌	davs	0.000000
 砲	davs	0.000000
 𭠆	davs	0.000000
 𮘋	davs	0.000000
+𩀝	davt	0.000000
+兩	davv	0.000000
+𦑅	davw	0.000000
 讒	daw	0.000000
 𢩢	dawa	0.000000
 𰧫	dawa	0.000000
@@ -19318,7 +19325,6 @@ encoder:
 𬒃	dci	0.000000
 画	dcj	0.000000
 𤰱	dcjk	0.000000
-㓰	dcjn	0.000000
 𥑆	dck	0.000000
 𧦤	dckk	0.000000
 𧬂	dckr	0.000000
@@ -20805,10 +20811,8 @@ encoder:
 𬍈	djha	0.000000
 𭤓	djha	0.000000
 𰕏	djha	0.000000
-㔝	djhc	0.000000
 𧢮	djhd	0.000000
 𭽈	djhd	0.000000
-𩳮	djhe	0.000000
 𦄠	djhf	0.000000
 𥒩	djhg	0.000000
 𪈹	djhg	0.000000
@@ -20829,14 +20833,10 @@ encoder:
 㶮	djhr	0.000000
 訥	djhr	0.000000
 𡗚	djhr	0.000000
-𧶪	djhr	0.000000
 𬹻	djhr	0.000000
 𮭹	djhr	0.000000
 𰞁	djhr	0.000000
-𩀝	djht	0.000000
-兩	djhv	0.000000
 𡠈	djhw	0.000000
-𦑅	djhw	0.000000
 𨜦	djhx	0.000000
 𨟫	djhx	0.000000
 𲆐	djhx	0.000000
@@ -21709,6 +21709,7 @@ encoder:
 𬺕	dpam	0.000000
 㪀	dpap	0.000000
 𠦴	dpap	0.000000
+𧫩	dpav	0.000000
 諜	dpay	0.000000
 𫌣	dpay	0.000000
 𱴱	dpb	0.000000
@@ -21748,7 +21749,6 @@ encoder:
 𦞍	dpjh	0.000000
 諵	dpjs	0.000000
 𫌢	dpjs	0.000000
-𧫩	dpjv	0.000000
 𬣔	dpjw	0.000000
 謹	dpke	0.000000
 𧭩	dpke	0.000000
@@ -22357,6 +22357,7 @@ encoder:
 𨑿	duj	0.000000
 謜	duji	0.000000
 𮀷	dujj	0.000000
+㓰	dujn	0.000000
 諯	duke	0.000000
 𥔗	duke	0.000000
 𥖤	dukj	0.000000
@@ -23494,6 +23495,8 @@ encoder:
 𦣢	edaj	0.000000
 𭿚	edak	0.000000
 睙	edaq	0.000000
+魎	edav	0.000000
+𥇑	edav	0.000000
 𥅺	edb	0.000000
 𱖥	edbb	0.000000
 𪤔	edbf	0.000000
@@ -23579,8 +23582,6 @@ encoder:
 𱳏	edjk	0.000000
 睍	edjm	0.000000
 垷	edjt	0.000000
-魎	edjv	0.000000
-𥇑	edjv	0.000000
 𧠉	edjy	0.000000
 堛	edk	0.000000
 瞓	edkc	0.000000
@@ -25540,6 +25541,7 @@ encoder:
 𪖋	epam	0.000000
 𠜗	epan	0.000000
 𱉹	epao	0.000000
+㙢	epav	0.000000
 𠨚	epaw	0.000000
 𩒽	epaw	0.000000
 䁋	epay	0.000000
@@ -25597,7 +25599,6 @@ encoder:
 𪢹	epjk	0.000000
 𡎜	epjs	0.000000
 𥈶	epjs	0.000000
-㙢	epjv	0.000000
 𡓎	epjw	0.000000
 𡒣	epke	0.000000
 𩴴	epke	0.000000
@@ -27505,6 +27506,9 @@ encoder:
 𦜏	fdaq	0.000000
 𮨁	fdaq	0.000000
 𥾳	fdar	0.000000
+緉	fdav	0.000000
+脼	fdav	0.000000
+𣍷	fdav	0.000000
 絶	fdbb	0.000000
 脃	fdbb	0.000000
 㔢	fdbc	0.000000
@@ -27661,9 +27665,6 @@ encoder:
 𧢢	fdjl	0.000000
 粯	fdjm	0.000000
 絸	fdjs	0.000000
-緉	fdjv	0.000000
-脼	fdjv	0.000000
-𣍷	fdjv	0.000000
 䏹	fdjy	0.000000
 𧠊	fdjy	0.000000
 𢼁	fdka	0.000000
@@ -30110,6 +30111,8 @@ encoder:
 繊	fpao	0.000000
 𦅞	fpaq	0.000000
 𫄇	fpaq	0.000000
+䊟	fpav	0.000000
+䐽	fpav	0.000000
 䐑	fpay	0.000000
 屟	fpay	0.000000
 緤	fpay	0.000000
@@ -30161,8 +30164,6 @@ encoder:
 𦄁	fpjc	0.000000
 䊖	fpjs	0.000000
 䋻	fpjs	0.000000
-䊟	fpjv	0.000000
-䐽	fpjv	0.000000
 𪨒	fpk	0.000000
 𦟫	fpkg	0.000000
 䌍	fpkj	0.000000
@@ -32138,6 +32139,8 @@ encoder:
 𡧴	gdao	0.000000
 𱝲	gdaq	0.000000
 𭔌	gdau	0.000000
+𩭫	gdav	0.000000
+𱝰	gdav	0.000000
 𠘌	gdc	0.000000
 𩬗	gdcl	0.000000
 𪀂	gdcl	0.000000
@@ -32209,8 +32212,6 @@ encoder:
 𧠫	gdji	0.000000
 𰐶	gdjl	0.000000
 䂓	gdjs	0.000000
-𩭫	gdjv	0.000000
-𱝰	gdjv	0.000000
 𢖕	gdjw	0.000000
 𰍒	gdjy	0.000000
 𫹢	gdka	0.000000
@@ -33969,6 +33970,7 @@ encoder:
 𭓤	gpaj	0.000000
 𰄂	gpak	0.000000
 䰏	gpam	0.000000
+鬗	gpav	0.000000
 𩶲	gpav	0.000000
 𠗨	gpay	0.000000
 𥏭	gpay	0.000000
@@ -34038,7 +34040,6 @@ encoder:
 𠸆	gpj	0.000000
 㓓	gpjs	0.000000
 㣮	gpjs	0.000000
-鬗	gpjv	0.000000
 𮀆	gpke	0.000000
 𡧲	gpkh	0.000000
 乲	gpki	0.000000
@@ -35574,7 +35575,7 @@ encoder:
 𩞫	hczn	0.000000
 饆	hczo	0.000000
 𠌫	hczo	0.000000
-𠇐	hda	0.000000
+𠇐	hdad	0.000000
 𠇢	hdae	0.000000
 𥀿	hdae	0.000000
 𫢆	hdae	0.000000
@@ -37325,6 +37326,10 @@ encoder:
 儎	hpaq	0.000000
 𬿢	hpaq	0.000000
 𬿱	hpar	0.000000
+䝡	hpav	0.000000
+𡦖	hpav	0.000000
+𧱼	hpav	0.000000
+𩞘	hpav	0.000000
 𱏌	hpav	0.000000
 傤	hpax	0.000000
 䭎	hpay	0.000000
@@ -37389,10 +37394,6 @@ encoder:
 𰁲	hpjd	0.000000
 㑲	hpjs	0.000000
 𫗕	hpjs	0.000000
-䝡	hpjv	0.000000
-𡦖	hpjv	0.000000
-𧱼	hpjv	0.000000
-𩞘	hpjv	0.000000
 𨟗	hpjx	0.000000
 傼	hpkg	0.000000
 饉	hpkj	0.000000
@@ -39098,6 +39099,8 @@ encoder:
 𩗭	idaq	0.000000
 廌	idar	0.000000
 𱫃	idar	0.000000
+䠃	idav	0.000000
+𩗾	idav	0.000000
 𫋡	idav	0.000000
 𫸠	idaz	0.000000
 𱭅	idc	0.000000
@@ -39205,8 +39208,6 @@ encoder:
 𠠘	idjn	0.000000
 𣰰	idjq	0.000000
 𨁍	idju	0.000000
-䠃	idjv	0.000000
-𩗾	idjv	0.000000
 𩖃	idjw	0.000000
 覍	idjx	0.000000
 𨟉	idjx	0.000000
@@ -41134,6 +41135,7 @@ encoder:
 𨲹	ipam	0.000000
 䟈	ipar	0.000000
 𨈄	ipat	0.000000
+蹣	ipav	0.000000
 𡙻	ipay	0.000000
 𧽅	ipay	0.000000
 𨃭	ipay	0.000000
@@ -41178,7 +41180,6 @@ encoder:
 𩘩	ipjc	0.000000
 𩘬	ipjc	0.000000
 𨂾	ipjs	0.000000
-蹣	ipjv	0.000000
 𧾦	ipjw	0.000000
 𤯺	ipk	0.000000
 𨃧	ipkk	0.000000
@@ -42889,6 +42890,7 @@ encoder:
 𰩯	jdaj	0.000000
 䈆	jdaq	0.000000
 𤉡	jdar	0.000000
+𥮩	jdav	0.000000
 𦫙	jdbb	0.000000
 𤖤	jdbi	0.000000
 𥱬	jdbj	0.000000
@@ -42953,7 +42955,6 @@ encoder:
 覑	jdjp	0.000000
 𥵔	jdjp	0.000000
 筧	jdju	0.000000
-𥮩	jdjv	0.000000
 𥰑	jdjw	0.000000
 戙	jdk	0.000000
 𥲔	jdka	0.000000
@@ -42976,6 +42977,7 @@ encoder:
 𰷯	jdkr	0.000000
 𤭁	jdkt	0.000000
 𭁰	jdkv	0.000000
+㖯	jdkw	0.000000
 𡜝	jdkw	0.000000
 𣬑	jdkw	0.000000
 𩒗	jdkw	0.000000
@@ -43008,7 +43010,6 @@ encoder:
 𥮳	jdoy	0.000000
 𥸔	jdpm	0.000000
 𥰇	jdps	0.000000
-㖯	jdpw	0.000000
 𤽅	jdre	0.000000
 𢻞	jdrr	0.000000
 𥯩	jdsj	0.000000
@@ -43956,7 +43957,6 @@ encoder:
 𦌎	jhco	0.000000
 𱸠	jhcq	0.000000
 𥲼	jhd	0.000000
-𰀊	jhda	0.000000
 𧡠	jhdd	0.000000
 𤼿	jhdi	0.000000
 𥰖	jhdj	0.000000
@@ -45387,6 +45387,7 @@ encoder:
 𥯒	jpak	0.000000
 𥵞	jpam	0.000000
 𥷇	jpap	0.000000
+𥲈	jpav	0.000000
 䈎	jpay	0.000000
 牃	jpay	0.000000
 韘	jpay	0.000000
@@ -45418,7 +45419,6 @@ encoder:
 𥱘	jpi	0.000000
 𡔥	jpj	0.000000
 䈒	jpjs	0.000000
-𥲈	jpjv	0.000000
 𥶽	jpjw	0.000000
 𥵚	jpk	0.000000
 𰪊	jpkh	0.000000
@@ -46046,6 +46046,7 @@ encoder:
 𥱸	jvkp	0.000000
 𥬫	jvlk	0.000000
 篭	jvlu	0.000000
+𢘼	jvlx	0.000000
 𥰝	jvlx	0.000000
 𭷋	jvmp	0.000000
 笢	jvmu	0.000000
@@ -46966,6 +46967,7 @@ encoder:
 𣪆	kdar	0.000000
 𫪕	kdar	0.000000
 𱿒	kdas	0.000000
+啢	kdav	0.000000
 䪽	kdaw	0.000000
 𠵗	kdaw	0.000000
 𲇦	kdaw	0.000000
@@ -47037,7 +47039,6 @@ encoder:
 𭌄	kdjk	0.000000
 𤎁	kdjr	0.000000
 𭍏	kdjr	0.000000
-啢	kdjv	0.000000
 𢿙	kdka	0.000000
 𫫤	kdka	0.000000
 𠯚	kdkc	0.000000
@@ -51842,6 +51843,7 @@ encoder:
 𠅴	lpae	0.000000
 𱹨	lpaf	0.000000
 𤔟	lpai	0.000000
+慲	lpav	0.000000
 惵	lpay	0.000000
 𪍐	lpay	0.000000
 𢥇	lpca	0.000000
@@ -51891,7 +51893,6 @@ encoder:
 𰑝	lpji	0.000000
 𣥼	lpjk	0.000000
 𰑳	lpjs	0.000000
-慲	lpjv	0.000000
 懄	lpkc	0.000000
 𥛂	lpkf	0.000000
 𢠦	lpkg	0.000000
@@ -55368,13 +55369,13 @@ encoder:
 𣛁	mmmy	0.000000
 𠝃	mmn	0.000000
 𡴚	mmnn	0.000000
+𤂒	mmpe	0.000000
 𣶙	mmpq	0.000000
 𣶛	mmpq	0.000000
 𱧆	mmpq	0.000000
 㵜	mmps	0.000000
 𪟻	mmps	0.000000
 濷	mmpv	0.000000
-𤂒	mmpv	0.000000
 𬉞	mmpv	0.000000
 𱨍	mmq	0.000000
 𪇶	mmr	0.000000
@@ -55606,6 +55607,7 @@ encoder:
 渆	mnzn	0.000000
 𣲞	moa	0.000000
 𣴮	moag	0.000000
+𭲞	moav	0.000000
 𬇫	mob	0.000000
 𰛇	mocs	0.000000
 𰛋	mocs	0.000000
@@ -55633,7 +55635,6 @@ encoder:
 𭳯	moix	0.000000
 㳡	moj	0.000000
 𰛫	mojp	0.000000
-𭲞	mojv	0.000000
 𤅈	mol	0.000000
 𱦊	molo	0.000000
 𢜃	molx	0.000000
@@ -55708,16 +55709,29 @@ encoder:
 𣻧	mozl	0.000000
 𭱩	mozl	0.000000
 𣻉	mpaa	0.000000
+𤃐	mpac	0.000000
 瀐	mpad	0.000000
+𡒗	mpae	0.000000
+𤂀	mpai	0.000000
+𨆻	mpai	0.000000
 㳍	mpaj	0.000000
+𫥭	mpaj	0.000000
 渽	mpak	0.000000
+懣	mpal	0.000000
+𣂎	mpal	0.000000
 㵶	mpam	0.000000
+𤁞	mpam	0.000000
 瀻	mpan	0.000000
 𫾷	mpap	0.000000
 𰝑	mpaq	0.000000
 𣽒	mpar	0.000000
+𰟮	mpar	0.000000
+𤁃	mpau	0.000000
+𪯿	mpav	0.000000
 𬵋	mpav	0.000000
 𱧋	mpav	0.000000
+𡣩	mpaw	0.000000
+𤅎	mpaw	0.000000
 溨	mpay	0.000000
 𭲖	mpb	0.000000
 𣽡	mpbo	0.000000
@@ -55752,24 +55766,11 @@ encoder:
 𱦝	mphs	0.000000
 𱨦	mpi	0.000000
 汯	mpis	0.000000
-𮳖	mpja	0.000000
+𮳖	mpj	0.000000
 𣻇	mpjc	0.000000
-𤃐	mpjc	0.000000
-𡒗	mpje	0.000000
-𤂀	mpji	0.000000
-𨆻	mpji	0.000000
 𰛬	mpji	0.000000
-𫥭	mpjj	0.000000
 𱥲	mpjk	0.000000
-懣	mpjl	0.000000
-𣂎	mpjl	0.000000
-𤁞	mpjm	0.000000
-𰟮	mpjr	0.000000
 湳	mpjs	0.000000
-𤁃	mpju	0.000000
-𪯿	mpjv	0.000000
-𡣩	mpjw	0.000000
-𤅎	mpjw	0.000000
 𤁉	mpke	0.000000
 漢	mpkg	0.000000
 漢	mpkg	0.000000
@@ -61291,6 +61292,7 @@ encoder:
 𢴖	odak	0.000000
 𭢖	odap	0.000000
 𭠹	odar	0.000000
+掚	odav	0.000000
 𭢰	odav	0.000000
 𢬘	odb	0.000000
 𢳹	odbf	0.000000
@@ -61357,7 +61359,6 @@ encoder:
 𫾖	odjr	0.000000
 挸	odjs	0.000000
 𰎬	odju	0.000000
-掚	odjv	0.000000
 𫅫	odjw	0.000000
 𢷡	odjy	0.000000
 𢸹	odjy	0.000000
@@ -62641,6 +62642,7 @@ encoder:
 擮	opam	0.000000
 𢶪	opaq	0.000000
 𭢚	opaq	0.000000
+㨺	opav	0.000000
 𣖦	opay	0.000000
 𰔊	opay	0.000000
 𭢙	opb	0.000000
@@ -62685,7 +62687,6 @@ encoder:
 𢱸	opjc	0.000000
 𰺽	opjc	0.000000
 揇	opjs	0.000000
-㨺	opjv	0.000000
 郒	opkb	0.000000
 𰔭	opkc	0.000000
 𢴁	opkg	0.000000
@@ -64056,11 +64057,15 @@ encoder:
 𫬢	pauk	0.000000
 𫓲	paur	0.000000
 𧟭	paux	0.000000
+𰃬	pava	0.000000
 𰾳	pava	0.000000
 蛓	pavc	0.000000
 𧉺	pavc	0.000000
 𢨣	pavk	0.000000
+𢟮	pavl	0.000000
 铇	pavs	0.000000
+㒼	pavv	0.000000
+顢	pavw	0.000000
 𢖍	pavx	0.000000
 𦐞	pawv	0.000000
 𫜱	paxd	0.000000
@@ -64177,7 +64182,6 @@ encoder:
 𱕵	pcpp	0.000000
 囅	pcpq	0.000000
 𦪣	pcpq	0.000000
-㔺	pcps	0.000000
 辴	pcps	0.000000
 𧈍	pcps	0.000000
 𰕣	pcps	0.000000
@@ -64590,13 +64594,9 @@ encoder:
 𬭾	pjez	0.000000
 𮷷	pjfj	0.000000
 䘘	pjfs	0.000000
-𰃬	pjha	0.000000
 𰅰	pjhd	0.000000
 𰭿	pjhh	0.000000
-𢟮	pjhl	0.000000
 𰅹	pjht	0.000000
-㒼	pjhv	0.000000
-顢	pjhw	0.000000
 𫋭	pjid	0.000000
 𫓭	pjid	0.000000
 𰅴	pjid	0.000000
@@ -65007,6 +65007,8 @@ encoder:
 𲈠	pow	0.000000
 𬬼	poy	0.000000
 𢆐	poz	0.000000
+㔺	ppae	0.000000
+𫧥	ppav	0.000000
 𰾕	ppay	0.000000
 𠦽	ppc	0.000000
 𰾶	ppcl	0.000000
@@ -65022,7 +65024,6 @@ encoder:
 𩁣	ppi	0.000000
 𰾾	ppja	0.000000
 𰾂	ppji	0.000000
-𫧥	ppjv	0.000000
 𡅱	ppk	0.000000
 𰾖	ppl	0.000000
 𣫯	ppmm	0.000000
@@ -65762,6 +65763,7 @@ encoder:
 𧘾	qdaq	0.000000
 𫄫	qdaq	0.000000
 𧞦	qdar	0.000000
+裲	qdav	0.000000
 𬩼	qdax	0.000000
 𨋭	qdb	0.000000
 𫦳	qdbc	0.000000
@@ -65819,7 +65821,7 @@ encoder:
 褄	qdiw	0.000000
 𰬢	qdiw	0.000000
 𨋎	qdix	0.000000
-凮	qdjb	0.000000
+凮	qdj	0.000000
 袹	qdjb	0.000000
 𮎋	qdjb	0.000000
 𲁁	qdjc	0.000000
@@ -65832,7 +65834,6 @@ encoder:
 覒	qdjm	0.000000
 䚀	qdjo	0.000000
 輌	qdju	0.000000
-裲	qdjv	0.000000
 䌿	qdkc	0.000000
 褔	qdkc	0.000000
 輻	qdkc	0.000000
@@ -67311,6 +67312,8 @@ encoder:
 𮡢	qpao	0.000000
 𢾊	qpap	0.000000
 𢾛	qpap	0.000000
+襔	qpav	0.000000
+𣯩	qpav	0.000000
 𬘹	qpax	0.000000
 艓	qpay	0.000000
 褋	qpay	0.000000
@@ -67359,8 +67362,6 @@ encoder:
 䡌	qpis	0.000000
 𰚐	qpis	0.000000
 䌾	qpjs	0.000000
-襔	qpjv	0.000000
-𣯩	qpjv	0.000000
 𨎔	qpk	0.000000
 𣭊	qpkk	0.000000
 𧙗	qpkk	0.000000
@@ -68904,6 +68905,7 @@ encoder:
 𮳝	rdaj	0.000000
 𤈃	rdar	0.000000
 㼥	rdat	0.000000
+䩫	rdav	0.000000
 𭶇	rday	0.000000
 𱯦	rday	0.000000
 𰞑	rdb	0.000000
@@ -68980,7 +68982,6 @@ encoder:
 𪹄	rdjl	0.000000
 𤎈	rdjo	0.000000
 𩋹	rdjr	0.000000
-䩫	rdjv	0.000000
 𩌟	rdjw	0.000000
 熩	rdk	0.000000
 𤨖	rdkb	0.000000
@@ -70604,6 +70605,7 @@ encoder:
 𭚗	rnzo	0.000000
 𭀜	roa	0.000000
 𭄐	roan	0.000000
+𧸕	roav	0.000000
 𤧦	rob	0.000000
 𧴫	roc	0.000000
 𮙮	rocb	0.000000
@@ -70639,7 +70641,6 @@ encoder:
 𱯉	roih	0.000000
 𤒱	roix	0.000000
 𤊂	roj	0.000000
-𧸕	rojv	0.000000
 𤤯	rom	0.000000
 𩊍	roms	0.000000
 𪸠	roms	0.000000
@@ -70715,6 +70716,8 @@ encoder:
 𤍬	rpao	0.000000
 𧸄	rpaq	0.000000
 𧸊	rpar	0.000000
+璊	rpav	0.000000
+𰟓	rpav	0.000000
 煠	rpay	0.000000
 㻡	rpay	0.000000
 鞢	rpay	0.000000
@@ -70765,8 +70768,6 @@ encoder:
 𩉦	rpis	0.000000
 煵	rpjs	0.000000
 𪻳	rpjs	0.000000
-璊	rpjv	0.000000
-𰟓	rpjv	0.000000
 𭺎	rpjw	0.000000
 𤑆	rpke	0.000000
 𤪣	rpke	0.000000
@@ -76170,6 +76171,8 @@ encoder:
 𣔩	tpaj	0.000000
 䶪	tpam	0.000000
 𠛻	tpan	0.000000
+𣝮	tpav	0.000000
+𦔚	tpav	0.000000
 𦉃	tpay	0.000000
 𤮍	tpc	0.000000
 𦉕	tpcp	0.000000
@@ -76191,8 +76194,6 @@ encoder:
 𩞌	tphs	0.000000
 遬	tpj	0.000000
 𠙹	tpjk	0.000000
-𣝮	tpjv	0.000000
-𦔚	tpjv	0.000000
 䎯	tpk	0.000000
 𪙟	tpkj	0.000000
 𠮮	tpkk	0.000000
@@ -79373,6 +79374,7 @@ encoder:
 嶻	upam	0.000000
 𡽱	upam	0.000000
 𰖺	upan	0.000000
+暪	upav	0.000000
 𡺑	upay	0.000000
 𣈽	upay	0.000000
 𰖜	upay	0.000000
@@ -79440,7 +79442,6 @@ encoder:
 𪩂	upjs	0.000000
 𫡵	upjs	0.000000
 𱎖	upjs	0.000000
-暪	upjv	0.000000
 𠪲	upkc	0.000000
 厪	upkj	0.000000
 㬮	upkm	0.000000
@@ -81449,6 +81450,7 @@ encoder:
 𦔲	vdae	0.000000
 𰲳	vdag	0.000000
 蜧	vdaq	0.000000
+蜽	vdav	0.000000
 𦫕	vdb	0.000000
 𰳆	vdcc	0.000000
 䗵	vdcd	0.000000
@@ -81508,7 +81510,6 @@ encoder:
 𧍮	vdjk	0.000000
 𪞶	vdjk	0.000000
 𧠠	vdjm	0.000000
-蜽	vdjv	0.000000
 䙿	vdjw	0.000000
 𠥏	vdkc	0.000000
 𧕁	vdkd	0.000000
@@ -82742,6 +82743,7 @@ encoder:
 𧐦	vpao	0.000000
 𧓥	vpao	0.000000
 𠥠	vpaq	0.000000
+蟎	vpav	0.000000
 𮋶	vpay	0.000000
 𰃜	vpay	0.000000
 聴	vpb	0.000000
@@ -82770,8 +82772,7 @@ encoder:
 耾	vpi	0.000000
 𧈽	vpis	0.000000
 螁	vpjc	0.000000
-蟎	vpjv	0.000000
-𫆊	vpjv	0.000000
+𫆊	vpjh	0.000000
 𧑠	vpk	0.000000
 螼	vpkj	0.000000
 𱑍	vpkk	0.000000
@@ -84359,6 +84360,7 @@ encoder:
 𨥳	wdat	0.000000
 𫩁	wdat	0.000000
 𬁯	wdau	0.000000
+𨨄	wdav	0.000000
 𫲌	wdaw	0.000000
 𪤐	wdaz	0.000000
 銫	wdb	0.000000
@@ -84440,7 +84442,6 @@ encoder:
 𰽒	wdjj	0.000000
 𨩮	wdjk	0.000000
 娊	wdjn	0.000000
-𨨄	wdjv	0.000000
 嫓	wdjw	0.000000
 𲇚	wdjw	0.000000
 𧡱	wdjy	0.000000
@@ -85731,6 +85732,7 @@ encoder:
 𰼟	wkkj	0.000000
 𡢆	wkkl	0.000000
 𪦅	wkkl	0.000000
+㖲	wkkw	0.000000
 㣲	wkkw	0.000000
 𡜣	wklg	0.000000
 𥙦	wkls	0.000000
@@ -86394,6 +86396,8 @@ encoder:
 𭤊	wpap	0.000000
 𮣦	wpap	0.000000
 𮢨	wpar	0.000000
+鏋	wpav	0.000000
+𡠪	wpav	0.000000
 䑜	wpay	0.000000
 鍱	wpay	0.000000
 𩐱	wpay	0.000000
@@ -86456,8 +86460,6 @@ encoder:
 贛	wpjr	0.000000
 𰷝	wpjr	0.000000
 𨩇	wpjs	0.000000
-鏋	wpjv	0.000000
-𡠪	wpjv	0.000000
 𨭯	wpkc	0.000000
 𫱄	wpkf	0.000000
 嫨	wpkg	0.000000
@@ -86533,8 +86535,7 @@ encoder:
 𨯪	wpuw	0.000000
 𨩑	wpuz	0.000000
 𢥔	wpv	0.000000
-㖲	wpw	0.000000
-𮱍	wpwj	0.000000
+𮱍	wpw	0.000000
 𢥹	wpwl	0.000000
 𭟪	wpwl	0.000000
 嬜	wpwn	0.000000
@@ -91683,6 +91684,7 @@ encoder:
 𦥥	ydat	0.000000
 𮉺	ydat	0.000000
 𡽬	ydau	0.000000
+𣓈	ydav	0.000000
 𰘙	ydav	0.000000
 𨮖	ydaw	0.000000
 𬛼	ydax	0.000000
@@ -91747,7 +91749,6 @@ encoder:
 𣕄	ydjk	0.000000
 梘	ydjm	0.000000
 𦥩	ydjn	0.000000
-𣓈	ydjv	0.000000
 𣗽	ydjw	0.000000
 𭬓	ydjy	0.000000
 槴	ydk	0.000000
@@ -93017,7 +93018,6 @@ encoder:
 𬄝	ylwy	0.000000
 𮨕	ylwy	0.000000
 𢘁	ylx	0.000000
-𢘼	ylxc	0.000000
 桏	ylxe	0.000000
 𣒒	ylxe	0.000000
 杺	ylxm	0.000000
@@ -93338,6 +93338,7 @@ encoder:
 𱤱	ypap	0.000000
 𣚸	ypaq	0.000000
 𪳾	ypaq	0.000000
+樠	ypav	0.000000
 𱂊	ypay	0.000000
 㯖	ypb	0.000000
 𭬪	ypca	0.000000
@@ -93369,7 +93370,6 @@ encoder:
 𬄬	ypja	0.000000
 𣗔	ypjc	0.000000
 𰗝	ypjd	0.000000
-樠	ypjv	0.000000
 𣝀	ypkc	0.000000
 𣖻	ypkh	0.000000
 槗	ypkk	0.000000
@@ -94947,6 +94947,7 @@ encoder:
 𡭆	zavo	0.000000
 𦳤	zavr	0.000000
 𦶨	zavv	0.000000
+𰂑	zavv	0.000000
 𦲎	zavx	0.000000
 𮎠	zaw	0.000000
 𧃩	zawe	0.000000
@@ -95346,6 +95347,7 @@ encoder:
 𬞷	zdar	0.000000
 𱪷	zdar	0.000000
 𦭄	zdat	0.000000
+䓣	zdav	0.000000
 𦹗	zdaw	0.000000
 𣱒	zdb	0.000000
 䓽	zdbj	0.000000
@@ -95430,7 +95432,6 @@ encoder:
 𬜼	zdjn	0.000000
 𱽴	zdjn	0.000000
 𬡼	zdjs	0.000000
-䓣	zdjv	0.000000
 𦲐	zdka	0.000000
 蔰	zdkb	0.000000
 葍	zdkc	0.000000
@@ -96651,7 +96652,6 @@ encoder:
 𦿦	zjhn	0.000000
 𱽡	zjhn	0.000000
 𠇮	zjhr	0.000000
-𰂑	zjhv	0.000000
 萞	zjhw	0.000000
 𦯛	zjhz	0.000000
 䒘	zjic	0.000000
@@ -99572,6 +99572,7 @@ encoder:
 𭃊	adad
 𥥆	adae
 𬵁	adae
+𰀊	adae
 鸑	adag
 𫞣	adag
 𰏕	adag
@@ -101891,6 +101892,8 @@ encoder:
 𱮮	apan
 𩻅	apao
 𫻸	apap
+𤡁	apav
+𩺴	apav
 幉	apay
 鰈	apay
 𭸗	apay
@@ -101948,8 +101951,6 @@ encoder:
 𡕭	apji
 𩹞	apjs
 𬌹	apjs
-𤡁	apjv
-𩺴	apjv
 𤡉	apkg
 𬔐	apkj
 𤠬	apkk
@@ -105474,6 +105475,8 @@ encoder:
 𢇴	bpaj
 𥞎	bpaj
 𢾦	bpap
+䤍	bpav
+𥡹	bpav
 𥠓	bpay
 𲆲	bpay
 𭙾	bpbq
@@ -105524,8 +105527,6 @@ encoder:
 罱	bpjs
 𥠮	bpjs
 𨡯	bpjs
-䤍	bpjv
-𥡹	bpjv
 㢙	bpkc
 𢋓	bpke
 醢	bpkh
@@ -107577,6 +107578,7 @@ encoder:
 㔔	ckkk
 加	ckkl
 𣄮	ckku
+㖙	ckkw
 𬣚	ckky
 㤎	cklx
 识	cknb
@@ -107881,7 +107883,6 @@ encoder:
 𭺿	cpty
 𬣾	cpur
 𭚼	cpus
-㖙	cpwb
 𰅎	cpxl
 𢏼	cpym
 𢐇	cpzy
@@ -108605,13 +108606,20 @@ encoder:
 𡹘	daus
 𱳳	daus
 譀	dava
+㔝	davc
+𩳮	dave
 𫆈	dave
 𪲬	davn
+𧶪	davr
 龅	davs
 䛌	davs
 砲	davs
 𭠆	davs
 𮘋	davs
+𩀝	davt
+兩	davv
+兩	davv
+𦑅	davw
 讒	dawa
 𢩢	dawa
 𰧫	dawa
@@ -108785,7 +108793,6 @@ encoder:
 画	dcjk
 画	dcjk
 𤰱	dcjk
-㓰	dcjn
 𥑆	dckk
 𧦤	dckk
 𧬂	dckr
@@ -110401,10 +110408,8 @@ encoder:
 𬍈	djha
 𭤓	djha
 𰕏	djha
-㔝	djhc
 𧢮	djhd
 𭽈	djhd
-𩳮	djhe
 𦄠	djhf
 𥒩	djhg
 𪈹	djhg
@@ -110426,15 +110431,10 @@ encoder:
 㶮	djhr
 訥	djhr
 𡗚	djhr
-𧶪	djhr
 𬹻	djhr
 𮭹	djhr
 𰞁	djhr
-𩀝	djht
-兩	djhv
-兩	djhv
 𡠈	djhw
-𦑅	djhw
 邴	djhx
 𨜦	djhx
 𨟫	djhx
@@ -111408,6 +111408,7 @@ encoder:
 𬺕	dpam
 㪀	dpap
 𠦴	dpap
+𧫩	dpav
 碟	dpay
 諜	dpay
 𫌣	dpay
@@ -111455,7 +111456,6 @@ encoder:
 𦞍	dpjh
 諵	dpjs
 𫌢	dpjs
-𧫩	dpjv
 𬣔	dpjw
 謹	dpke
 𧭩	dpke
@@ -112128,6 +112128,7 @@ encoder:
 𨑿	dujc
 謜	duji
 𮀷	dujj
+㓰	dujn
 諯	duke
 𥔗	duke
 𥖤	dukj
@@ -113384,6 +113385,8 @@ encoder:
 𦣢	edaj
 𭿚	edak
 睙	edaq
+魎	edav
+𥇑	edav
 𥅺	edbb
 𱖥	edbb
 𪤔	edbf
@@ -113476,8 +113479,6 @@ encoder:
 𱳏	edjk
 睍	edjm
 垷	edjt
-魎	edjv
-𥇑	edjv
 𧠉	edjy
 堛	edkc
 瞓	edkc
@@ -115659,6 +115660,8 @@ encoder:
 𱉹	epao
 欷	epap
 瓻	epat
+瞞	epav
+㙢	epav
 𠨚	epaw
 𩒽	epaw
 郗	epax
@@ -115729,8 +115732,6 @@ encoder:
 𪢹	epjk
 𡎜	epjs
 𥈶	epjs
-瞞	epjv
-㙢	epjv
 𡓎	epjw
 𡒣	epke
 𩴴	epke
@@ -117851,6 +117852,9 @@ encoder:
 𦜏	fdaq
 𮨁	fdaq
 𥾳	fdar
+緉	fdav
+脼	fdav
+𣍷	fdav
 脃	fdbb
 絶	fdbb
 脃	fdbb
@@ -118017,9 +118021,6 @@ encoder:
 𧢢	fdjl
 粯	fdjm
 絸	fdjs
-緉	fdjv
-脼	fdjv
-𣍷	fdjv
 䏹	fdjy
 𧠊	fdjy
 𢼁	fdka
@@ -120712,6 +120713,8 @@ encoder:
 繊	fpao
 𦅞	fpaq
 𫄇	fpaq
+䊟	fpav
+䐽	fpav
 䐑	fpay
 屟	fpay
 緤	fpay
@@ -120767,8 +120770,6 @@ encoder:
 腩	fpjs
 䊖	fpjs
 䋻	fpjs
-䊟	fpjv
-䐽	fpjv
 𪨒	fpke
 𦟫	fpkg
 䌍	fpkj
@@ -122906,6 +122907,8 @@ encoder:
 𡧴	gdao
 𱝲	gdaq
 𭔌	gdau
+𩭫	gdav
+𱝰	gdav
 𠘌	gdcd
 𩬗	gdcl
 𪀂	gdcl
@@ -122981,8 +122984,6 @@ encoder:
 𧠫	gdji
 𰐶	gdjl
 䂓	gdjs
-𩭫	gdjv
-𱝰	gdjv
 𢖕	gdjw
 𰍒	gdjy
 𫹢	gdka
@@ -124880,6 +124881,7 @@ encoder:
 𭓤	gpaj
 𰄂	gpak
 䰏	gpam
+鬗	gpav
 𩶲	gpav
 𠗨	gpay
 𥏭	gpay
@@ -124957,7 +124959,6 @@ encoder:
 𠸆	gpjk
 㓓	gpjs
 㣮	gpjs
-鬗	gpjv
 𮀆	gpke
 𡧲	gpkh
 乲	gpki
@@ -126665,6 +126666,7 @@ encoder:
 𠇆	hdaj
 𬲌	hdaj
 㑦	hdaq
+倆	hdav
 𠈜	hdbb
 僵	hdcd
 𮩓	hdcd
@@ -126739,7 +126741,6 @@ encoder:
 俔	hdjr
 𧠇	hdjs
 𠈓	hdju
-倆	hdjv
 𠍛	hdjw
 𧴀	hdjw
 𬿼	hdjy
@@ -128641,6 +128642,10 @@ encoder:
 儎	hpaq
 𬿢	hpaq
 𬿱	hpar
+䝡	hpav
+𡦖	hpav
+𧱼	hpav
+𩞘	hpav
 𱏌	hpav
 傤	hpax
 䭎	hpay
@@ -128711,10 +128716,6 @@ encoder:
 𰁲	hpjd
 㑲	hpjs
 𫗕	hpjs
-䝡	hpjv
-𡦖	hpjv
-𧱼	hpjv
-𩞘	hpjv
 𨟗	hpjx
 傼	hpkg
 僅	hpkj
@@ -130641,6 +130642,8 @@ encoder:
 𩗭	idaq
 廌	idar
 𱫃	idar
+䠃	idav
+𩗾	idav
 𫋡	idav
 𫸠	idaz
 𱭅	idcc
@@ -130753,8 +130756,6 @@ encoder:
 𠠘	idjn
 𣰰	idjq
 𨁍	idju
-䠃	idjv
-𩗾	idjv
 𩖃	idjw
 覍	idjx
 𨟉	idjx
@@ -132854,6 +132855,7 @@ encoder:
 𨲹	ipam
 䟈	ipar
 𨈄	ipat
+蹣	ipav
 蹀	ipay
 𡙻	ipay
 𧽅	ipay
@@ -132900,7 +132902,6 @@ encoder:
 𩘩	ipjc
 𩘬	ipjc
 𨂾	ipjs
-蹣	ipjv
 𧾦	ipjw
 𤯺	ipkc
 𨃧	ipkk
@@ -134753,6 +134754,7 @@ encoder:
 𰩯	jdaj
 䈆	jdaq
 𤉡	jdar
+𥮩	jdav
 艳	jdbb
 𦫙	jdbb
 牖	jdbf
@@ -134822,7 +134824,6 @@ encoder:
 覑	jdjp
 𥵔	jdjp
 筧	jdju
-𥮩	jdjv
 𥰑	jdjw
 戙	jdka
 𥲔	jdka
@@ -134846,6 +134847,7 @@ encoder:
 𰷯	jdkr
 𤭁	jdkt
 𭁰	jdkv
+㖯	jdkw
 𡜝	jdkw
 𣬑	jdkw
 𩒗	jdkw
@@ -134879,7 +134881,6 @@ encoder:
 𥸔	jdpm
 竽	jdps
 𥰇	jdps
-㖯	jdpw
 兕	jdre
 𤽅	jdre
 𢻞	jdrr
@@ -135911,7 +135912,6 @@ encoder:
 𦌎	jhco
 𱸠	jhcq
 𥲼	jhda
-𰀊	jhda
 𧡠	jhdd
 𤼿	jhdi
 𥰖	jhdj
@@ -137471,6 +137471,7 @@ encoder:
 𥯒	jpak
 𥵞	jpam
 𥷇	jpap
+𥲈	jpav
 牒	jpay
 䈎	jpay
 牃	jpay
@@ -137506,7 +137507,6 @@ encoder:
 𥱘	jpiy
 𡔥	jpjk
 䈒	jpjs
-𥲈	jpjv
 𥶽	jpjw
 𥵚	jpkc
 𰪊	jpkh
@@ -137575,7 +137575,7 @@ encoder:
 𮅻	jqau
 𨋧	jqcb
 𫁿	jqcu
-簔	jqdp
+簔	jqdd
 𮵭	jqei
 𣍅	jqeq
 𥵭	jqer
@@ -138189,6 +138189,7 @@ encoder:
 𥬫	jvlk
 笼	jvlu
 篭	jvlu
+𢘼	jvlx
 𥰝	jvlx
 𭷋	jvmp
 浆	jvms
@@ -139204,6 +139205,7 @@ encoder:
 𫪕	kdar
 號	kdas
 𱿒	kdas
+啢	kdav
 䪽	kdaw
 𠵗	kdaw
 𲇦	kdaw
@@ -139283,7 +139285,6 @@ encoder:
 𭌄	kdjk
 𤎁	kdjr
 𭍏	kdjr
-啢	kdjv
 𢿙	kdka
 𫫤	kdka
 𠯚	kdkc
@@ -144700,6 +144701,7 @@ encoder:
 𱹨	lpaf
 𤔟	lpai
 怖	lpaj
+慲	lpav
 惵	lpay
 𪍐	lpay
 𢥇	lpca
@@ -144755,7 +144757,6 @@ encoder:
 𰑝	lpji
 𣥼	lpjk
 𰑳	lpjs
-慲	lpjv
 懄	lpkc
 𥛂	lpkf
 𢠦	lpkg
@@ -148763,6 +148764,7 @@ encoder:
 𠝃	mmnd
 𡴚	mmnn
 㳚	mmod
+𤂒	mmpe
 𣶙	mmpq
 𣶛	mmpq
 𱧆	mmpq
@@ -148771,7 +148773,6 @@ encoder:
 㵜	mmps
 𪟻	mmps
 濷	mmpv
-𤂒	mmpv
 𬉞	mmpv
 𱨍	mmqo
 𪇶	mmrg
@@ -149047,6 +149048,7 @@ encoder:
 渆	mnzn
 𣲞	moae
 𣴮	moag
+𭲞	moav
 𬇫	mobb
 沩	moco
 𰛇	mocs
@@ -149079,7 +149081,6 @@ encoder:
 𭳯	moix
 㳡	mojc
 𰛫	mojp
-𭲞	mojv
 𤅈	mold
 𱦊	molo
 𢜃	molx
@@ -149166,18 +149167,32 @@ encoder:
 𭱩	mozl
 辟	mppp
 𣻉	mpaa
+𤃐	mpac
 瀐	mpad
 泄	mpae
+𡒗	mpae
 渎	mpai
+𤂀	mpai
+𨆻	mpai
 㳍	mpaj
+𫥭	mpaj
 渽	mpak
+懣	mpal
+𣂎	mpal
 㵶	mpam
+𤁞	mpam
 瀻	mpan
 𫾷	mpap
 𰝑	mpaq
 𣽒	mpar
+𰟮	mpar
+𤁃	mpau
+滿	mpav
+𪯿	mpav
 𬵋	mpav
 𱧋	mpav
+𡣩	mpaw
+𤅎	mpaw
 渫	mpay
 溨	mpay
 𭲖	mpbl
@@ -149225,23 +149240,9 @@ encoder:
 汯	mpis
 𮳖	mpja
 𣻇	mpjc
-𤃐	mpjc
-𡒗	mpje
-𤂀	mpji
-𨆻	mpji
 𰛬	mpji
-𫥭	mpjj
 𱥲	mpjk
-懣	mpjl
-𣂎	mpjl
-𤁞	mpjm
-𰟮	mpjr
 湳	mpjs
-𤁃	mpju
-滿	mpjv
-𪯿	mpjv
-𡣩	mpjw
-𤅎	mpjw
 𤁉	mpke
 漢	mpkg
 漢	mpkg
@@ -155466,6 +155467,7 @@ encoder:
 𭢖	odap
 捩	odaq
 𭠹	odar
+掚	odav
 𭢰	odav
 𢬘	odbb
 𢳹	odbf
@@ -155541,7 +155543,6 @@ encoder:
 𫾖	odjr
 挸	odjs
 𰎬	odju
-掚	odjv
 𫅫	odjw
 𢷡	odjy
 𢸹	odjy
@@ -157038,6 +157039,7 @@ encoder:
 擮	opam
 𢶪	opaq
 𭢚	opaq
+㨺	opav
 揲	opay
 𣖦	opay
 𰔊	opay
@@ -157090,7 +157092,6 @@ encoder:
 𢱸	opjc
 𰺽	opjc
 揇	opjs
-㨺	opjv
 郒	opkb
 𰔭	opkc
 𢴁	opkg
@@ -158698,13 +158699,17 @@ encoder:
 𫬢	pauk
 𫓲	paur
 𧟭	paux
+𰃬	pava
 𰾳	pava
 贳	pavb
 勚	pavc
 蛓	pavc
 𧉺	pavc
 𢨣	pavk
+𢟮	pavl
 铇	pavs
+㒼	pavv
+顢	pavw
 𢖍	pavx
 镵	pawa
 𦐞	pawv
@@ -158850,7 +158855,6 @@ encoder:
 囅	pcpq
 𦪣	pcpq
 單	pcps
-㔺	pcps
 辴	pcps
 𧈍	pcps
 𰕣	pcps
@@ -159377,14 +159381,10 @@ encoder:
 𮷷	pjfj
 䘘	pjfs
 锖	pjfy
-𰃬	pjha
 𰅰	pjhd
 𰭿	pjhh
-𢟮	pjhl
 钠	pjhr
 𰅹	pjht
-㒼	pjhv
-顢	pjhw
 𫋭	pjid
 𫓭	pjid
 𰅴	pjid
@@ -159892,7 +159892,9 @@ encoder:
 𲈠	pown
 𬬼	poyj
 𢆐	pozg
+㔺	ppae
 钸	ppaj
+𫧥	ppav
 𰾕	ppay
 𠦽	ppcl
 𰾶	ppcl
@@ -159913,7 +159915,6 @@ encoder:
 𩁣	ppim
 𰾾	ppja
 𰾂	ppji
-𫧥	ppjv
 衔	ppjx
 𡅱	ppkp
 𰾖	pplf
@@ -160846,6 +160847,8 @@ encoder:
 𧘾	qdaq
 𫄫	qdaq
 𧞦	qdar
+輛	qdav
+裲	qdav
 𬩼	qdax
 绝	qdbb
 𨋭	qdbb
@@ -160921,8 +160924,6 @@ encoder:
 覒	qdjm
 䚀	qdjo
 輌	qdju
-輛	qdjv
-裲	qdjv
 䌿	qdkc
 褔	qdkc
 輻	qdkc
@@ -162626,6 +162627,8 @@ encoder:
 𮡢	qpao
 𢾊	qpap
 𢾛	qpap
+襔	qpav
+𣯩	qpav
 𬘹	qpax
 艓	qpay
 褋	qpay
@@ -162680,8 +162683,6 @@ encoder:
 𰚐	qpis
 褪	qpjc
 䌾	qpjs
-襔	qpjv
-𣯩	qpjv
 𨎔	qpkg
 𣭊	qpkk
 𧙗	qpkk
@@ -164416,6 +164417,7 @@ encoder:
 𮳝	rdaj
 𤈃	rdar
 㼥	rdat
+䩫	rdav
 𭶇	rday
 𱯦	rday
 𰞑	rdbb
@@ -164502,7 +164504,6 @@ encoder:
 𪹄	rdjl
 𤎈	rdjo
 𩋹	rdjr
-䩫	rdjv
 現	rdjw
 𩌟	rdjw
 熩	rdkb
@@ -166335,6 +166336,7 @@ encoder:
 𭚗	rnzo
 𭀜	roae
 𭄐	roan
+𧸕	roav
 𤧦	robr
 𧴫	rocb
 𮙮	rocb
@@ -166376,7 +166378,6 @@ encoder:
 𱯉	roih
 𤒱	roix
 𤊂	rojc
-𧸕	rojv
 𤤯	roms
 𩊍	roms
 𪸠	roms
@@ -166463,6 +166464,8 @@ encoder:
 𤍬	rpao
 𧸄	rpaq
 𧸊	rpar
+璊	rpav
+𰟓	rpav
 煠	rpay
 㻡	rpay
 鞢	rpay
@@ -166522,8 +166525,6 @@ encoder:
 煺	rpjc
 煵	rpjs
 𪻳	rpjs
-璊	rpjv
-𰟓	rpjv
 𭺎	rpjw
 𤑆	rpke
 𤪣	rpke
@@ -172634,6 +172635,8 @@ encoder:
 𣔩	tpaj
 䶪	tpam
 𠛻	tpan
+𣝮	tpav
+𦔚	tpav
 𦉃	tpay
 𤮍	tpco
 𦉕	tpcp
@@ -172658,8 +172661,6 @@ encoder:
 闳	tpis
 遬	tpjc
 𠙹	tpjk
-𣝮	tpjv
-𦔚	tpjv
 䎯	tpkg
 𪙟	tpkj
 𠮮	tpkk
@@ -176184,6 +176185,7 @@ encoder:
 嶻	upam
 𡽱	upam
 𰖺	upan
+暪	upav
 𡺑	upay
 𣈽	upay
 𰖜	upay
@@ -176258,7 +176260,6 @@ encoder:
 𪩂	upjs
 𫡵	upjs
 𱎖	upjs
-暪	upjv
 𠪲	upkc
 暵	upkg
 厪	upkj
@@ -178486,6 +178487,7 @@ encoder:
 贱	vdag
 𰲳	vdag
 蜧	vdaq
+蜽	vdav
 𦫕	vdbb
 𰳆	vdcc
 䗵	vdcd
@@ -178551,7 +178553,6 @@ encoder:
 𧍮	vdjk
 𪞶	vdjk
 𧠠	vdjm
-蜽	vdjv
 䙿	vdjw
 蝠	vdkc
 𠥏	vdkc
@@ -179946,6 +179947,7 @@ encoder:
 𧐦	vpao
 𧓥	vpao
 𠥠	vpaq
+蟎	vpav
 蝶	vpay
 𮋶	vpay
 𰃜	vpay
@@ -179978,9 +179980,8 @@ encoder:
 耾	vpis
 𧈽	vpis
 螁	vpjc
+𫆊	vpjh
 蝻	vpjs
-蟎	vpjv
-𫆊	vpjv
 𧑠	vpkd
 螼	vpkj
 𱑍	vpkk
@@ -181728,6 +181729,7 @@ encoder:
 𨥳	wdat
 𫩁	wdat
 𬁯	wdau
+𨨄	wdav
 𫲌	wdaw
 𪤐	wdaz
 銫	wdbb
@@ -181815,7 +181817,6 @@ encoder:
 𰽒	wdjj
 𨩮	wdjk
 娊	wdjn
-𨨄	wdjv
 嫓	wdjw
 𲇚	wdjw
 𧡱	wdjy
@@ -183223,6 +183224,7 @@ encoder:
 𡢆	wkkl
 𪦅	wkkl
 如	wkkn
+㖲	wkkw
 㣲	wkkw
 𡜣	wklg
 𥙦	wkls
@@ -183942,6 +183944,8 @@ encoder:
 𮣦	wpap
 鐵	wpar
 𮢨	wpar
+鏋	wpav
+𡠪	wpav
 媟	wpay
 䑜	wpay
 鍱	wpay
@@ -184013,8 +184017,6 @@ encoder:
 婻	wpjs
 𨩇	wpjs
 赣	wpjv
-鏋	wpjv
-𡠪	wpjv
 𨭯	wpkc
 𫱄	wpkf
 嫨	wpkg
@@ -184099,7 +184101,6 @@ encoder:
 𨯪	wpuw
 𨩑	wpuz
 𢥔	wpvl
-㖲	wpwb
 𮱍	wpwj
 𢥹	wpwl
 𭟪	wpwl
@@ -189773,6 +189774,7 @@ encoder:
 𦥥	ydat
 𮉺	ydat
 𡽬	ydau
+𣓈	ydav
 𰘙	ydav
 𨮖	ydaw
 𬛼	ydax
@@ -189848,7 +189850,6 @@ encoder:
 𣕄	ydjk
 梘	ydjm
 𦥩	ydjn
-𣓈	ydjv
 𣗽	ydjw
 𭬓	ydjy
 槴	ydkb
@@ -191279,7 +191280,6 @@ encoder:
 𬄝	ylwy
 𮨕	ylwy
 𢘁	ylxc
-𢘼	ylxc
 桏	ylxe
 𣒒	ylxe
 杺	ylxm
@@ -191660,6 +191660,7 @@ encoder:
 𱤱	ypap
 𣚸	ypaq
 𪳾	ypaq
+樠	ypav
 楪	ypay
 𱂊	ypay
 㯖	ypbl
@@ -191699,7 +191700,6 @@ encoder:
 𣗔	ypjc
 𰗝	ypjd
 楠	ypjs
-樠	ypjv
 𣝀	ypkc
 𣖻	ypkh
 槿	ypkj
@@ -193493,6 +193493,7 @@ encoder:
 𦳤	zavr
 苞	zavs
 𦶨	zavv
+𰂑	zavv
 𦲎	zavx
 莸	zavy
 𮎠	zawb
@@ -193938,6 +193939,7 @@ encoder:
 𬞷	zdar
 𱪷	zdar
 𦭄	zdat
+䓣	zdav
 𦹗	zdaw
 𣱒	zdbe
 䓽	zdbj
@@ -194027,7 +194029,6 @@ encoder:
 𬜼	zdjn
 𱽴	zdjn
 𬡼	zdjs
-䓣	zdjv
 𦲐	zdka
 蔰	zdkb
 葍	zdkc
@@ -195415,7 +195416,6 @@ encoder:
 𱽡	zjhn
 芮	zjhr
 𠇮	zjhr
-𰂑	zjhv
 萞	zjhw
 𦯛	zjhz
 䒘	zjic
