@@ -85,7 +85,7 @@ gen_schema() {
     cp ../template/dicts/*.yaml "${HAO}/dicts" || error "复制码表文件失败"
     cp ../template/leopard*.yaml "${HAO}" || error "复制豹码配置失败"
     cp ../template/qr*.yaml "${HAO}" || error "复制二维码配置失败"
-
+    cp ../template/lm*.yaml "${HAO}" || error "复制lm配置失败"
     # 使用自定义配置覆盖默认值
     if [ -d "${NAME}" ]; then
         log "应用自定义配置..."

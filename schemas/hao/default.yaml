@@ -34,7 +34,7 @@ switcher:
     - charset.freqly
 
 menu:
-  page_size: 5
+  page_size: 9
 
 key_binder:
   bindings:

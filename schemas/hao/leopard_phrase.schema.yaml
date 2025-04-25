@@ -70,7 +70,7 @@ smartfixed:
     - xform/_//
 
 menu:
-  page_size: 5
+  page_size: 4
 
 style:
   horizontal: false
@@ -80,7 +80,7 @@ key_binder:
   bindings:
     __append:
       - { when: has_menu, accept: " ", send: "_" }
-      - { when: has_menu, accept: Control+space, send: " " }
+      - { when: has_menu, accept: Shift+space, send: " " }
       #- { when: has_menu, accept: ".", send: " " }
 
 recognizer:

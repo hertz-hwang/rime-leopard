@@ -6,6 +6,7 @@ patch:
     - schema: leopard_typeR   # 好碼四定·竞速
     - schema: leopard_phrase  # 好碼四定·整句
     - schema: hao             # 好碼三定
+    - schema: lm              # 整活：lm
     - schema: qr-code         # 整活：二维码
   switcher/save_options:
     - embeded_cands
@@ -14,10 +15,11 @@ patch:
     - full.off
     - charset.all
     - charset.freqly
+  ascii_composer/good_old_caps_lock: true
   ascii_composer/switch_key:
     Caps_Lock: clear
     Control_L: commit_code
-    Control_R: commit_text
+    Control_R: noop
     Eisu_toggle: clear
     Shift_L: noop
     Shift_R: noop

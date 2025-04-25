@@ -61,7 +61,7 @@ Ct	田
 Cu	无
 Cu	旡
 Cy	讠
-Da	{龍右}
+Da	
 Dc	齿
 Dd	⺈
 Dd	

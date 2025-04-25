@@ -3,7 +3,7 @@
 
 schema:
   schema_id: qr-code
-  name: 二维码
+  name: 整活方案：二维码
   version: "0.8"
   author:
     - 荒
@@ -41,6 +41,8 @@ speller:
 translator:
   dictionary: qr-code
   enable_user_dict: false
+  comment_format:
+    - xform/~/ /
 
 punctuator:
   import_preset: symbols
