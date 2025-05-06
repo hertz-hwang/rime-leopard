@@ -13001,7 +13001,8 @@ encoder:
 𥤩	anwx	0.000000
 鮷	anxf	0.000000
 𭸧	anxy	0.000000
-𩽉	any	0.000000
+𠕢	any	0.000000
+𩽉	anyt	0.000000
 㺛	anzc	0.000000
 鮩	anzc	0.000000
 𤝴	anzc	0.000000
@@ -14445,8 +14446,6 @@ encoder:
 㹪	aycq	0.000000
 𤞹	aycq	0.000000
 𥥚	aycx	0.000000
-𥥼	aycx	0.000000
-𥥼	aycx	0.000000
 𡇐	ayd	0.000000
 𥥑	aydi	0.000000
 𪎝	aydi	0.000000
@@ -14471,6 +14470,8 @@ encoder:
 𫭌	ayhr	0.000000
 𮫿	ayhr	0.000000
 𱮍	ayhr	0.000000
+𥥼	ayhs	0.000000
+𥥼	ayhs	0.000000
 䱸	ayht	0.000000
 獀	ayht	0.000000
 䱨	ayj	0.000000
@@ -45207,8 +45208,7 @@ encoder:
 𩑞	jnwy	0.000000
 𨙻	jnx	0.000000
 㸷	jnxn	0.000000
-𠕢	jny	0.000000
-牐	jnyj	0.000000
+牐	jny	0.000000
 𥯥	jnyj	0.000000
 栔	jnym	0.000000
 皏	jnz	0.000000
@@ -101735,6 +101735,7 @@ encoder:
 鮷	anxf
 圙	anxm
 𭸧	anxy
+𠕢	anyc
 𩽉	anyt
 帡	anzc
 㺛	anzc
@@ -103297,8 +103298,6 @@ encoder:
 㹪	aycq
 𤞹	aycq
 𥥚	aycx
-𥥼	aycx
-𥥼	aycx
 𡇐	aydi
 𥥑	aydi
 𪎝	aydi
@@ -103323,6 +103322,8 @@ encoder:
 𫭌	ayhr
 𮫿	ayhr
 𱮍	ayhr
+𥥼	ayhs
+𥥼	ayhs
 䱸	ayht
 獀	ayht
 䱨	ayjn
@@ -137265,7 +137266,6 @@ encoder:
 𩑞	jnwy
 𨙻	jnxe
 㸷	jnxn
-𠕢	jnyc
 牐	jnyj
 𥯥	jnyj
 栔	jnym

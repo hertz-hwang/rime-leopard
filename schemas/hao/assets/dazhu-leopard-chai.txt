@@ -29803,7 +29803,7 @@
 冂土⺊口,JkEtFbKk	𠕟
 ⺜戊𠃌,UrMuAe	𠕠
 冂厶口心,JkIsKkLx	𠕡
-冂八冊,JkNbYc	𠕢
+巾八,AjNbYc	𠕢
 ⺜⺈臼,UrDdYj	𠕣
 ⺜兔,UrAt	𠕤
 ⺜至刂,UrGiNd	𠕥
@@ -51333,7 +51333,7 @@
 穴丣,AxRm	𥥹
 穴戶戶,AxDhDh	𥥺
 穴一巛工,AxDiKcLg	𥥻
-穴冊,AxYc	𥥼
+穴丨,AxYcHs	𥥼
 穴一氺丶,AxDiMsOd	𥥽
 穴口⺼,AxKkFy	𥥾
 穴夕火,AxVxRh	𥥿
@@ -89726,7 +89726,7 @@
 士冖禾殳,JsGgBhRs	穀
 禾白匕旡,BhJbWbCu	穊
 禾爫心,BhIaWjLx	穏
-穴冊,AxYc	𥥼
+穴丨,AxYcHs	𥥼
 立目㇗八,XlWbEmNb	𥪧
 立十目㇗八,XlPsEmNb	𥪧
 立尸丿丿干,XlFsTpZg	竮
