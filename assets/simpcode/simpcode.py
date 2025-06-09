@@ -124,7 +124,7 @@ for i in range(len(word_codes)):
         while len(word_codes[i]) < 3:
             word_codes[i].append('')
         
-        word_codes[i][2] = f"{word_freq:.6f}"  # 设置词频，保留6位小数
+        word_codes[i][2] = f"{word_freq:.10f}"  # 设置词频，保留6位小数
 
 # 排序
 if isFreq:

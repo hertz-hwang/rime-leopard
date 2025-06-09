@@ -574,6 +574,7 @@ Yg	谷
 Yg	
 Yj	⺽
 Yj	臼
+Yj	{臼变}
 Yj	
 Ym	木
 Ym	朩

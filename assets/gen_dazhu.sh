@@ -5,7 +5,18 @@
 # 环境变量:
 #   INPUT_DIR: 输入文件目录
 #   OUTPUT_DIR: 输出文件目录
-
+#;q	：“
+#;t	→
+#;y	·
+#;o	〖
+#;p	〗
+#;h	『
+#;j	』
+#;k	￥
+#;x	【
+#;c	】
+#;n	「
+#;m	」
 # 检查必要的环境变量
 if [ -z "${INPUT_DIR}" ] || [ -z "${OUTPUT_DIR}" ]; then
     echo "错误: 需要设置 INPUT_DIR 和 OUTPUT_DIR 环境变量"
@@ -62,8 +73,8 @@ if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
         >>"${OUTPUT_DIR}/assets/dazhu-hao.txt"
 fi
 
-if [ -f "${INPUT_DIR}/dicts/leopard.dict.yaml" ]; then
-    cat "${INPUT_DIR}/dicts/leopard.dict.yaml" | \
+if [ -f "${INPUT_DIR}/dicts/llama.dict.yaml" ]; then
+    cat "${INPUT_DIR}/dicts/llama.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
@@ -72,15 +83,15 @@ if [ -f "${INPUT_DIR}/dicts/leopard.dict.yaml" ]; then
         sed 's/1/_/g' | \
         sed 's/2/;/g' | \
         sed "s/3/'/g" \
-        >"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
+        >"${OUTPUT_DIR}/assets/dazhu-llama.txt"
     
-    cat "${INPUT_DIR}/dicts/leopard.personal.dict.yaml" | \
+    cat "${INPUT_DIR}/dicts/llama.personal.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
         sed 's/\t/{TAB}/g' | \
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
         awk '{print $2 "\t" $1}' \
-        >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-llama.txt"
     
     cat "${INPUT_DIR}/hao.symbols.dict.yaml" | \
         sed 's/^\(.*\)\t\(.*\)/\1\t\2/g' | \
@@ -88,15 +99,15 @@ if [ -f "${INPUT_DIR}/dicts/leopard.dict.yaml" ]; then
         grep '.*{TAB}.*' | \
         sed 's/{TAB}/\t/g' | \
         awk '{print "/" $2 "\t" $1}' \
-        >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt"
+        >>"${OUTPUT_DIR}/assets/dazhu-llama.txt"
 
     if [ -f "${INPUT_DIR}/opencc/hao_div.txt" ]; then
         cat "${INPUT_DIR}/opencc/hao_div.txt" | \
             sed 's/\(.*\)\t\(.*\)/\2\t\1/g' \
-            >>"${OUTPUT_DIR}/assets/dazhu-leopard.txt" && \
+            >>"${OUTPUT_DIR}/assets/dazhu-llama.txt" && \
         cat "${INPUT_DIR}/opencc/hao_div.txt" | \
             sed 's/\(.*\)\t(\(.*\),.*,.*/\2\t\1/g' \
-            >"${OUTPUT_DIR}/assets/dazhu-leopard-chai.txt"
+            >"${OUTPUT_DIR}/assets/dazhu-llama-chai.txt"
     fi
 fi
 

@@ -110,9 +110,11 @@ fn generate_two_char_code(
     let first_code = get_char_code(chars[0], char_to_code)?;
     let second_code = get_char_code(chars[1], char_to_code)?;
     
-    Ok(format!("{}{}", 
-        &first_code[..2],
-        &second_code[..2]))
+    // 安全获取编码的前缀，如果长度不足则使用整个字符串并补充所需字符
+    let first_prefix = get_safe_prefix(&first_code, 2, 'a');
+    let second_prefix = get_safe_prefix(&second_code, 2, 'a');
+    
+    Ok(format!("{}{}", first_prefix, second_prefix))
 }
 
 fn generate_three_char_code(
@@ -123,10 +125,12 @@ fn generate_three_char_code(
     let second_code = get_char_code(chars[1], char_to_code)?;
     let third_code = get_char_code(chars[2], char_to_code)?;
     
-    Ok(format!("{}{}{}",
-        &first_code[..1],
-        &second_code[..1],
-        &third_code[..2]))
+    // 安全获取编码的前缀
+    let first_prefix = get_safe_prefix(&first_code, 1, 'a');
+    let second_prefix = get_safe_prefix(&second_code, 1, 'a');
+    let third_prefix = get_safe_prefix(&third_code, 2, 'a');
+    
+    Ok(format!("{}{}{}", first_prefix, second_prefix, third_prefix))
 }
 
 fn generate_four_plus_char_code(
@@ -138,11 +142,29 @@ fn generate_four_plus_char_code(
     let third_code = get_char_code(chars[2], char_to_code)?;
     let last_code = get_char_code(chars[chars.len()-1], char_to_code)?;
     
-    Ok(format!("{}{}{}{}",
-        &first_code[..1],
-        &second_code[..1],
-        &third_code[..1],
-        &last_code[..1]))
+    // 安全获取编码的前缀
+    let first_prefix = get_safe_prefix(&first_code, 1, 'a');
+    let second_prefix = get_safe_prefix(&second_code, 1, 'a');
+    let third_prefix = get_safe_prefix(&third_code, 1, 'a');
+    let last_prefix = get_safe_prefix(&last_code, 1, 'a');
+    
+    Ok(format!("{}{}{}{}", first_prefix, second_prefix, third_prefix, last_prefix))
+}
+
+// 安全获取字符串前缀，如果长度不足则补充字符
+fn get_safe_prefix(s: &str, len: usize, fill_char: char) -> String {
+    let s_len = s.chars().count();
+    if s_len >= len {
+        // 如果字符串长度足够，返回前len个字符
+        return s.chars().take(len).collect();
+    } else {
+        // 如果字符串长度不足，返回整个字符串并补充到len长度
+        let mut result = s.to_string();
+        for _ in 0..(len - s_len) {
+            result.push(fill_char);
+        }
+        return result;
+    }
 }
 
 fn get_char_code(c: char, char_to_code: &HashMap<char, String>) -> Result<String> {

@@ -123,6 +123,6 @@ end)
 local total = 0
 for _, v in ipairs(char_list) do
     total = total + freq_set[v]
-    print(string.format("%s\t%.8f", v, freq_set[v]))
+    print(string.format("%s\t%.10f", v, freq_set[v]))
 end
 comment(string.format("total freq: %.8f", total))
